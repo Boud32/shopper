@@ -1,0 +1,342 @@
+[
+  {
+    "id": "prod_keyboards_019",
+    "category": "Mechanical Keyboards",
+    "title": "Lofree Flow",
+    "base_price": 159.0,
+    "rating": 4.3,
+    "review_count": 1547,
+    "attributes": {
+      "switch_type": "Brown (Tactile)",
+      "layout": "Full-size",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Low Profile",
+      "Smooth"
+    ]
+  },
+  {
+    "id": "prod_keyboards_018",
+    "category": "Mechanical Keyboards",
+    "title": "MelGeek Mojo84",
+    "base_price": 199.0,
+    "rating": 4.5,
+    "review_count": 387,
+    "attributes": {
+      "switch_type": "Brown (Tactile)",
+      "layout": "75%",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "See-through",
+      "Gasket"
+    ]
+  },
+  {
+    "id": "prod_keyboards_016",
+    "category": "Mechanical Keyboards",
+    "title": "Das Keyboard 4 Pro",
+    "base_price": 169.0,
+    "rating": 4.4,
+    "review_count": 3411,
+    "attributes": {
+      "switch_type": "Brown (Tactile)",
+      "layout": "Full-size",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Work",
+      "Volume Knob"
+    ]
+  },
+  {
+    "id": "prod_keyboards_001",
+    "category": "Mechanical Keyboards",
+    "title": "Keychron Q1 Pro",
+    "base_price": 199.0,
+    "rating": 4.8,
+    "review_count": 4012,
+    "attributes": {
+      "switch_type": "Magnetic",
+      "layout": "60%",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Custom",
+      "Aluminum"
+    ]
+  },
+  {
+    "id": "prod_keyboards_013",
+    "category": "Mechanical Keyboards",
+    "title": "Epomaker TH80 Pro",
+    "base_price": 99.0,
+    "rating": 4.7,
+    "review_count": 4787,
+    "attributes": {
+      "switch_type": "Red (Linear)",
+      "layout": "Full-size",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "75%",
+      "Volume Knob"
+    ]
+  },
+  {
+    "id": "prod_keyboards_004",
+    "category": "Mechanical Keyboards",
+    "title": "Logitech G915 Lightspeed",
+    "base_price": 249.99,
+    "rating": 4.7,
+    "review_count": 996,
+    "attributes": {
+      "switch_type": "Red (Linear)",
+      "layout": "75%",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Gaming",
+      "Wireless"
+    ]
+  },
+  {
+    "id": "prod_keyboards_005",
+    "category": "Mechanical Keyboards",
+    "title": "Razer BlackWidow V4",
+    "base_price": 169.99,
+    "rating": 3.8,
+    "review_count": 4165,
+    "attributes": {
+      "switch_type": "Brown (Tactile)",
+      "layout": "60%",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Gaming",
+      "RGB"
+    ]
+  },
+  {
+    "id": "prod_keyboards_007",
+    "category": "Mechanical Keyboards",
+    "title": "SteelSeries Apex Pro",
+    "base_price": 199.99,
+    "rating": 3.6,
+    "review_count": 3360,
+    "attributes": {
+      "switch_type": "Blue (Clicky)",
+      "layout": "75%",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "OLED",
+      "Adjustable"
+    ]
+  },
+  {
+    "id": "prod_keyboards_015",
+    "category": "Mechanical Keyboards",
+    "title": "Ducky One 3 Mini",
+    "base_price": 119.0,
+    "rating": 3.5,
+    "review_count": 1737,
+    "attributes": {
+      "switch_type": "Red (Linear)",
+      "layout": "TKL",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Typing",
+      "Acoustics"
+    ]
+  },
+  {
+    "id": "prod_keyboards_014",
+    "category": "Mechanical Keyboards",
+    "title": "Royal Kludge RK61",
+    "base_price": 49.99,
+    "rating": 4.5,
+    "review_count": 977,
+    "attributes": {
+      "switch_type": "Brown (Tactile)",
+      "layout": "65%",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Entry Level",
+      "60%"
+    ]
+  },
+  {
+    "id": "prod_keyboards_012",
+    "category": "Mechanical Keyboards",
+    "title": "Akko 3068B Plus",
+    "base_price": 89.99,
+    "rating": 4.6,
+    "review_count": 1377,
+    "attributes": {
+      "switch_type": "Red (Linear)",
+      "layout": "Full-size",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Budget",
+      "Wireless"
+    ]
+  },
+  {
+    "id": "prod_keyboards_006",
+    "category": "Mechanical Keyboards",
+    "title": "Corsair K70 MAX",
+    "base_price": 229.99,
+    "rating": 4.4,
+    "review_count": 482,
+    "attributes": {
+      "switch_type": "Magnetic",
+      "layout": "Full-size",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Magnetic",
+      "Rapid Trigger"
+    ]
+  },
+  {
+    "id": "prod_keyboards_020",
+    "category": "Mechanical Keyboards",
+    "title": "Anne Pro 2",
+    "base_price": 89.0,
+    "rating": 4.1,
+    "review_count": 3569,
+    "attributes": {
+      "switch_type": "Blue (Clicky)",
+      "layout": "Full-size",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "60%",
+      "Software"
+    ]
+  },
+  {
+    "id": "prod_keyboards_011",
+    "category": "Mechanical Keyboards",
+    "title": "Drop CTRL",
+    "base_price": 200.0,
+    "rating": 3.5,
+    "review_count": 2228,
+    "attributes": {
+      "switch_type": "Blue (Clicky)",
+      "layout": "60%",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Hot-Swap",
+      "RGB"
+    ]
+  },
+  {
+    "id": "prod_keyboards_009",
+    "category": "Mechanical Keyboards",
+    "title": "Glorious GMMK Pro",
+    "base_price": 169.99,
+    "rating": 4.0,
+    "review_count": 564,
+    "attributes": {
+      "switch_type": "Blue (Clicky)",
+      "layout": "75%",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Barebones",
+      "75%"
+    ]
+  },
+  {
+    "id": "prod_keyboards_002",
+    "category": "Mechanical Keyboards",
+    "title": "Keychron V1",
+    "base_price": 84.0,
+    "rating": 3.8,
+    "review_count": 817,
+    "attributes": {
+      "switch_type": "Brown (Tactile)",
+      "layout": "65%",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Value",
+      "Knob"
+    ]
+  },
+  {
+    "id": "prod_keyboards_008",
+    "category": "Mechanical Keyboards",
+    "title": "Wooting 60HE",
+    "base_price": 174.99,
+    "rating": 3.9,
+    "review_count": 2470,
+    "attributes": {
+      "switch_type": "Red (Linear)",
+      "layout": "75%",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Esports",
+      "Analog"
+    ]
+  },
+  {
+    "id": "prod_keyboards_003",
+    "category": "Mechanical Keyboards",
+    "title": "NuPhy Air75 V2",
+    "base_price": 119.95,
+    "rating": 4.5,
+    "review_count": 4722,
+    "attributes": {
+      "switch_type": "Blue (Clicky)",
+      "layout": "65%",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Low Profile",
+      "Mac"
+    ]
+  },
+  {
+    "id": "prod_keyboards_010",
+    "category": "Mechanical Keyboards",
+    "title": "HHKB Professional Hybrid",
+    "base_price": 307.0,
+    "rating": 3.9,
+    "review_count": 2938,
+    "attributes": {
+      "switch_type": "Blue (Clicky)",
+      "layout": "60%",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Topre",
+      "Compact"
+    ]
+  },
+  {
+    "id": "prod_keyboards_017",
+    "category": "Mechanical Keyboards",
+    "title": "IQUNIX F97",
+    "base_price": 229.0,
+    "rating": 4.8,
+    "review_count": 2435,
+    "attributes": {
+      "switch_type": "Brown (Tactile)",
+      "layout": "60%",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "96%",
+      "Design"
+    ]
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "id": "prod_smartwatches_004",
+    "category": "Smartwatches",
+    "title": "Google Pixel Watch 2",
+    "base_price": 349.99,
+    "rating": 4.9,
+    "review_count": 362,
+    "attributes": {
+      "battery_life": "53 hours",
+      "water_resistance": "IP68",
+      "sensors": "HR, SpO2, ECG"
+    },
+    "tags": [
+      "Fitbit",
+      "Sleek"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_015",
+    "category": "Smartwatches",
+    "title": "Coros Pace 3",
+    "base_price": 229.0,
+    "rating": 3.7,
+    "review_count": 1988,
+    "attributes": {
+      "battery_life": "26 days",
+      "water_resistance": "IP68",
+      "sensors": "HR, SpO2, ECG, Temp"
+    },
+    "tags": [
+      "Lightweight",
+      "Running"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_001",
+    "category": "Smartwatches",
+    "title": "Apple Watch Series 9",
+    "base_price": 399.0,
+    "rating": 4.0,
+    "review_count": 1197,
+    "attributes": {
+      "battery_life": "27 hours",
+      "water_resistance": "10ATM",
+      "sensors": "HR, SpO2, ECG, Temp"
+    },
+    "tags": [
+      "iOS",
+      "Health"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_008",
+    "category": "Smartwatches",
+    "title": "Fitbit Charge 6",
+    "base_price": 159.95,
+    "rating": 3.9,
+    "review_count": 4522,
+    "attributes": {
+      "battery_life": "21 hours",
+      "water_resistance": "10ATM",
+      "sensors": "HR, SpO2, ECG"
+    },
+    "tags": [
+      "Tracker",
+      "Lightweight"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_020",
+    "category": "Smartwatches",
+    "title": "Casio G-Shock Move",
+    "base_price": 299.0,
+    "rating": 3.8,
+    "review_count": 2398,
+    "attributes": {
+      "battery_life": "69 hours",
+      "water_resistance": "5ATM",
+      "sensors": "HR, SpO2, ECG, Temp"
+    },
+    "tags": [
+      "Tough",
+      "Solar"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_003",
+    "category": "Smartwatches",
+    "title": "Samsung Galaxy Watch 6",
+    "base_price": 299.99,
+    "rating": 4.9,
+    "review_count": 2078,
+    "attributes": {
+      "battery_life": "46 hours",
+      "water_resistance": "IP68",
+      "sensors": "HR, SpO2, ECG, Temp"
+    },
+    "tags": [
+      "Android",
+      "Sleep"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_007",
+    "category": "Smartwatches",
+    "title": "Garmin Venu 3",
+    "base_price": 449.99,
+    "rating": 4.7,
+    "review_count": 352,
+    "attributes": {
+      "battery_life": "25 hours",
+      "water_resistance": "10ATM",
+      "sensors": "HR, SpO2"
+    },
+    "tags": [
+      "Lifestyle",
+      "Voice"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_014",
+    "category": "Smartwatches",
+    "title": "Polar Vantage V3",
+    "base_price": 599.95,
+    "rating": 3.9,
+    "review_count": 1103,
+    "attributes": {
+      "battery_life": "63 hours",
+      "water_resistance": "5ATM",
+      "sensors": "HR, SpO2, ECG"
+    },
+    "tags": [
+      "Heart Rate",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_019",
+    "category": "Smartwatches",
+    "title": "CMF Watch Pro",
+    "base_price": 69.0,
+    "rating": 3.8,
+    "review_count": 4921,
+    "attributes": {
+      "battery_life": "25 hours",
+      "water_resistance": "IP68",
+      "sensors": "HR, SpO2, ECG, Temp"
+    },
+    "tags": [
+      "Budget",
+      "Design"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_018",
+    "category": "Smartwatches",
+    "title": "OnePlus Watch 2",
+    "base_price": 299.99,
+    "rating": 3.9,
+    "review_count": 3039,
+    "attributes": {
+      "battery_life": "26 hours",
+      "water_resistance": "10ATM",
+      "sensors": "HR, SpO2"
+    },
+    "tags": [
+      "WearOS",
+      "Battery"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_002",
+    "category": "Smartwatches",
+    "title": "Apple Watch Ultra 2",
+    "base_price": 799.0,
+    "rating": 4.2,
+    "review_count": 3513,
+    "attributes": {
+      "battery_life": "29 days",
+      "water_resistance": "5ATM",
+      "sensors": "HR, SpO2"
+    },
+    "tags": [
+      "Rugged",
+      "Dive"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_013",
+    "category": "Smartwatches",
+    "title": "Suunto Race",
+    "base_price": 449.0,
+    "rating": 4.0,
+    "review_count": 2602,
+    "attributes": {
+      "battery_life": "30 hours",
+      "water_resistance": "10ATM",
+      "sensors": "HR, SpO2, ECG"
+    },
+    "tags": [
+      "Maps",
+      "Adventure"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_017",
+    "category": "Smartwatches",
+    "title": "Huawei Watch GT 4",
+    "base_price": 249.0,
+    "rating": 3.6,
+    "review_count": 2676,
+    "attributes": {
+      "battery_life": "61 hours",
+      "water_resistance": "10ATM",
+      "sensors": "HR, SpO2, ECG, Temp"
+    },
+    "tags": [
+      "Design",
+      "Ecosystem"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_011",
+    "category": "Smartwatches",
+    "title": "Xiaomi Smart Band 8",
+    "base_price": 49.99,
+    "rating": 4.0,
+    "review_count": 810,
+    "attributes": {
+      "battery_life": "54 hours",
+      "water_resistance": "5ATM",
+      "sensors": "HR, SpO2, ECG, Temp"
+    },
+    "tags": [
+      "Budget",
+      "Basic"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_016",
+    "category": "Smartwatches",
+    "title": "Mobvoi TicWatch Pro 5",
+    "base_price": 349.99,
+    "rating": 3.7,
+    "review_count": 68,
+    "attributes": {
+      "battery_life": "43 hours",
+      "water_resistance": "10ATM",
+      "sensors": "HR, SpO2"
+    },
+    "tags": [
+      "WearOS",
+      "Dual Display"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_012",
+    "category": "Smartwatches",
+    "title": "Withings ScanWatch 2",
+    "base_price": 349.95,
+    "rating": 4.9,
+    "review_count": 91,
+    "attributes": {
+      "battery_life": "38 hours",
+      "water_resistance": "5ATM",
+      "sensors": "HR, SpO2"
+    },
+    "tags": [
+      "Hybrid",
+      "Classic"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_009",
+    "category": "Smartwatches",
+    "title": "Fitbit Sense 2",
+    "base_price": 249.95,
+    "rating": 4.3,
+    "review_count": 3573,
+    "attributes": {
+      "battery_life": "50 hours",
+      "water_resistance": "IP68",
+      "sensors": "HR, SpO2, ECG, Temp"
+    },
+    "tags": [
+      "Stress",
+      "ECG"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_005",
+    "category": "Smartwatches",
+    "title": "Garmin Fenix 7 Pro",
+    "base_price": 799.99,
+    "rating": 4.1,
+    "review_count": 1880,
+    "attributes": {
+      "battery_life": "32 hours",
+      "water_resistance": "10ATM",
+      "sensors": "HR, SpO2, ECG"
+    },
+    "tags": [
+      "Multisport",
+      "Solar"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_006",
+    "category": "Smartwatches",
+    "title": "Garmin Forerunner 965",
+    "base_price": 599.99,
+    "rating": 4.2,
+    "review_count": 360,
+    "attributes": {
+      "battery_life": "46 hours",
+      "water_resistance": "10ATM",
+      "sensors": "HR, SpO2"
+    },
+    "tags": [
+      "Running",
+      "AMOLED"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_010",
+    "category": "Smartwatches",
+    "title": "Amazfit GTR 4",
+    "base_price": 199.99,
+    "rating": 4.9,
+    "review_count": 60,
+    "attributes": {
+      "battery_life": "50 hours",
+      "water_resistance": "10ATM",
+      "sensors": "HR, SpO2"
+    },
+    "tags": [
+      "Value",
+      "Battery"
+    ]
+  }
+]

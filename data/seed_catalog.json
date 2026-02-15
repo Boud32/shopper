@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "prod_headphones_001",
+    "category": "Wireless Headphones",
+    "title": "Sony WH-1000XM5",
+    "base_price": 348.0,
+    "rating": 4.1,
+    "review_count": 2387,
+    "attributes": {
+      "battery_life": "39 hours",
+      "weight": "233g",
+      "connection": "Bluetooth 5.2"
+    },
+    "tags": [
+      "Noise Cancelling",
+      "Top Rated"
+    ]
+  },
+  {
+    "id": "prod_headphones_002",
+    "category": "Wireless Headphones",
+    "title": "Bose QuietComfort 45",
+    "base_price": 329.0,
+    "rating": 4.7,
+    "review_count": 94,
+    "attributes": {
+      "battery_life": "40 hours",
+      "weight": "288g",
+      "connection": "Bluetooth 5.2"
+    },
+    "tags": [
+      "Comfort",
+      "Traveling"
+    ]
+  },
+  {
+    "id": "prod_headphones_003",
+    "category": "Wireless Headphones",
+    "title": "Apple AirPods Max",
+    "base_price": 549.0,
+    "rating": 4.2,
+    "review_count": 3813,
+    "attributes": {
+      "battery_life": "54 hours",
+      "weight": "306g",
+      "connection": "Bluetooth 5.4"
+    },
+    "tags": [
+      "Premium",
+      "Apple"
+    ]
+  },
+  {
+    "id": "prod_headphones_004",
+    "category": "Wireless Headphones",
+    "title": "Sennheiser Momentum 4",
+    "base_price": 349.95,
+    "rating": 3.6,
+    "review_count": 2582,
+    "attributes": {
+      "battery_life": "22 hours",
+      "weight": "326g",
+      "connection": "Bluetooth 5.4"
+    },
+    "tags": [
+      "Audiophile",
+      "Battery Life"
+    ]
+  },
+  {
+    "id": "prod_headphones_005",
+    "category": "Wireless Headphones",
+    "title": "Anker Soundcore Space Q45",
+    "base_price": 149.99,
+    "rating": 4.0,
+    "review_count": 534,
+    "attributes": {
+      "battery_life": "28 hours",
+      "weight": "278g",
+      "connection": "Bluetooth 5.3"
+    },
+    "tags": [
+      "Budget",
+      "Value"
+    ]
+  },
+  {
+    "id": "prod_headphones_006",
+    "category": "Wireless Headphones",
+    "title": "Sony WF-1000XM5",
+    "base_price": 299.99,
+    "rating": 4.1,
+    "review_count": 588,
+    "attributes": {
+      "battery_life": "49 hours",
+      "weight": "262g",
+      "connection": "Bluetooth 5.4"
+    },
+    "tags": [
+      "Earbuds",
+      "Compact"
+    ]
+  },
+  {
+    "id": "prod_headphones_007",
+    "category": "Wireless Headphones",
+    "title": "Bose QC Earbuds II",
+    "base_price": 279.0,
+    "rating": 5.0,
+    "review_count": 3339,
+    "attributes": {
+      "battery_life": "55 hours",
+      "weight": "263g",
+      "connection": "Bluetooth 5.4"
+    },
+    "tags": [
+      "Earbuds",
+      "ANC"
+    ]
+  },
+  {
+    "id": "prod_headphones_008",
+    "category": "Wireless Headphones",
+    "title": "Apple AirPods Pro 2",
+    "base_price": 249.0,
+    "rating": 3.9,
+    "review_count": 2721,
+    "attributes": {
+      "battery_life": "34 hours",
+      "weight": "348g",
+      "connection": "Bluetooth 5.4"
+    },
+    "tags": [
+      "ios",
+      "transparency"
+    ]
+  },
+  {
+    "id": "prod_headphones_009",
+    "category": "Wireless Headphones",
+    "title": "Google Pixel Buds Pro",
+    "base_price": 199.99,
+    "rating": 4.6,
+    "review_count": 2179,
+    "attributes": {
+      "battery_life": "27 hours",
+      "weight": "282g",
+      "connection": "Bluetooth 5.4"
+    },
+    "tags": [
+      "Android",
+      "Assistant"
+    ]
+  },
+  {
+    "id": "prod_headphones_010",
+    "category": "Wireless Headphones",
+    "title": "Samsung Galaxy Buds2 Pro",
+    "base_price": 229.99,
+    "rating": 3.8,
+    "review_count": 1169,
+    "attributes": {
+      "battery_life": "38 hours",
+      "weight": "288g",
+      "connection": "Bluetooth 5.3"
+    },
+    "tags": [
+      "Samsung",
+      "360 Audio"
+    ]
+  },
+  {
+    "id": "prod_headphones_011",
+    "category": "Wireless Headphones",
+    "title": "Bowers & Wilkins Px7 S2",
+    "base_price": 399.0,
+    "rating": 4.0,
+    "review_count": 755,
+    "attributes": {
+      "battery_life": "48 hours",
+      "weight": "261g",
+      "connection": "Bluetooth 5.4"
+    },
+    "tags": [
+      "Luxury",
+      "Design"
+    ]
+  },
+  {
+    "id": "prod_headphones_012",
+    "category": "Wireless Headphones",
+    "title": "Bang & Olufsen Beoplay HX",
+    "base_price": 499.0,
+    "rating": 3.9,
+    "review_count": 1197,
+    "attributes": {
+      "battery_life": "46 hours",
+      "weight": "254g",
+      "connection": "Bluetooth 5.2"
+    },
+    "tags": [
+      "Luxury",
+      "Premium Materials"
+    ]
+  },
+  {
+    "id": "prod_headphones_013",
+    "category": "Wireless Headphones",
+    "title": "Master & Dynamic MW75",
+    "base_price": 599.0,
+    "rating": 4.7,
+    "review_count": 3356,
+    "attributes": {
+      "battery_life": "39 hours",
+      "weight": "342g",
+      "connection": "Bluetooth 5.2"
+    },
+    "tags": [
+      "High-End",
+      "Build Quality"
+    ]
+  },
+  {
+    "id": "prod_headphones_014",
+    "category": "Wireless Headphones",
+    "title": "Jabra Elite 85h",
+    "base_price": 249.99,
+    "rating": 4.9,
+    "review_count": 1763,
+    "attributes": {
+      "battery_life": "60 hours",
+      "weight": "346g",
+      "connection": "Bluetooth 5.3"
+    },
+    "tags": [
+      "Durable",
+      "Calls"
+    ]
+  },
+  {
+    "id": "prod_headphones_015",
+    "category": "Wireless Headphones",
+    "title": "Audio-Technica ATH-M50xBT2",
+    "base_price": 199.0,
+    "rating": 4.7,
+    "review_count": 3837,
+    "attributes": {
+      "battery_life": "56 hours",
+      "weight": "241g",
+      "connection": "Bluetooth 5.4"
+    },
+    "tags": [
+      "Studio",
+      "Flat Response"
+    ]
+  },
+  {
+    "id": "prod_headphones_016",
+    "category": "Wireless Headphones",
+    "title": "Beats Studio Pro",
+    "base_price": 349.99,
+    "rating": 3.6,
+    "review_count": 1820,
+    "attributes": {
+      "battery_life": "20 hours",
+      "weight": "220g",
+      "connection": "Bluetooth 5.4"
+    },
+    "tags": [
+      "Bass",
+      "Fashion"
+    ]
+  },
+  {
+    "id": "prod_headphones_017",
+    "category": "Wireless Headphones",
+    "title": "Shure AONIC 50 Gen 2",
+    "base_price": 349.0,
+    "rating": 3.8,
+    "review_count": 3722,
+    "attributes": {
+      "battery_life": "29 hours",
+      "weight": "200g",
+      "connection": "Bluetooth 5.2"
+    },
+    "tags": [
+      "Pro Audio",
+      "Wired/Wireless"
+    ]
+  },
+  {
+    "id": "prod_headphones_018",
+    "category": "Wireless Headphones",
+    "title": "Focal Bathys",
+    "base_price": 799.0,
+    "rating": 4.4,
+    "review_count": 1222,
+    "attributes": {
+      "battery_life": "20 hours",
+      "weight": "240g",
+      "connection": "Bluetooth 5.2"
+    },
+    "tags": [
+      "Hi-Fi",
+      "DAC Mode"
+    ]
+  },
+  {
+    "id": "prod_headphones_019",
+    "category": "Wireless Headphones",
+    "title": "1More SonoFlow",
+    "base_price": 79.99,
+    "rating": 3.6,
+    "review_count": 1163,
+    "attributes": {
+      "battery_life": "50 hours",
+      "weight": "267g",
+      "connection": "Bluetooth 5.4"
+    },
+    "tags": [
+      "Budget",
+      "LDAC"
+    ]
+  },
+  {
+    "id": "prod_headphones_020",
+    "category": "Wireless Headphones",
+    "title": "Edifier W820NB Plus",
+    "base_price": 59.99,
+    "rating": 4.0,
+    "review_count": 1622,
+    "attributes": {
+      "battery_life": "58 hours",
+      "weight": "255g",
+      "connection": "Bluetooth 5.4"
+    },
+    "tags": [
+      "Budget",
+      "Wired"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_001",
+    "category": "Smartwatches",
+    "title": "Apple Watch Series 9",
+    "base_price": 399.0,
+    "rating": 4.0,
+    "review_count": 1197,
+    "attributes": {
+      "battery_life": "27 hours",
+      "water_resistance": "10ATM",
+      "sensors": "HR, SpO2, ECG, Temp"
+    },
+    "tags": [
+      "iOS",
+      "Health"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_002",
+    "category": "Smartwatches",
+    "title": "Apple Watch Ultra 2",
+    "base_price": 799.0,
+    "rating": 4.2,
+    "review_count": 3513,
+    "attributes": {
+      "battery_life": "29 days",
+      "water_resistance": "5ATM",
+      "sensors": "HR, SpO2"
+    },
+    "tags": [
+      "Rugged",
+      "Dive"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_003",
+    "category": "Smartwatches",
+    "title": "Samsung Galaxy Watch 6",
+    "base_price": 299.99,
+    "rating": 4.9,
+    "review_count": 2078,
+    "attributes": {
+      "battery_life": "46 hours",
+      "water_resistance": "IP68",
+      "sensors": "HR, SpO2, ECG, Temp"
+    },
+    "tags": [
+      "Android",
+      "Sleep"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_004",
+    "category": "Smartwatches",
+    "title": "Google Pixel Watch 2",
+    "base_price": 349.99,
+    "rating": 4.9,
+    "review_count": 362,
+    "attributes": {
+      "battery_life": "53 hours",
+      "water_resistance": "IP68",
+      "sensors": "HR, SpO2, ECG"
+    },
+    "tags": [
+      "Fitbit",
+      "Sleek"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_005",
+    "category": "Smartwatches",
+    "title": "Garmin Fenix 7 Pro",
+    "base_price": 799.99,
+    "rating": 4.1,
+    "review_count": 1880,
+    "attributes": {
+      "battery_life": "32 hours",
+      "water_resistance": "10ATM",
+      "sensors": "HR, SpO2, ECG"
+    },
+    "tags": [
+      "Multisport",
+      "Solar"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_006",
+    "category": "Smartwatches",
+    "title": "Garmin Forerunner 965",
+    "base_price": 599.99,
+    "rating": 4.2,
+    "review_count": 360,
+    "attributes": {
+      "battery_life": "46 hours",
+      "water_resistance": "10ATM",
+      "sensors": "HR, SpO2"
+    },
+    "tags": [
+      "Running",
+      "AMOLED"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_007",
+    "category": "Smartwatches",
+    "title": "Garmin Venu 3",
+    "base_price": 449.99,
+    "rating": 4.7,
+    "review_count": 352,
+    "attributes": {
+      "battery_life": "25 hours",
+      "water_resistance": "10ATM",
+      "sensors": "HR, SpO2"
+    },
+    "tags": [
+      "Lifestyle",
+      "Voice"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_008",
+    "category": "Smartwatches",
+    "title": "Fitbit Charge 6",
+    "base_price": 159.95,
+    "rating": 3.9,
+    "review_count": 4522,
+    "attributes": {
+      "battery_life": "21 hours",
+      "water_resistance": "10ATM",
+      "sensors": "HR, SpO2, ECG"
+    },
+    "tags": [
+      "Tracker",
+      "Lightweight"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_009",
+    "category": "Smartwatches",
+    "title": "Fitbit Sense 2",
+    "base_price": 249.95,
+    "rating": 4.3,
+    "review_count": 3573,
+    "attributes": {
+      "battery_life": "50 hours",
+      "water_resistance": "IP68",
+      "sensors": "HR, SpO2, ECG, Temp"
+    },
+    "tags": [
+      "Stress",
+      "ECG"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_010",
+    "category": "Smartwatches",
+    "title": "Amazfit GTR 4",
+    "base_price": 199.99,
+    "rating": 4.9,
+    "review_count": 60,
+    "attributes": {
+      "battery_life": "50 hours",
+      "water_resistance": "10ATM",
+      "sensors": "HR, SpO2"
+    },
+    "tags": [
+      "Value",
+      "Battery"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_011",
+    "category": "Smartwatches",
+    "title": "Xiaomi Smart Band 8",
+    "base_price": 49.99,
+    "rating": 4.0,
+    "review_count": 810,
+    "attributes": {
+      "battery_life": "54 hours",
+      "water_resistance": "5ATM",
+      "sensors": "HR, SpO2, ECG, Temp"
+    },
+    "tags": [
+      "Budget",
+      "Basic"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_012",
+    "category": "Smartwatches",
+    "title": "Withings ScanWatch 2",
+    "base_price": 349.95,
+    "rating": 4.9,
+    "review_count": 91,
+    "attributes": {
+      "battery_life": "38 hours",
+      "water_resistance": "5ATM",
+      "sensors": "HR, SpO2"
+    },
+    "tags": [
+      "Hybrid",
+      "Classic"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_013",
+    "category": "Smartwatches",
+    "title": "Suunto Race",
+    "base_price": 449.0,
+    "rating": 4.0,
+    "review_count": 2602,
+    "attributes": {
+      "battery_life": "30 hours",
+      "water_resistance": "10ATM",
+      "sensors": "HR, SpO2, ECG"
+    },
+    "tags": [
+      "Maps",
+      "Adventure"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_014",
+    "category": "Smartwatches",
+    "title": "Polar Vantage V3",
+    "base_price": 599.95,
+    "rating": 3.9,
+    "review_count": 1103,
+    "attributes": {
+      "battery_life": "63 hours",
+      "water_resistance": "5ATM",
+      "sensors": "HR, SpO2, ECG"
+    },
+    "tags": [
+      "Heart Rate",
+      "Recovery"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_015",
+    "category": "Smartwatches",
+    "title": "Coros Pace 3",
+    "base_price": 229.0,
+    "rating": 3.7,
+    "review_count": 1988,
+    "attributes": {
+      "battery_life": "26 days",
+      "water_resistance": "IP68",
+      "sensors": "HR, SpO2, ECG, Temp"
+    },
+    "tags": [
+      "Lightweight",
+      "Running"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_016",
+    "category": "Smartwatches",
+    "title": "Mobvoi TicWatch Pro 5",
+    "base_price": 349.99,
+    "rating": 3.7,
+    "review_count": 68,
+    "attributes": {
+      "battery_life": "43 hours",
+      "water_resistance": "10ATM",
+      "sensors": "HR, SpO2"
+    },
+    "tags": [
+      "WearOS",
+      "Dual Display"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_017",
+    "category": "Smartwatches",
+    "title": "Huawei Watch GT 4",
+    "base_price": 249.0,
+    "rating": 3.6,
+    "review_count": 2676,
+    "attributes": {
+      "battery_life": "61 hours",
+      "water_resistance": "10ATM",
+      "sensors": "HR, SpO2, ECG, Temp"
+    },
+    "tags": [
+      "Design",
+      "Ecosystem"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_018",
+    "category": "Smartwatches",
+    "title": "OnePlus Watch 2",
+    "base_price": 299.99,
+    "rating": 3.9,
+    "review_count": 3039,
+    "attributes": {
+      "battery_life": "26 hours",
+      "water_resistance": "10ATM",
+      "sensors": "HR, SpO2"
+    },
+    "tags": [
+      "WearOS",
+      "Battery"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_019",
+    "category": "Smartwatches",
+    "title": "CMF Watch Pro",
+    "base_price": 69.0,
+    "rating": 3.8,
+    "review_count": 4921,
+    "attributes": {
+      "battery_life": "25 hours",
+      "water_resistance": "IP68",
+      "sensors": "HR, SpO2, ECG, Temp"
+    },
+    "tags": [
+      "Budget",
+      "Design"
+    ]
+  },
+  {
+    "id": "prod_smartwatches_020",
+    "category": "Smartwatches",
+    "title": "Casio G-Shock Move",
+    "base_price": 299.0,
+    "rating": 3.8,
+    "review_count": 2398,
+    "attributes": {
+      "battery_life": "69 hours",
+      "water_resistance": "5ATM",
+      "sensors": "HR, SpO2, ECG, Temp"
+    },
+    "tags": [
+      "Tough",
+      "Solar"
+    ]
+  },
+  {
+    "id": "prod_keyboards_001",
+    "category": "Mechanical Keyboards",
+    "title": "Keychron Q1 Pro",
+    "base_price": 199.0,
+    "rating": 4.8,
+    "review_count": 4012,
+    "attributes": {
+      "switch_type": "Magnetic",
+      "layout": "60%",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Custom",
+      "Aluminum"
+    ]
+  },
+  {
+    "id": "prod_keyboards_002",
+    "category": "Mechanical Keyboards",
+    "title": "Keychron V1",
+    "base_price": 84.0,
+    "rating": 3.8,
+    "review_count": 817,
+    "attributes": {
+      "switch_type": "Brown (Tactile)",
+      "layout": "65%",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Value",
+      "Knob"
+    ]
+  },
+  {
+    "id": "prod_keyboards_003",
+    "category": "Mechanical Keyboards",
+    "title": "NuPhy Air75 V2",
+    "base_price": 119.95,
+    "rating": 4.5,
+    "review_count": 4722,
+    "attributes": {
+      "switch_type": "Blue (Clicky)",
+      "layout": "65%",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Low Profile",
+      "Mac"
+    ]
+  },
+  {
+    "id": "prod_keyboards_004",
+    "category": "Mechanical Keyboards",
+    "title": "Logitech G915 Lightspeed",
+    "base_price": 249.99,
+    "rating": 4.7,
+    "review_count": 996,
+    "attributes": {
+      "switch_type": "Red (Linear)",
+      "layout": "75%",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Gaming",
+      "Wireless"
+    ]
+  },
+  {
+    "id": "prod_keyboards_005",
+    "category": "Mechanical Keyboards",
+    "title": "Razer BlackWidow V4",
+    "base_price": 169.99,
+    "rating": 3.8,
+    "review_count": 4165,
+    "attributes": {
+      "switch_type": "Brown (Tactile)",
+      "layout": "60%",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Gaming",
+      "RGB"
+    ]
+  },
+  {
+    "id": "prod_keyboards_006",
+    "category": "Mechanical Keyboards",
+    "title": "Corsair K70 MAX",
+    "base_price": 229.99,
+    "rating": 4.4,
+    "review_count": 482,
+    "attributes": {
+      "switch_type": "Magnetic",
+      "layout": "Full-size",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Magnetic",
+      "Rapid Trigger"
+    ]
+  },
+  {
+    "id": "prod_keyboards_007",
+    "category": "Mechanical Keyboards",
+    "title": "SteelSeries Apex Pro",
+    "base_price": 199.99,
+    "rating": 3.6,
+    "review_count": 3360,
+    "attributes": {
+      "switch_type": "Blue (Clicky)",
+      "layout": "75%",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "OLED",
+      "Adjustable"
+    ]
+  },
+  {
+    "id": "prod_keyboards_008",
+    "category": "Mechanical Keyboards",
+    "title": "Wooting 60HE",
+    "base_price": 174.99,
+    "rating": 3.9,
+    "review_count": 2470,
+    "attributes": {
+      "switch_type": "Red (Linear)",
+      "layout": "75%",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Esports",
+      "Analog"
+    ]
+  },
+  {
+    "id": "prod_keyboards_009",
+    "category": "Mechanical Keyboards",
+    "title": "Glorious GMMK Pro",
+    "base_price": 169.99,
+    "rating": 4.0,
+    "review_count": 564,
+    "attributes": {
+      "switch_type": "Blue (Clicky)",
+      "layout": "75%",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Barebones",
+      "75%"
+    ]
+  },
+  {
+    "id": "prod_keyboards_010",
+    "category": "Mechanical Keyboards",
+    "title": "HHKB Professional Hybrid",
+    "base_price": 307.0,
+    "rating": 3.9,
+    "review_count": 2938,
+    "attributes": {
+      "switch_type": "Blue (Clicky)",
+      "layout": "60%",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Topre",
+      "Compact"
+    ]
+  },
+  {
+    "id": "prod_keyboards_011",
+    "category": "Mechanical Keyboards",
+    "title": "Drop CTRL",
+    "base_price": 200.0,
+    "rating": 3.5,
+    "review_count": 2228,
+    "attributes": {
+      "switch_type": "Blue (Clicky)",
+      "layout": "60%",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Hot-Swap",
+      "RGB"
+    ]
+  },
+  {
+    "id": "prod_keyboards_012",
+    "category": "Mechanical Keyboards",
+    "title": "Akko 3068B Plus",
+    "base_price": 89.99,
+    "rating": 4.6,
+    "review_count": 1377,
+    "attributes": {
+      "switch_type": "Red (Linear)",
+      "layout": "Full-size",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Budget",
+      "Wireless"
+    ]
+  },
+  {
+    "id": "prod_keyboards_013",
+    "category": "Mechanical Keyboards",
+    "title": "Epomaker TH80 Pro",
+    "base_price": 99.0,
+    "rating": 4.7,
+    "review_count": 4787,
+    "attributes": {
+      "switch_type": "Red (Linear)",
+      "layout": "Full-size",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "75%",
+      "Volume Knob"
+    ]
+  },
+  {
+    "id": "prod_keyboards_014",
+    "category": "Mechanical Keyboards",
+    "title": "Royal Kludge RK61",
+    "base_price": 49.99,
+    "rating": 4.5,
+    "review_count": 977,
+    "attributes": {
+      "switch_type": "Brown (Tactile)",
+      "layout": "65%",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Entry Level",
+      "60%"
+    ]
+  },
+  {
+    "id": "prod_keyboards_015",
+    "category": "Mechanical Keyboards",
+    "title": "Ducky One 3 Mini",
+    "base_price": 119.0,
+    "rating": 3.5,
+    "review_count": 1737,
+    "attributes": {
+      "switch_type": "Red (Linear)",
+      "layout": "TKL",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Typing",
+      "Acoustics"
+    ]
+  },
+  {
+    "id": "prod_keyboards_016",
+    "category": "Mechanical Keyboards",
+    "title": "Das Keyboard 4 Pro",
+    "base_price": 169.0,
+    "rating": 4.4,
+    "review_count": 3411,
+    "attributes": {
+      "switch_type": "Brown (Tactile)",
+      "layout": "Full-size",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Work",
+      "Volume Knob"
+    ]
+  },
+  {
+    "id": "prod_keyboards_017",
+    "category": "Mechanical Keyboards",
+    "title": "IQUNIX F97",
+    "base_price": 229.0,
+    "rating": 4.8,
+    "review_count": 2435,
+    "attributes": {
+      "switch_type": "Brown (Tactile)",
+      "layout": "60%",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "96%",
+      "Design"
+    ]
+  },
+  {
+    "id": "prod_keyboards_018",
+    "category": "Mechanical Keyboards",
+    "title": "MelGeek Mojo84",
+    "base_price": 199.0,
+    "rating": 4.5,
+    "review_count": 387,
+    "attributes": {
+      "switch_type": "Brown (Tactile)",
+      "layout": "75%",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "See-through",
+      "Gasket"
+    ]
+  },
+  {
+    "id": "prod_keyboards_019",
+    "category": "Mechanical Keyboards",
+    "title": "Lofree Flow",
+    "base_price": 159.0,
+    "rating": 4.3,
+    "review_count": 1547,
+    "attributes": {
+      "switch_type": "Brown (Tactile)",
+      "layout": "Full-size",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "Low Profile",
+      "Smooth"
+    ]
+  },
+  {
+    "id": "prod_keyboards_020",
+    "category": "Mechanical Keyboards",
+    "title": "Anne Pro 2",
+    "base_price": 89.0,
+    "rating": 4.1,
+    "review_count": 3569,
+    "attributes": {
+      "switch_type": "Blue (Clicky)",
+      "layout": "Full-size",
+      "connectivity": "Wireless/Bluetooth/2.4G"
+    },
+    "tags": [
+      "60%",
+      "Software"
+    ]
+  },
+  {
+    "id": "prod_mice_001",
+    "category": "Gaming Mice",
+    "title": "Logitech G Pro X 2",
+    "base_price": 159.0,
+    "rating": 4.8,
+    "review_count": 3933,
+    "attributes": {
+      "dpi": "27942",
+      "weight": "54g",
+      "polling_rate": "4000Hz"
+    },
+    "tags": [
+      "Esports",
+      "Lightweight"
+    ]
+  },
+  {
+    "id": "prod_mice_002",
+    "category": "Gaming Mice",
+    "title": "Razer DeathAdder V3 Pro",
+    "base_price": 149.99,
+    "rating": 4.8,
+    "review_count": 3413,
+    "attributes": {
+      "dpi": "16176",
+      "weight": "72g",
+      "polling_rate": "4000Hz"
+    },
+    "tags": [
+      "Ergo",
+      "Performance"
+    ]
+  },
+  {
+    "id": "prod_mice_003",
+    "category": "Gaming Mice",
+    "title": "Razer Viper V2 Pro",
+    "base_price": 149.99,
+    "rating": 3.6,
+    "review_count": 4412,
+    "attributes": {
+      "dpi": "18323",
+      "weight": "74g",
+      "polling_rate": "4000Hz"
+    },
+    "tags": [
+      "Ambidextrous",
+      "Speed"
+    ]
+  },
+  {
+    "id": "prod_mice_004",
+    "category": "Gaming Mice",
+    "title": "Logitech G502 X Plus",
+    "base_price": 159.99,
+    "rating": 3.9,
+    "review_count": 1169,
+    "attributes": {
+      "dpi": "23234",
+      "weight": "40g",
+      "polling_rate": "4000Hz"
+    },
+    "tags": [
+      "Features",
+      "Buttons"
+    ]
+  },
+  {
+    "id": "prod_mice_005",
+    "category": "Gaming Mice",
+    "title": "SteelSeries Aerox 3",
+    "base_price": 99.99,
+    "rating": 4.2,
+    "review_count": 2445,
+    "attributes": {
+      "dpi": "25744",
+      "weight": "58g",
+      "polling_rate": "4000Hz"
+    },
+    "tags": [
+      "Holes",
+      "RGB"
+    ]
+  },
+  {
+    "id": "prod_mice_006",
+    "category": "Gaming Mice",
+    "title": "HyperX Pulsefire Haste 2",
+    "base_price": 79.99,
+    "rating": 4.6,
+    "review_count": 4607,
+    "attributes": {
+      "dpi": "17224",
+      "weight": "89g",
+      "polling_rate": "4000Hz"
+    },
+    "tags": [
+      "Value",
+      "Light"
+    ]
+  },
+  {
+    "id": "prod_mice_007",
+    "category": "Gaming Mice",
+    "title": "Glorious Model O 2",
+    "base_price": 99.99,
+    "rating": 4.1,
+    "review_count": 4029,
+    "attributes": {
+      "dpi": "22930",
+      "weight": "82g",
+      "polling_rate": "4000Hz"
+    },
+    "tags": [
+      "RGB",
+      "Shape"
+    ]
+  },
+  {
+    "id": "prod_mice_008",
+    "category": "Gaming Mice",
+    "title": "Pulsar X2V2",
+    "base_price": 94.95,
+    "rating": 3.9,
+    "review_count": 712,
+    "attributes": {
+      "dpi": "23831",
+      "weight": "95g",
+      "polling_rate": "1000Hz"
+    },
+    "tags": [
+      "Claw Grip",
+      "Minimal"
+    ]
+  },
+  {
+    "id": "prod_mice_009",
+    "category": "Gaming Mice",
+    "title": "Lamzu Atlantis OG V2",
+    "base_price": 89.99,
+    "rating": 3.9,
+    "review_count": 2147,
+    "attributes": {
+      "dpi": "28829",
+      "weight": "66g",
+      "polling_rate": "1000Hz"
+    },
+    "tags": [
+      "Grippy",
+      "Colors"
+    ]
+  },
+  {
+    "id": "prod_mice_010",
+    "category": "Gaming Mice",
+    "title": "Ninjutso Sora 4K",
+    "base_price": 119.99,
+    "rating": 4.0,
+    "review_count": 3755,
+    "attributes": {
+      "dpi": "27919",
+      "weight": "63g",
+      "polling_rate": "1000Hz"
+    },
+    "tags": [
+      "No Holes",
+      "4K Hz"
+    ]
+  },
+  {
+    "id": "prod_mice_011",
+    "category": "Gaming Mice",
+    "title": "Finalmouse UltralightX",
+    "base_price": 189.0,
+    "rating": 4.3,
+    "review_count": 4020,
+    "attributes": {
+      "dpi": "30480",
+      "weight": "94g",
+      "polling_rate": "4000Hz"
+    },
+    "tags": [
+      "Carbon Fiber",
+      "Hype"
+    ]
+  },
+  {
+    "id": "prod_mice_012",
+    "category": "Gaming Mice",
+    "title": "Zowie EC2-CW",
+    "base_price": 149.99,
+    "rating": 3.8,
+    "review_count": 4830,
+    "attributes": {
+      "dpi": "19851",
+      "weight": "97g",
+      "polling_rate": "1000Hz"
+    },
+    "tags": [
+      "Shape King",
+      "Stable"
+    ]
+  },
+  {
+    "id": "prod_mice_013",
+    "category": "Gaming Mice",
+    "title": "Corsair Dark Core RGB",
+    "base_price": 99.99,
+    "rating": 4.6,
+    "review_count": 388,
+    "attributes": {
+      "dpi": "28134",
+      "weight": "93g",
+      "polling_rate": "8000Hz"
+    },
+    "tags": [
+      "Qi Charging",
+      "Grip"
+    ]
+  },
+  {
+    "id": "prod_mice_014",
+    "category": "Gaming Mice",
+    "title": "ASUS ROG Harpe Ace",
+    "base_price": 139.99,
+    "rating": 4.3,
+    "review_count": 3609,
+    "attributes": {
+      "dpi": "16390",
+      "weight": "69g",
+      "polling_rate": "1000Hz"
+    },
+    "tags": [
+      "Aim Lab",
+      "Light"
+    ]
+  },
+  {
+    "id": "prod_mice_015",
+    "category": "Gaming Mice",
+    "title": "Roccat Kone Pro Air",
+    "base_price": 119.99,
+    "rating": 4.5,
+    "review_count": 1863,
+    "attributes": {
+      "dpi": "18571",
+      "weight": "84g",
+      "polling_rate": "8000Hz"
+    },
+    "tags": [
+      "Optical Switch",
+      "German"
+    ]
+  },
+  {
+    "id": "prod_mice_016",
+    "category": "Gaming Mice",
+    "title": "Vaxee XE Wireless",
+    "base_price": 119.99,
+    "rating": 4.6,
+    "review_count": 2803,
+    "attributes": {
+      "dpi": "16372",
+      "weight": "49g",
+      "polling_rate": "4000Hz"
+    },
+    "tags": [
+      "Competitive",
+      "Firmware"
+    ]
+  },
+  {
+    "id": "prod_mice_017",
+    "category": "Gaming Mice",
+    "title": "Endgame Gear XM2we",
+    "base_price": 79.99,
+    "rating": 4.9,
+    "review_count": 4153,
+    "attributes": {
+      "dpi": "28590",
+      "weight": "94g",
+      "polling_rate": "4000Hz"
+    },
+    "tags": [
+      "Coatings",
+      "Claw"
+    ]
+  },
+  {
+    "id": "prod_mice_018",
+    "category": "Gaming Mice",
+    "title": "Keychron M3",
+    "base_price": 49.0,
+    "rating": 4.5,
+    "review_count": 141,
+    "attributes": {
+      "dpi": "25363",
+      "weight": "64g",
+      "polling_rate": "4000Hz"
+    },
+    "tags": [
+      "Budget",
+      "Work/Play"
+    ]
+  },
+  {
+    "id": "prod_mice_019",
+    "category": "Gaming Mice",
+    "title": "Alienware 720M",
+    "base_price": 129.99,
+    "rating": 4.5,
+    "review_count": 2097,
+    "attributes": {
+      "dpi": "26841",
+      "weight": "74g",
+      "polling_rate": "8000Hz"
+    },
+    "tags": [
+      "Design",
+      "Magnetic"
+    ]
+  },
+  {
+    "id": "prod_mice_020",
+    "category": "Gaming Mice",
+    "title": "MSI Clutch GM51",
+    "base_price": 99.99,
+    "rating": 4.7,
+    "review_count": 2987,
+    "attributes": {
+      "dpi": "21983",
+      "weight": "75g",
+      "polling_rate": "8000Hz"
+    },
+    "tags": [
+      "Ergo",
+      "Charging Dock"
+    ]
+  }
+]

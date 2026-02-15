@@ -1,0 +1,25 @@
+# API keys and secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Conda
+.conda/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large data files (Kaggle downloads, etc.)
+data/raw/
+*.csv.gz
+*.jsonl.gz

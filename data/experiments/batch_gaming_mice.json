@@ -1,0 +1,342 @@
+[
+  {
+    "id": "prod_mice_020",
+    "category": "Gaming Mice",
+    "title": "MSI Clutch GM51",
+    "base_price": 99.99,
+    "rating": 4.7,
+    "review_count": 2987,
+    "attributes": {
+      "dpi": "21983",
+      "weight": "75g",
+      "polling_rate": "8000Hz"
+    },
+    "tags": [
+      "Ergo",
+      "Charging Dock"
+    ]
+  },
+  {
+    "id": "prod_mice_016",
+    "category": "Gaming Mice",
+    "title": "Vaxee XE Wireless",
+    "base_price": 119.99,
+    "rating": 4.6,
+    "review_count": 2803,
+    "attributes": {
+      "dpi": "16372",
+      "weight": "49g",
+      "polling_rate": "4000Hz"
+    },
+    "tags": [
+      "Competitive",
+      "Firmware"
+    ]
+  },
+  {
+    "id": "prod_mice_018",
+    "category": "Gaming Mice",
+    "title": "Keychron M3",
+    "base_price": 49.0,
+    "rating": 4.5,
+    "review_count": 141,
+    "attributes": {
+      "dpi": "25363",
+      "weight": "64g",
+      "polling_rate": "4000Hz"
+    },
+    "tags": [
+      "Budget",
+      "Work/Play"
+    ]
+  },
+  {
+    "id": "prod_mice_015",
+    "category": "Gaming Mice",
+    "title": "Roccat Kone Pro Air",
+    "base_price": 119.99,
+    "rating": 4.5,
+    "review_count": 1863,
+    "attributes": {
+      "dpi": "18571",
+      "weight": "84g",
+      "polling_rate": "8000Hz"
+    },
+    "tags": [
+      "Optical Switch",
+      "German"
+    ]
+  },
+  {
+    "id": "prod_mice_006",
+    "category": "Gaming Mice",
+    "title": "HyperX Pulsefire Haste 2",
+    "base_price": 79.99,
+    "rating": 4.6,
+    "review_count": 4607,
+    "attributes": {
+      "dpi": "17224",
+      "weight": "89g",
+      "polling_rate": "4000Hz"
+    },
+    "tags": [
+      "Value",
+      "Light"
+    ]
+  },
+  {
+    "id": "prod_mice_010",
+    "category": "Gaming Mice",
+    "title": "Ninjutso Sora 4K",
+    "base_price": 119.99,
+    "rating": 4.0,
+    "review_count": 3755,
+    "attributes": {
+      "dpi": "27919",
+      "weight": "63g",
+      "polling_rate": "1000Hz"
+    },
+    "tags": [
+      "No Holes",
+      "4K Hz"
+    ]
+  },
+  {
+    "id": "prod_mice_003",
+    "category": "Gaming Mice",
+    "title": "Razer Viper V2 Pro",
+    "base_price": 149.99,
+    "rating": 3.6,
+    "review_count": 4412,
+    "attributes": {
+      "dpi": "18323",
+      "weight": "74g",
+      "polling_rate": "4000Hz"
+    },
+    "tags": [
+      "Ambidextrous",
+      "Speed"
+    ]
+  },
+  {
+    "id": "prod_mice_009",
+    "category": "Gaming Mice",
+    "title": "Lamzu Atlantis OG V2",
+    "base_price": 89.99,
+    "rating": 3.9,
+    "review_count": 2147,
+    "attributes": {
+      "dpi": "28829",
+      "weight": "66g",
+      "polling_rate": "1000Hz"
+    },
+    "tags": [
+      "Grippy",
+      "Colors"
+    ]
+  },
+  {
+    "id": "prod_mice_019",
+    "category": "Gaming Mice",
+    "title": "Alienware 720M",
+    "base_price": 129.99,
+    "rating": 4.5,
+    "review_count": 2097,
+    "attributes": {
+      "dpi": "26841",
+      "weight": "74g",
+      "polling_rate": "8000Hz"
+    },
+    "tags": [
+      "Design",
+      "Magnetic"
+    ]
+  },
+  {
+    "id": "prod_mice_001",
+    "category": "Gaming Mice",
+    "title": "Logitech G Pro X 2",
+    "base_price": 159.0,
+    "rating": 4.8,
+    "review_count": 3933,
+    "attributes": {
+      "dpi": "27942",
+      "weight": "54g",
+      "polling_rate": "4000Hz"
+    },
+    "tags": [
+      "Esports",
+      "Lightweight"
+    ]
+  },
+  {
+    "id": "prod_mice_017",
+    "category": "Gaming Mice",
+    "title": "Endgame Gear XM2we",
+    "base_price": 79.99,
+    "rating": 4.9,
+    "review_count": 4153,
+    "attributes": {
+      "dpi": "28590",
+      "weight": "94g",
+      "polling_rate": "4000Hz"
+    },
+    "tags": [
+      "Coatings",
+      "Claw"
+    ]
+  },
+  {
+    "id": "prod_mice_005",
+    "category": "Gaming Mice",
+    "title": "SteelSeries Aerox 3",
+    "base_price": 99.99,
+    "rating": 4.2,
+    "review_count": 2445,
+    "attributes": {
+      "dpi": "25744",
+      "weight": "58g",
+      "polling_rate": "4000Hz"
+    },
+    "tags": [
+      "Holes",
+      "RGB"
+    ]
+  },
+  {
+    "id": "prod_mice_008",
+    "category": "Gaming Mice",
+    "title": "Pulsar X2V2",
+    "base_price": 94.95,
+    "rating": 3.9,
+    "review_count": 712,
+    "attributes": {
+      "dpi": "23831",
+      "weight": "95g",
+      "polling_rate": "1000Hz"
+    },
+    "tags": [
+      "Claw Grip",
+      "Minimal"
+    ]
+  },
+  {
+    "id": "prod_mice_014",
+    "category": "Gaming Mice",
+    "title": "ASUS ROG Harpe Ace",
+    "base_price": 139.99,
+    "rating": 4.3,
+    "review_count": 3609,
+    "attributes": {
+      "dpi": "16390",
+      "weight": "69g",
+      "polling_rate": "1000Hz"
+    },
+    "tags": [
+      "Aim Lab",
+      "Light"
+    ]
+  },
+  {
+    "id": "prod_mice_013",
+    "category": "Gaming Mice",
+    "title": "Corsair Dark Core RGB",
+    "base_price": 99.99,
+    "rating": 4.6,
+    "review_count": 388,
+    "attributes": {
+      "dpi": "28134",
+      "weight": "93g",
+      "polling_rate": "8000Hz"
+    },
+    "tags": [
+      "Qi Charging",
+      "Grip"
+    ]
+  },
+  {
+    "id": "prod_mice_012",
+    "category": "Gaming Mice",
+    "title": "Zowie EC2-CW",
+    "base_price": 149.99,
+    "rating": 3.8,
+    "review_count": 4830,
+    "attributes": {
+      "dpi": "19851",
+      "weight": "97g",
+      "polling_rate": "1000Hz"
+    },
+    "tags": [
+      "Shape King",
+      "Stable"
+    ]
+  },
+  {
+    "id": "prod_mice_002",
+    "category": "Gaming Mice",
+    "title": "Razer DeathAdder V3 Pro",
+    "base_price": 149.99,
+    "rating": 4.8,
+    "review_count": 3413,
+    "attributes": {
+      "dpi": "16176",
+      "weight": "72g",
+      "polling_rate": "4000Hz"
+    },
+    "tags": [
+      "Ergo",
+      "Performance"
+    ]
+  },
+  {
+    "id": "prod_mice_007",
+    "category": "Gaming Mice",
+    "title": "Glorious Model O 2",
+    "base_price": 99.99,
+    "rating": 4.1,
+    "review_count": 4029,
+    "attributes": {
+      "dpi": "22930",
+      "weight": "82g",
+      "polling_rate": "4000Hz"
+    },
+    "tags": [
+      "RGB",
+      "Shape"
+    ]
+  },
+  {
+    "id": "prod_mice_011",
+    "category": "Gaming Mice",
+    "title": "Finalmouse UltralightX",
+    "base_price": 189.0,
+    "rating": 4.3,
+    "review_count": 4020,
+    "attributes": {
+      "dpi": "30480",
+      "weight": "94g",
+      "polling_rate": "4000Hz"
+    },
+    "tags": [
+      "Carbon Fiber",
+      "Hype"
+    ]
+  },
+  {
+    "id": "prod_mice_004",
+    "category": "Gaming Mice",
+    "title": "Logitech G502 X Plus",
+    "base_price": 159.99,
+    "rating": 3.9,
+    "review_count": 1169,
+    "attributes": {
+      "dpi": "23234",
+      "weight": "40g",
+      "polling_rate": "4000Hz"
+    },
+    "tags": [
+      "Features",
+      "Buttons"
+    ]
+  }
+]
