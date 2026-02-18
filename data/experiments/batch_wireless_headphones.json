@@ -1,342 +1,1156 @@
 [
   {
-    "id": "prod_headphones_013",
+    "id": "prod_wireless_headphones_129",
+    "parent_asin": "B09DB8XK9Y",
     "category": "Wireless Headphones",
-    "title": "Master & Dynamic MW75",
-    "base_price": 599.0,
-    "rating": 4.7,
-    "review_count": 3356,
-    "attributes": {
-      "battery_life": "39 hours",
-      "weight": "342g",
-      "connection": "Bluetooth 5.2"
-    },
-    "tags": [
-      "High-End",
-      "Build Quality"
-    ]
+    "title": "Tempo 30 Wireless Earbuds for Small Ears Women and Men, Black Bluetooth Earbuds for Small Ear Canals, Loud Bass Ear Buds Wireless Bluetooth Earbuds for iPhone, Android Earbuds Wireless Bluetooth Mic",
+    "description": "",
+    "rating": 4.3,
+    "review_count": 6434,
+    "features": [
+      "[Best Wireless Ear buds for Small Ears] We include 6 sizes of ear-tips with these small earbuds, so the Tempo 30\u2019s can fit even the smallest and largest ear openings comfortably. The tiny earbud case can easily fit into the smallest pockets",
+      "[Extra Bass Mode] Easily switch to bass mode to give yourself the boost you need to finish an intense workout. Bass mode cranks the bass loud while preventing any distortion. When you don\u2019t want heavy bass, switch to Back Bay\u2019s Signature sound",
+      "[Fully Sweatproof + Water Resistant] Full IPX-7 rated waterproofing allows you to go for runs in the rain and snow. Sweat all you want, the true wireless earbud won\u2019t fall out while you are running or jogging! [NOTE: Not designed for swimming]",
+      "[32 Hours of Battery Life] Long battery life! The wireless earpods can play music for 8 hours strought, and the charging case holds 24 more hours of playtime. A single charge of the rechargeable charging case with a USB-C can power 30 total hours",
+      "[Dual Microphones] With these cordless earpods for iPhone and Android take cordless calls. The true wireless earbuds bluetooth mics allow for clear low-latency calls. Take phone, Zoom, Teams, or Skype calls with a single earbud or both"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Tempo 30 ear buds",
+        "text": "This is my first time using ear buds and the information provided was excellent and easy for me to understand and to be able to use. I am 65 years old and not technically savvy.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "Best I have found",
+        "text": "The best I have found for my small ear canal . Sad I lost one but for sure ordered another pair in red this time..",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 3.0,
+        "title": "Not the greatest.",
+        "text": "They work okay, but they don\u2019t cancel noise. They were advertised as being for small ears, but were too big for mine. Would not purchase again.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "I was pleasantly surprised\u2764\ufe0f",
+        "text": "These have a really good beat to them.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "Good sound quality, Great fit",
+        "text": "These. Fit my ears well and stay in! They come with several sets of silicone buds to get the perfect fit.the bass sounds good with Thetrse earbuds . The sound quality is good in the microphone also. They are easy to charge and the charge lasts a long time.",
+        "verified": false,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Back Bay Audio",
+    "tags": [],
+    "price": 49.99
   },
   {
-    "id": "prod_headphones_015",
+    "id": "prod_wireless_headphones_032",
+    "parent_asin": "B0B1HGJC84",
     "category": "Wireless Headphones",
-    "title": "Audio-Technica ATH-M50xBT2",
-    "base_price": 199.0,
-    "rating": 4.7,
-    "review_count": 3837,
-    "attributes": {
-      "battery_life": "56 hours",
-      "weight": "241g",
-      "connection": "Bluetooth 5.4"
-    },
-    "tags": [
-      "Studio",
-      "Flat Response"
-    ]
-  },
-  {
-    "id": "prod_headphones_012",
-    "category": "Wireless Headphones",
-    "title": "Bang & Olufsen Beoplay HX",
-    "base_price": 499.0,
-    "rating": 3.9,
-    "review_count": 1197,
-    "attributes": {
-      "battery_life": "46 hours",
-      "weight": "254g",
-      "connection": "Bluetooth 5.2"
-    },
-    "tags": [
-      "Luxury",
-      "Premium Materials"
-    ]
-  },
-  {
-    "id": "prod_headphones_014",
-    "category": "Wireless Headphones",
-    "title": "Jabra Elite 85h",
-    "base_price": 249.99,
-    "rating": 4.9,
-    "review_count": 1763,
-    "attributes": {
-      "battery_life": "60 hours",
-      "weight": "346g",
-      "connection": "Bluetooth 5.3"
-    },
-    "tags": [
-      "Durable",
-      "Calls"
-    ]
-  },
-  {
-    "id": "prod_headphones_010",
-    "category": "Wireless Headphones",
-    "title": "Samsung Galaxy Buds2 Pro",
-    "base_price": 229.99,
-    "rating": 3.8,
-    "review_count": 1169,
-    "attributes": {
-      "battery_life": "38 hours",
-      "weight": "288g",
-      "connection": "Bluetooth 5.3"
-    },
-    "tags": [
-      "Samsung",
-      "360 Audio"
-    ]
-  },
-  {
-    "id": "prod_headphones_017",
-    "category": "Wireless Headphones",
-    "title": "Shure AONIC 50 Gen 2",
-    "base_price": 349.0,
-    "rating": 3.8,
-    "review_count": 3722,
-    "attributes": {
-      "battery_life": "29 hours",
-      "weight": "200g",
-      "connection": "Bluetooth 5.2"
-    },
-    "tags": [
-      "Pro Audio",
-      "Wired/Wireless"
-    ]
-  },
-  {
-    "id": "prod_headphones_009",
-    "category": "Wireless Headphones",
-    "title": "Google Pixel Buds Pro",
-    "base_price": 199.99,
+    "title": "Compatible with AirPods 2/1 Case Noodles Cup, Kids Teens Girls Boys Women Kawaii Cartoon 3D Skin for Airpod Case, Protective Silicone Character Funny Fashion Cute Cover for AirPods 2 1 \uff08Noodles Cup\uff09",
+    "description": "",
     "rating": 4.6,
-    "review_count": 2179,
-    "attributes": {
-      "battery_life": "27 hours",
-      "weight": "282g",
-      "connection": "Bluetooth 5.4"
-    },
-    "tags": [
-      "Android",
-      "Assistant"
-    ]
+    "review_count": 229,
+    "features": [
+      "\u3010Compatible Models\u3011 This Airpods case compatible with Apple Airpods 1 and 2. (Please note AirPods and AirPods Charging Case not included.)",
+      "\u3010Easy to Use\u3011 - This AirPods case cover with a Carabiner for easy carrying. And the cutout is accurate to ensure that the charging port is properly connected.",
+      "\u3010Full Access\u3011 Precise cutout offers a free access to the charging port.Fits snugly over the charging case.",
+      "\u3010Full Protection\u3011 Fully covered design protects your Apple AirPods . Keeps your device safe from damage and scratches, Features a smooth finish that won't come off with day-to-day use.",
+      "\u3010Warranty\u3011 We provide 12 months free warranty and 24-hour professional customer service. If you are not completely satisfied, contact us immediately! This warranty is exclusive to sales through \" Moydolo \"only and purchases made through unauthorized re-sellers will not be covered by this same manufacturer\u2019s warranty."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Perfect",
+        "text": "So cute! Great gift!",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Moydolo",
+    "tags": [],
+    "price": 7.99
   },
   {
-    "id": "prod_headphones_005",
+    "id": "prod_wireless_headphones_041",
+    "parent_asin": "B06VY62QHB",
     "category": "Wireless Headphones",
-    "title": "Anker Soundcore Space Q45",
-    "base_price": 149.99,
-    "rating": 4.0,
-    "review_count": 534,
-    "attributes": {
-      "battery_life": "28 hours",
-      "weight": "278g",
-      "connection": "Bluetooth 5.3"
-    },
-    "tags": [
-      "Budget",
-      "Value"
-    ]
-  },
-  {
-    "id": "prod_headphones_018",
-    "category": "Wireless Headphones",
-    "title": "Focal Bathys",
-    "base_price": 799.0,
+    "title": "Replacement Silicone Eartips Earbuds Eargels for Beats by dr dre Powerbeats 3 Wireless Stereo Earphones (White)",
+    "description": "",
     "rating": 4.4,
-    "review_count": 1222,
-    "attributes": {
-      "battery_life": "20 hours",
-      "weight": "240g",
-      "connection": "Bluetooth 5.2"
-    },
-    "tags": [
-      "Hi-Fi",
-      "DAC Mode"
-    ]
+    "review_count": 1848,
+    "features": [
+      "Water-washable, durable, flexible, antistatic, removable and replaceable",
+      "Soft silicone material provide more noise isolation, in-ear stability and a lasting comfort",
+      "Ideal replacement for any damaged, scratched, defective or lost earbuds,give new life for your in ear earphones",
+      "Fit for Monster Beats Dr. Dre Powerbeats 3 Wireless Stereo Earphones",
+      "Package Included: 1 Pair of Large + 1 Pair of Medium + 1 Pair of Small Earbuds + 1 Pair of Double Flange Earbus(Earphones not included)"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Fit perfectly",
+        "text": "Absolutely NO difference than the original brand!!!",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "Awesome!",
+        "text": "Love these!! Lost the size that I liked so much off my beats and was bummed! I found these and decided to try after reading reviews. I\u2019m glad I did! They were comfortable, good quality, and were affordable.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Fit perfect",
+        "text": "Fit perfect",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Great Replacement Ear Buds",
+        "text": "These are great replacement earbuds. I needed some more due to me misplacing the ones that came with my Powerbeats since I don't keep them inside pouch during travel! Great buy for backup needs!",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 2.0,
+        "title": "Cheap",
+        "text": "Fall off the headphones waaaay too easy....cheap",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Sqrmekoko",
+    "tags": [],
+    "price": 6.98
   },
   {
-    "id": "prod_headphones_020",
+    "id": "prod_wireless_headphones_008",
+    "parent_asin": "B09QSNNBBV",
     "category": "Wireless Headphones",
-    "title": "Edifier W820NB Plus",
-    "base_price": 59.99,
-    "rating": 4.0,
-    "review_count": 1622,
-    "attributes": {
-      "battery_life": "58 hours",
-      "weight": "255g",
-      "connection": "Bluetooth 5.4"
-    },
-    "tags": [
-      "Budget",
-      "Wired"
-    ]
-  },
-  {
-    "id": "prod_headphones_008",
-    "category": "Wireless Headphones",
-    "title": "Apple AirPods Pro 2",
-    "base_price": 249.0,
-    "rating": 3.9,
-    "review_count": 2721,
-    "attributes": {
-      "battery_life": "34 hours",
-      "weight": "348g",
-      "connection": "Bluetooth 5.4"
-    },
-    "tags": [
-      "ios",
-      "transparency"
-    ]
-  },
-  {
-    "id": "prod_headphones_006",
-    "category": "Wireless Headphones",
-    "title": "Sony WF-1000XM5",
-    "base_price": 299.99,
-    "rating": 4.1,
-    "review_count": 588,
-    "attributes": {
-      "battery_life": "49 hours",
-      "weight": "262g",
-      "connection": "Bluetooth 5.4"
-    },
-    "tags": [
-      "Earbuds",
-      "Compact"
-    ]
-  },
-  {
-    "id": "prod_headphones_004",
-    "category": "Wireless Headphones",
-    "title": "Sennheiser Momentum 4",
-    "base_price": 349.95,
-    "rating": 3.6,
-    "review_count": 2582,
-    "attributes": {
-      "battery_life": "22 hours",
-      "weight": "326g",
-      "connection": "Bluetooth 5.4"
-    },
-    "tags": [
-      "Audiophile",
-      "Battery Life"
-    ]
-  },
-  {
-    "id": "prod_headphones_001",
-    "category": "Wireless Headphones",
-    "title": "Sony WH-1000XM5",
-    "base_price": 348.0,
-    "rating": 4.1,
-    "review_count": 2387,
-    "attributes": {
-      "battery_life": "39 hours",
-      "weight": "233g",
-      "connection": "Bluetooth 5.2"
-    },
-    "tags": [
-      "Noise Cancelling",
-      "Top Rated"
-    ]
-  },
-  {
-    "id": "prod_headphones_007",
-    "category": "Wireless Headphones",
-    "title": "Bose QC Earbuds II",
-    "base_price": 279.0,
+    "title": "erjigo Earphone, Customized Comfort, GK-GS10Earbuds, 4BA+1DD Configuration, Noise-canceling Headphone, HiFi Sports&Fitness Headphones (Black no mic)",
+    "description": "Product Details\nBrand:GKmodel:GS10Sensitivity:111dBPin Type:0.75mmImpedance:30\u03a9Line Length:125\u00b15cmFrequency:7-40000HzEarphone weight:25\u00b13gPlug Type:3.5mmconfiguration:30095 BA unitx2\u300150060 BA unitx2 10mm dual magnetic dynamicx1",
     "rating": 5.0,
-    "review_count": 3339,
-    "attributes": {
-      "battery_life": "55 hours",
-      "weight": "263g",
-      "connection": "Bluetooth 5.4"
-    },
-    "tags": [
-      "Earbuds",
-      "ANC"
-    ]
+    "review_count": 5,
+    "features": [
+      "Quality assurance and fashionable appearance. Shining 6061 aluminum alloy cover is made, resistant to falling, regardless of cost to create light luxury process texture, resistant to use, improved 2PIN replaceable design headphones bring more expansion.",
+      "Comfortable experience. According to the big data of ergonomic cochlea, it is designed to fit your ear canal, effectively isolate the interference of external noise, and make it easy to control when exercising.",
+      "Professional design of sound quality standards. GS10 10-unit coil iron hybrid drive,4 moving iron unit +1 moving coil configuration unit equalization ability has the low frequency atmosphere and force sense of moving coil, as well as the bright resolution and cohesion of moving iron.",
+      "High utilization rate. Products are divided into with and without microphone, coil can be removed at will, a wide range of application, the weight of only 25\u00b12 grams, light and easy to carry.",
+      "Professional after-sales team. Ensure that all products are new and authentic, received any problems are supported no reason to return or replace goods, after-sales service package you are satisfied."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Best for music",
+        "text": "Finally, the sound I music should sound like for under $50! Buy them for music. Buy the CCA C12, around $50, for online fps gaming!",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "erjigo",
+    "tags": [],
+    "price": 23.99
   },
   {
-    "id": "prod_headphones_019",
+    "id": "prod_wireless_headphones_067",
+    "parent_asin": "B09HXQ2GM7",
     "category": "Wireless Headphones",
-    "title": "1More SonoFlow",
-    "base_price": 79.99,
-    "rating": 3.6,
-    "review_count": 1163,
-    "attributes": {
-      "battery_life": "50 hours",
-      "weight": "267g",
-      "connection": "Bluetooth 5.4"
-    },
-    "tags": [
-      "Budget",
-      "LDAC"
-    ]
+    "title": "APPHOME Headphone Hook Desk, Headphones Stand Under Table Foldable Headset Holder Clamp Hanger Mount, Built in Cable Clip Organizer for PC Gaming, Office, Backpack Bag Purse Hanging",
+    "description": "",
+    "rating": 4.8,
+    "review_count": 2390,
+    "features": [
+      "\ud83d\ude0aFoldable Headphone Hanger- Foldable arms design max saves space well, It can be lain flat on the wall when it is not in using, folding, or expanding at your convenience.",
+      "\ud83d\ude0aBuilt-in Cable Loop - Holds your headset's cable in place to prevent it from dragging on the ground or getting caught between your desk chair's legs.",
+      "\ud83d\ude0aUniversal Headphone Stand Under Desk - Clamps on to desks up to 1.97inch thick and as narrow as 0.79inch for a near-universal fit on most desks.",
+      "\ud83d\ude0aEasy to Remove & Reattach - Screw clamp is easy to remove and reattach! No glue, no mess, soft rubber pads located on both clamp ends protects your desk or table from damage",
+      "\ud83d\ude0aPremium Quality - Made of aluminum metal, durable and sturdy. Headset Holder Warranty - Products are backed by a 1 Year Manufacturer Warranty and 60 days unconditional money back."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Works great.",
+        "text": "It's attractive enough, stays in place, and looks like it will last. There really isn't a lot to add.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "For my son\u2019s gaming headset...",
+        "text": "This little contraption is quite awesome. Bought it for the headset my son uses while playing video games. Was tired of finding his headset left on the floor, so attached this to his entertainment center and now he hangs his $100 headset on this (up off the floor where it won\u2019t get stepped on/ damaged).  Solid construction. Easy install (no holes, no tools/ other hardware required).",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Great purchase",
+        "text": "It was just a tad bit too small for where I wanted it,  but I found the perfect spot on the printer stand next to the desk. Very well made.  Not just a cheap piece of plastic.  Strong and sturdy. Folds up out of the way when not in use.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "This Gadget is Great!",
+        "text": "Love this thing! Put it under my desk to hold my purse. How easy can it be?! Slide it on. Tighten it securely. Add purse. Done and done! Nice quality, too\u2026not cheesy or flimsy.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Great and well made",
+        "text": "This thing is great and well made from metal.  This is my second one.  It cost more than the plastics ones, but it is very well made.  The holder folds up once you have it clamped to a desk to shelf.  It is strong and supports heavy headphones well.  It is a little expensive but well worth the investment.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "APPHOME",
+    "tags": [],
+    "price": 16.99
   },
   {
-    "id": "prod_headphones_016",
+    "id": "prod_wireless_headphones_125",
+    "parent_asin": "B07PTZCRF1",
     "category": "Wireless Headphones",
-    "title": "Beats Studio Pro",
-    "base_price": 349.99,
-    "rating": 3.6,
-    "review_count": 1820,
-    "attributes": {
-      "battery_life": "20 hours",
-      "weight": "220g",
-      "connection": "Bluetooth 5.4"
-    },
-    "tags": [
-      "Bass",
-      "Fashion"
-    ]
+    "title": "Rayker Earbud Tips Earpads Replacement for Sony in-Ear Headphone, Noise Isolation Ultra Comfort Silicone Tips in Ear Canal, 3 Pairs, Small Size, Compatible with Sony",
+    "description": "Applicable Model: Most SONY In-Ear Earphone Material: High Quality Silicone Ultra SoftSize: Small Size: 8.5mm in Base Diameter & 8 mm in HeightPackage: 3 Pairs Small/Medium/Large Size Silicone Ear Tips in Small Translucent Plastic Box.",
+    "rating": 4.3,
+    "review_count": 98,
+    "features": [
+      "Compatible Model: Most SONY In-Ear Earphone MDR-XB XBA Series and etc.",
+      "Small Size Silicone Tips with 3.5mm Connection Hole",
+      "Noise Isolating Design Reduces Ambient Noise for High-intensity Listening.",
+      "Super-soft High Quality Silicone Reduces Earphone Irritation and Fatigue.",
+      "Ultra Soft, Optimal Comfort & Great Sound !!!"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Great feel",
+        "text": "They\u2019re great just not small enough for my ears.  Feels wonderful in the ear and wish they would have x-small which than likely be able to keep them in my ears.  Passed them off to my granddaughter and she loves them.  I have Sony buds, which were very expensive, but their ear pads are even larger and of course Sony would not help nor take the product back even though I only had the product for one day.  Quality is excellent.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 2.0,
+        "title": "Nice quality but definitely not large size.",
+        "text": "Nice quality but definitely not large. They were supposed to be large size but they are about the size of the mediums that came with the earbuds.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Lets in the perfect amount of sound",
+        "text": "Reliable, the perfect size holes and fit for the sound on my 50$ sony headphones.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Nice fit!",
+        "text": "I kept losing my original buds for my beats flex earbuds i could not remember where i put the original extras that came with the package. I wear these every day and use yhe often so i was missing them big time. I ordered a different brand and they felt flimsy and i didnt like them so I figured i would give these a try next. First off they fit very tight onto the stem of the earbud. I dont think i am going to lose these. Second it comes with three sizes so it was easy for me to find the ones that fit the best. I intend to order more of the right size just on the off chance i lose one again which I doubt will happen.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Perfect replacement.",
+        "text": "Comes with a variety of sizes. Fit snug on the headphones and are soft in my ears.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Rayker",
+    "tags": [],
+    "price": 8.99
   },
   {
-    "id": "prod_headphones_002",
+    "id": "prod_wireless_headphones_039",
+    "parent_asin": "B0BL78QGLK",
     "category": "Wireless Headphones",
-    "title": "Bose QuietComfort 45",
-    "base_price": 329.0,
-    "rating": 4.7,
-    "review_count": 94,
-    "attributes": {
-      "battery_life": "40 hours",
-      "weight": "288g",
-      "connection": "Bluetooth 5.2"
-    },
-    "tags": [
-      "Comfort",
-      "Traveling"
-    ]
-  },
-  {
-    "id": "prod_headphones_003",
-    "category": "Wireless Headphones",
-    "title": "Apple AirPods Max",
-    "base_price": 549.0,
+    "title": "WINONLY Sleep Headphones Wireless Bluetooth Headband - Valentines Day Gifts for Him Upgrade Soft Eye Mask for Sleeping Long Time Play Music Sport Headbands for Workout Running Yoga Unique for Men",
+    "description": "",
     "rating": 4.2,
-    "review_count": 3813,
-    "attributes": {
-      "battery_life": "54 hours",
-      "weight": "306g",
-      "connection": "Bluetooth 5.4"
-    },
-    "tags": [
-      "Premium",
-      "Apple"
-    ]
+    "review_count": 13312,
+    "features": [
+      "Top Value from Editional Recommended",
+      "[Multipurpose Bluetooth Headband Sleep Headphones] - Sleep Headphones & Sleep Eye Mask & Sports Headband 3 in 1. WINONLY Bluetooth headband allows you to listen to your music without having to additional headphones and protects you from being disturbed by your messy hair and sweat. Built-in microphone to let you won't miss any callings. Perfect for sports running yoga office airplane rest & most activities. Even if no play music, the eye cover is comfortable enough to sleep in any position",
+      "[Longer Playtime and High-quality Playback] - WINONLY sleep headphones offer an upgraded USB chargeable battery, charging about 2-2.5H providing up to 12H playing time. Quality chip sets ensure clear sound and lossless music even if the headphones are in sports. There are built-in microphones and volume control buttons that enable users to answer hands-free phone calls and handle previous/next songs without having to use the phone. WINONLY Bluetooth headband brings you peaceful sleep all night",
+      "[Super Comfy Soft & Breathable Headband] - WINONLY Bluetooth Headband sleeps headphone is extremely soft and lightweight, with breathable fabric which makes a comfortable experience even if long time use, will easily stretch to fit all head sizes, and also incredibly soft and hypoallergenic. WINONLY Bluetooth headband headphones are washable, simply remove the speakers and clean the band. Useful for wearing an eye mask for sleeping so the light-blocking feature is helpful",
+      "[Bluetooth 5.2 Stereo Sound with Thin Speakers] - Built-in ultra-thin speaker, which is very comfortable for side sleepers. True HD HIFI sound featuring the latest Bluetooth 5.2 technology that produces great sound quality, Bluetooth can pair your all cellphone and any other Smartphone or iPad Tablet easily. Compatible with Android and Ios. It is the best gift idea for women men family or friends on travel and airplane at festivals",
+      "[Satisfied Warranty] - Achieve your best sleep with WINONLY, Bluetooth headband sleeping headphones that create a private space, making your sleep better and enjoying your music time. WINONLY provides a professional and worry-free warranty to ensure you could buy a Bluetooth sleep eye mask with confidence and would try our best to solve any problem until you are satisfied"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "saved my husband\u2019s life!",
+        "text": "...because it covered the sound of his snoring and I no longer am tempted to smother him with a pillow! They are very comfortable even though I\u2019m very sensitive to irritable feelings. I\u2019m a light sleeper and it blocked out all the little lights that keep me awake. It stayed charged all night. I\u2019m ordering another for day time use! I\u2019ll probably give  them to every one I know for Christmas. Seriously amazing!",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 3.0,
+        "title": "Adequate sound quality but difficult controls.",
+        "text": "I use the sleep headphones because I listen to books to get to sleep. I need the volume quite high because I use hearing aids. This headset is adequate for my purpose. It\u2019s very comfortable to wear, but the controls are not very sensitive.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "Works well for sleeping",
+        "text": "I wanted some headphones that were flat and wouldn't hurt my ears or fall out and get lost while I was trying to go to sleep. These work just fine. The speakers lie flatly against my head and don't poke or feel lumpy.  I only use them for sleeping, though, not for exercising, so I can't say how easy or difficult it would be to remove the speakers and controller to wash the headband part.<br /><br />Sound is fine. They don't go into your ear like regular earbuds, so you have to turn the volume up a little, but it does what it should. I haven't tried to control the volume using the buttons on the headband so I can't really rate that aspect. All in all, it does what I wanted it to.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 3.0,
+        "title": "Not comfortable",
+        "text": "This thing works well, but it\u2019s not comfortable for laying down. I was hoping to wear it at night while falling asleep but there is no way to get comfortable with it on due to the small speakers inside. I\u2019m not sure how it would work with exercise either because it\u2019s pretty loose and I\u2019d be worried to get sweat on it.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Headband, controls, sound quality, charge stats--all exactly what I wanted",
+        "text": "This resolved so many issues with other options. The headband is so very comfortable--wish I could buy 5 headbands without speakers just for the comfort for everyday wear.  What I really wanted was comfortable speakers for podcasts as I go to sleep or do tasks or just enjoy! These fit the bill. Volume is perfect. Bluetooth connection is quick and stable. I can do 2 nights before charging again. The buttons work well with podcasts, moving to next or previous episodes. I just ordered a second one.<br /><br />Thank you and if there is a way to get just the headband, please let me know.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "WINONLY",
+    "tags": [],
+    "price": 16.99
   },
   {
-    "id": "prod_headphones_011",
+    "id": "prod_wireless_headphones_145",
+    "parent_asin": "B07NW9X5BW",
     "category": "Wireless Headphones",
-    "title": "Bowers & Wilkins Px7 S2",
-    "base_price": 399.0,
+    "title": "PHILIPS UpBeat SHE2405 in-Ear Headphones, in-line Mic - White, One Size (SHE2405WT/00)",
+    "description": "With Philips upbeat headphones, show your colors and match your style! In-ear are designed to fit ear geometry for super comfort with natural fit. A modern earphones design with translucent Housing for dual layer effect. A choice of 4 vibrant colors. 8. 6mm speaker drivers deliver clear sound and rich bass neodymium magnets enhance bass performance oval tube to fit ear geometry for comfort 3 interchangeable rubber ear caps offer an optimal fit Built-in mic switches from music to phone calls",
+    "rating": 3.9,
+    "review_count": 3598,
+    "features": [
+      "8. 6mm speaker drivers deliver clear sound and rich bass",
+      "Neodymium magnets enhance bass performance",
+      "Oval tube design to fit ear geometry for comfort",
+      "3 interchangeable rubber ear caps offer an optimal fit",
+      "Built-in mic switches from music to phone calls",
+      "connectivity_technology: Wired",
+      "connector_type: 3.5mm Stereo"
+    ],
+    "reviews": [
+      {
+        "rating": 2.0,
+        "title": "Hurts your ears after prolonged use",
+        "text": "Hurts your ears after prolonged use, and it's difficult to get the earbud in the right position to where it's almost comfortable.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "Good quality for cheap earbuds",
+        "text": "I have one of those kids who doesn\u2019t notice their earbuds are trailing on the ground behind them. These sounds good, hold up pretty well to the abuse, and are cheap enough to replace when they do break.",
+        "verified": true,
+        "helpful_votes": 1
+      }
+    ],
+    "store": "PHILIPS",
+    "tags": [],
+    "price": 9.99
+  },
+  {
+    "id": "prod_wireless_headphones_101",
+    "parent_asin": "B0B9RXVXT6",
+    "category": "Wireless Headphones",
+    "title": "Beats Fit Pro Case Cover, AIRSPO Soft Silicone Case for Beats Fit Pro 2021 Shockproof Beats Fit Pro Earbuds Case Cover with Keychain \uff08Earth\uff09",
+    "description": "",
     "rating": 4.0,
-    "review_count": 755,
-    "attributes": {
-      "battery_life": "48 hours",
-      "weight": "261g",
-      "connection": "Bluetooth 5.4"
-    },
-    "tags": [
-      "Luxury",
-      "Design"
-    ]
+    "review_count": 445,
+    "features": [
+      "\u3010Compatibility\u3011This Shock-Absorbing protective case is specially designed for Beats Fit Pro charging case (2021) (Notice: The Beats Fit Pro is not included)",
+      "\u3010High Quality Material\u3011The Beats Fit Pro case cover made of soft durable elastic silicone material, complete protection against scratches, bumps, anti-shock and anti-slip, the surface is treated with special oil spray for anti-fingerprint and dustproof",
+      "Durable Carabiner\u3011Each silicone beats fit pro protective case is equipped with a metal carabiner clip, you can easily hang it on a backpack, keychain, belt of trousers, etc., in case of missing it and is being very convenient to use",
+      "\u3010Easy Installation\u3011Come with highly sticky doulble-sided adhesive design avoid losing your beats fit pro earbuds when you out the door,support wireless charging and charging with charging cable no need to remove the case cover to charge your beats fit pro",
+      "\u30104 in 1 Package\u3011One Silicone Case, One Carabiner, One Steel Ring, Two Spare Gel Pad. (beats fit pro & charging case not included) 30-Day money-back for any reason. If there are problems, Contact us anytime"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Awesome case",
+        "text": "I love this case for my Beats Fit Pros.  The regular case is way too slippery, especially with dry hands.  This has a nice rubbery grip, plus the carabiner.",
+        "verified": true,
+        "helpful_votes": 3
+      },
+      {
+        "rating": 5.0,
+        "title": "Great quality",
+        "text": "[[VIDEOID:ad92bf895df61c4b1443a717fa59a9c7]] Great product but I ended up choosing the hard case instead bc I read it protects more. I also read some reviews that it does not fit, but mine fit just perfect.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "Fits my headphones",
+        "text": "I was worried this wouldn\u2019t fit my headphones correctly but it does. I bought it so I could hang these in my backpack and find them easy.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Very Nice",
+        "text": "Purchase for son to prop his beats",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "AIRSPO",
+    "tags": [],
+    "price": 10.99
+  },
+  {
+    "id": "prod_wireless_headphones_113",
+    "parent_asin": "B089D1ZPT3",
+    "category": "Wireless Headphones",
+    "title": "Coffea Protective Silicone Case with Keychain for Apple AirPods 2 (Black)",
+    "description": "",
+    "rating": 4.6,
+    "review_count": 16190,
+    "features": [
+      "Made of durable 3mm lightweight, flexible silicone; Shock resistant; Features anti-slip grip.",
+      "Compatible with all Qi standard wireless charging pads; No need to remove the case while wireless charging. ONLY for AirPods 1/2 charging case, NOT FOR AIRPODS PRO.",
+      "Equipped with a metal carabiner clip; Convenient to attach to a handbag or a backpack.",
+      "Precise cutout for lighting port with dust cap keeps the charging port clean when not in use.",
+      "0.3mm see-through thin wall allows you to check the LED indicator status any time. AirPods Silicone Case ONLY, AirPods and Charging Case NOT Included."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Perfect and love the key ring",
+        "text": "Daughter loves it",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Useful & as advertised",
+        "text": "Gift for my kids for their AirPods. Perfect fit for their cases and they like them.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "So far so good.",
+        "text": "So far so good...I will update soon.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Good purchase!",
+        "text": "This case is perfect.  My AirPods no longer slide off the table.  The case fits perfectly.  I wish I had bought this sooner.  I bought the pink one but I need to buy a brighter one so I can see it in my purse.  Would highly recommend.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Very nice",
+        "text": "The white and round appearance feels very good, and the earphones are very stable, and they can't be shaken off. You can directly cut the song and adjust the volume, touch the percussion, the sensitivity is OK, and basically it will not be touched by mistake. The earphones are louder and have a certain noise reduction effect when used outside.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "COFFEA",
+    "tags": [],
+    "price": 4.99
+  },
+  {
+    "id": "prod_wireless_headphones_136",
+    "parent_asin": "B07Q39HCK1",
+    "category": "Wireless Headphones",
+    "title": "Beats Studio3 Wireless Noise Cancelling Over-Ear Headphones - Apple W1 Headphone Chip, Class 1 Bluetooth, Active Noise Cancelling, 22 Hours of Listening Time - Blue (Previous Model)",
+    "description": "",
+    "rating": 4.7,
+    "review_count": 6263,
+    "features": [
+      "High-performance wireless noise cancelling headphones in blue",
+      "Compatible with iOS and Android devices.",
+      "Pure adaptive noise canceling (pure ANC) actively blocks external noise",
+      "Real-time Audio calibration preserves a Premium listening experience",
+      "Up to 22 hours of battery life enables full-featured all-day wireless playback"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Better then beats solo",
+        "text": "Beats STUDIO  covers the ear Beats SOLO  sits on top of the ear both are excellent sound but I prefer Studio because they cover my ear instead of pressing down on my ear after a while with my beats SOLO pressing down it hurts my ear so I\u2019m a Beats studio fan NOW",
+        "verified": true,
+        "helpful_votes": 2
+      },
+      {
+        "rating": 5.0,
+        "title": "Love them!",
+        "text": "Great product, still loving it!",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "He Loves Them!!!!!!",
+        "text": "Honest & True: This was a gift for the big guy because he travels a lot for work. He can't get enough of them. He wears them around the house and in the car. You can use them as headphones while using your phone to talk. So they are handy for people looking for good clear sound quality, and when speaking with others via phone, it projects a clear voice to the person on the other end.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "I don\u2019t know",
+        "text": "Excellent",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Great",
+        "text": "Great",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Beats",
+    "tags": [],
+    "price": 258.99
+  },
+  {
+    "id": "prod_wireless_headphones_170",
+    "parent_asin": "B09VGV38GR",
+    "category": "Wireless Headphones",
+    "title": "JSAUX USB C to 3.5mm Audio Aux Jack Cable[3.3ft], Type C Adapter to 3.5mm Headphone Stereo Cord Car Compatible with iPad Pro 2018 Google Pixel 2 3 XL, Samsung Galaxy S21 S20 Ultra Note 10 Plus-Grey",
+    "description": "JSAUX USB-C to 3.5mm Male Audio Aux Cable is only sold by JS DigitalMilitary Grade Materials:JSAUX c to 3.5mm Aux Cable adds tough military fiber, it is the most flexible and Strong durable material can increase tensile force by 200%,Special strain relief support design can withstand 10000+ times of bending test, protect the cable's most vulnerable joints, high-grade aluminum housing increases the durability of the cable. Anti-Tangling Nylon Braid Design:Rugged braided nylon fiber shell and anodized aluminum shell make this C-to-Headphone cable more durable, flexible, and stronger than normal cables. Anti-tangle cord design eliminates bunching, tangles and knots. Leather ties:Leather ties are provided to keep cables organized. Compatibility List:Samsung Galaxy S22 S21 S20 S20 Plus S20+ S20 Ultra S10 S10 Plus Note 20 ultra 10 10+ Samsung Galaxy S9/S9 Plus iPad Pro One Plus 6T, 7, 7pro Sony Xperia XZ2 Xiaomi: 8 6, Hybrid 1 2 Nokia Nokia 8 Sirocco, Nokia 8 7",
+    "rating": 4.5,
+    "review_count": 6804,
+    "features": [
+      "\u3010Hi-Fi Sound Quality\u3011:This c to aux adapter cable supports up to16bit/48Khz, you can get higher fidelity sound from it.",
+      "\u3010Wide Compatibility\u3011: This 3.3ft type c to 3.5mm headphone cord is compatible with most of the type c phones: pixel 4 3 2 XL, Samsung Galaxy S22 S21 S21+ S20 Ultra S20 Z Flip S20+ S10 S9 S8 Plus, Note 20 ultra 10 10+ 9 8, iPad pro,Huawei Mate 30 20 10 Pro, P30 P20, One plus 6T 7 7Pro and more.",
+      "\u3010Enhanced Durability\u3011: Strong fiber, the most flexible, powerful and durable material, makes tensile force increased by 200%. Can bear 10000+ bending test. Premium Aluminum housing makes this c 3.5 cord more durable,nylon braided type c cable adds additional durability and tangle free.",
+      "\u3010Relief Strain Design\u3011:With the relief strain design, this usbc to 3.5mm male cord can stand 10000+ bending tests, which makes this adpter much more durable.",
+      "\u3010Plug and Play\u3011:This Type C to 3.5MM Adapter Cable requires no software, drive, and complicated installation. You can unblock the world of audio anytime anywhere in an easy way. Built-in DAC decoding chip, low power consumption, excellent and stable decoding performance. The use of high-quality enameled copper as a signal transmission cable can ensure not be interrupted in daily use. Note: The actual maximum audio output depends on the headset device."
+    ],
+    "reviews": [
+      {
+        "rating": 3.0,
+        "title": "A bit staticy",
+        "text": "Sometimes there's some static and not the clearest sound, keep that in mind.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 1.0,
+        "title": "Not worth it",
+        "text": "It came to me dysfunctional. Every couple minutes there's a random loud static sound. Throwing it away :(",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Works great",
+        "text": "Worked great new phone didnt have a headphone jack",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Exactly what I expected",
+        "text": "5 stars,this fit exactly how I was hoping it would! Works fantastic.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "It works",
+        "text": "Works fine, no problems.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "JSAUX",
+    "tags": [],
+    "price": 12.99
+  },
+  {
+    "id": "prod_wireless_headphones_163",
+    "parent_asin": "B07RBC3KNG",
+    "category": "Wireless Headphones",
+    "title": "True Wireless Earbuds, Woozik Relay Wireless Headphones, Waterproof Sport TWS Headset, Stereo Earphones with Microphone, Long Playtime for Gym Running and Workouts for iOS Android",
+    "description": "Enjoy music with no wires with Woozik Relay True Wireless Earbuds These wireless Headphones provide a premium experience for everyone No Limits No Wires Whether it\u2019s an workout or daily commute you won\u2019t have to worry about tangled wires Clip on the Relay to your Ears and Enjoy Wireless Freedom True Wireless Sound The Relay features lossless technology that produces great sound with full bass and crystal clear treble delivering true high-fidelity music IPX6 Waterproof Strong enough to withstand the elements the Relay is iPX6 Rated Waterproof making it the perfect accessory for everyday use Built-in Mic Enjoy crystal-clear HD phone calls with the Relay\u2019s Noise Cancelling Microphone Secure and Comfortable Fit The Relay is ergonomically designed with an diagonal angle to fit your ear canal better and reduce noise Extra eartips are included to ensure a comfortable and secure fit 1 \u2013 Year and Customer Support Have any issues? Contact us at [917] 475-1357 Monday to Friday- 9am-6pm EST",
+    "rating": 3.7,
+    "review_count": 153,
+    "features": [
+      "\u2705 HIGH FIDELITY HD SOUND \u2013 Enjoy immersive sound, heavy bass with CSR chip technology, plus built-in CVC 8.0 noise cancelling, hands-free microphone for crystal clear stereo sound",
+      "\u2705 LONG PLAY / TALK TIME \u2013 1 full charge provides 5 hrs of playtime to power you through workouts",
+      "\u2705 COMPLETELY WIRELESS | TOUCH CONTROL \u2013 Features buttons to answer / hang up calls, control volume, and navigate your music playlist",
+      "\u2705 COMFORTABLE & EASY TO USE \u2013 Sleek, user friendly In-Ear design with silicon ear hooks engineered for comfort and secure fit",
+      "\u2705 HIGH PERFORMANCE & COMPATABILITY \u2013 Connect to iPhone, Samsung Galaxy, Tablets, Computers and more. Includes charging cable, case, earbuds, manual and 1 year warranty"
+    ],
+    "reviews": [
+      {
+        "rating": 1.0,
+        "title": "They constantly fail",
+        "text": "The sound is good but they constantly fail to connect with my windows 10 laptop. When they do connect, it is usually just one of the earbuds and then it disconnects a short time later. I guess the battery life is okay but I've never been able to run them down as I get so frustrated with the connectivity issues.<br />The final straw was when I took them out for a jog for the fist time. One earbud failed and now will not power on. Is it due to moisture? I'll never know & I don't care. These are going in the trash.",
+        "verified": true,
+        "helpful_votes": 2
+      },
+      {
+        "rating": 4.0,
+        "title": "Good value",
+        "text": "Love them for the price",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 4.0,
+        "title": "Used for 5 weeks, working well. Stays in Ear. Good value for $",
+        "text": "Purchased as a gift for someone who Spins a lot listing to music. He has had trouble with other Earbuds falling out. These are great for staying in place. From his feedback the sound for price is very good. Not as good as some that cost 5x more but for the price a nice buy.",
+        "verified": false,
+        "helpful_votes": 1
+      }
+    ],
+    "store": "WOOZIK",
+    "tags": [],
+    "price": 19.99
+  },
+  {
+    "id": "prod_wireless_headphones_177",
+    "parent_asin": "B00EX6IX88",
+    "category": "Wireless Headphones",
+    "title": "Freeze Limited Edition I-kool Freeze Series Foldable Headphone with Swivel Function (Blue)",
+    "description": "The Freeze Series was designed to isolate from distraction and bring you to a whole new realm you never thought existed. The Freeze Advanced is true to its name. Visualize the future through an audio-enhanced explosion of sound far ahead of its time. These extraordinary headphones were constructed by our technologically advanced team of expert sound professionals who cater to every note and measure.",
+    "rating": 3.9,
+    "review_count": 69,
+    "features": [
+      "Cushioned swivel ear pads and headrest to maximize comfort",
+      "Folds neatly to increase portability",
+      "Unbeatable audio quality",
+      "An attractive color finish",
+      "Comes with a full year warranty"
+    ],
+    "reviews": [
+      {
+        "rating": 3.0,
+        "title": "Five Stars",
+        "text": "This is my third pair.  I have been very pleased with the others, but after only a couple of months with this pair, the rubber inside the connection point caved in and they are no longer work properly.",
+        "verified": true,
+        "helpful_votes": 2
+      },
+      {
+        "rating": 5.0,
+        "title": "Five Stars",
+        "text": "Really good.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Excellent product.",
+        "text": "Excellent headphones. They are used every day. Great sound.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "I-Kool",
+    "tags": [],
+    "price": 9.99
+  },
+  {
+    "id": "prod_wireless_headphones_094",
+    "parent_asin": "B07R4ZJKMG",
+    "category": "Wireless Headphones",
+    "title": "Geekria Comfort Mesh Fabric Replacement Ear Pads for Logitech G35, G430, G432, G332, G930, F450 Headphones Ear Cushions, Headset Earpads, Ear Cups Repair Parts (Black Red)",
+    "description": "Product Features Replacement earpads made with high quality memory foam and mesh fabric. Replace your worn-out earpad cushions / ear cover / ear cups. Give your headset a new earpad. Make it a brand new look. Durable and long lasting, quality made ear pad. Compatible with Logitech G35, G430, G432, G332, G930, F450 earpads. Will also fit other brands and models, check dimensions of your headphones. Product DescriptionMistakes Happen. We've Got You Covered. With Geekria SureFit, we make sure you have complete peace of mind when shopping for any earpad we offer. If you made a mistake matching your headphones type, or the earpads didn't fit, we'll make full refund. Compatible Headphones: - Compatible with Logitech G 35, G 430, G 432, G 332, G 930, F 450earpads. Note: - Headphones replacement ear pad only, headphone is not included. Package Includes: - 2 x headphones replacement earpads.",
+    "rating": 4.6,
+    "review_count": 650,
+    "features": [
+      "Replacement earpads made with high quality memory foam and mesh fabric.",
+      "Replace your worn-out earpad cushions / ear cover / ear cups.",
+      "Give your headset a new earpad. Make it a brand new look.",
+      "Durable and long lasting, quality made ear pad. Compatible with Logitech G35, G430, G432, G332, G930, F450 earpads.",
+      "Will also fit other brands and models, check dimensions of your headphones."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Amazing ear pad replacements for the Logitech G35 headset!",
+        "text": "- Makes my G35 headset look better than when I bought it new thanks to the red accent markings!<br />- The installation tool was extremely helpful, and thanks for including it.<br />- Just a bit of warning for others the kit that includes the head pad isn\u2019t mean for the Logitech G35 headset, because it is a different size and it doesn\u2019t have Velcro underneath the head pad. I just ordered the ear pads only, and ended up using the spare two fake leather head pads that came with my G35 headset.<br />- Other thoughts: Not sure what some people are complaining about, but my ear pads are comfortable and fit my headset well. I\u2019m just going to assume some peoples ears are extremely sensitive than others to certain fabrics. I like the cloth mesh pads compared to the original leather pads for two reasons. The cloth won\u2019t crack or peel off like the leather pads, and the cloth pads are more breathable for the ears (ears won\u2019t get hot or humid).",
+        "verified": true,
+        "helpful_votes": 2
+      },
+      {
+        "rating": 5.0,
+        "title": "They are comfortable, which is the main thing",
+        "text": "I bought these for my G930 since the outside was flaking off of mine a lot. I have been using these for almost 5 months and I have had no issues out of them. They are comfortable, which is the main thing. And since it isn't the fake leather of the original, I dont have a problem with it causing my ears to sweat or stick to it. Installing them were simple as well.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Barely noticeable difference between these pads and the official Logitech pads",
+        "text": "The only difference in these pads is that the mesh is slightly rougher than that of the ear pads that come with the Logitech G430 headphones. Otherwise, there is no noticeable difference.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "great replacement for my G930",
+        "text": "I bought these blue mesh ear pads to replace my original fake leather pads on my Logitech G930 headphones. These went on super easily, took no effort, and are a perfect fit. They also come with a little tool to help slide the pads on but i didn't even need it. I also like the mesh pads because my ears stay a bit cooler than on the original leather-ish ones. These are a great value for the price, and I would definitely recommend them.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 3.0,
+        "title": "Good but scratchy.",
+        "text": "They fit perfectly on my Logitech g35s but they are very scratchy.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "GEEKRIA",
+    "tags": [],
+    "price": 12.9
+  },
+  {
+    "id": "prod_wireless_headphones_133",
+    "parent_asin": "B0C66M4DYY",
+    "category": "Wireless Headphones",
+    "title": "2 Pack iPhone Earbuds [Apple MFi Certified] Wired in-Ear Stereo Noise Canceling Isolating Lightning Headphones with Built-in Microphone&Volume Control Compatible with iPhone 13 12 SE 11 X 8 7-All iOS",
+    "description": "Using the Step\n1.Quick and Easy Connection scheme one:After plugging in the headphones, a window will appear, click \"Connect with iCloud\" to use.When making or receiving calls, the audio needs to be switched from the speaker to \"Baets\". 2.Connection scheme two: a.The first time you use it, you need to enter the iPhone settings and turn on Bluetooth. b.Bluetooth page: Find \"Baets\" in Other Devices, click \"Baets\" to connect(The headset will automatically connect to your device the next time, so you don\u2019t need to do this step again.) Need Attention: It must be connected to Bluetooth for normal use. And it must always be connected to Bluetooth during use.When making or receiving calls, the audio needs to be switched from the speaker to \"Baets\".",
+    "rating": 3.4,
+    "review_count": 6242,
+    "features": [
+      "\u3010Widely Compatibility\u3011: Compatible with all lightning connector devices.Headphone are widely compatible with iPhone 14/14 Pro/14 Pro Max/14 Mini/13/13 Pro/13 Pro Max/13 Mini/12 Mini/12 Pro Max/SE/11 Pro Max/11 Pro/XS Max/X/XR/8/8 Plus/7 Plus/7 Support All iOS Systems.Plug and Play!!!",
+      "\u3010Apple MFi certified\u3011: MFi-certified lightning headset, integrated improved C1 chip. Our wired headset offers you the most realistic sound quality with 2 holes that radiate 360\u00b0 stereo, so you can better immerse yourself in world music during exercise and training environment.",
+      "\u3010Mic & Volume Control \u3011: The headphone for iPhone built-in controller with a high-quality hands-free microphone. Music and Volume controller is designed to play/pause music, volume up/down, next & previous track, answer/end calls Wake up Siri. No need to take out the phone from your bags or pocket when performing these operations,emancipating your hands.",
+      "\u3010Easy connection,two ways\u3011:1.The first:After plugging in the headphones, a window will appear, click \"Connect with iCloud\" to use.When making or receiving calls, the audio needs to be switched from the speaker to \"Baets\". 2.The second: a.The first time you use it,enter the iPhone settings and turn on Bluetooth. b.Bluetooth page: Find \"Baets\" in Other Devices, click \"Baets\" to connect(It will automatically connect to your device next time) Note: It must be connected to Bluetooth for normal use.",
+      "\u3010Comfortable Wearing Experience\u3011: The earphones for iPhone with ergonomic angular design and soft & premium ear tips, allow you to listen to the music for a long time without pain perception and keep a long sense of comfort during the wear. If you are not satisfied with this wired Bluetooth earphones, please feel free to contact us.Our service team will reply you with satisfied solution within 12 hours."
+    ],
+    "reviews": [
+      {
+        "rating": 2.0,
+        "title": "Sound quality is just overall dissatisfaction",
+        "text": "They are very comfortable but the noice cancellation is slim and the sound quality is just horrible. Sounds like it\u2019s coming from 20 miles away. Shoulda kept with the apple hard ones",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "Product Is What It Is",
+        "text": "The product description stated that this cable would connect your laptop to your television.  I guess it does connect them, if by that you mean an end plugs into both devices.  This cable WILL NOT allow you to watch your laptop on your television.  Instead of buying this, go ahead and buy a converter.  There are several under $20 that work great!",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "Perfect, and does the job.",
+        "text": "Ive had this for a few years now, it fit perfectly and to this day it still doesn't have a scratch on it.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 1.0,
+        "title": "connection was unstable & had to be reconnected. Earbuds larger than usual",
+        "text": "Connection to Bluetooth connection is unstable. Requires Bluetooth connection even though there is a cable. Earbuds larger than usual. Made in China",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Five Stars",
+        "text": "Work great and the colors are true to the picture.",
+        "verified": false,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "SKYCABLE",
+    "tags": [],
+    "price": 9.99
+  },
+  {
+    "id": "prod_wireless_headphones_059",
+    "parent_asin": "B09NFNLMPC",
+    "category": "Wireless Headphones",
+    "title": "Engage 75 Earpads Replacement for Engage 75 and Engage 65 Headset - NOT FIT Engage 75/65 Convertible and Engage 75/65 Mono Model",
+    "description": "",
+    "rating": 2.5,
+    "review_count": 8,
+    "features": [
+      "Excellent Compatibility: Engage 75 Earpads Replacement for Engage 75 and Engage 65 Headset - Notice. NOT FIT Engage 75/65 Convertible and Engage 75/65 Mono Model.",
+      "Softer Memory Foam: Replacement ear cushion for Engage 75 / 65 Wireless Headset are made with softer memory foam, ear cushions with very good comfort, it is very suitable for listening to music and working for a long time.",
+      "Extra Durability: These ear pads, made by JESSVIT, fit the following models of Headphones perfectly: Engage 75 / 65 Wireless Headset. Its durability can use this ear cushion to enjoy music in the next few years.",
+      "Unmatched Comfort: These replacement ear pads are made from a new softer memory foam that find the perfect balance of comfort and durability and drastically enhances sound performance and quality.",
+      "Engage 75 Earpads Replacement for Engage 75 and Engage 65 Headset - NOT FIT Engage 75/65 Convertible and Engage 75/65 Mono Model."
+    ],
+    "reviews": [
+      {
+        "rating": 2.0,
+        "title": "These fit the jabra Engage 75 but they broke off within a few months...sad",
+        "text": "office work",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "JESSVIT",
+    "tags": [],
+    "price": 13.99
+  },
+  {
+    "id": "prod_wireless_headphones_116",
+    "parent_asin": "B08JGVXWKG",
+    "category": "Wireless Headphones",
+    "title": "[Apple MFi Certified] 2 Pack Headphone Adapter for iPhone Charger,3.5 mm Headphone Jack Aux Dongle Charger & Audio Cable for iPhone 11/11 Pro/X/XS/XR/8/7 Support All iOS System",
+    "description": "Belcompany 2 in 1 Adapter / Splitter for iphone,Charger and to 3.5mm audio adapter\nWe promise that each product will pass through high standards of strict test before packaging,every customers will get the best product and survice. Our 2 in 1 Adapters will make your phone to reach its full function.\nAdvantages of our Headphone Jack Aux Adapter Dongle\n1. Fully compatible with iOS10.3 and above,no setting changes 2. Support listening to music with 3.5mm headphones and charging at the same time 3. Alloy shell,strong,compression,wear is not easy to damage,the surface is more anodic oxidation process more stylish,texture. 4. Noise free,No Buzzing sound,you can enjoy high sound quality as original with the adapter. 5. Super lightweight and portable,you can put it into your pocket or handbag and easily bring it wherever you go. 6. Support PD 5V fast charging. Charger Adapter for 2A Charging Speed Increase By 1.5 Times And 30%,Improve Output Efficiency And Save Charging Time.\nPlease be noted:\nPLEASE NOTE:This product does not support the call function.\nWhat You Get:\n2 x to 3.5mm headphone jack adapte\nWe provide a 12-months worry-free service.If you have any questions,Welcome to Contact us,We will response within 12 hours",
+    "rating": 3.6,
+    "review_count": 92,
+    "features": [
+      "\u3010Listening And Charging At The Same Time\u3011:This Adapter can connect the 3.5mm audio plug device to the device,Solve the IPhone 7/7P 8/8P X XS XR 11/11 Pro,iPad, iPod single hole design problem,let the song charge while not harming the iPhone,Charging port +3.5mm headphone jack,does not affect the normal operation of the phone use.",
+      "\u3010Super compatibility\u3011:Compatible with iPhone 7,7 Plus,8,8 Plus, X, XS, XR, XS Max,11,11Pro,and later models.You will be able to keep playing music using your original 3.5mm headphones / aux cable in car.",
+      "\u3010Plug and play\u3011:The iPhone aux adapter uses high-quality ABS material,the latest version of the chip for manufacturing.Exquisite and compact appearance.Easy to carry with you can put it into a backpack or handbag relievedly if you often go out.The music lovers' trend is preferred.Recommended gifts to family and friends.",
+      "\u3010High Quality\u3011:Audio + Charge supports up to 24bit 48kHz lossless output,ensuring sound transmission stability and fidelity,which is the first choice for music lovers.(NOTE:This product does not support the call function).",
+      "\u3010Convenient and Stylish Design\u3011:The adapter is made of high quality ABS material.Simple and stylish,easy to carry,easy to put into the bag or pocket.This will be a great choice for sending friends a birthday or holiday gift."
+    ],
+    "reviews": [
+      {
+        "rating": 1.0,
+        "title": "Defective",
+        "text": "Mine developed an internal short. It still works but with static. I have to place it on a flat service without disturbing the connector or else it gets static and the music distorts. This happened with both of them.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 1.0,
+        "title": "Did not like",
+        "text": "Did not like",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "Love the combo",
+        "text": "I have used this to watch a video or listen to music while my phone charges.  I experienced some cutting out of the sound but not sure if it was because the connection got loosened.  I have not yet tried it again.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Belcompany",
+    "tags": [],
+    "price": 9.99
+  },
+  {
+    "id": "prod_wireless_headphones_016",
+    "parent_asin": "B07WWX18K5",
+    "category": "Wireless Headphones",
+    "title": "in-Ear Monitors,\u3000KZ ZSX 1DD+5BA Hybrid HiFi Stereo Noise Isolating Sport IEM Earphones/Earbuds/Headphones with Detachable Cable, Computer (Without MIC, Black)",
+    "description": "SPECIFICATIONS\nBrand:\nKZ\nModel:\nZSX\nDriver:\n1DD+5BA\nConnectivity:\nWired\nEarphone type:\nIn-Ear\nInterface:\n3.5mm plug\nPin type :\n0.75mm 2PIN\nSensitivity:\n111dB/mW\nImpedance:\n24\u2126\nFrequency range:\n7Hz-40kHz\nCable Length:\n125\u00b14cm\nProduct Weight:\n31g\nColor Options:\nPurple/ Black/Cyan\nDetachable cable:\nYes\nMicrophone:\nOptional\nPackage Included:\n1x Pair of KZ-ZSX Earphones  3 x Pairs of Earbud tips(S/M/L)  1 x 2pin Detachable cable 1x User Manual&Warranty Card\n\u30101 year warranty\u3011:\nYou will get 1 year warranty and friendly customer service from the date of purchase. Please feel free to contact us if any problems, we are very happy to provide help for you. Thanks~",
+    "rating": 4.5,
+    "review_count": 118,
+    "features": [
+      "SIX DRIVER SYSTEM \u2013 This earbuds is consist of one dynamic driver and five balanced armature drivers, to deliver a very balanced, powerful and articulate sound stage, create an unbelievable listening expeience for musicians",
+      "EXQUISITE CRAFT - Strong and tough zinc alloy cover and imported resin cavity\uff0ccreating a light luxury craft texture The metal edge is cut-proof, the overall light is elegant, and the long-term use is still shining",
+      "COMPACT AND ERGOMOMIC DESIGN \u2013 Redesign the lower shel from the perspective of ergonomics, improve wearing stability. Lightweight, low-profile shape is designed to rest comfortably in the ears",
+      "DETACHABLE CABLE \u2013 Detachable cable system enables multiple connectivity options for long-term device compatibility, upgrades, and ease of maintenance. We can replace cables to extend the performance of the earphones, and experience different sound quality.",
+      "3.5MM GOLD PLATED PIN - 3.5mm gold plated L type plug, reducing signal transmission loss, compatible with various devices such as computers, tables, mobile phone, players, etc."
+    ],
+    "reviews": [
+      {
+        "rating": 1.0,
+        "title": "There is absolutely no bass, highs screeching high and nothing inbetween",
+        "text": "These do not fit well and hard to keep in ear. My much cheaper earphones sound much better and much more bass. The treble is very high frequency but that is all you hear with this. Buy name brand and they would have more honest advertisement and better quality. I didn't expect to good bass for in ear earphones but this has non whatsoever and the high frequency could ruin your hearing. Maybe after few hundred hours it will sound better so will let you know. In the mean time pay a little more but get name brand.",
+        "verified": true,
+        "helpful_votes": 2
+      },
+      {
+        "rating": 4.0,
+        "title": "Great sound, but a little bulky for an IEM",
+        "text": "There are 6 drivers in here-1 DD and 5 BA, but the housings are pretty big. Definitely deep and will probably stick out of your ears, but sound great (with upgraded cable). For what you are paying, these IEMs are a steal. Sound fantastic. Find the the tips that work for you and upgrade the cable (I bought the 2.5 and 3.5 compatible cables from KBEAR and they are fantastic) and you will get as good of a sound as you will find from your source. Add a quality source (I use a Radsone EarStudio) and enjoy high quality sound on a budget.",
+        "verified": false,
+        "helpful_votes": 6
+      }
+    ],
+    "store": "erjigo",
+    "tags": [],
+    "price": 64.99
+  },
+  {
+    "id": "prod_wireless_headphones_036",
+    "parent_asin": "B074H1KSG7",
+    "category": "Wireless Headphones",
+    "title": "Studio 2/3 Replacement Earpads, JARMOR Memory Foam Ear Cushion Pads Cover for Beats Studio 2.0 Wired/Wireless B0500 / B0501 & Studio 3.0 Over Ear Headphones by Dr. Dre ONLY (Blue)",
+    "description": "",
+    "rating": 4.5,
+    "review_count": 551,
+    "features": [
+      "COMPATIBLE: These ear pads are compatible for Beats Studio 2 / 3 Wired / Wireless B0500 / B0501 Over Ear Headphones by Dr. Dre ONLY. ( DOES NOT FIT STUDIO 1 & SOLO 2.0 )",
+      "STRONG ADHESIVE: 3M VHB adhesive on the back of the earpads will make sure that your ear pads will never fall off.",
+      "EASY INSTALLATION: Easy to install and use, one of the ear pads has a notch for Beat Studio headphone's charger.",
+      "ENHANCED SOUND: Memory foam to enhance noise blocking provides perfect listening experience.",
+      "COMFORTABLE&DURABLE: Made of durable protein leather, ear pads have a smooth surface and comfortable touch. 30-Day Money Back Guarantee!"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Perfect",
+        "text": "Made my beats look brand new. Instruction manual was super helpful and easy. Awesome quality and on time. Pics attached. Thank you!!",
+        "verified": true,
+        "helpful_votes": 6
+      },
+      {
+        "rating": 5.0,
+        "title": "Beats are like new again",
+        "text": "Got these for my daughter\u2019s Beats. Fairly easy to install and made them look new again.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 3.0,
+        "title": "do not buy, spend a little more money for better quality ones",
+        "text": "Product finish looks good but the tape it comes with to attach to headphones is not of good quality, I followed the instructions and left them wrapping books over night as instructed and only one of the pads stayed attached properly to the headphones. Because of this I am returning them.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Good product.",
+        "text": "These two earpads fits my headphone well. It saves my money since I don't need to buy a new headphone.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 3.0,
+        "title": "Work fine",
+        "text": "Good rubber.  3m tape could have been alittle better.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Jarmor",
+    "tags": [],
+    "price": 17.99
+  },
+  {
+    "id": "prod_wireless_headphones_154",
+    "parent_asin": "B08RD7N9RL",
+    "category": "Wireless Headphones",
+    "title": "Seltureone Silicone Case Cover for AirPods Max, Anti-Scratch No Yellowing Accessories for AirPods Max, Precise Fit, Scratch-Resistant, Lightweight and Stylish (Green)",
+    "description": "",
+    "rating": 4.3,
+    "review_count": 274,
+    "features": [
+      "\u3010Tightly Fit\u3011Precise cutting AirPods Max covers, perfectly match with AirPods Max, does not affect the headphone functions, convenient to use and charge",
+      "\u3010Excellent Scratch-resistant Protection\u3011AirPods Max cover surface treated with special process, Anti-Scratch, Anti-slip and Anti-dirt, easy to clean and maintain",
+      "\u3010Lightweight Silicone Material\u3011These AirPods Max covers are made of high-quality silicone material, soft and comfortable, fit the AirPods Max curves, provide good touch and protection. Adding virtually no discernible weight",
+      "\u3010Easy To Use\u3011Easy to install and remove AirPods Max cover, no need for any tools or skills. Light weight, does not increase volume, easy to carry and store",
+      "\u3010Fashionable\u3011Multiple colors available AirPods Max covers, make your headphones more fashionable and personalized"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Fit perfect",
+        "text": "Face some reason I was expecting these to be a different material than they were but I\u2019m actually glad with the material that they are and how they fit perfectly on my AirPods.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 1.0,
+        "title": "Yellow",
+        "text": "They turned yellow almost immediately",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 2.0,
+        "title": "Yellowing?",
+        "text": "I\u2019ve had these for less than a month and really love them. Easy to put on and stay put. Today I noticed that one of covers is starting to yellow. I don\u2019t typically keep my headphones anywhere except on my head or in the case, so i have not gotten them dirty to cause this. Anyone else?",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Must Buy",
+        "text": "Excellent product. Highly recommend to protect a very expensive headphones. Quick delivery.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Would freely recommend",
+        "text": "Item works as described. It\u2019s very slim, barely adds to the bulk of the AirPods Max. I would recommend this product to anyone looking for a bespoke way to protect their investment.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Seltureone",
+    "tags": [],
+    "price": 8.99
+  },
+  {
+    "id": "prod_wireless_headphones_056",
+    "parent_asin": "B09GG9M8J6",
+    "category": "Wireless Headphones",
+    "title": "Lightning to Dual 6.35mm 1/4\" TS Mono Stereo Y-Cable Splitter Lightning to Dual 1/4 inch Audio Cable Compatible for iPhone14/13/12/11/X/8/7/iPad,Amplifier, Speaker, Headphone, Mixing Console 3.3Feet",
+    "description": "SIZE:3.3 feet Amazing sound quality This lightning to dual 6.35mm mm dual audio cable uses oxygen-free copper and triple shielding to provide maximum conductivity and durability, and to ensure excellent sound quality.  Multiple internal shielding Oxygen-free copper, triple shielding, increase anti-interference ability, and ensure superior sound quality fidelity. The enhanced signal clarity is very suitable for studio or live performances.  Application:  Connect speakers to portable audio equipment, guitars, speaker functions, etc. Connect iphone to amplifier or other audio-visual equipment This Lightning to 6.35 mm 1/4\" TS mono Y-cable splitter is ideal for connecting laptops or PCs with jack speaker outputs to devices with 2 x 6.35 mm jack inputs-such as mixing Station. Features: High-quality zinc alloy shell, nylon mesh, long service life Package content Lightning to 2 x 6.35 mm Y-cable x1. High-quality 24K gold-plated connectors provide better corrosion resistance and signal transmission. The double-layer nylon braid can prevent the cable from being pulled over the harsh installation of sharp edges. Prevent it from being scratched. The zinc alloy shell prevents scratches and rust, and is more durable.",
+    "rating": 4.5,
+    "review_count": 287,
+    "features": [
+      "Wide compatibility: Lightning to 6.35mm male 1/4 inch auxiliary jack adapter cable for iPhone connects iPhone/iPad/iPod to a 6.35mm stereo jack, such as amplifiers, speakers, headphones, home theater, tuning Sound table. Tip: Not suitable for recording from 6.35mm to iOS port.",
+      "Plug and play:Connect a mobile phone, speaker, laptop or PC with a Lightning jack speaker output to a device with a 2 x 6.35 mm jack input. The 24K gold-plated connectors are corrosion resistant and ensure the best sound quality. No need to install drivers, plug and play",
+      "High-quality wire: nylon braid protects your cable. This Lightning to dual 6.35 mm mono plug audio cable is equipped with a nylon braid to prevent scratches and abrasion and prolong its service life.",
+      "Hi-Fi Sound Quality: We use high-quality copper shields to ensure high-fidelity sound quality and provide maximum conductivity and durability. Especially suitable for recording studios or live performances. It can transmit high-purity audio signals with minimal loss, bringing you a different listening experience.",
+      "What You Get: Lightning to 6.35mm 1/4 stereo cable \u00d71."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Works with iPhone 13",
+        "text": "This appears to use analog out over Lighting rather than having a DAC in the cable. Evidence is that there is volume control similar to using headphones rather than the no volume when plugged into an audio interface. Also if you touch the connector while plugged into speakers you get the sort of popping and cracking found when messing with a headphone cable.<br /><br />So in summary, it just works.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "A+++",
+        "text": "Arrived quickly, in perfect shape and works perfectly! Thank you!",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "Works great",
+        "text": "Works great! Just the  right size n length",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "WORLDBOYU",
+    "tags": [],
+    "price": 16.99
+  },
+  {
+    "id": "prod_wireless_headphones_130",
+    "parent_asin": "B08466L7BV",
+    "category": "Wireless Headphones",
+    "title": "ELFRhino Headphone Case Cord Organizer Earbuds Holder Earphones Case Wrap Winder Headset Keeper Cord Manager Cable Organizer Black",
+    "description": "",
+    "rating": 4.4,
+    "review_count": 8906,
+    "features": [
+      "High quality Silicone material for durable use, natural color",
+      "The metallic snap for easy opening and closing, easily winds all kinds of cables and cords within seconds",
+      "Compact and classic design, fashion and practical, soft and flexible, convenient to carry",
+      "Releases earbuds instantly and tangle-free with a single pull, make your life easier",
+      "Small size to fit easily in pockets, purses or bags, a great option for an organized home or workplace. Package Includes: 1 X Earphone Winder, please note that earphone is not included!"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Nice",
+        "text": "Just what I wanted",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "great!",
+        "text": "organizes my earpiece and keeps it always handy and neat",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Keep it wrapped up",
+        "text": "Works great!",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Good for preserving cords",
+        "text": "Good for keeping cords organized",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "Nice",
+        "text": "Nice colors and good function.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "ELFRhino",
+    "tags": [],
+    "price": 6.49
+  },
+  {
+    "id": "prod_wireless_headphones_179",
+    "parent_asin": "B01N322FR3",
+    "category": "Wireless Headphones",
+    "title": "Mi in-Ear Headphones Basic (Silver)",
+    "description": "Mi In-Ear Headphones Basic (Silver)",
+    "rating": 4.3,
+    "review_count": 4575,
+    "features": [
+      "Mi In-Ear Headphones Basic (Silver)"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Excelente sonido",
+        "text": "Excelente",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Xiaomi",
+    "tags": [],
+    "price": 14.99
+  },
+  {
+    "id": "prod_wireless_headphones_083",
+    "parent_asin": "B092TTGTWM",
+    "category": "Wireless Headphones",
+    "title": "FooHOOK Cute Airpod Case, 3D Cartoon Funny Protection Case Covering The Skin Silicone Material, with Keychain for Airpods 1&2 (Lemonade)",
+    "description": "Made of high quality and durable organic silicone, dustproof, anti-fingerprint, anti-collision, multi-function protection.Accurate opening, the bottom charging port gives you free access to the charging port without removing the protective case.uitable for Valentine's Day, Children's Day, Christmas, birthday, anniversary and other important holidays, as a gift for girlfriends, boyfriends, parents, children and friends.Package Included1pcs Air pods case ( Not Include AirPods Charging)1pcs keycha",
+    "rating": 4.7,
+    "review_count": 76,
+    "features": [
+      "\u3010Creatively Designed Appearance\u3011 Designed specifically for the first and second generations of AirPods, it looks very unique and fashionable. The funny and fancy cartoon shape makes AirPods unique, like a beautiful pretty decoration.",
+      "\u3010High-quality Silicone\u3011 High-quality silicone material, good elasticity, not afraid of pulling, squeezing does not deform, and the soft material will not cause scratches on the surface of the charging box.",
+      "\u3010Protect the AirPods Charging Case\u3011 The AirPods charging case is smooth and small in appearance, easy to slip from the hand, this protective cover can protect the AirPods from accidental drops and hard objects scratching, without worrying about AirPods damage.",
+      "\u3010Accurate Hole Position\u3011 The charging hole position at the bottom is very accurate, and it will not affect the wired charging at all. It can charge AirPods without removing the protective case.",
+      "\u3010Gifts\u3011 On the occasion of important holidays, the beautifully designed and colorful AirPods protective shell is a good gift for family, friends and children. This will receive welcome and praise."
+    ],
+    "reviews": [
+      {
+        "rating": 3.0,
+        "title": "It\u2019s okay",
+        "text": "Kind of bulky case, looks cute but I had to switch to a more basic one so it wouldn\u2019t take up that much room.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "FooHOOK",
+    "tags": [],
+    "price": 9.99
   }
 ]

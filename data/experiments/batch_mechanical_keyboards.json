@@ -1,342 +1,1013 @@
 [
   {
-    "id": "prod_keyboards_019",
+    "id": "prod_mechanical_keyboards_048",
+    "parent_asin": "B0BL7M3NPP",
     "category": "Mechanical Keyboards",
-    "title": "Lofree Flow",
-    "base_price": 159.0,
+    "title": "Happy Balls PBT Keycaps Backlit Cherry MX Keycap Set Doubleshot OEM Profile Translucent with Keycap Puller for US Layout 61 87 104 108 MX Switches Mechanical Keyboard (Blue White Combo)",
+    "description": "",
     "rating": 4.3,
-    "review_count": 1547,
-    "attributes": {
-      "switch_type": "Brown (Tactile)",
-      "layout": "Full-size",
-      "connectivity": "Wireless/Bluetooth/2.4G"
-    },
-    "tags": [
-      "Low Profile",
-      "Smooth"
-    ]
+    "review_count": 103,
+    "features": [
+      "This keycap set contain 109pcs pbt backlit keycaps and 1pcs key puller",
+      "It can fit most Standard US layout 61/ 87 TKL / 104 / 108 mx switches mechanical keyboards",
+      "Excellent double shot craftsmanship, shine through the keycaps no light leakage",
+      "The height is OEM profile, the thickness is about 1.4mm",
+      "Note: Some non standard US layout mechanical keyboards can't use this keyset. Because the size of the space bar / enter key / shfit key and win keys are different. You also can confirm with us, if you are not sure the keycaps size of your keyboard, if the key have some damage, you also can tell us and we will slove your problem"
+    ],
+    "reviews": [
+      {
+        "rating": 4.0,
+        "title": "Good quality!",
+        "text": "The thickness is nice and has a good feel when typing. I personally like the font on these keys compared to a lot of the others found on Amazon. It's very clean and sleek. The colors are very pastel though, so in some lightings it's hard to differentiate between the two colors as there's not much contrast. I eventually just switched out the pastel purple caps for darker purple caps I already had. Overall they're really nice and fit my Anne Pro 2 perfectly. (Bonus: The case for storing the keys is also pretty fancy).",
+        "verified": true,
+        "helpful_votes": 10
+      },
+      {
+        "rating": 4.0,
+        "title": "Poor man's white fox.",
+        "text": "I put them on a Quisan Magicforce 68 key mechanical keyboard. The legends and not as pronounced / readable as the stock key caps, they also seat closer to the board which leads to a shorter key press. Quite happy with the product for the price. They feel very nice.<br /><br />Look grey in the photos but are bright white.",
+        "verified": true,
+        "helpful_votes": 8
+      },
+      {
+        "rating": 5.0,
+        "title": "A great replacement for any stock ABS keycaps",
+        "text": "A great replacement for any stock ABS keycaps! Not the highest quality PBT, but still thicker than ABS and its doubleshot with clean text. Some compatibility issues with space bar and shift keys(or any larger keys), due to these not having stabalizers. So they wiggle a little bit. But not uncomfortable or hard to use if you deal with it.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "Amazing build quality!",
+        "text": "These key caps are as advertised. Very high quality key caps with a variety of colors available. Was shipped in a very organize box with the keys all separated so you dont have to dig through the box to find any particular keys. So far I am satisfy with the product. Will see how it holds up",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Five Stars",
+        "text": "Excellent keycaps for the price..",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Happy Balls",
+    "tags": [],
+    "price": 25.19
   },
   {
-    "id": "prod_keyboards_018",
+    "id": "prod_mechanical_keyboards_097",
+    "parent_asin": "B07P71MGX3",
     "category": "Mechanical Keyboards",
-    "title": "MelGeek Mojo84",
-    "base_price": 199.0,
-    "rating": 4.5,
-    "review_count": 387,
-    "attributes": {
-      "switch_type": "Brown (Tactile)",
-      "layout": "75%",
-      "connectivity": "Wireless/Bluetooth/2.4G"
-    },
-    "tags": [
-      "See-through",
-      "Gasket"
-    ]
-  },
-  {
-    "id": "prod_keyboards_016",
-    "category": "Mechanical Keyboards",
-    "title": "Das Keyboard 4 Pro",
-    "base_price": 169.0,
-    "rating": 4.4,
-    "review_count": 3411,
-    "attributes": {
-      "switch_type": "Brown (Tactile)",
-      "layout": "Full-size",
-      "connectivity": "Wireless/Bluetooth/2.4G"
-    },
-    "tags": [
-      "Work",
-      "Volume Knob"
-    ]
-  },
-  {
-    "id": "prod_keyboards_001",
-    "category": "Mechanical Keyboards",
-    "title": "Keychron Q1 Pro",
-    "base_price": 199.0,
-    "rating": 4.8,
-    "review_count": 4012,
-    "attributes": {
-      "switch_type": "Magnetic",
-      "layout": "60%",
-      "connectivity": "Wireless/Bluetooth/2.4G"
-    },
-    "tags": [
-      "Custom",
-      "Aluminum"
-    ]
-  },
-  {
-    "id": "prod_keyboards_013",
-    "category": "Mechanical Keyboards",
-    "title": "Epomaker TH80 Pro",
-    "base_price": 99.0,
-    "rating": 4.7,
-    "review_count": 4787,
-    "attributes": {
-      "switch_type": "Red (Linear)",
-      "layout": "Full-size",
-      "connectivity": "Wireless/Bluetooth/2.4G"
-    },
-    "tags": [
-      "75%",
-      "Volume Knob"
-    ]
-  },
-  {
-    "id": "prod_keyboards_004",
-    "category": "Mechanical Keyboards",
-    "title": "Logitech G915 Lightspeed",
-    "base_price": 249.99,
-    "rating": 4.7,
-    "review_count": 996,
-    "attributes": {
-      "switch_type": "Red (Linear)",
-      "layout": "75%",
-      "connectivity": "Wireless/Bluetooth/2.4G"
-    },
-    "tags": [
-      "Gaming",
-      "Wireless"
-    ]
-  },
-  {
-    "id": "prod_keyboards_005",
-    "category": "Mechanical Keyboards",
-    "title": "Razer BlackWidow V4",
-    "base_price": 169.99,
-    "rating": 3.8,
-    "review_count": 4165,
-    "attributes": {
-      "switch_type": "Brown (Tactile)",
-      "layout": "60%",
-      "connectivity": "Wireless/Bluetooth/2.4G"
-    },
-    "tags": [
-      "Gaming",
-      "RGB"
-    ]
-  },
-  {
-    "id": "prod_keyboards_007",
-    "category": "Mechanical Keyboards",
-    "title": "SteelSeries Apex Pro",
-    "base_price": 199.99,
-    "rating": 3.6,
-    "review_count": 3360,
-    "attributes": {
-      "switch_type": "Blue (Clicky)",
-      "layout": "75%",
-      "connectivity": "Wireless/Bluetooth/2.4G"
-    },
-    "tags": [
-      "OLED",
-      "Adjustable"
-    ]
-  },
-  {
-    "id": "prod_keyboards_015",
-    "category": "Mechanical Keyboards",
-    "title": "Ducky One 3 Mini",
-    "base_price": 119.0,
-    "rating": 3.5,
-    "review_count": 1737,
-    "attributes": {
-      "switch_type": "Red (Linear)",
-      "layout": "TKL",
-      "connectivity": "Wireless/Bluetooth/2.4G"
-    },
-    "tags": [
-      "Typing",
-      "Acoustics"
-    ]
-  },
-  {
-    "id": "prod_keyboards_014",
-    "category": "Mechanical Keyboards",
-    "title": "Royal Kludge RK61",
-    "base_price": 49.99,
-    "rating": 4.5,
-    "review_count": 977,
-    "attributes": {
-      "switch_type": "Brown (Tactile)",
-      "layout": "65%",
-      "connectivity": "Wireless/Bluetooth/2.4G"
-    },
-    "tags": [
-      "Entry Level",
-      "60%"
-    ]
-  },
-  {
-    "id": "prod_keyboards_012",
-    "category": "Mechanical Keyboards",
-    "title": "Akko 3068B Plus",
-    "base_price": 89.99,
+    "title": "YMDK ANSI ISO PBT Doubleshot Shine Through Pudding Keycaps Suitable for MX Mechanical Keyboard Corsair Razer SF KBD75 Tada68 DZ60 (Black Pudding Full Set)(Only Keycap)",
+    "description": "",
     "rating": 4.6,
-    "review_count": 1377,
-    "attributes": {
-      "switch_type": "Red (Linear)",
-      "layout": "Full-size",
-      "connectivity": "Wireless/Bluetooth/2.4G"
-    },
-    "tags": [
-      "Budget",
-      "Wireless"
-    ]
+    "review_count": 247,
+    "features": [],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Looks great, shows off my RGB light on my Keychron  K4 now.",
+        "text": "[[VIDEOID:2f9f1dbaca0dc20e2ddfad733f0e051c]] Looks great, shows off my RGB lights on my Keychron  K4 now.  The only downside is not having the function icons on the keys anymore. I\u2019ll have to work on getting some little stickers.<br />Edit:Added a Movie Clip",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "Great but some keys may not be suitable for your keyboard",
+        "text": "they look really pretty tbh. However some keys had fitment issues. The spacebar had their slots just a little bit off so it couldnt fit. The caps lock is upside down. The windows and menu keys did not like being next to other keys. Other than that, the rest of the keys fit great.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "They work great",
+        "text": "[[VIDEOID:eaa9e5229cc02ed31da7ef98d0a78ee4]] Replaced the most of my bottom row on my keyboard with these key caps.  They are good, the LED shines through and it really nice! for Corsair keyboards.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "Quality can be improved but overall great price and compatibility",
+        "text": "One of the few sets that actually fit my K95 (Corsair bottom row) Plenty of extra pieces for other keyboards too. The color black of these pieces appear much more grey compared to he caps my keyboard came with. And each piece has a little dimple at the top where they were cast or molded. Not the end of the world, but other sets don't have that. Also found small imperfections in several pieces. Time will tell how they do over prolonged use. Pretty good for the price, solid 4 of 5.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Just what I needed",
+        "text": "I wanted some keycaps to match the theme of my keyboard but it's a struggle finding keycaps that fit the sizing of R1 on a Corsair keyboard. This is exactly what I needed!",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Razer",
+    "tags": [],
+    "price": 29.9
   },
   {
-    "id": "prod_keyboards_006",
+    "id": "prod_mechanical_keyboards_071",
+    "parent_asin": "B094G66YLD",
     "category": "Mechanical Keyboards",
-    "title": "Corsair K70 MAX",
-    "base_price": 229.99,
-    "rating": 4.4,
-    "review_count": 482,
-    "attributes": {
-      "switch_type": "Magnetic",
-      "layout": "Full-size",
-      "connectivity": "Wireless/Bluetooth/2.4G"
-    },
-    "tags": [
-      "Magnetic",
-      "Rapid Trigger"
-    ]
+    "title": "MECHKYP Handmade Koi Fish Backlit Resin Keycap R4/Esc Artisan Keycap Shine Through Translucent Key Cap OEM Profile for Cherry MX Gaming Mechanical Keyboard DIY Replace (Blue)",
+    "description": "",
+    "rating": 4.6,
+    "review_count": 18,
+    "features": [
+      "1. \u3010Height/Size\u3011: OEM Profile, 1u,R4/Esc Keycap.",
+      "2. \u3010Universal Compatibility\u3011: 100% fit for All Cherry MX Gateron MX Kailh MX and All Other MX Switches Mechanical Keyboard. Such As corsair,Filco,ikbc,Keycool, Ducky, Ganss...etc mounted All MX Switch Mechanical Keyboards.",
+      "3.\u3010High Quality\u3011: Strong and Durable,It Made of Premium Thick Resin to Ensure Endless Amounts of Gaming.",
+      "4. \u3010Design\u3011: Depicts the Water is Clear,Two Koi Fish and Algae are visible. When you Use it with Backlit,a Vivid Picture is Present to Your Eye. It was a Rare Pleasure to See Such A Beautiful View,After A Long Time of Typing or Gaming.",
+      "5.\u3010Good Both as A Present and for Personal Use\u3011:1 Pcs Keycap+Keycap Puller+Instructions. Nice Metal Gift Box Packing.It is a Awesome Gift for Family or Friends on Christmas, Thanksgiving Day, New Year's Day, Birthday,etc.",
+      "6.\u3010Warm Tips\u3011: Perfectionist, Cautiously to Buy !! The Real Looks is Roughly the Same As Showed. But May Not be 100% Exactly Same, Due to The Handicraft has Unique Grain on Every Unit."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Cool",
+        "text": "Cool",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "MECHKYP",
+    "tags": [],
+    "price": 35.88
   },
   {
-    "id": "prod_keyboards_020",
+    "id": "prod_mechanical_keyboards_177",
+    "parent_asin": "B07ZQCS6B1",
     "category": "Mechanical Keyboards",
-    "title": "Anne Pro 2",
-    "base_price": 89.0,
-    "rating": 4.1,
-    "review_count": 3569,
-    "attributes": {
-      "switch_type": "Blue (Clicky)",
-      "layout": "Full-size",
-      "connectivity": "Wireless/Bluetooth/2.4G"
-    },
-    "tags": [
-      "60%",
-      "Software"
-    ]
-  },
-  {
-    "id": "prod_keyboards_011",
-    "category": "Mechanical Keyboards",
-    "title": "Drop CTRL",
-    "base_price": 200.0,
-    "rating": 3.5,
-    "review_count": 2228,
-    "attributes": {
-      "switch_type": "Blue (Clicky)",
-      "layout": "60%",
-      "connectivity": "Wireless/Bluetooth/2.4G"
-    },
-    "tags": [
-      "Hot-Swap",
-      "RGB"
-    ]
-  },
-  {
-    "id": "prod_keyboards_009",
-    "category": "Mechanical Keyboards",
-    "title": "Glorious GMMK Pro",
-    "base_price": 169.99,
-    "rating": 4.0,
-    "review_count": 564,
-    "attributes": {
-      "switch_type": "Blue (Clicky)",
-      "layout": "75%",
-      "connectivity": "Wireless/Bluetooth/2.4G"
-    },
-    "tags": [
-      "Barebones",
-      "75%"
-    ]
-  },
-  {
-    "id": "prod_keyboards_002",
-    "category": "Mechanical Keyboards",
-    "title": "Keychron V1",
-    "base_price": 84.0,
-    "rating": 3.8,
-    "review_count": 817,
-    "attributes": {
-      "switch_type": "Brown (Tactile)",
-      "layout": "65%",
-      "connectivity": "Wireless/Bluetooth/2.4G"
-    },
-    "tags": [
-      "Value",
-      "Knob"
-    ]
-  },
-  {
-    "id": "prod_keyboards_008",
-    "category": "Mechanical Keyboards",
-    "title": "Wooting 60HE",
-    "base_price": 174.99,
-    "rating": 3.9,
-    "review_count": 2470,
-    "attributes": {
-      "switch_type": "Red (Linear)",
-      "layout": "75%",
-      "connectivity": "Wireless/Bluetooth/2.4G"
-    },
-    "tags": [
-      "Esports",
-      "Analog"
-    ]
-  },
-  {
-    "id": "prod_keyboards_003",
-    "category": "Mechanical Keyboards",
-    "title": "NuPhy Air75 V2",
-    "base_price": 119.95,
+    "title": "YMDK Idobao x ID75 75 Keys Ortholinear Layout VIA Anodized Aluminum Case Plate hot-swappable Hot Swap Type C PCB Mechanical Keyboard Kit (Black)",
+    "description": "Idobao x YMDK ID75 75 Keys Ortholinear Layout VIA Anodized Aluminum Case Plate hot-swappable Hot Swap Type C PCB Mechanical Keyboard Kit (Black)",
     "rating": 4.5,
-    "review_count": 4722,
-    "attributes": {
-      "switch_type": "Blue (Clicky)",
-      "layout": "65%",
-      "connectivity": "Wireless/Bluetooth/2.4G"
-    },
-    "tags": [
-      "Low Profile",
-      "Mac"
-    ]
+    "review_count": 33,
+    "features": [],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Excellent keyboard - works with VIA configurator out of the box",
+        "text": "Excellent build quality, just add switches & keycaps and go.  Underglow looks fantastic.  PCB supports through-hole LED switch backlighting, though obviously this would make changing switches more complicated - I'll probably try that on my next build.",
+        "verified": true,
+        "helpful_votes": 4
+      }
+    ],
+    "store": "YMDK",
+    "tags": [],
+    "price": 105.0
   },
   {
-    "id": "prod_keyboards_010",
+    "id": "prod_mechanical_keyboards_081",
+    "parent_asin": "B07J9YGBHM",
     "category": "Mechanical Keyboards",
-    "title": "HHKB Professional Hybrid",
-    "base_price": 307.0,
+    "title": "YMDK GH60 GK61 RGB Hot Swap Independent Driver Tyce-C ANSI Mechanical Keyboard DIY kit Plastic Case CNC Aluminum Case Plate PCB (CNC Alu Cyan)",
+    "description": "Package Included Case + Feet + Screws + GK61 Hot Swap PCB + Alu Silver Plate + USB Cable + Switch Removal Tool \u200b Details The alu keyboard case is made of CNC aluminum sand Blast and then anodized.The plastic case is ABS amoulded. The chipset is MCU 32 bit,8M Flash,3 pcs 256*256*256 RGB drive to support full 16.8 million RGB. PCB has RGB presoldered,it's under per switch.PCB RGB can support by music. There is no switches in the kit,you can order Cherry Gateron Kailh SMD Box switches etc yourself.Just put in switches in is ok,no need soldering again. PCB is programmable with the software GK6x Plus,can download in official sitejikedingzhi dot com",
+    "rating": 4.4,
+    "review_count": 790,
+    "features": [
+      "Package Included:Case + Feet + Screws + GK61 Hot Swap PCB + Alu Plate + USB Cable + Switch Removal Tool",
+      "Pls note:The PCB is fully programmable with GK software,the Fn key is the last key at the bottom and can't change place.",
+      "The chipset is MCU 32 bit,8M Flash,3 pcs 256*256*256 RGB drive to support full 16.8 million RGB.",
+      "PCB has RGB presoldered,it's under per switch.PCB RGB can support by music.",
+      "There is no switches in the kit,you can order Cherry Gateron Kailh SMD Box switches etc yourself.Just put in switches in PCB is ok,no need soldering again."
+    ],
+    "reviews": [
+      {
+        "rating": 4.0,
+        "title": "Great pre-solder build. Comes with two cherry mx blacks and the Bluetooth is tricky.",
+        "text": "Very good build quality overall. It came with two cherry mx black switches for the space bar and the right control keys which is a huge bonus. I purchased the Bluetooth white pcb which is very well built but the Bluetooth is very tricky. I have not been able to set it up yet even when I try to do the \u201cfn+zxc\u201d keys to setup for pairing it doesn\u2019t work. Other than that it was a great purchase for the price and I will eventually figure out the Bluetooth.",
+        "verified": true,
+        "helpful_votes": 9
+      },
+      {
+        "rating": 4.0,
+        "title": "Awesome first kit",
+        "text": "First I want to state why I removed 1 star. I was missing 2 tiny screws that are easy to replace. However, the seller was very quick to reply and gave me all the details I needed to replace it. They even offered to fix the issue for me. But I am ok doing it myself. This is my first board build and I used Kahil Box Navy blues. The board feels amazing and well put together. Great first kit to get started. Can't wait to build my next board and get some more parts to form YMDK. I would choose the faster shipping if you are like me and hate waiting. I did get the board quicker than the projected date.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "Great Kit for the money.",
+        "text": "this is a really great for the money.  fit and finish is really pretty good,  not great, but real good.  the overall design is great, and the implementation is good.  the clip in stabilizers are \"lacking\" but thats not a serious knock on the kit.<br /><br />It is a good kit for the money for sure.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Awesome",
+        "text": "Worked out for the kids.<br />They liked it .",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "EASY TO MOD BAREBONES KIT",
+        "text": "Amazing little 60% board to mod.<br /><br />I bought some switches, and installed them no problem.<br /><br />Stabilizers are not pre lubed<br /><br />Mods listed below<br /><br />1.Tape mod on bottom of PCB<br />2.pennies on the bottom of the inside of the case<br />3.EVA foam inside case<br /><br />Sounds amazing with lubed switches.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "YMDK",
+    "tags": [],
+    "price": 85.0
+  },
+  {
+    "id": "prod_mechanical_keyboards_112",
+    "parent_asin": "B09ZYC84B8",
+    "category": "Mechanical Keyboards",
+    "title": "EPOMAKER Airy 143 Keys ESA Profile ANSI ISO Layout Clear Shine Through Keycaps Set for Mechanical Keyboard, Compatible with MX-Clone Switches Cherry/Gateron/Kailh/Akko/Ajazz Switch(Airy Black)",
+    "description": "",
+    "rating": 4.2,
+    "review_count": 142,
+    "features": [
+      "\u3010EPOMAKER Airy Transparent Keycaps\u3011EPOMAKER Airy Keycaps set is designed to fit on a standard ANSI/ISO keyboard with MX style switches. Perhaps you want to give your favorite AZERTY keyboards a makeover to match the modern design trends? Whatever your taste, we\u2019re positive that this is the right choice for you! Shine-through RGB backlight creates an vivid atmosphere which plays an important role in play-ability and mood",
+      "\u3010ESA Profile, Compatible with MX Switches\u3011From the community, for the community. EPOMAKER ESA Profile is the best practice of our pursue. ESA profile has a angled and spherical top similar to SA profile. The height is medium but not too tall. It provides unique experience unlike other profiles. This profile is considered as a solid option for both gaming and quick or regular typing",
+      "\u3010143 Keys Set, ANSI/ISO Layout Compatible\u3011Apart from the basic full keycaps, this set also contains extra replacement keycaps, including Mac modifiers and ISO special keys, such as big Enter key, 1.25U Shift...Either you are using ANSI standard layout or you are more familiar with ISO layout, we cover it all for you. Simply get one set and meet all needs",
+      "\u3010High-Quality Polycabonate Material with UV Printing\u3011Pursuing an ultimate transparency, this set adopts premium PC material to mould the keycaps and printing the characters through digital printing process. The rigorous production ensures the keycaps survive *wear-resistant and scratch-resistant tests. *Note: the test result comes from the laboratory data may differ from actual usage scenes. Due to the material properties, PC keycaps may still be vulnerable to scratches and hand sweat/oil/cream",
+      "\u3010Increased Compatibility\u3011EPOMAKER Airy Clear keycaps set contains special shift sizes and modifiers like the 1u, 1.75u and 2u SHIFT key, so it is with more possibilities to customize your EPOMAKER keyboard, such as 60%/65%/75%/TKL/96%/1800-compact/100% keyboard. It also has split spacebar keys that you might need. A keycap set that makes your DIY journey worry-free"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Kawaii !!",
+        "text": "Comes with all the keys caps you need, love how smooth it feels. You may need to dim your keyboard brightness, found the light through the clear key caps can hurt your eyes after a while.",
+        "verified": true,
+        "helpful_votes": 3
+      },
+      {
+        "rating": 4.0,
+        "title": "Exceptionally perfect feel EXCEPT no way to find your position!",
+        "text": "I wanted to love these key caps. They look great! They feel superb and their smooth texture is exactly what I wanted.<br /><br />However, two major flaws: I didn't even know this was a thing to consider, but they don't have bumps on the positioning keys \"F\" and \"J\". So if you type a lot and remove your hands from the keys, you need to look down every time to find your position. This interrupts my workflow as a transcriptionist quite a bit. The other disadvantage is that the smooth feel of the material also makes it impossible to keep skin oil, snack residues, etc. from being left behind on these caps, making them somewhat difficult to grip after the first half hour.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "Really nice visual upgrade",
+        "text": "I wanted to upgrade my keyboard\u2019s appearance, and after much Googling I settled on this product. I have a full size 104 key keyboard, and looking at keycaps on various websites makes it seem kinda complicated to know which set I\u2019d need for my specific keyboard (Das Keyboard 4). Some Ctrl keys are wider than others, Spacebars shorter than others, etc. and what I liked about this set is that it includes different length keys and you just use the one that fits your keyboard and ignore the rest.<br /><br />This is my first set of keycaps so I can\u2019t really speak with any knowledge to the quality of the keys, but I\u2019m really happy with how they look. They feel similar to the ones that came with my keyboard but look muuuuch better.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "Fantastic keycap set",
+        "text": "They finally arrived! I plan on putting these keycaps on a 75% keyboard that won't arrive for another couple of months so in the pictures, I only put it on part of my keyboard to test them out. I want to \"preserve\" that new keycap feeling later. :)<br /><br />These keycaps are fairly thick and have the standard PBT texture. The doubleshot legends are quite clear and none of the spacebars are warped! This is a new profile I've never typed on and I can't find much information on the web about it so I included a lot of pictures. I compared them in the pictures to my Ducky keyboard with doubleshot ABS. They actually aren't too different from OEM keycap profile (from the Ducky) height but some of the rows are higher. They're much more shapely and the F and J keys have a deeper dish. Compared to DSA keycaps, they don't seem to be quite as deep dishey overall which I actually prefer.<br />The keycaps fit snug on cherry mx brown stems, more so than my Ducky keycaps. They aren't hard to put on though. Some of the stems have a small part of plastic missing from the MX cross area but it's only a handful of the keycaps and it didn't effect the fit. I've included photos of this as well.<br />Overall they're great keycaps that I won't be using yet until my keyboard for them arrives.",
+        "verified": false,
+        "helpful_votes": 1
+      }
+    ],
+    "store": "EPOMAKER",
+    "tags": [],
+    "price": 45.99
+  },
+  {
+    "id": "prod_mechanical_keyboards_014",
+    "parent_asin": "B09XMPDP58",
+    "category": "Mechanical Keyboards",
+    "title": "JOMKIZ Gold Plated V2 PCB Mount Screw in Stabilizers,Translucent Smokey Keyboard Stabilizers Screw-in Keycap Stabilizers Shaft for Mechanical Keyboard Stabilizers\uff082U 6.25U 7U\uff09",
+    "description": "Note:\n1. Due to the light and screen setting difference, the item's color may be slightly different from the pictures.\n2. Please allow slight dimension difference due to different manual measurements.\nPackage Contents:\n7x 2u Stabilizers\n1x 6.25u Stabilizers\n1x 7u Stabilizers\n36x Washers\n18x small screw",
+    "rating": 3.5,
+    "review_count": 2,
+    "features": [
+      "\u2662Precision Design: Keyboard stabilizers screw-in stabilizers are with new Non-Stripping Wire Design, fits for MX-compatible plate.",
+      "\u2662Strong Stability: The V2 Outer Casing wire are used to prevent the thread from falling off.",
+      "\u2662Gold Plating Process: Using gold-plated stainless steel wire, anti-oxidation and beautiful.",
+      "\u2662Materials:With polymer nylon shell, it has higher hardness.",
+      "\u2662Applicable Scope: Pre-clipped Insert method, no need to clip the feet. Fit for 60% and 80% Keyboard Set."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "No complaints",
+        "text": "No complaints, Would buy again.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "JOMKIZ",
+    "tags": [],
+    "price": 11.19
+  },
+  {
+    "id": "prod_mechanical_keyboards_127",
+    "parent_asin": "B0BCFYMRF2",
+    "category": "Mechanical Keyboards",
+    "title": "Vaydeer 4 Fully Programmable Keys with Floating Window and Macro Multifunctional Keypad, One-Handed Mechanical Keyboard Support NKRO, Hotkeys, One-Click Start, Compatible with iOS,Windows",
+    "description": "",
+    "rating": 4.2,
+    "review_count": 436,
+    "features": [
+      "\ud83d\udda5 User-Friendly Interface and Floating Window\uff1aWith user-friendly interface and real-time floating window, you will never forget the function of the key being used at the moment. This one handed macro mechanical keyboard can make your work faster and more efficient, and make the game experience more comfortable and smooth. Besides, you can carry the macro keyboard anywhere due to the compact and elegant design.",
+      "\ud83d\udda5 OTA Upgrade and Setting Sharing\uff1aThe macro keyboard supports OTA online upgrade. Timely push message reminds you to update the firmware for more useful functions. Easy setting and you can export/import your settings for backup. No more set up for different computers. You can also share your settings with friends. If you have any problems with this one-handed macro mechanical keyboard, please feel free to contact us, we are sure to provide you with a satisfactory solution."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Hey, this is nifty",
+        "text": "JUST GOT THIS LAST NIGHT -- CHECK MY PURCHASE DATE -- AND IT WORKS! FEW MINUTES TO UNDERSTAND THE APP AND CONFIGURATION BUT NOW I'M UP AND FLYING.<br />USING BUTTONS FOR TRANSCRIBING SHORTCUTS; HIGHLIGHTING TEXT, BOLD, UNDERLINE, LARGER, DELETE, PLAY/PAUSE, FORWARD AND REWIND AUDIO/VIDEO TRACKS.<br />9-KEY *DOES* WORK THE GLOBAL APPLE MEDIA KEYS -- PLAY/PAUSE, REV, FFW AND IT WILL SCRUB AUDIO/VIDEO AS NORMAL AKA HOLDING DOWN THE REWIND KEY IN QUICKTIME, FOR EXAMPLE.<br />THE DEPRESSING OF KEYS ARE OLD SCHOOL -- LONG THROW AND LOUD -- BUT WILL GET USED TO.<br />CONTOUR SHUTTLE PRO V2 WILL ALSO GET AN AUDITION.<br />SUPER HAPPY WITH THIS LITTLE CONTROLLER, IT'S A TIDY SQUARE ON THE TABLE, AS WELL. LONG CABLE LEAD.",
+        "verified": true,
+        "helpful_votes": 3
+      },
+      {
+        "rating": 5.0,
+        "title": "Awesome keypad for Day Trading Hotkeys",
+        "text": "This keypad is good quality. Keys are tactile and clicky. Board is solid and no flex. Cable is braided and good quality. Very happy with this device. The programming can be flashed to the hardware so you do NOT need to have the software running for this to work.",
+        "verified": true,
+        "helpful_votes": 2
+      },
+      {
+        "rating": 5.0,
+        "title": "I live the macro board",
+        "text": "I am a software developer and use this everyday. It was easy to program and I love the onscreen UI that tells me what I have mapped to each button.  I also like the ability to store multiple button sets in other \u201cpresets\u201d on the board. Overall it works great and I am glad I picked this up.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 4.0,
+        "title": "very good for the price",
+        "text": "I got this for a few different use such as photoshop, gaming, and other work software.<br />At first, looking at the photo I thought it was a metal case, but it's just a thin metal on the top and everything is plastic. Therefore, it's really light, and when you tap the keys it sounds so hallow, so I end up opening up taping the board, and filling it with some foam. This made a bit better but not much different. As for the software it is easy to use and there are a few layers (profile) settings that you can set it up for different software if needed. Also, the software is very easy to use.<br /><br />Overall for the price, it is a good macro keypad for many different uses.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Nice Additional Keys",
+        "text": "The software couldn\u2019t be any easier to program. Keys have a nice feel to them. You can program up to 6 layers with this software. I use it with my CNC CAD/CAM software for repetitive functions that I use most. I would buy it again.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "VAYDEER",
+    "tags": [],
+    "price": 35.99
+  },
+  {
+    "id": "prod_mechanical_keyboards_163",
+    "parent_asin": "B08MTXTC21",
+    "category": "Mechanical Keyboards",
+    "title": "Kraken Keyboards Double Sleeved Custom Keyboard Cable with Aviator Connector, Fits Type-c, Micro USB, and USB-Mini Mechanical Keyboards (Green)",
+    "description": "Kraken Keyboards Aviator Cable - Custom Keyboard Cable - Paracord USB cable\nOur Kraken Aviator Keyboard Cable is the DRIP your setup needs!\nA Paracord Keyboard Cable adds color and SERIOUS aesthetics to your setup, and also the aviator connector allows you to quickly attach different different cables to your keyboard and/or other accessories. Our custom keyboard cables are 5 foot Paracord usb cables and are double sleeved to make the colors POP! Our keyboard cable uses a 4 pin Aviator connector, and includes 3 usb attachments (USB-C, Mini USB, Micro USB) so it can fit most keyboards on the market!\nThis Keyboard cable works with most of the popular gaming keyboards including: Ducky one 2 mini, Anne Pro 2, Razer Hunstman Mini, GK61, Dierya 60, RK 61, SK61, Hyper X Alloy FPS, and TONS MORE!\nDOES NOT WORK WITH THE FOLLOWING KEYBOARDS: CTRL DROP, CTRL ALT, and other HIGH powered keyboards that specifically require usb 3.0 connections\nFeatures:\nIncludes 3 usb attachments (USB-C, Mini USB, Micro USB) so it can fit most keyboards on the market!\nIncludes 3 usb attachments (USB-C, Mini USB, Micro USB) so it can fit most keyboards on the market!\nParacord Keyboard Cable!\nParacord Keyboard Cable!\nDouble Sleeved for enhanced looks and durability!\nDouble Sleeved for enhanced looks and durability!\nAviator Connector (Easy to connect, and looks AMAZING)\nAviator Connector (Easy to connect, and looks AMAZING)\nChoose your own color\nChoose your own color\n5 Feet long\n5 Feet long",
+    "rating": 4.5,
+    "review_count": 389,
+    "features": [
+      "Includes 3 usb attachments (USB-C, Mini USB, Micro USB) so it can fit most keyboards on the market!",
+      "Aviator Connector (Easy to connect, and looks AMAZING)",
+      "Double Sleeved for enhanced looks and durability!",
+      "5 Feet long"
+    ],
+    "reviews": [
+      {
+        "rating": 3.0,
+        "title": "I liked it very much until it started disconnecting",
+        "text": "I've only had it for a week and the type C end moves and it disconnects from my keyboard.  it's not a lot but enough to power off my key board.<br /><br />But, aside from that little piece of failure, i really like the sturdiness and the quality of the work on it. It's also at a great price.  That's why i'm not returning this item, it's actually really good and as long as the cable is held in place it works great.  Maybe it's my WFH wonky setup.  I would buy more if i needed more cables, but I'm set for life with cables.<br /><br />really nice cable, i would recommend to others.",
+        "verified": true,
+        "helpful_votes": 3
+      },
+      {
+        "rating": 5.0,
+        "title": "Works great",
+        "text": "Purchased for my son.  He says it works great.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "Great upgrade for any Keyboard, best with custom rugged builds.",
+        "text": "I wanted to get a substitute USB-C cable for my keyboard and found this listing. Was intrigued by the interchangeable inputs as well as the mechanical design. The price seemed steep, but the uses, ergonomics and possible durability of the cable seemed like a good investment. Mine came functional with an included \"Kraken Keybaord\" sticker, thank you! The only problem I found was that the USB-C male input was a tad long for my ANNE PRO Clone, a Dierya x Kemove DK61 60% Keyboard. It might be my keyboard's own build quality, or that maybe these cables are meant for more rugged custom boards. If I move my keyboard drastically it might disconnect, but luckily that rarely happens. I'm more than satisfied with the cable, more like enamored. I'd buy again for a future custom keyboard build for sure.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "KRAKEN KEYBOARDS",
+    "tags": [],
+    "price": 39.0
+  },
+  {
+    "id": "prod_mechanical_keyboards_100",
+    "parent_asin": "B09MVGJ2PW",
+    "category": "Mechanical Keyboards",
+    "title": "IDOBAO 10pcs MA Profile Keycaps 1u Ball Shape for Mechanical Keyboard DIY Blank Keycaps (Blue)",
+    "description": "1u MA profile keycaps for DIY",
+    "rating": 5.0,
+    "review_count": 1,
+    "features": [],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Good quality",
+        "text": "Good quality and even better sound. Slightly pricey for the quantity but very much worth it.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "IDOBAO",
+    "tags": [],
+    "price": 7.0
+  },
+  {
+    "id": "prod_mechanical_keyboards_004",
+    "parent_asin": "B071ZZ7MJ5",
+    "category": "Mechanical Keyboards",
+    "title": "NPKC Black Gray Mixed Dolch Thick PBT 104 87 61 Keycaps OEM Profile Key caps for MX Mechanical Keyboard (Only Keycap) (87 Side Print)",
+    "description": "This link is only the keycaps,no keyboard included.The keycap loading board is only to take photo,not included in the sold package.We will pack the keycaps in our own carton. This blank keycap set is no lengend.The printed ones are laser engraved.You can customize your own font and only need to add usd5 for your own font.Nearly all font is ok if can be opened on AI software. The keycap is made of durable PBT material,the thickness is about 1.5mm. Compatiability It can be used for most Cherry MX Gateron MX Kailh MX and all other MX switches keyboard. Incompatiability If the spacebar is 6u 6.5u 7u instead of 6.25u,it can't be compatible,such as some HHKB Cosair .You can order additional keys needed.We will produce special full set for them soon. Some old Cherry keyboard whose Spacebar Capslock back hole is different is not compatible.We have cherry 117 121 keyset owns both special Space and Capslock in other link. Some Costar stabilizer keyboard whose spacebar may be clicky for thick caps.You can adjust the wire or cut the edges of inner spacebar.This is a easy problem.If you have met this problem,just leave us message.We will help you solve it. After Service If some keys missing or broken on the way,just leave us message,we will send you missing or broken ones soon.Don't worry about it and don't leave feedback immediately.",
+    "rating": 4.3,
+    "review_count": 152,
+    "features": [
+      "This link only sells OEM profile Keycaps,no keyboard included.There is a puller presented in package.",
+      "This keycap is made of 90% PBT.The thickness is around 1.5mm.The printed one is laser etched.The blank one is no legend",
+      "This keycap is compatible with most standard ANSI MX switches keyboard whose bottom modifier key is 1x6.25u 7x1.25u.Space is around 11.7cm.",
+      "This YMDK keycap is not compatible with Corsair Razer Keyboard..64 68 75 84 96 keyboard can't use it as well"
+    ],
+    "reviews": [
+      {
+        "rating": 1.0,
+        "title": "Returned",
+        "text": "Returned",
+        "verified": true,
+        "helpful_votes": 3
+      },
+      {
+        "rating": 5.0,
+        "title": "Perfect",
+        "text": "Fit perfectly and feel amazing. Great printing too.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "YMDK",
+    "tags": [],
+    "price": 23.0
+  },
+  {
+    "id": "prod_mechanical_keyboards_042",
+    "parent_asin": "B0B92CBBRB",
+    "category": "Mechanical Keyboards",
+    "title": "Mosptnspg CJXSP PBT 61 Keycaps 60 Percent, Gaming Keycaps OEM Profile Backlit Keycap Set for 60 Percent Cherry MX Mechanical Keyboard GK61 \uff0cOnly keycaps (skyce)",
+    "description": "This 61 mechanical Keyboard caps has a perfect size and it's good for Home and Office use, more practical for Gamers and Typist, give more space to your desktop. Specification: 1. Item: OEM Keycaps 2. Anmount: 61 Features: 1. This keycap set is OEM profile, higher than Cherry profile. 2. The keycap is made of durable PBT material, the thickness is about 1.5mm. 3. It can be used for most Cherry MX, Gateron, Kailh and all other MX switches keyboard. Note 1. Due to the light and screen setting difference, the item's color may be slightly different from the pictures. 2. Please allow slight dimension difference due to different manual measurement. 3. This product is not suitable for all keyboards. Please check the details of the product carefully. 4. Pleast notice that it is only the keycaps, keyboard is not included. Package Contents: 1* Keycaps Set 1* Keyboard cap puller",
+    "rating": 4.4,
+    "review_count": 354,
+    "features": [
+      "Only key cap set : This link only sell OEM profile backlit keycap\uff0cnot keyboard. Package includes a key puller",
+      "ASIN layout : 61 ANSI Standard Layout ,Keycaps Suitable for most 61 key 60% Mechanical Keyboard as GK61/ALT 61",
+      "RGB : Light through Backlit gaming key cap cover to show more dazzling RGB lamp effect on keyboard, letting an amazing amount of shine through",
+      "Comfortable Design : With high-quality PBT material and an anti-grease coating, these keycaps provide top-notch durability and a great feel for your typing",
+      "High quality PBT keycaps : The thickened keycap wall makes the keycap more sturdy and durable. The quality is not lost to those expensive keycaps. OEM profile, higher than Cherry profile"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "So far so good! Note to buyers with costar stabilizers",
+        "text": "Nice quality for the price, easy to install, keys came in a plastic tray so you can store your old keycaps in order if needed. Note to those with costar stabilizers, the key caps do not come with MX Keycap Stabilizer Inserts... so if your old keys are like mine and the old ones are apparently glued in, you'll need these to finish the keyboard. You can find them to 3d print pretty easily.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 1.0,
+        "title": "Printed partially",
+        "text": "The letters are not oriented fully. Bothers me because I can lines through the letters.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "I type so well on these",
+        "text": "I didn't think a different key profile would do much for me, but my accuracy immediately went up with the XDA profile. These were a great price among the similar sets I found and were an affordable way to dive into my first customization. I wanted some kinda retro keys and I just love em!",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Mosptnspg",
+    "tags": [],
+    "price": 19.99
+  },
+  {
+    "id": "prod_mechanical_keyboards_021",
+    "parent_asin": "B09X9BNL7K",
+    "category": "Mechanical Keyboards",
+    "title": "ikbc W200 Wireless Mechanical Keyboard with Cherry MX Red Switch for Windows and Mac OS, Enables Media Key and LED Indicator (2.4G Dongle, USB 2.0, PBT Double Shot 87 Keycaps, Black Color, ANSI/US)",
+    "description": "",
+    "rating": 4.2,
+    "review_count": 59,
+    "features": [
+      "\u25bc Mechanical keyboard with Cherry MX Red Switches (Linear): A linear, lighter but does not have tactile bump and audible click found comparing with Cherry MX Blue switches. Cherry MX Red is ideal for gaming where the low articulation force and linear path allow for quick successive key presses. Typing with Cherry MX Red switches is similar to browns, though it does lack tactile feedback and It is always the best preference for gamers.",
+      "\u25bc A durable computer keyboard with PBT Double Shot keycaps for Ergonomic Keycap Shapes designed to provide you with durable, long lasting and comfortable typing experience.",
+      "\u25bc Plug-And-Play Simplicity. : Setup takes seconds\u2014you simply plug the wireless receiver into a USB port and start using your keyboard right away without software. 100% Anti-ghosting with 6-key Rollover and convenient FN Multimedia Shortcuts Keys.",
+      "\u25bc Other Features : Original Cherry MX Switch-Each Reliable Switches Rated for 50 million Typing Times. Using 2.4Ghz Wireless can Connectivity-Up to 6 Month Long Standby Time. Product structure include the Smart Power Indicator Light and 2 Adjustable Feetstand Height.",
+      "\u25bc What You Can Get: iKBC Cherry MX Red switch mechanical keyboard x1, 2.4G wireless dongle x1 (equipped inside battery area), AAA batteries x2, dust cover x1, key puller x1, user manual x1."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Great",
+        "text": "It meets all my needs. I got it to replace a wireless Velocifire keyboard whose internal battery was dying. I had to plug my old one in everyday as I couldn\u2019t see the key labels without the backlight, and it\u2019s built in battery life decreased from 5 to 1 days over a couple years. So it was essentially wired, while I prefer the wireless aesthetic.<br /><br />This one avoids the backlight killing the battery life as well as internal battery degradation. I can see the key labels fine without a backlight, and it takes replaceable batteries. Battery life should be months without the backlight, and it even has a low battery warning light. No cord to deal with.<br /><br />Seems well built, heavy, and doesn\u2019t slide on the desk. Nice price point. Easy to set up. It even has multiple tilt angle (height) options, although I like it flat. TKL is great to minimize the distance to reach the mouse, improving ergonomics.<br /><br />I went from brown to red switches as that\u2019s all that was in stock, and it was an easy change, although I could tell a slight difference initially.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Quite Loud",
+        "text": "If you can't stand the sound of a clacking keyboard, this isn't for you. It can get quite loud, especially when you're typing fairly quickly. This is probably better for techies who like the intense sound and the tactile key interface. The lighting is also nice. I can recommend this keyboard for those who either live or work alone.<br /><br />Thanks so much for taking the time to read this review.  I hope the information that I've provided helps make your decision a little easier.",
+        "verified": false,
+        "helpful_votes": 2
+      },
+      {
+        "rating": 5.0,
+        "title": "A No-Cable Classic For Writers",
+        "text": "I am not lying: This is hands down the best keyboard for writing I have used in the last twenty years. I liked the older acrylic Apple keyboard and I own a mechanical keyboard with click-switches (blue), but this one makes touch typing so much more comfortable.<br />I wasn\u2019t sure if I would like the tactile keys without click, because I actually like the click. They are just very loud. Logitech\u2019s K845 (with Cherry MX red) is a great keyboard as well, but louder and has a cable.<br />I wish this keyboard would be backlit though. Black keyboards in front of big screens need some sort of illumination. I got one of these USB LED lights that I plugged behind my monitor, that half-solves the problem by providing some backlight.<br />Still it\u2019s awesome to write on it. It\u2019s focus is to be a mechanical keyboard. So much that it seems that it skipped the product design. It looks like an OEM-Keyboard from 1995. That\u2019s in a way uncompromisingly functional, but next to a modern flat butterfly keyboard it looks like someone parked an old Volvo next to a Miata.<br />The quality is good. The keycaps are heavy and lettering sharp. It might be confusing for some that the \u2018upper\u2019 characters are printed next to the main set in the same size.<br />Battery life seems not to be a problem. I am pretty much writing all day, and I\u2019m still on the first set of batteries that came in the package.<br />PROS AND CONS<br />+ Precise keyboard for touch-typing<br />+ Quiet enough for shared work areas<br />+ Height adjustable<br />+ Great quality<br />+ Long Battery life<br />+ Connects via dongle, not Bluetooth (yes, for me that\u2019s a pro. Bluetooth sucks)<br />+ Compact with no number pad<br /><br />- Chunky design<br />- No backlight<br />- Very heavy<br />- Vague keycap lettering<br />- No number pad (*conflict*)<br />I can recommend this keyboard to anyone who is typing over a long amount of times. It takes a while to get used to, but once adjusted it\u2019s less tiring than modern butterfly or rubber cap keyboards, because the keys don\u2019t bottom out that easily, and feel better to the fingertips. I took a few photos. I hope it helps to make a decision.",
+        "verified": false,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "Silent Cherry Red Switches Work Well With Family Room Computer",
+        "text": "While the cherry MX red keys are often used for gaming, I am reviewing this as a typing keyboard in a family room, where the loud clackity clack of a keyboard is unwelcome. And I find this keyboard to be a great solution for such an environment.<br /><br />This keyboard paired so effortlessly with my Mac that I wasn\u2019t even aware it happened. I checked the keys for their mapping, and found them to be as one would expect for a Windows keyboard\u2014just the usual issue with the non-Apple standard keys near the Shift key.<br /><br />It is not \u201cfull-size,\u201d but 80% size, so it is somewhat smaller, but not so much so that you fee cramped.<br /><br />They keys are as silent as advertised. And while an old-school touch typist might miss the \u201cclick\u201d feedback of a mechanical keyboard, these keys have decent travel, so if you are typing, you will have little doubt that you have actually engaged the key. (I can\u2019t talk to gaming with these.)<br /><br />I have had no trouble with the bluetooth connection, nor the responsiveness while typing.<br /><br />If I have any reliability issues, I will be sure to revisit this review as necessary.",
+        "verified": false,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "ikbc",
+    "tags": [],
+    "price": 85.99
+  },
+  {
+    "id": "prod_mechanical_keyboards_130",
+    "parent_asin": "B071W16NVZ",
+    "category": "Mechanical Keyboards",
+    "title": "VELOCIFIRE Tenkeyless Mechanical Keyboard Mini, 78-Key Compact Ergonomic, Outemu Brown Switches Backlit and Double-Shot ABS Keycaps for Copywriter, Typist and Programmer",
+    "description": "",
+    "rating": 4.3,
+    "review_count": 857,
+    "features": [
+      "MUST HAVE- Velocifire mechanical keyboard is designed for copywriter, programmer, editors who spend many hours typing every day. You will get better at typing speed and accuracy through Velocifire mechanical keyboards.",
+      "Durable Brown Switch- Low-noise switches have a tactile bump for feedback with every key-press. It is much QUIETER than Blue Switch but LOUDER than a regular Membrane keyboard. If you never used a mechanical keyboard before, please think about whether you can accept its sound first.",
+      "Compact Design- The compact mechanical keyboard helps save desktop space.Tiny size of compact keyboard makes it possible to share room with a mouse. Users like to have to mouse close to keyboard, since that will be easier to reach.It also serves as a accessory of laptop.",
+      "ANTI-GHOSTING - This is sometime used in place of Key Rollover, but the terminology is incorrect since ghosting is a different (and rare) issue. You will need to do more research to see what key rollover technology is being used. Ghosting is when two or more keys are pressed and a key that was not pressed registers instead.",
+      "Money Back -- Velocifire offers a 30 days money back. We always serve you after the sale!"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "The way to go",
+        "text": "My son needed it in the worst way 4 his failing laptop. It's been excellent in every way... gaming, etc. He loves it. Truly a lifesaver.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 3.0,
+        "title": "Good keyboard",
+        "text": "It's good for the price until you can afford something better.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "ok",
+        "text": "ok",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 3.0,
+        "title": "Huge bargain, but the layout is not right",
+        "text": "This keyboard is a huge bargain, but the layout is not right. The bottom third and fourth rows don't match what you'd expect from a keyboard.<br /><br />If you don't touch-type, then this keyboard is great. If you do, it's not so great.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 2.0,
+        "title": "Sounds horrendous",
+        "text": "So I should start off to say the build quality is good and the switches are nice. My complaint is the noise that is made when bottoming the keys out on the aluminum top. It makes a loud and high pitched ringing noise that is far from pleasant. The small form factor would make it great for gaming however the sound when hitting the keys are is not good. Ultimately it could have been a nice keyboard but it fell short.",
+        "verified": false,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "VELOCIFIRE",
+    "tags": [],
+    "price": 19.72
+  },
+  {
+    "id": "prod_mechanical_keyboards_180",
+    "parent_asin": "B0BG51RYX4",
+    "category": "Mechanical Keyboards",
+    "title": "Gliging 9009 Keycaps Cherry Profile Dye Sublimation 9009 Keycap ANSI Thick PBT for Mechanical Keyboard 61 64 68 87 104 108",
+    "description": "Warm Tips\uff1aIt\u2019s only keycaps, no keyboard included. The keyboard is only for taking photo,not included in the sold package.",
+    "rating": 4.5,
+    "review_count": 55,
+    "features": [
+      "Only Keycaps\uff1aIt\u2019s only keycaps, no keyboard included. The keyboard is only for taking photo,not included in the sold package.",
+      "Multiple Colors\uff1aThere are two additional colors for the key, you can DIY the color of the keycap according to the keyboard style.",
+      "Dye Sublimation\uff1aThe keycaps are made of durable and anti-grease PBT material. Compared with ABS, PBT has better high hardness, wear resistance and high temperature resistance.",
+      "Wide Selection of Keycaps\uff1aConsists of 139 keycaps and other stabilizers, suitable for 90% of 61/87/104/108 mechanical and optical keyboards, as well as any key switches with cross-shaped shafts, ideal for custom mechanical keyboards select.",
+      "Warm Tips\uff1aIf the spacebar is 6u 6.5u instead of 6.25u,it can't be compatible, please read carefully before order."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Good quality, thick keycaps",
+        "text": "Fits my case perfectly. Feels nice and looks nice.",
+        "verified": true,
+        "helpful_votes": 2
+      },
+      {
+        "rating": 5.0,
+        "title": "Good quality and adorable!",
+        "text": "Key caps are textured, but do not feel rough. The textured PBT will keep them from getting shiny as fast (compared to smooth ABS). No print errors. Fit the Cherry switches perfectly. They feel weighty and durable. The plastic is cut cleanly, no rough edges. Nice big font, centered on each key. I am very happy with these.<br /><br />The only thing I am a bit disappointed about is that the special (non-standard) Capslock key does not fit my keyboard; the slot where you are supposed to insert the switch is not centered correctly. But, it isn't enough of a disappointment for me to knock down my rating.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "Perfect!",
+        "text": "These keycaps are made of PBT, which is about the highest grade of plastic that you can get for your keycaps. I love the flatter profile of the XDA keycaps. The print on the keys is very classic, large, and easy to read. This keycap set contains both peach and sea green keycaps for the function keys, space bar, escape, and enter keys. You can mix and match them until your hearts delight. You even get some extra keys for media keys if your keyboard has them, plus menu and function keys. You get a wide variety of keys that will fit most Cherry MX style keyboards easily. The plastic is nice and textured so your fingers won't slip off the keycaps when you are typing on the keyboard. I would highly recommend these keycaps as an upgrade to ABS keycaps, and for customizing your keyboard in a cute vintage style.",
+        "verified": false,
+        "helpful_votes": 1
+      }
+    ],
+    "store": "Gliging",
+    "tags": [],
+    "price": 29.99
+  },
+  {
+    "id": "prod_mechanical_keyboards_116",
+    "parent_asin": "B0915YWQZ8",
+    "category": "Mechanical Keyboards",
+    "title": "Genuine SMD RGB Cherry MX Switch 3-pin Mechanical Keyboard Speed Silver Mute red Blue Pink Switch (65pcs, Blue 3 pin)",
+    "description": "Size:104 pcs\u00a0\u00a0|\u00a0 Color:Speed Silver 3 pin\nDetails\nThis link is only the shaft and switches for mechanical keyboard,no keyboard and switch tester included.\nCherry switches\nCherry MX Black: Linear Switch,Actuation Force is 60cN\nCherry MX Red: Linear Switch,Actuation Force is 45cN\nCherry MX Pink: A quieter edition of cherry red,called Cherry pink as usual\nCherry MX Blue: Tactile and Clicky Switch,Actuation Force is 50cN\nCherry MX Brown: Tactile and non-clicky switch,Actuation Force is 45cN,it's soft tactile\nCherry MX Silver: Linear switches,40% faster than cherry red,little heavier than red,good for FPS player\nPls note: This switches can be used with PCB smd led,such as GK61 GK64.No switch led hole on the top cover.\n2 pin 4 pin switch plug led can't be used directly with this switches.",
     "rating": 3.9,
-    "review_count": 2938,
-    "attributes": {
-      "switch_type": "Blue (Clicky)",
-      "layout": "60%",
-      "connectivity": "Wireless/Bluetooth/2.4G"
-    },
-    "tags": [
-      "Topre",
-      "Compact"
-    ]
+    "review_count": 57,
+    "features": [
+      "This link is only the shaft and switches for mechanical keyboard,no keyboard and switch tester included.",
+      "Pls note: This switches can be used with PCB smd led,such as GK61 GK64 mechanical edition.",
+      "GK61 optical keyboard can't use it.Optical keyboard need optical switches",
+      "2 pin 4 pin switch led can't be used directly with this switches,such as 2x3x4 and 3mm and 1.8mm leds",
+      "SMD switches uses together with SMD RGB PCB,the effect is much better than normal switches",
+      "Note: During the delivery process, the pins of the switch may touch and bend. This is inevitable. The bent pin can be straightened with nail clippers, which will not affect normal use."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Great Authentic Cherry Switches",
+        "text": "Great authentic Cherry switches. I'm writing this review on them now. They come in a zip loc bag and a few had bent pins. That is to be expected, I always order more than I actually need for this very reason.",
+        "verified": true,
+        "helpful_votes": 2
+      }
+    ],
+    "store": "LUO",
+    "tags": [],
+    "price": 45.99
   },
   {
-    "id": "prod_keyboards_017",
+    "id": "prod_mechanical_keyboards_183",
+    "parent_asin": "B09FF837G6",
     "category": "Mechanical Keyboards",
-    "title": "IQUNIX F97",
-    "base_price": 229.0,
-    "rating": 4.8,
-    "review_count": 2435,
-    "attributes": {
-      "switch_type": "Brown (Tactile)",
-      "layout": "60%",
-      "connectivity": "Wireless/Bluetooth/2.4G"
-    },
-    "tags": [
-      "96%",
-      "Design"
-    ]
+    "title": "Heywood Red Samurai Keycaps, 115 PBT Dye Sub ANSI Layout Keycap Set for Customized/Gasket Mechanical Keyboard-Compatible with Cherry MX Switches and Clones (Only Keycaps)",
+    "description": "WARM TIPS\uff1aThe keyboard in the picture is only for the demo and is not for sale. This set of keycaps is only suit for ANSI standard layout.\nCOMPATIBILITY\nCompatible with standard ANSI 108 104 87 61 Cherry MX, Gateron, Kailh and all other MX switches mechanical keyboard whose space is 6.25u, namely 11.7cm.\nNot Compatible with the spacebar which is 6/6.5/7u;\nNot Compatible with\u00a0 switches fixed by blance beam.\nNot 100% Compatible with some special layout keyboards. Please make sure your keyboard is compatible before placing an order.\nSPECIFICATION\n1.Item: PBT Keycaps\n2.Amount: Basic Kit 104+4 Supplement Kit+Special Shift Kits\n3.Material: PBT\n4.Package Included: 1 * 115\u00a0 PBT keycaps set + keycaps puller",
+    "rating": 4.4,
+    "review_count": 6,
+    "features": [
+      "\ud83e\udde1DYE-SUBLIMATED & NON-BACKLIGHT- These keycaps are made of anti-grease PBT material\uff0cnot allow light shine through from fonts. Compared with ABS, PBT Dye Sublimation is long-lasting, not easy to wear and faded.",
+      "\ud83e\udde1SWITCH & KEYBOARD COMPATIBILITY-Compatible with any key switch with a cross-shaped switches\uff08\u201c+\u201d\uff09 and clones including but not limited to Kaihua, Halo, and Gateron. 115 Keys works with most 61/87/104/108 keyboards.",
+      "\ud83e\udde1CHERRY PROFILE - Ergonomics design for long time use without fatigue at work or in-game. Cherry profile is lower than OEM/SA and higher than XDA/DAS. This kit is suitable for most people and is recommended for newcomers.",
+      "\ud83e\udde1A DECENT GIFT - For esports enthusiast, white-collar worker, student, children, anyone who pursue a unique keyboard with your characteristic. This set of keycaps will be a perfect gift for you to make your keyboard dynamic or comfortable.",
+      "\ud83e\udde1WARM TIMPS-Keycaps only, the keyboard in the picture is only for the demo and is not for sale. ANSI, US layout. This set cannot be used for 64/68/75/84/96 layout which need special keys such as \u201cShift\u201d\uff0c\u201cAlt\u201d etc."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Great Keycaps for the price!!",
+        "text": "When these keycaps came in I wasn't expecting a whole lot because of the price but surprisingly they're actually pretty nice. Usually on cheaper sets like this the legending and print quality can vary quite a bit but these keycaps were really consistent and is on par with some other sets I've had that cost twice as much so that was nice to see. Overall they're pretty great for the price and I honestly recommend them if you if you're looking for \"designer\" style keycaps.",
+        "verified": false,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Beautiful keycaps for designers!",
+        "text": "These keycaps are beautiful! I use photoshop often so I already have the shortcuts memorized but having these keycaps are just so nice regardless. They feel really nice and thick, the printing on them is nice and clear, and I love the color way for them. I dont use this board often even when working in photoshop and really just use this board and keycap set as a decorative piece to add to my collection of keyboards. I love these keycaps!!",
+        "verified": false,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Heywood",
+    "tags": [],
+    "price": 41.99
+  },
+  {
+    "id": "prod_mechanical_keyboards_025",
+    "parent_asin": "B09CTNCBFG",
+    "category": "Mechanical Keyboards",
+    "title": "Wireless 60% Mechanical Gaming Keyboard, 3 Connection Mode Keyboard with Linear Red Switches, Portabl Compact Grey&Black Keyboard, 68 Keys Mini Keyboard for Mac/Windows, Gamer,Typist,Travel,Trip",
+    "description": "",
+    "rating": 4.4,
+    "review_count": 1442,
+    "features": [
+      "\u2705 [ N-Key Rollover Mechanical Keyboard ] All keys non-conflict. This mechanical gaming keyboards allows multiple keys to work simultaneously with high speed. Let you enjoy high-grade games with fast response",
+      "\u2705 [ Linear Red Switches ] Quiet click sound, fast action with small resistance without a tactile bump feel, gamers often prefer Red switches because they are not as springy, and easier to push down faster",
+      "\u2705 [ Compact 60% Mini Gaming Keyboard ] Small size with 68 keys, save more space for your desk. And this mini gaming keyboard keyboard have the perfect size for travel and fits easily into most bags and backpacks",
+      "\u2705 [ 3 Connection Mode Recharging Keyboard ] This mechanical gaming keyboard support both wired and wireless connections, this gaming keyboard can be connected to your PC, laptop, iPad, phone, and more via a 2.4G USB receiver or B1/B2/B3 modes. You can also charge and play simultaneously with the type-c cable. Connect up to 3 devices simultaneously and switch easily, perfect for home, office, outdoor and casual gaming",
+      "\u2705 [ Ergonomic & Durable Wireless Keyboard ] Smooth lines,comfortable feeling and reduce your hand fatigue. Two-Color injection keycaps make this keyboard more durable and lasting"
+    ],
+    "reviews": [
+      {
+        "rating": 4.0,
+        "title": "Constant spring buzzing",
+        "text": "The keyboard is very visually appealing. I do not know if my lack of keyboard knowledge is why I give this 4/5 stars, but there are a few features I do not like. Starting with the positives, the backlight (light blue not changeable) is very appealing and not hard on the eyes, the swappable red switches are nice because I like red, and the linear red switches mean it has a nice click noise when typing. Moving into the cons, there is a bit that is annoying. The most notable, and would probably lower the rating more if I wasn't nice, is the spring noises from the keys. There is a buzzing noise that is left if a key is tapped too hard. This can be fixed by buying lube, but annoying nonetheless. Another feature is the lack of hotkey commands. I write a bit of papers and I usually have multiple tabs open. Trying to hotkey a tab to the left or right side of my screen doesn't work because to use arrow keys, the fn key needs to be held and that doesn't work for the windows hotkey: win+arrow_key. Another annoying hotkey feature is the 'del' key which is fn+n. The n key is in a bit of a bad spot to use the 'delete'' function. Of course, these can all be changed by editing the layers of the keyboard, but it is a long and annoying process that I have not taken the time to do yet. The last issue is the key colors. At night, seeing the gray keys, with the backlight on, is a bit difficult. The second photo attached also has extra keys added, not all of them can be attached to the keyboard because there isn't a spot for it (a bit weird but ok).<br /><br />Pros:<br />nice backlight (not changeable color)<br />clacking linear red switches<br />extra switch colors<br /><br />Cons:<br />Spring noise<br />keyboard's default button layer<br />hard to see switches at night",
+        "verified": true,
+        "helpful_votes": 3
+      },
+      {
+        "rating": 5.0,
+        "title": "I don't believe but, I got too! I'm looking right at it.",
+        "text": "I didn't expect much for under $23 when I got it at the end of 2022. I figured it I'd get a couple of weeks of fun out of it and figure out if I like the form factor.<br /><br />When I took it out of the box it didn't look the same as in the photo. Well, you get an extra set of keys! Not every key but, nothing to sneeze at!<br /><br />It feels good and been holding up well! Other than a squeaky space bar. No issues. Got used to the FN usage and key placement. It's really an amazing value even at $30. I'm sure it's not as premium as the $80+ keyboards but, the value is here!",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "ASMR keyboard",
+        "text": "I LOVE IT!!!! I don't really game but I work in a office and wanted something new and my sister that games showed me this colorful keyboard and I just had to buy it. I am currently using it and I just don't want to stop typing! It has a lot of different color modes and it is just fun to use. I got the white with blue and I would recommend. Also it is loud so keep that in mind.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "Looks neat",
+        "text": "Awesome \ud83d\udc4d\ud83d\ude0e",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Love it",
+        "text": "Very satisfied overall - ergonomic, super comfy (for mechanical keyboard lovers), a lot of different light effects. If it was wireless - would be just priceless",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Camiysn",
+    "tags": [],
+    "price": 39.99
+  },
+  {
+    "id": "prod_mechanical_keyboards_018",
+    "parent_asin": "B0BMPJ61VN",
+    "category": "Mechanical Keyboards",
+    "title": "Wired Keyboard and Mouse Combo, FEDARFOX Full Size Backlit Illuminated Rainbow Keyboard and Mouse Set Gaming Keyboard for Windows, Computer, Desktop, PC,PS (Black)",
+    "description": "Keyboard and Mouse Combo, Compact Full Size Rainbow Keyboard and Mouse Set Backlit Illuminated Mice Keyboard for Windows, Computer, Desktop, PC, Notebook",
+    "rating": 4.0,
+    "review_count": 15,
+    "features": [
+      "Keyboard and Mouse Combo - The wired keyboard is made of aluminum alloy brushed panel, which is sturdy and durable. Plug & Play,the cord of the keyboard and mosue is 1.2m and long enought to connect your PC port.The gaming keyboard features a streamlined layout that is ergonomically designed for gaming or office or home use",
+      "Stylish Keyboard and Practical Design: The newest rainbow keyboard is not like the ordinary keyboard, and made bold innovations such as the removable Hand-Rest (no need screw) ,phone holder and floating keycap are perfectly integrated nto the design, making the keyboard not only have the beauty of technology, but also more practical and worth",
+      "Backlit Gaming Mouse - The wired mouse has Intelligent colorful rainbow breathing lights, design back and go ahead functions of left side button , 4 adjustable Dpi levels(800-1200-2400-3200) and non-slip design, provide accurate positioning and responsive, the gaming experience is more vivid",
+      "Wide Compatibility: It compatible with windows10/8/7, windows vista, windows Xp, mac,Android. Support for PC desktop laptop computer Google TV smart TV, and works well for Ps4 Game / Xbox One",
+      "Easy to Use & Ergonomic Keyboard Mouse - Just plug to your device's port and play , easy to use. Ergonomic design of both wired keyboard and mouse release your hand from fatigue, and the professional mechanical feeling bring you fantastic usage experience"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Solid",
+        "text": "This keyboard and mouse set is solid.  They have a durable aluminum body.  The keys are mechanical in look, but press easy without any noise.  The colors are nice and shine through the keys so you can see which letter it is in the dark.  It gives off just the right amount of light.  They look slick together on a desk and operate well.  Great little set.",
+        "verified": false,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Solid",
+        "text": "This keyboard and mouse set is solid.  They have a durable aluminum body.  The keys are mechanical in look, but press easy without any noise.  The colors are nice and shine through the keys so you can see which letter it is in the dark.  It gives off just the right amount of light.  They look slick together on a desk and operate well.  Great little set.",
+        "verified": false,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 2.0,
+        "title": "Nice keyboard!!",
+        "text": "Updated review.. The mouse quit working after about 12 hours of use. This is disappointing because when it worked it was nice and responsive and was comfortable. When I left the original review everything worked fine..<br /><br />This keyboard looks and works good. The back lighting makes it easy to see in the dark and the keys are precise and feel good while typing. The real aluminum frame is sturdy and looks good too. The phone holder is a nice touch. I would say it's worth it for the price.",
+        "verified": false,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "FEDARFOX",
+    "tags": [],
+    "price": 26.99
+  },
+  {
+    "id": "prod_mechanical_keyboards_028",
+    "parent_asin": "B0951Q3JJF",
+    "category": "Mechanical Keyboards",
+    "title": "Spacebar Keycap,DIY PTB Keycaps,Five-Sided Sublimation Custom Keycaps,6.25U 6.25X Space Keycap OEM Profile Keycaps for DIY Mechanical Keyboard - A Variety of Personalized Patterns Optional (kit11)",
+    "description": "",
+    "rating": 4.5,
+    "review_count": 37,
+    "features": [
+      "\u3010DIY Space Keycaps for Mechanical Keyboard\u3011This keycap kit include Space Keycap and a Keycap Puller, PBT Keycaps, a good choice for you to DIY your mechanical keyboard.",
+      "\u3010PBT Keycaps\u3011This PBT keycaps provide top-notch durability and a great feel for your typing. The zero-shine matte look will last for as long as you use it. This keycap has high color fastness, wear resistance, and no fading.",
+      "\u3010OEM Profile Keycaps\u3011With OEM height, it is suitable for most mechanical keyboards. Using five-sided sublimation process, it feels very good.",
+      "\u3010Perfect For Keyboard Decor\u3011Ergonomic design, Elegant landscape painting design can better decorate your keyboard. Specially designed for mechanical keyboard, exquisite workmanship, easy to install and use.If you already hate the same solid color, it must be a good choice to embellish your keyboard with some patterns.",
+      "\u3010NOTE\uff01\u3011The keyboard in the picture is only for the demo and is not for sale\u3002The kit only keycaps and keycap Puller."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Quality Keycaps",
+        "text": "Quality keycaps.  Well made, and form fitting. Great colors, and good quality.",
+        "verified": false,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Lelukee",
+    "tags": [],
+    "price": 6.99
+  },
+  {
+    "id": "prod_mechanical_keyboards_053",
+    "parent_asin": "B0C4DRM3NZ",
+    "category": "Mechanical Keyboards",
+    "title": "Doohoeek Updated Retro Typewriter Keyboard with White Lighting, Muti-Device Multi-OS Bluetooth & Wired Mechanical Keyboard for Laptops, Vintage Keyboard with Cradle for Mac OS/iOS/Windows/Android",
+    "description": "",
+    "rating": 4.5,
+    "review_count": 70,
+    "features": [
+      "New Version for More Flexibility: The 2022 updated typewriter keyboard is compatible with more operating system (MacOS and iOS) and also simplify the connectivity and switch process with easy connect switch button.",
+      "Retro Typewriter Style Design: The wood finished surface, retro round keys and typewriter-like looks provide good balance between functional keyboard and vintage decoration. Best decors and functional keyboard for your office or home setups.",
+      "Multi-OS with Easy Switch Button: The keyboard is compatible with Mac OS, iOS, Windows and Android operating system and only simply tap on the switch button at the top right corner to change the configiration.",
+      "Pair up to 4 Devices with Seamless Switch: The keyboard supports 3 Bluetooth and 1 wired connectivity. Only simply press switch button at the top right corner to switch between Bluetooth and wired mode. (For more details about Bluetooth connectivity please scroll down to product description)",
+      "Responsive and Fluid Keystrokes for Heavy Users: All key anti-ghosting and lifespan of over 50 million clicks provide fluid and responsive typing experience for writers, gamers, coders, etc.",
+      "Beautiful White Lighting Effects: The various lighting effects allow you to type day or night while decorating your desktop setups . Only need to fiddle with the \u201creturn\u201d bar and left-hand knob to change lighting effects and its brightness.",
+      "Long Lasting Battery: With 2000mah rechargeable battery only about 6 hours charging the keyboard has 16-hour continuouse working time (backlighting on). Note: Working time may vary based on use and computer conditions.",
+      "What You Get: 1 x Retro Typewriter Keyboard, 2 x Blue Switch, 1 x Metal Switch Puller, 1 x USB-C Cable for Charging/Connection, 1 x User Manual; 12-month warranty & a ready support team for any issues."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "LOVE IT",
+        "text": "I absolutely \ud83d\udcaf \u2665\ufe0f love this keyboard! It reminds me of typing class in high school. If you want nostalgia this is your product. It does make a very satisfying loud clicking when typing so do not buy if you need something quiet. Now my sister wants one too!",
+        "verified": true,
+        "helpful_votes": 3
+      },
+      {
+        "rating": 5.0,
+        "title": "I am in love",
+        "text": "I never thought I can fall in love with a keyboard! This keyboard is esthetically beautiful. I love this clicking sound\u2026not quite like the real typewriter but kinda close:)  Light effects make typing even more fun",
+        "verified": true,
+        "helpful_votes": 2
+      },
+      {
+        "rating": 5.0,
+        "title": "Beautiful keyboard",
+        "text": "The keyboard is absolutely unique and stunning, I just received it yesterday so I have not typed on it very much but it seems pretty heavy duty and the back lighting is awesome especially with bad eyesight, The return arm regulates the lights to make it very smooth to adjust, The typewriter knobs actually do the volume on your computer so all in all I do love the keyboard, The wireless feature actually was pretty easy to set up just read the instructions carefully!  I have never spent more than $40 on a keyboard and wireless mouse but I have to tell you well worth it.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 4.0,
+        "title": "nice build. aesthetically interesting looking.",
+        "text": "I tried to return this thinking it has connectivity issues but troubleshot my way to realize it was OS messin' with me.  Glad I gave it a another whirl because it's really nice!  one thing it does do is the lower keys next to the space button are all the same height and my fat lower palm always hits them and sends me to the beginning of the sentence I'm writing.  Annoying and somewhat dangerous for my line of work but I solved it by putting elevation risers at the front raising it approximately another 8-10 degrees.  Would have been nice if it had elevation standoffs as standard equipment.  bluetooth on this is fantastic and responsive.",
+        "verified": true,
+        "helpful_votes": 1
+      }
+    ],
+    "store": "Doohoeek",
+    "tags": [],
+    "price": 109.99
+  },
+  {
+    "id": "prod_mechanical_keyboards_144",
+    "parent_asin": "B09WR1YPBB",
+    "category": "Mechanical Keyboards",
+    "title": "Akko Pink Keycaps Set, Clear Translucent 155-Key ASA Profile Keys with Mac Keycaps Set for Mechanical Keyboard",
+    "description": "",
+    "rating": 4.5,
+    "review_count": 88,
+    "features": [
+      "TRANSPARENT KEYCAPS \u2013 Deliver premium and shining RGB experiences with Akko ASA Clear keycap sets! Made by polycarbonate, the keycap is solid and translucent so that your switches and RGB array can shine through. Characters on the ASA Clear keycaps are processed through UV printing with wear-resistant and scratch-resistant tests, and are not easily wiped off.",
+      "ULTIMATE CUSTOMIZATION FLEXIBILITY \u2013 Comes with Akko ASA profile, the 155-key keycap set is suitable for a variety of layouts including 61-key(60%), 64-key, 68-key (65%), 84-key (75%), 87-key (TKL), 98-Key (Classic 1800), 100-Key (96%), Alice and full 108-key size, and thus offers strong flexibility for keyboard personalization.",
+      "MAC KEYCAPS & NOVELTY KEYS \u2013 The keycap set is designed for both Windows and Mac users, where Mac modifiers CMD/OPT are offered in different sizes. The transparent keycap set also features extra cute animal themed novelty keys for decoration.",
+      "ASA PROFILE \u2013 Akko\u2019s proprietary ASA profile is tailored to offer a more familiar and comfortable typing experience by matching the height for OEM profile while maintaining the aesthetics and spheric top of the classic SA profile.",
+      "FOR MX STRUCTURE SWITCHES \u2013 Compatible with MX structure mechanical switches and mainstream keyboards including but not limited to Cherry, Gateron, Akko and Kailh. Large keys of non-standard layout & stabilizers may not be compatible."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "It feels so nice to type!",
+        "text": "I really like the feel of the glossy keys. I wish more keycaps came with the gloss feel like these. RBG lights look awesome! I want more!!! :)",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "It feels so nice to type!",
+        "text": "I really like the feel of the glossy keys. I wish more keycaps came with the gloss feel like these. RBG lights look awesome! I want more!!! :)",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Impressed",
+        "text": "Very good packaging and acceptable quality",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "Unique keys look cool with RGB. Some drawbacks.",
+        "text": "Pros:<br />- Beautifully and conveniently packaged and organized. Caps come on three trays with plastic film on them so that nothing will have shifted in transit. It's very easy to replace your caps and keep your old set save and organized in the trays, too. Simple to find any specialized keys that you may need in the trays.<br />- Print is easy to see and seems durable/high contrast. No funky fonts that are hard to read.<br />- Looks awesome with RGB.<br /><br />Cons:<br /><br />- There are no tactile nubs on the F and J keys to indicate homerow. As a touch typist, this was almost a dealbreaker.<br />- Color is way off from the images in the description. The images in the description show a clear white color to the keycaps. Along with the \"clear/translucent\" descriptors, I believed I was going to get more of a white/iced translucent look. Nope. The caps are basically colorless clear. They are smooth and glossy with no texture. I left some of the OG white keys on my keyboard to show the color clearly side by side. Not the look I was expecting from the images and description.<br /><br />Good to know:<br /><br />- I've never used ASA profile before, and generally prefer XDA, so these are a little taller than I'm used to on XDA, but more rounded (and, I think, more comfortable, than OEM. I had some lousy stock OEM caps on my old keyboard, and I do feel these caps are an improvement. They are sufficiently dense, and give me a slightly deeper, more muted sound from my keypresses with my brown switches, which I like, compared to the more plasticky/hollow caps that were original to my board.<br />- Despite having a glossy finish, I don't find these keys to be slippery--the slight curvature leads your fingertips toward the center of the keys easily and they're comfortable to use.<br />- I really hate that there are no homerow nubs. Who skips that? Come on.",
+        "verified": false,
+        "helpful_votes": 6
+      },
+      {
+        "rating": 4.0,
+        "title": "No tactile bumps on F and J, amazing for backlighting",
+        "text": "I have the \u201cWhite\u201d color option in this set of keycaps from Akko. White is a bit misleading, the color is actually glossy and nearly translucent. This is actually what I wanted, I was looking all over for nearly clear keycaps, but I did want to point that out.<br /><br />If you like maximum backlighting, this might be the set for you. I was using white pudding caps before, and I thought they let a lot of light shine through. The difference is night and day. These Akko caps show backlighting on all sides and the top of the cap. I\u2019ve included a picture of a white pudding cap surrounded by the clear Akkos to show the difference.<br /><br />I\u2019m using the keycaps with Akko Vintage White (MX) switches. The keycaps fit well, but they took a bit of force to fit on the switches.<br /><br />I am disappointed the F and J keys do not have ridges or bumps. I\u2019m a touch typist and using an ergo board with 56 keys, I rely on those ridges to help me orient my hands. This set has so much variety that I wish Akko had included doubles of F and J or even blanks with the ridges.<br /><br />Speaking of keycap variety: the set has some great 1u options! My current keyboard is an Iris Rev 6, all keys are 1u size. But most keycap sets don\u2019t have 1u keycaps for Shift, Control, Command/Windows, and so on. This set does, which is a big help. I also like the cute animal keycaps, they add some fun to my board.<br /><br />I believe the ASA height is original to Akko. They have a helpful height chart on their site, comparing ASA to OEM, JDA, OSA, and Cherry. I was using OEM before, and switching to ASA and the glossy feel of the keycaps took about two days of adjustment.",
+        "verified": false,
+        "helpful_votes": 4
+      }
+    ],
+    "store": "Akko",
+    "tags": [],
+    "price": 39.99
+  },
+  {
+    "id": "prod_mechanical_keyboards_188",
+    "parent_asin": "B07GTD2Z72",
+    "category": "Mechanical Keyboards",
+    "title": "YMDK GH60 64 Minila PCB Type C Fully Programmable QMK VIA for DIY Mechanical Keyboard Poker Faceu HHKB Support LED (Black QMK No Underglow)",
+    "description": "1.This is the link only for keyboard PCB board,no keyboard included.It's flashed with firmware already and support LED adding.It supports both ANSI and ISO layout. 2. Black gold pad PCB is QMK PCB which supports the layout in image as well as Backspace split to 2x1u Lshift split to 1.25u+1u Rshift split to 1.75u+1u 3. Manual Black PCB QMK drive.google.com/file/d/1mH55MzYKdZa5G7SBaFoLjncoDW5Hdz3V/view?usp=sharing Black PCB VIA manualsdrive.google.com/file/d/1iHBv3uwBLPdGaUBeAcrGn9RgJLEhqn0k/view?usp=sharing",
+    "rating": 4.0,
+    "review_count": 46,
+    "features": [
+      "Package included: 1x Black QMK Type C Connector PCB,no underglow RGB",
+      "All resistors chipset is presoldered.However it's not hotswap,you need solder switches on yourself",
+      "It supports most 61 64 Minila layout.Can see the image for all supported layout",
+      "QMK PCB is programmed with QMK firmware.Can find manuals link in detail page",
+      "New edition support all 61 64 layout as the image show,you need to use the plate which support these layout at the same time to support the layout you prefer."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "!!!!!Great PCB!!!!!!!!",
+        "text": "Used this for my Switch Couture Electrotype60 amazing PCB and pretty easy to solder, especially for an amateur solderer like me, definitely will be buying another one when I have another case to build. Fit perfectly, No problems soldering, and definitely came out perfect out of the box, though I don't know how to brighten up the LED nor change the modes, I'm completely fine with the RGB cycle. I'm Typing on my new keyboard as we speak and it works perfectly, no delays, no nothing, just perfect!!!!<br /><br />(I can admit I'm kinda too last to do VIA so I'm just working with it lol)",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "YMDK",
+    "tags": [],
+    "price": 26.9
+  },
+  {
+    "id": "prod_mechanical_keyboards_091",
+    "parent_asin": "B09TP9JZ6F",
+    "category": "Mechanical Keyboards",
+    "title": "EPOMAKER Mix 1.8m Coiled Type-C to USB A TPU Mechanical Keyboard Space Cable with Detachable Aviator Connector for Gaming Keyboard and Cellphone(Grey)",
+    "description": "",
+    "rating": 4.6,
+    "review_count": 628,
+    "features": [
+      "\u3010Epomaker MIX Cable For Keyboards and More\u3011Ideas coming from our community, Epomaker custom MIX cable is designed to matches your keyboard, no matter what type of setup you\u2019re working with. Choose from our different color options, it comes easy for you to match your keyboard and top off your setup. Besides that, this cable features all you want and need: Double-shielded USB 2.0 compliant, 61-gauge, 4-conductor, etc",
+      "\u3010Durable and Flexible\u3011Epomaker custom MIX cable is durable and flexible due to the strict selection of the durable techflex and PP double-sleeves raw materials. The coiled design enables the cables easily to integrate into a wide range of spaces",
+      "\u3010USB-C Interface, USB 2.0/3.0 Compatible\u3011For versatile connectivity, each one is equipped with a detachable aviator port to accommodate different connectors. Included in this run is a USB-C connector cable to fit modern boards",
+      "\u3010Various Colors Choices\u3011The cable is designed in various vivid colors to match different keyboard trend. Epomaker custom MIX cable is dedicated to adding more vibrant energy to your daily life and work. Solid color, contrast colors, or one with various colors like a rainbow? It is up to you! Get one to match your keyboard right away!"
+    ],
+    "reviews": [
+      {
+        "rating": 2.0,
+        "title": "That's not what I expected",
+        "text": "The cable does not have the diameter of the expected coils and the aviator connector is not of good quality. I don't think it will last long.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Nice looking and a great add for keyboard enthusiasts!",
+        "text": "Do you need a cable with an aviator connection?  No, but do you want one? Yes!  I like the mesh sleave on the cable, that gives a premium look and a perceived ruggedness.  I chose the grey so whatever keyboard I hook up (or any USB-c peripheral) it looks nice.<br /><br />Only ding I would give it is that if the keyboard needs to be to the left the cable off the coils is on top and does not look as nice.  If the cable is oriented to the right, it looks better.  I don't have any major issues here, but it is something that shoudl be in the product description maybe.<br /><br />Overall, really nice and glad I bought it!",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "EPOMAKER",
+    "tags": [],
+    "price": 19.99
+  },
+  {
+    "id": "prod_mechanical_keyboards_061",
+    "parent_asin": "B0872GRYH2",
+    "category": "Mechanical Keyboards",
+    "title": "Novelty Allover dye subbed Keycaps spacebar pbt Custom Mechanical Keyboard Luo Tianyi \u30eb\u30aa\u30fb\u30c6\u30f3\u30a4 (Spacebar Luo Tianyi)",
+    "description": "PBT Dye-subbed Spacebar(Only 6.25u Spacebar)-OEM Profile\nAttention:Keycaps only, not including other things.",
+    "rating": 4.6,
+    "review_count": 190,
+    "features": [],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "CUTE!",
+        "text": "Love it so much and so cute in person!",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "KPREPUBLIC",
+    "tags": [],
+    "price": 5.9
   }
 ]

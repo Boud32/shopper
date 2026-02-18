@@ -1,342 +1,1146 @@
 [
   {
-    "id": "prod_mice_020",
+    "id": "prod_gaming_mice_057",
+    "parent_asin": "B0964B44M9",
     "category": "Gaming Mice",
-    "title": "MSI Clutch GM51",
-    "base_price": 99.99,
+    "title": "2 Sets of Hyperslides Rounded Curved Edges Mouse Feet, Mouse Skates, Pads for Logitech MX Master 2S Wireless Mouse Feet Replacement (0.8mm, Smooth Glide, Pure PTFE) Pro Performance Upgrade",
+    "description": "",
     "rating": 4.7,
-    "review_count": 2987,
-    "attributes": {
-      "dpi": "21983",
-      "weight": "75g",
-      "polling_rate": "8000Hz"
-    },
-    "tags": [
-      "Ergo",
-      "Charging Dock"
-    ]
+    "review_count": 24,
+    "features": [
+      "\u2714\ufe0f [High Quality] Replacement mouse feet that increases your control and accuracy by providing the smoothest and most consistent slide",
+      "\u2714\ufe0f [Buttery Smooth] Having a smoother slide helps reduce grip tension which improves accuracy and decreases wrist strain for longer and more enjoyable gaming or work sessions",
+      "\u2714\ufe0f [Exclusionary Tech] Our exclusive technology produces rounded edges for a scratch-free slide right out of the package; no break-in period required",
+      "\u2714\ufe0f [Meticulous Design] Specially calibrated 0.80 mm thickness: Provides the ideal feet height that eliminates \"bottom-scraping\" & provides longer life-span",
+      "\u2714\ufe0f [Longevity] We include 2 sets made of 100% virgin grade PTFE material for the lowest friction and eco-friendly, 3M no-residue adhesive"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Work great",
+        "text": "The factory feet on my mouse were leaving dark spots on my light colored desk at work.<br />These fit great and have noticeably lower friction than the worn factory pads. The adhesive is strong but repositionable if you don't get it right first time.<br />When the old pads are removed, they can split into separate layers, but you should be able to get down to the bare plastic if you take care to grab the lowest layer of clear adhesive.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "HYPERSLIDES",
+    "tags": [],
+    "price": 8.99
   },
   {
-    "id": "prod_mice_016",
+    "id": "prod_gaming_mice_058",
+    "parent_asin": "B01M8Q3WGV",
     "category": "Gaming Mice",
-    "title": "Vaxee XE Wireless",
-    "base_price": 119.99,
+    "title": "KawaiiMouse [ Optical 2.4G Wireless Mouse ] Cute Don't Mess Pig",
+    "description": "Optical 2.4G Wireless Mouse with nano receiver.",
     "rating": 4.6,
-    "review_count": 2803,
-    "attributes": {
-      "dpi": "16372",
-      "weight": "49g",
-      "polling_rate": "4000Hz"
-    },
-    "tags": [
-      "Competitive",
-      "Firmware"
-    ]
+    "review_count": 5,
+    "features": [],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Nice Gift....",
+        "text": "Gave this to a co-worker for a Christmas gift.  She has a thing for pigs and loved it.  She reports back that it works well.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "KawaiiMouse",
+    "tags": [],
+    "price": 19.95
   },
   {
-    "id": "prod_mice_018",
+    "id": "prod_gaming_mice_123",
+    "parent_asin": "B091YYK4L1",
     "category": "Gaming Mice",
-    "title": "Keychron M3",
-    "base_price": 49.0,
-    "rating": 4.5,
-    "review_count": 141,
-    "attributes": {
-      "dpi": "25363",
-      "weight": "64g",
-      "polling_rate": "4000Hz"
-    },
-    "tags": [
-      "Budget",
-      "Work/Play"
-    ]
-  },
-  {
-    "id": "prod_mice_015",
-    "category": "Gaming Mice",
-    "title": "Roccat Kone Pro Air",
-    "base_price": 119.99,
-    "rating": 4.5,
-    "review_count": 1863,
-    "attributes": {
-      "dpi": "18571",
-      "weight": "84g",
-      "polling_rate": "8000Hz"
-    },
-    "tags": [
-      "Optical Switch",
-      "German"
-    ]
-  },
-  {
-    "id": "prod_mice_006",
-    "category": "Gaming Mice",
-    "title": "HyperX Pulsefire Haste 2",
-    "base_price": 79.99,
-    "rating": 4.6,
-    "review_count": 4607,
-    "attributes": {
-      "dpi": "17224",
-      "weight": "89g",
-      "polling_rate": "4000Hz"
-    },
-    "tags": [
-      "Value",
-      "Light"
-    ]
-  },
-  {
-    "id": "prod_mice_010",
-    "category": "Gaming Mice",
-    "title": "Ninjutso Sora 4K",
-    "base_price": 119.99,
-    "rating": 4.0,
-    "review_count": 3755,
-    "attributes": {
-      "dpi": "27919",
-      "weight": "63g",
-      "polling_rate": "1000Hz"
-    },
-    "tags": [
-      "No Holes",
-      "4K Hz"
-    ]
-  },
-  {
-    "id": "prod_mice_003",
-    "category": "Gaming Mice",
-    "title": "Razer Viper V2 Pro",
-    "base_price": 149.99,
-    "rating": 3.6,
-    "review_count": 4412,
-    "attributes": {
-      "dpi": "18323",
-      "weight": "74g",
-      "polling_rate": "4000Hz"
-    },
-    "tags": [
-      "Ambidextrous",
-      "Speed"
-    ]
-  },
-  {
-    "id": "prod_mice_009",
-    "category": "Gaming Mice",
-    "title": "Lamzu Atlantis OG V2",
-    "base_price": 89.99,
+    "title": "Mouse Feet Skates for Logitech G PRO X Superlight Wireless Gaming Mouse (Pack of 2)",
+    "description": "Replacement feet for Logitech G PRO X Superlight Wireless Gaming Mouse",
     "rating": 3.9,
-    "review_count": 2147,
-    "attributes": {
-      "dpi": "28829",
-      "weight": "66g",
-      "polling_rate": "1000Hz"
-    },
-    "tags": [
-      "Grippy",
-      "Colors"
-    ]
+    "review_count": 68,
+    "features": [
+      "Replacement PTFE feet for Logitech G PRO X Superlight Wireless Gaming Mouse",
+      "Comes with 2 sets",
+      "Provides a smoother gliding experience / increases tracking",
+      "NOTE:Please REMOVE THIN LAYER OF PLASTIC FROM THE FEET Before using it."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Yes!",
+        "text": "Will definitely buy again! Great product!",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "LZYDD",
+    "tags": [],
+    "price": 7.99
   },
   {
-    "id": "prod_mice_019",
+    "id": "prod_gaming_mice_171",
+    "parent_asin": "B082M94GY9",
     "category": "Gaming Mice",
-    "title": "Alienware 720M",
-    "base_price": 129.99,
+    "title": "Uiosmuph LED Wireless Mouse, G12 Slim Rechargeable Wireless Silent Mouse, 2.4G Portable USB Optical Wireless Computer Mice with USB Receiver and Type C Adapter (Purple)",
+    "description": "",
+    "rating": 4.4,
+    "review_count": 61374,
+    "features": [
+      "Rechargeable: Built-in rechargeable battery, no need change battery. Special soundless design for the right and left buttons, won\u2019t disturb others.",
+      "Colorful Light: 7 different color changes randomly while in use, offering soothing lighting, creating cool and fancy atmosphere for work and play.",
+      "Energy Saving: The mouse will be in sleep mode in 8 mins of inactivity. And the LED light can be turned off by the bottom light switch.",
+      "Slim & Portable: About 4.4 x 2.2 x 0.79 inches, Perfect for travelling carry and it can be easily put into your laptop bag and ultra-space saving.",
+      "Widely Compatibility: Works with Windows 2000/XP/7/8/10/Vista, Mac with USB port or Type C port. Suitable for homes, offices, travel and more."
+    ],
+    "reviews": [
+      {
+        "rating": 4.0,
+        "title": "Great battery life",
+        "text": "I'm still not fully decided about how I feel about this mouse. But, I can talk about what I know so far. The packaging I got the mouse and was really nice, really simple, but easy to open. The mouse was easy to set up, and the RGB looks pretty cool. There is a really cool DPI changer function that makes gaming much easier, however, I can't recommend this mouse for gaming because the ergonomics are pretty trash. I have to cramp my hand like a claw over the top of the mouse and after long periods of use it does start hurting. The surface is also pretty slippery, so I found that my hand slips on the mouse all the time. The tracking however, is great! And I would have to say that biggest plus is the battery life. I got this about 2 weeks ago, charged it once, and it is yet to die! I think the features of this mouse are great, but I would not recommend it. Purely because of the ergonomics, if you are going to use this mouse often, then you probably should go if something more ergonomic.",
+        "verified": true,
+        "helpful_votes": 9
+      },
+      {
+        "rating": 2.0,
+        "title": "Poor performance | no charge indicator",
+        "text": "Highly susceptible to interference. Drags and lags.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 3.0,
+        "title": "Meh",
+        "text": "I like the size and the LED colors.  The battery life is a little lackluster and it actually starts acting up when it's \"tired\".  I got it for my iPad but haven't used it a month or so b/c I got tired of her attitude.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 1.0,
+        "title": "Had 2 of these and they both died",
+        "text": "Will never buy from this company again... the second one we bought froze and would not work again.. same as the first one.",
+        "verified": false,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "Basic but functions well",
+        "text": "I ordered a \u2018LED Wireless Mouse, Uiosmuph G12 Slim Rechargeable Wireless Silent Mouse, 2.4G Portable USB Optical Wireless Computer Mice with USB Receiver and Type C Adapter (Silver)\u2019 for review.  For the price point, this is a basic mouse.  The rotating light strip is a cool looking feature.  It is sleek in design.  It connected well with the dongle to my Surface Pro.  It glides well over a mouse pad.  It is rechargeable, which I prefer to battery operated.  The click of this mouse is quiet. The dongle slides into the bottom and of course it has already been lost.  I prefer the dongle to be stored in a closed compartment on a mouse.  It does not require recharging for several days of moderate use and seems to charge quickly.  Overall, for basic use, this mouse works well.",
+        "verified": false,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Uiosmuph",
+    "tags": [],
+    "price": 13.99
+  },
+  {
+    "id": "prod_gaming_mice_100",
+    "parent_asin": "B079P4Z97Y",
+    "category": "Gaming Mice",
+    "title": "Logitech M317c (Collection) Wireless Optical Mouse-color: Wireless Mouse Skate Burger",
+    "description": "Logitech M317C Doodle Collection Wireless Mouse Navigation for your imagination A Doodle Collection Wireless Mouse takes you far away from the everyday. All the way to your happy place. Choose from doodle designs that reflect your creativity. From floating robot heads to skateboarding cheeseburgers, there\u2019s a Doodle Mouse for each and every doodler. Lasts up to 18 months on a single battery. Responds up to 33 ft. (10m) with a nano wireless receiver. Rips through web pages and docs with precision scrolling. Daydream on for up to 18 months Your imagination is always on, just like your Doodle Mouse. Scroll all the way to your happy place on a single, pre-installed battery. Get your doodle on for up to 18 months.",
+    "rating": 4.7,
+    "review_count": 100,
+    "features": [
+      "EVERY DOODLE\u2019S DIFFERENT Choose a unique design to express your creativity. From floating robot heads to skateboarding cheeseburgers, there\u2019s a Doodle Collection Mouse for each and every doodler",
+      "Doodle away Doodle Mice are small, portable, and super responsive with a secure link between mouse and receiver from up to 33 feet (10m) away.* *Actual wireless range may vary with use, settings, and environmental conditions.",
+      "JOIN THE DOODLE Taking yourself seriously is no fun. So lighten up, express your creativity, and embrace the doodle lifestyle. You\u2019re just a scroll away from your happy place.",
+      "System Requirements Windows 10 or later, Windows 8, Windows RT, Windows 7 Mac OS X 10.5 or later Chrome OS Linux Kernel 2.6+2 USB connection: available USB port required."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Fit my hand nicely",
+        "text": "Love these mini Logitech mouse with all of our laptops. The designs are whimsical and the mouse works well with the laptops. (We have 4) Recommended!",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Computer mouse",
+        "text": "This is my second Logitech mouse. It\u2019s cute, works well and is easy to install. I added this second one just to have a spare. No problems encountered.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Logitech",
+    "tags": [],
+    "price": 16.99
+  },
+  {
+    "id": "prod_gaming_mice_034",
+    "parent_asin": "B08YMWC381",
+    "category": "Gaming Mice",
+    "title": "SHARKOON Drakonia Gaming Mouse - Black",
+    "description": "The Drakonia Black is the follow-up model to our popular Green Drakonia. Like before, the Drakonia Black has eleven buttons and a 4-way scroll wheel, with each being freely programmable through the included configuration software to perform various different functions. An ADNS-9800 laser sensor from Avago operates under the gray dragon scales casing, with the current DPI setting in use indicated by a constantly illuminating LED. The SoftSkin surface of the Drakonia Black offers a soft grip and prevents perspiration build-up, ensuring the mouse fits perfectly in the hand even during heated battles. Likewise, the ergonomic shape of the Drakonia Black is designed for stability and control: its outwardly curved underside offers more grip during very small and precise movements as well as a high-level of comfort during long gaming sessions. Therefore the Drakonia Black is aimed especially at FPS Snipers and RTS/RPG gamers - the type of players who typically launch themselves into long battles and epic adventures. In the underside of the Drakonia Black you will find six metal weights comprising the Weight Tuning System, allowing the fighting weight of the mouse to be adjusted at any time. Unleash your inner Dragon \u2013 with the Drakonia Black!",
     "rating": 4.5,
-    "review_count": 2097,
-    "attributes": {
-      "dpi": "26841",
-      "weight": "74g",
-      "polling_rate": "8000Hz"
-    },
-    "tags": [
-      "Design",
-      "Magnetic"
-    ]
+    "review_count": 6571,
+    "features": [
+      "Programmable Buttons: 11",
+      "gold-plated usb connector",
+      "Chip: Avago ADNS-9800",
+      "Max. DPI/CPI: 8,200",
+      "Cable Length: 180 cm"
+    ],
+    "reviews": [
+      {
+        "rating": 3.0,
+        "title": "Like clicking the middle mouse button only works it pushed ...",
+        "text": "I bought this because I have large hands. But this mouse and a older model from sharkoon the middle mouse button stop working to a point.<br />Like clicking the middle mouse button only works it pushed down in the right way after using it",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Sharkoon",
+    "tags": [],
+    "price": 58.83
   },
   {
-    "id": "prod_mice_001",
+    "id": "prod_gaming_mice_002",
+    "parent_asin": "B09ZTC6LGP",
     "category": "Gaming Mice",
-    "title": "Logitech G Pro X 2",
-    "base_price": 159.0,
-    "rating": 4.8,
-    "review_count": 3933,
-    "attributes": {
-      "dpi": "27942",
-      "weight": "54g",
-      "polling_rate": "4000Hz"
-    },
-    "tags": [
-      "Esports",
-      "Lightweight"
-    ]
+    "title": "KLO Bluetooth Mouse for MacBook/MacBook air/Pro/iPad, Wireless Mouse for Laptop/Notebook/pc/iPad/Chromebook (BT/A deep Pink-Black)",
+    "description": "Adopt bluetooth 3.0/5.2 technology, built-in 500mAH A product lithium battery, configuration charging line, like a mobile phone, easy to charge, more scientific, charge and discharge of more than 500 times, the mouse no longer need to buy a battery. size: 113mm x 58mm x23mm weight : 3.2 oz package: Bluetooth mouse x1, USB Charging Cable x1 How to use Bluetooth wireless mouse:Apple Mac MacBook/pro/Air 2012/2013/2014/2015/2016/2017/2018/2019: first, open the mouse switch, open the computer system preferences, open the bluetooth, when the computer Bluetooth display is searching for nearby Bluetooth devices, hold down the mouse button (at the bottom of the mouse small black button) and keep 3 to 8 seconds, and then your computer display the search bluetooth mouse, bluetooth device click on the link, and then the connection is successful Win7/8/10/XP series notebook computer usage instructions: First, open the mouse switch, open the computer settings, open the device Bluetooth function, open add Bluetooth, open Bluetooth, when the computer Bluetooth display is searching for nearby Bluetooth devices, hold down the mouse button (at the bottom of the mouse small black button) and keep 3 to 8 seconds, and then your computer display the search bluetooth mouse, bluetooth device click on the link, and then the connection is successful",
+    "rating": 4.3,
+    "review_count": 23550,
+    "features": [
+      "\u272a\u272a3DPI SWITCH:Using high-performance optical chips, up to 1600 dpi(800, 1200, 1600) accurately tracking,to meet different needs.",
+      "\u272a\u272aAdopt bluetooth 3.0/5.2 technology,built-in durable 500mAh Lithium polymer rechargeable battery,high cycle life, The charging time is about 1.5-2.5 hours, lasting use time, the Auto Switch Off function will help you save energy as your bluetooth mouse will switch off when your PC is turned off or the receiver is disconnected. If you do not use the mouse for eight minutes, it will go to sleeping mode, you can press the any button to weak it up. energy saving and extremely low power consumption.",
+      "\u272a\u272aIt is compatible with Mac OS Windows /Win8/10/and is suitable for desktop/ipad/notebook/Mac Macbook Pro/Air(2017/2018/2019/2020/2021) iMac and other devices.",
+      "\u272a\u272acontoured shape, Ultra Thin and lightweight design, smooth surface ensure maximum comfort and support for your hand even after long working hours, The rubber scroll wheel makes sure that your hand will not slip when scrolling,This bluetooth mouse can meet your demand of daily office working and personal preference.",
+      "\u272a\u272aTo provide you with quality after-sales service: any quality problems within a month can be directly returned or replaced.It is recommended to use the USB port of the computer to charge the mouse, or use a 5V 1A charger, no larger than 5V 1A."
+    ],
+    "reviews": [
+      {
+        "rating": 2.0,
+        "title": "Short life span",
+        "text": "Worked for about 4 months and then just stopped. I charged it, it says it\u2019s connected to my MacBook, but nothing happens.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Nice Mouse but Didn't last long",
+        "text": "Beautiful color and smooth clicking/tracking. A bit frustrating having to turn it off and on to take out of sleep mode but does work well.<br /><br />Sad to say that the mouse stopped working since I wrote my review. I don't know if it won't take the charge or what.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 1.0,
+        "title": "It\u2019s junk\u2026",
+        "text": "I bought this mouse in late July. It now early September and it won\u2019t even hold a charge. I missed the return window, now it\u2019s expensive garbage\u2026 buyer beware.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "so far pretty good.",
+        "text": "I have been using it. so far it works pretty good.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 3.0,
+        "title": "Cheap, Easy, but the double click is infuriating",
+        "text": "This mouse tends to double click and it drives me crazy. With that being said, I'm still using it.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "KLO",
+    "tags": [],
+    "price": 14.99
   },
   {
-    "id": "prod_mice_017",
+    "id": "prod_gaming_mice_004",
+    "parent_asin": "B0B3TRT8WM",
     "category": "Gaming Mice",
-    "title": "Endgame Gear XM2we",
-    "base_price": 79.99,
-    "rating": 4.9,
-    "review_count": 4153,
-    "attributes": {
-      "dpi": "28590",
-      "weight": "94g",
-      "polling_rate": "4000Hz"
-    },
-    "tags": [
-      "Coatings",
-      "Claw"
-    ]
+    "title": "Logitech M585 Multi-Device Wireless Mouse \u2013 Control and Move Text/Images/Files Between 2 Windows and Apple Mac Computers and Laptops with Bluetooth or USB, 2 Year Battery Life, Graphite",
+    "description": "Talk about a game changer! With Logitech FLOW, M585 Multi-Device has the almost magical capacity to navigate seamlessly on two computers and copy-paste from one to the other \u2013 even if you're using a PC and a Mac. It certainly beats sending yourself emails. M585 also comes with a host of other features to improve your productivity, your way: fast and easy scrolling through long web pages; five programmable buttons, including two handy thumb buttons; a 2-year battery life** and a curved, domed shape that supports your palm comfortably during long hours of work or play. Dual connectivity (Bluetooth or 2.4 GHz Logitech Unifying). System Requirements: Required: Bluetooth low energy technologyWindows 10 or later Windows 8Mac OS X 10.10 or lateChrome OSAndroid 5.0 or later|Required: Available USB portWindows 10 or later Windows 8 Windows 7Mac OS X 10.05 or laterChrome OS|Internet connection for software download USB port.",
+    "rating": 4.6,
+    "review_count": 3498,
+    "features": [
+      "CROSS-COMPUTER CONTROL\u00a0- Game-changing capacity to navigate seamlessly on two computers, and copy-paste text, images, and files from one to the other using Logitech FLOW",
+      "DUAL CONNECTIVITY\u00a0- Use with up to three Windows or Mac computers and laptops via included Unifying receiver or Bluetooth Smart wireless technology",
+      "LONG BATTERY LIFE- The Logitech M585 just keeps going, with 2 years of power on a single AA battery",
+      "ULTRA-PRECISE SCROLLING- Micro-precision wheel packs more grooves per millimeter to make scrolling through long webpages faster and easier",
+      "CURVED DESIGN - Domed shape provides right hand support for your palm comfortably during long hours of work or play",
+      "Note : In case of Wireless mouse, the USB receiver will be provided inside or along with the mouse"
+    ],
+    "reviews": [
+      {
+        "rating": 3.0,
+        "title": "Excellent travel size and 6 month long battery life!",
+        "text": "Updated 1 year later(May 3, 2020)<br /><br />Down grading from 5 stars to 3 stars because it turns out there might be a bug in the mouse that once you pair it with 2 different computers over bluetooth, you cannot reset the mouse to use the wireless dongle. There is also no support on the Logitech website - try searching their website for the manual for this mouse, it's absolutely missing. You'll see an FAQ section and some various sections on tech spec, but no setup guide or manual!<br /><br />*********<br /><br />If you're tried of replacing batteries, this mouse is for you! I'm impressed by how long a single AA battery lasts in this mouse. I haven't had to replace the battery since getting it 6 months ago even with daily use. The two modes is nice since it lets me connect this mouse to two computers! The bluetooth is strong and connects well to my MacBook Pro, while the included radio frequency receiver is plugged into a iMac and I can switch between computers with a. simple button click.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "Great travel mouse!",
+        "text": "Love the feel of it. Easy to connect. Small enough to use for travel yet big enough to where it doesn\u2019t hurt to use ergonomically.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "WOW! Seamless movement from one computer to the other!",
+        "text": "This device synched to both computers quickly. Download the 'Logi Options' software on both, then enable 'Flow'<br />Move the mouse off the bottom of one screen & it appears at the top of the other laptop.<br />Copy a file on computer one, switch to the computer two, right-click->paste. You have copied the file took computer one to computer two.<br />The mouse itself is legit comfortable, precise asks smooth.<br />Add 'Flow' and it is also revolutionary.<br />Highly recommend.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 3.0,
+        "title": "Nice mouse for Mac Pro using Big Sur OS",
+        "text": "I was looking for a mouse for my MacPro computer.  It's got 2 buttons on the mouse that I wanted to setup as volume up, and volume down.  But there is no instructions on how to do this, and I can't find any.  I'm using the mouse as a standard mouse with scroll for web pages.  Works perfect for that.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Nice and quiet",
+        "text": "Nice, quiet mouse at a great price. It's on the smaller size, just what I needed for carrying in the computer bag. I have long fingers, but not necessarily large hands, and this fits perfectly for me. The scroll wheel is nice and smooth (and also quiet). You can feel some tactile \"knurling\" when you scroll, so it's not baby's-butt-smooth, but it's not like scrolling over a circular-saw blade either.<br /><br />Using the USB dongle, the mouse is very responsive. The Bluetooth connection seemed a little laggy to me. No stars off unless it does the same when I test it on another PC.<br /><br />I do not intend to install the Logitech Options software so I cannot speak to the usefulness of Flow or reassigning buttons.<br /><br />Pros<br />- USB and Bluetooth connectivity<br />- Can use with up to two devices.<br />- 7 buttons: L, R, Center, Center-Left, Center-Right, Back, Forward. Eight if you include the PC selector button.<br />- Very quiet left/right click buttons<br />- Nearly quiet center click and back/forward buttons<br />- Uses one AA battery (preferred over non-replaceable battery)<br />- Battery life advertised at 2 years.<br />- Has an on/off switch on the bottom<br /><br />Cons<br />- Possible laggy response using Bluetooth. I need to test on another PC to be sure.<br /><br />Other consideration:<br />- The USB dongle storage is behind the battery door. If you frequently remove the dongle from the PC, this might be a concern for you (it's not a problem for me).",
+        "verified": false,
+        "helpful_votes": 1
+      }
+    ],
+    "store": "Logitech",
+    "tags": [],
+    "price": 28.82
   },
   {
-    "id": "prod_mice_005",
+    "id": "prod_gaming_mice_117",
+    "parent_asin": "B083HGP6N3",
     "category": "Gaming Mice",
-    "title": "SteelSeries Aerox 3",
-    "base_price": 99.99,
+    "title": "skook Rechargeable Bluetooth Mouse for MacBook Pro MacBook Air Notebook,Bluetooth Wireless Mouse for Laptop Bluetooth Mouse for PC,Notebook, PC,Laptop (Black)",
+    "description": "First,Adopt bluetooth 4.0 technology, built-in 450mAH A product lithium battery, configuration charging line, like a mobile phone, easy to charge, more scientific, charge and discharge of more than 500 times, the mouse no longer need to buy a battery. size: 113mm x 58mm x23mm weight : 3.2 oz package: Bluetooth mouse x1, USB Charging Cable x1 How to use Bluetooth wireless mouse: Apple Mac MacBook/pro/Air /2014/2015/2016/2017/2018/2019/2020/2021/2022: first, open the mouse switch, open the computer system preferences, open the bluetooth, when the computer Bluetooth display is searching for nearby Bluetooth devices, hold down the mouse button (at the bottom of the mouse small black button) and keep 3 to 8 seconds, and then your computer display the search bluetooth mouse, bluetooth device click on the link, and then the connection is successful for ipad or iPhone use tutorial: the premise is that your device needs to upgrade to the latest IOS 13 operating system, First turn on the IPAD or iPhone's bluetooth,and then go to IPAD or iPhone Settings>Accessibility>Touch>AssistiveTouch >open AssistiveTouch>Devices>Click on Bluetooth Devices,your iPad or iPhone will search for the Bluetooth mouse device,>then turn on the mouse switch, press and hold the black button at the bottom of the mouse for 3-5 seconds>Click on the link Bluetooth Mouse 4.0>You will need to input a passcode for the device which is going to be: 0000 Connection succes Win7/8/10/XP series notebook computer usage instructions: First, open the mouse switch, open the computer settings, open the device Bluetooth function, open add Bluetooth, open Bluetooth, when the computer Bluetooth display is searching for nearby Bluetooth devices, hold down the mouse button (at the bottom of the mouse small black button) and keep 3 to 8 seconds, and then your computer display the search bluetooth mouse, bluetooth device click on the link, and then the connection is successful.",
+    "rating": 4.3,
+    "review_count": 865,
+    "features": [
+      "Adopt bluetooth 4.0 technology,built-in durable 450mAh Lithium polymer rechargeable battery,high cycle life, The charging time is about 1.5 hours, lasting use time, the Auto Switch Off function will help you save energy as your bluetooth mouse will switch off when your PC is turned off or the receiver is disconnected. If you do not use the mouse for 15 minutes, it will go to sleeping mode, you can press the any button to weak it up. energy saving and extremely low power consumption.",
+      "Using high-performance optical chips, 3 DPI switches (1000, 1200, 1600) change the speed of the mouse freely. can be applicable to all kinds of games, accurately tracking.",
+      "support for ipad IOS 13 or above,Windows, Mac OS X, Linux, Android and most other systems. suitable for PC and notebook computers, macbook, windows tablets, android tablet.",
+      "contoured shape, Ultra Thin and lightweight design, smooth surface ensure maximum comfort and support for your hand even after long working hours, The rubber scroll wheel makes sure that your hand will not slip when scrolling,This bluetooth mouse can meet your demand of daily office working and personal preference."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Super product. Great price.",
+        "text": "Really responsive and not overly sensitive. Has been a great addition for tablet. Seamless connection didn\u2019t loose once. Easy to navigate instructions for set up. Great battery life. Used for 7 hours consecutive without sign of needing charged.",
+        "verified": true,
+        "helpful_votes": 12
+      },
+      {
+        "rating": 1.0,
+        "title": "Move along. Don't waste your time and money here.",
+        "text": "UPDATE: Two months! Two months this mouse lasted, and that was with very light use. Fully charged, I was just scrolling with it when I felt the wheel break. It just stopped making the little clicky sound/feeling. No trauma, no misuse, just very very very cheaply made. I surrender. It's time to cough up the money and buy the Apple brand mouse for my MacBook. My sanity is at least worth the $60.<br /><br />ORIGINAL REVIEW:<br />After three previous tries, I finally got a Bluetooth mouse for my MacBook. I'm hoping this one is sturdier than the last I purchased that barely lasted six months. That remains to be seen, but given the product materials, I'm not hopeful. Making the connection after power-up or sleep mode is a little finicky. Also, a solid flat dark surface/mouse pad seems to be a prerequisite. Without it, the cursor is slow to respond or just does its own thing. I've never seen a mouse with the jitters before, but this one will cause the cursor to jiggle and twitch, even though the mouse itself it perfectly still, untouched. I've watched the cursor jitter clear off the screen. However, using a solid black mouse pad seems to have dealt with the problem. I would send it back and try a different product, but I've sent so many cheaply made and/or mislabeled mice back to Amazon in the past month, I've got return fatigue. We'll give this one a chance with the mousepad solution.",
+        "verified": true,
+        "helpful_votes": 6
+      },
+      {
+        "rating": 3.0,
+        "title": "Won't hold a charge - must keep plugged in",
+        "text": "I've been through two of these. I returned/exchanged this first hoping it was just a defect. This mouse will only function appropriately for about 4-5 minutes tops if not directly plugged in to USB , otherwise it starts jumping/skipping/lagging etc. Plugged in it's perfect though - so if you get lucky and get one that holds a charge you'll probably be very happy with it. I just decided to keep this one and keep it plugged in. It's not ideal but it gets the job done.<br />I should probably mention that it is very easy to set up, basically plug and play - which was nice.",
+        "verified": true,
+        "helpful_votes": 5
+      },
+      {
+        "rating": 5.0,
+        "title": "Love it!",
+        "text": "Great size and portability.  Saves a slot for other use.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "Worth it!",
+        "text": "This purchase is worth it. The mouse is slim and connects perfectly with the laptop. Careful you don't lose the mouse in your papers!",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "skook",
+    "tags": [],
+    "price": 12.99
+  },
+  {
+    "id": "prod_gaming_mice_008",
+    "parent_asin": "B0BN3CCZB2",
+    "category": "Gaming Mice",
+    "title": "Vassink Wireless Mouse Ergonomic Mouse Rechargeable Vertical Optical Mice with USB Receiver, 6 Buttons 2.4GHz Adjustable DPI 800/1200/1600 for PC Computer,Laptop,etc\uff08Black\uff09",
+    "description": "",
     "rating": 4.2,
-    "review_count": 2445,
-    "attributes": {
-      "dpi": "25744",
-      "weight": "58g",
-      "polling_rate": "4000Hz"
-    },
-    "tags": [
-      "Holes",
-      "RGB"
-    ]
+    "review_count": 94,
+    "features": [
+      "\u2605\u3010Ergonomic-Wireless Mouse\u3011The design of the vertical wireless ergonomic mouse fits the size and contour of the palm, reducing the pressure on the palm and making your wireless mouse control more comfortable and natural.",
+      "\u2605\u3010Efficient and Sensitive-Easy to Use\u3011The ergonomic mouse has 6 convenient buttons design, plug and play; Adjustable 800/1200/1600 DPI mouse movement speed. Optical tracking technology has higher sensitivity than standard optical mouse, usable Smooth and precise tracking on a variety of surfaces.",
+      "\u2605\u3010Silent Design-Fashionable Charging\u3011Wireless mouse adopts button-quiet design, low decibel is more suitable for public places such as libraries, dormitories, offices, high-speed rail planes; with built-in lithium battery (500mAh) and USB data cable (150cm) charging device, Make your use more fashionable and convenient",
+      "\u2605\u3010Long Life-More Durable\u3011The high-quality optical wireless mouse has been tested for over 5 million mouse clicks. The rechargeable feature makes this wireless mouse more durable.(It is better to use it after receiving the mouse fully charged)",
+      "\u2605\u3010Wide Compatibility-Vassink Service\u3011Support Windows 2000/ ME/ XP/ 7/ 8/ 10/ Vista/98, Mac OS, Linux, etc. Suitable for notebooks, PCs, laptops, computers, Macbooks and other equipment. We provide 12 months of worry-free after-sales service. If you encounter any problems with the wireless mouse during use, please feel free to contact us."
+    ],
+    "reviews": [
+      {
+        "rating": 1.0,
+        "title": "Responsiveness is abysmal",
+        "text": "I have a Fellowes mouse pad (vinyl material) and this mouse moves the pointer on it like it is stuck in mud - very slow.  Yes, i removed the coated ovals on the bottom.  I tried on my desktop protective cover (a softer plastic) and it was even worse.  Putting the mouse on paper made it move the mouse pointer faster and smoother but occasionally had hiccups.  This is unacceptable for gaming, let alone basic office work.  This wasn't even the worse part of this mouse.<br /><br />The mouse buttons require you to click on the very edge of the button to recognize the click.  Because my finger tips reach about 75% of the length I would have to click 3+ times to get Windows 11 to recognize I clicked the button.  I made sure to charge the battery to 100% and tried numerous USB ports on my computer and on my docking station to no avail.  Would not recommend.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "Helped my forearm pain and works as described",
+        "text": "Works as described, more natural wrist position and seems to be helping my forearm pain",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Very nice mouse!",
+        "text": "I've seen a few of these mice around and this one was inexpensive enough to give the design a try.  I normally use only Bluetooth mice because I don't like losing a USB port to a dongle, but made an exception.<br /><br />I have to say I'm impressed with this device.  The performance is rock-solid and it feels great to use.  I also like the slightly rubberized finish; feels good in the hand. What I'm doing is alternating between this and a conventional mouse every few days to give my wrist a break. The reduction in wrist discomfort is noticeable.<br /><br />It's worth losing a USB port to a dongle",
+        "verified": false,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "Ergonomics",
+        "text": "The concept of this mouse is that your hand is in a more natural position when you use it. That part works fine. There is a hesitation that occurs from time to time that will cause you some angst. The mouse button has to wake it from sleep mode, which also takes some getting used to. Overall it is a decent mouse and surprisingly easy to adapt to.",
+        "verified": false,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Vassink",
+    "tags": [],
+    "price": 21.99
   },
   {
-    "id": "prod_mice_008",
+    "id": "prod_gaming_mice_139",
+    "parent_asin": "B0986TDX37",
     "category": "Gaming Mice",
-    "title": "Pulsar X2V2",
-    "base_price": 94.95,
-    "rating": 3.9,
-    "review_count": 712,
-    "attributes": {
-      "dpi": "23831",
-      "weight": "95g",
-      "polling_rate": "1000Hz"
-    },
-    "tags": [
-      "Claw Grip",
-      "Minimal"
-    ]
+    "title": "Rechargeable Wireless Mouse, Illuminating Backlit Powered by Li-Polymer Battery, Optical Sensor, Nano USB Receiver,3 Stages DPI Speed, 4 Buttons for PC, Laptop, Tablet, MacBook etc. (Solo Firework)",
+    "description": "",
+    "rating": 4.5,
+    "review_count": 1180,
+    "features": [
+      "1.Rechargeable wireless mouse with illuminating powered by internalized rechargeable battery, and illuminating effect will be up to your preference controlled by button at the bottom.",
+      "2.Wireless(2.4Ghz) mouse, connected by Nano USB receiver, working for PC, Notebook, Laptop, Macbook and other devices etc.",
+      "3.It is not only a mouse, but also a artifact for office, home and gaming use, compatible with Android, Linux, Windows95/98/XP/2000/VISTA/ Windows 7/8/10/ or Mac OS10.5.1 and other latest versions for desktop, laptop, PC, MacBook and other devices .",
+      "4.Power saving mode available in the protocol by sleeping when left with no movement: Level 1 sleeping in 3 minutes, Level 2(deep saving mode) sleeping in 15 minutes.",
+      "5.Elegantly designed, Sculpted shape guarantee the user a naturally comfortable hand position, easy to pair the Nano USB without any extra code or steps, plug and play directly."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Easy to use and lighter too",
+        "text": "I have been using this mouse for past few months and it has helped my hand ergonomically. I like that the battery lasts for long and it\u2019s lighter to work with hence easier to carry along",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 1.0,
+        "title": "This is not good. Crappy",
+        "text": "Missing usb port. On one end of usb cable you can see wires.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 1.0,
+        "title": "Looks cool but not durable",
+        "text": "For the price what can you expect. visually it looks awesome but the RGB lighting certainly cuts usage time real short.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 3.0,
+        "title": "Could be better",
+        "text": "I like this mouse, however it cannot be used while it is charging and the battery life is not that great. I have to turn the mouse off after I am done on the laptop if I want to use it the next time. Overall I would not recommend",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "The product is light but sturdy",
+        "text": "This item was great because it was light on the wrist and the charge lasts for a while",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Hengway",
+    "tags": [],
+    "price": 15.99
   },
   {
-    "id": "prod_mice_014",
+    "id": "prod_gaming_mice_181",
+    "parent_asin": "B09HTXPQ4B",
     "category": "Gaming Mice",
-    "title": "ASUS ROG Harpe Ace",
-    "base_price": 139.99,
+    "title": "Halpilt Wireless Mouse Chargeable Portable Silent Wireless Mouse USB and Type-C Dual Mode Wireless Mouse 3 Adjustable DPI for Laptop, Mac, MacBook, Android, PC (Q23S Black) (White)",
+    "description": "",
+    "rating": 4.4,
+    "review_count": 1924,
+    "features": [
+      "\u3010Type-C and USB-A Dual mode\u30112 Connected USB and Type-C Nano/Receiver/(Type-C does not need to switch) plug and play. Directly applicable to all computer equipment with Type-c and USB-A interfaces Compatible with laptop/PC/desktop/Windows XP/7/8/10 and MAC OS 10/Android system",
+      "\u3010Rechargeable Wireless Mouse\u3011 Built-in durable 450mAh lithium-ion rechargeable battery USB charging, no need to replace the battery. Charging 2 hours, you can use about 15-20 days",
+      "\u30103-level adjustable DPI\u3011Cycle 3-level adjustable DPI (1000/1200/1600 DPI) is suitable for small-screen tablet computers, notebook computers, and large-screen desktop computers. Optically precise positioning, smooth and unimpeded use",
+      "\u3010Mute Click and Comfort Touch\u3011Mute Click, the Mute button reduces noise by 90% /helping you focus on your work/study/without disturbing others.",
+      "\u3010Best Customer Service\u3011 Halpilt supports all products with a 45-day money-back guarantee and a 12-month manufacturer's warranty. If you receive any defective goods, we will provide a full refund or free replacement. Please feel free to contact us by clicking Contact Seller on your Amazon order page."
+    ],
+    "reviews": [
+      {
+        "rating": 4.0,
+        "title": "Good Mouse",
+        "text": "I needed a type c wireless mouse for my MacBook so I ordered this one. It\u2019s a good mouse and works great. The only thing I don\u2019t like is how light it is. I prefer a heavier mouse.",
+        "verified": true,
+        "helpful_votes": 3
+      },
+      {
+        "rating": 5.0,
+        "title": "cheap feeling but not cheap looking \ud83d\ude0e",
+        "text": "it looks good. it works. worth it. it only feel cheap because it\u2019s very light. but that\u2019s not a negative",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 1.0,
+        "title": "Stops working after a couple of minutes",
+        "text": "I purchased this for my Dell laptop, and it stops working after a couple of minutes.  I have to turn the mouse power switch off and on again before the mouse will work again, then a couple of minutes later it stops again.  Pretty worthless.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "works well",
+        "text": "meets expectations",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "good",
+        "text": "easy to use but it\u2019s annoying when you have to turn it off and on again if you don\u2019t use it in a span of 5-10 mins",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Halpilt",
+    "tags": [],
+    "price": 13.99
+  },
+  {
+    "id": "prod_gaming_mice_122",
+    "parent_asin": "B0789V3R2H",
+    "category": "Gaming Mice",
+    "title": "HP 15.6\" HD Touch Screen Laptop Bundle , AMD A12-9720P Quad core processor 2.7 GHz, 8GB DDR4, 1TB HDD, DVD, WiFi, Webcam, Windows 10, Gray, Wireless Mouse and Backpack Included.",
+    "description": "This stylish Touchscreen laptop in Smoke Gray offers reliable performance and long-lasting battery life so you can easily surf, stream, and stay in touch with what matters most. With the latest AMD Quad-Core A12-9720P processor, AMD Radeon R7 Graphics, 8GB DDR4 Memory, and 1TB Hard Drive, this laptop delivers the reliable performance you need to work and play.",
+    "rating": 4.0,
+    "review_count": 133,
+    "features": [
+      "Brand New in box. The product ships with all relevant accessories"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Laptop is not like new it is new the box had never been opened, Thank You So Much",
+        "text": "I'm so happy with this purchase the items are exactly as described",
+        "verified": true,
+        "helpful_votes": 10
+      },
+      {
+        "rating": 1.0,
+        "title": "Sucks, Slow, Terrible, Missing pieces.",
+        "text": "Extremely slow unless you know how to disable 50 or so features that run off the bat. The mouse came with no bluetooth adapter, and this doesn't have built in bluetooth.<br />Seriously don't buy HP.<br /><br />1 hour of ownership update: It's stopped opening windows. It brings up the login screen, then I get a black screen. The computer no longer works and I've done nothing to it. There are several other reviews referring to this issue.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "Five Stars",
+        "text": "so far its a great buy. I like it",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "Excelent value laptop",
+        "text": "My daughter needed a faster more copact laptop for her graphics software so we gave this one a try.  Very fast, easy setup...nice and easy to chuck the bloatware.  A reasonable price made it an easy choice...so much so that we purchased another.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 1.0,
+        "title": "Definitely returning and buying a different brand",
+        "text": "I had high hopes for this laptop... very very very slow. I mean how can a company like HP in this day in age make a laptop this slow. I didn\u2019t expect speeds you would see in a gaming laptop for this price but I at least want to be able to watch a movie or even start the laptop within 10 minutes, and they don\u2019t even allow you to upgrade the RAM or anything from what I can tell... and the battery life is laughable, like a previous comment said, about 1 percent per minute. I would even go as far as to say that it dies faster than that. Purchased this for my sister for her birthday but will definitely return and go with a different laptop.",
+        "verified": false,
+        "helpful_votes": 1
+      }
+    ],
+    "store": "HP",
+    "tags": [],
+    "price": 639.99
+  },
+  {
+    "id": "prod_gaming_mice_001",
+    "parent_asin": "B0BWYJJLSF",
+    "category": "Gaming Mice",
+    "title": "Wireless Keyboard and Mouse Combo, EDJO Full-Sized Ergonomic Computer Keyboard with Wrist Rest and 3 Level DPI Adjustable Wireless Mouse for Windows, Mac OS Desktop/Laptop/PC (White)",
+    "description": "",
     "rating": 4.3,
-    "review_count": 3609,
-    "attributes": {
-      "dpi": "16390",
-      "weight": "69g",
-      "polling_rate": "1000Hz"
-    },
-    "tags": [
-      "Aim Lab",
-      "Light"
-    ]
+    "review_count": 3862,
+    "features": [
+      "\u3010ERGONOMIC WIRELESS KEYBOARD AND MOUSE COMBO\u3011EDJO Full-sized wireless keyboard is ergonomically designed with Palm Rest and folding holder that can keep it at an optimum slope\uff0cprevent your wrists from hurting while long sessions of typing. Keyboard is also designed with anti-slide pads so it will stay in place when you're typing quickly. NOTE: THE USB RECEIVER IS INSERTED IN THE BATTERY COMPARTMENT OF THE MOUSE, YOU CAN FIND IT WHEN OPEN THE MOUSE BATTERY COVER.",
+      "\u3010PLUG & PLAY 2.4G WIRELESS CONNECTION\u3011One 2.4 GHz USB receiver can connect both the keyboard and mouse, can also be used separately, plug & play, no need to download any software. 2.4 GHz wireless provides a powerful and reliable connection up to 33 feet(10m) without any delays.",
+      "\u3010AUTOMATIC POWER SAVING FUNCTION\u3011The EDJO wireless keyboard and mouse combo has the function of automatically entering the power-saving state. When you stop using the keyboard more than 30 minutes, stop using the mouse more than 25 seconds, they will enter sleep mode respectively to save power. This feature greatly extends the battery life, you can click any button to activity the device. The keyboard need 1 x AA battery, the mouse need 1 x AA battery. (Battery Not Included)",
+      "\u3010WIRELESS OPTICAL MOUSE\u3011The mouse was optical design, even on some smooth surfaces, precise control can be obtained. 3-level adjustable DPI (800/1200/1600) allows you to choose your favorite moving speed of cursor. In addition, this wireless mouse is symmetry design, no matter you are Right handed Left handed, both hands are available, suitable for all people.",
+      "\u3010UNIVERSAL COMPATIBILITY & AFTER-SALES SERVICE\u3011This wireless keyboard and mice combo compatible with windows XP/Vista/7/8/10/X, Mac and other operating system. Works well with desktops, Chrome-book, PC, Laptop, Computer and more. If you encounter any problems during use, please contact us via Amazon email, we will provide a satisfactory solution."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "works as expected",
+        "text": "works perfect; smaller than my last one so much better for traveling",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "The mouse and keyboard work on the same USB plug.",
+        "text": "The mouse and keyboard work on the same USB plug. I like the fact that this pair frees up one of your USB ports on your CPU. Thank you. God bless you. May the rest of your life be the best of your life.  OZ",
+        "verified": false,
+        "helpful_votes": 2
+      },
+      {
+        "rating": 3.0,
+        "title": "Usable keyboard. Mouse is a little problematic.",
+        "text": "The keyboard is good and more ergonomic than others but lack of function keys makes less than desirable. The mouse just kept, intermittently disconnecting so was unusable.",
+        "verified": false,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Comfortable to use",
+        "text": "I didn't have any expectations for this wireless keyboard and mouse set. I just wanted it to sync up easily to the PC and it did. More than that, it is a surprisingly comfortable keyboard to work with. The keys are responsive and accurate. I can put it at an angle that I like. It is easy to store away. I just really like it more than I had expected. I may not have had particular expectations. I just wanted to try out a keyboard/mouse set on a PC that wasn't getting much use, but I may end up putting this set with my main PC set up. I like it that much.",
+        "verified": false,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "Plug n Play",
+        "text": "This is a nice keyboard mouse combo. Set up was simple. There is one dongle for both the keyboard and the mouse. The keyboard is quiet, comfortable and a good size. The mouse is responsive. Time will tell how long it lasts but for now I am pleased with its performance.",
+        "verified": false,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "EDJO",
+    "tags": [],
+    "price": 34.99
   },
   {
-    "id": "prod_mice_013",
+    "id": "prod_gaming_mice_077",
+    "parent_asin": "B0BFF6PFHC",
     "category": "Gaming Mice",
-    "title": "Corsair Dark Core RGB",
-    "base_price": 99.99,
+    "title": "seenda Wireless Bluetooth Mouse - Rechargeable Wireless Mouse Multi-Purpose (BT 4.0+USB+Type C 3-Way Connection) PC Mice Compatible with iPad iPhone Mac OS Android Windows - Blue",
+    "description": "",
+    "rating": 4.5,
+    "review_count": 594,
+    "features": [
+      "TRIPLE CONNECTION MOUSE FOR MULTI-PURPOSE -- A versatile wireless mouse can connect up to 3 computers via Bluetooth 4.0, USB Receiver and Type C Receiver. No lags at all and could switch easily by a single \u201cclick\u201d between the different inputs",
+      "RECHARGEABLE MOUSE WITH LONG BATTERY LIFE -- This Mouse has a built-in rechargeable battery which means you can use it without running the risk of not have a couple of batteries at hand. Comes with USB and Type C cables for charging",
+      "BLUETOOTH MOUSE WITH UNIERSAL COMPATIBILITY -- Universal compatible with Windows(Win 8,Win 10 or above), Mac OS(Mac OS X 10.10 or above), Android (Android 4.3 or above)devices. For iPad/iPhone, please turn on the \"Assistive Touch\" before Bluetooth connection: Setting-Accessibility-Assistive Touch",
+      "TRAVEL MOUSE WITH QUIET & RESPONSIVE CLICK -- Compact size of 4.5*2.5*1.3inch, the multi-connection option and rechargeable features make this mouse perfect for travel, you can enjoy a comfortable mouse instead of putting up with your laptop trackpads",
+      "18 MONTH MONEY BACK OR REPLACEMENTS -- A 18-Month risk-free warranty comes with this mouse, you will get a free replacement or money back for your order if any issues while using it. Just remember that we stands behind all of our products"
+    ],
+    "reviews": [
+      {
+        "rating": 1.0,
+        "title": "Cheap and useless.",
+        "text": "This mouse feels so cheap, it wasn\u2019t even worth giving a review but I wanted to warn others to not get this mouse. It\u2019s so flimsy and made so cheaply, I didn\u2019t waste anymore time with it so I am returning.",
+        "verified": true,
+        "helpful_votes": 2
+      },
+      {
+        "rating": 5.0,
+        "title": "Flawless Bluetooth connectivity with Mac",
+        "text": "My Logitech M310 (been using them for 10-15 years) could not connect properly with my USB-C/Thunderbolt MacBookPro, using their USB dongle, thru a USB adapter. Scroll wheel would NOT work, and Logitech tech support said they would not update drivers. 'Don't use an adapter.' But they aren't aware that new Macs don't have old-school USB ports? Anyone else have this problem?! Anyway... this Seenda connects directly with Bluetooth, and connects instantly. If it sleeps (after a few hours?) it wakes and re-connects with one click, in less than a second. I charged the battery when I bought it a few weeks ago, and forgot that I might need to charge it again one day. Still going. Downsides: it is much smaller and lighter than I am used to (the M310 is easily twice as thick/tall) so I am getting used to that. Took awhile to find the right DPI/resolution/speed (and the button to change that is in a precarious, easy-to-hit-by-mistake position. Overall a great recommend.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 2.0,
+        "title": "squeaks when scrolling - not for small hands",
+        "text": "Loud clicks, SQUEAKS when scrolling, made for larger hands. You would think since it's pink it wouldn't be designed for a mans hands but here we are. Ultimately, the obnoxious squeaking while scrolling is why I am returning it.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "Works great but... The wheel squeaks!",
+        "text": "This mouse works great but the wheel squeaks!",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "good",
+        "text": "It's good okay.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "seenda",
+    "tags": [],
+    "price": 29.96
+  },
+  {
+    "id": "prod_gaming_mice_169",
+    "parent_asin": "B0C6PZJ72M",
+    "category": "Gaming Mice",
+    "title": "EAXBUX \u3010Built in Jiggler Covert Mouse Jiggler,2 in 1 Wireless Mouse with Jiggler, Undetectable Mouse Mover with ON/Off Switch, Drive Free,Simulate Mouse Movement to Keep Computer Awake,Plug and Play",
+    "description": "",
+    "rating": 4.4,
+    "review_count": 103,
+    "features": [
+      "\u3010Mouse Combined with Mouse Jiggler\u3011The EAXBUX Mouse with jiggler is currently the only product on the market that combines a wireless mouse with a mouse jiggler. When you need to leave your computer for a short while, just press a button to activate the mouse jiggler function to keep you online",
+      "\u3010Random Movement to Keep PC Active\u3011EAXBUX mouse jiggler will keep your PC/Laptop active by moving the cursor automatically. Just press the ON/OFF button to turn on the mouse jiggler function,the computer screen will always on,thereby keeping your Microsoft Teams, Lync,Skype etc. stay online.Simulate real random mouse movement and this mouse mover 100% undetectable byIT because it is just a wireless mouse that with mouse jiggler function. Absolutely security!",
+      "\u30102.4G wireless mice\u3011The unique feature of EAXBUX Mouse with jiggler is that if you don't press the button of the jiggler function, it is a practical 2.4G wireless optical mouse, which can meet the needs of your daily use.One with dual functions, this wireless mouse with mouse jiggler function is definitely your best choice",
+      "\u3010Driver-Free & Plug and Play\u3011The wireless mouse with mouse mover requires no driver, just plug it into your computer and if you need the jiggler function, just press the button, the cursor will start to move automatically. No annoying software installation, easy to use.",
+      "\u3010Wide Compatible & More services\u3011This undetectable computer mouse jiggler supports most popular systems like iOS,Win7, Win8, Win10, UNIX, Mac OS, Chrome OS and Linux.we provide 2-year warranty free replacement policy.If you are not satisfied with the item, please feel free to contact us via Amazon and we will solve all your problems within 24 hours. What we care about most is the customer experience\uff01"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Hey it works great HIGHLY RECOMMEND",
+        "text": "It works does random motion  immediately recognized by my dell laptop workstation<br />I\u2019m not monitored by my boss so can\u2019t give insight to that consideration. IT KEEPS MY SCREEN open  so I don\u2019t have to keep logging in<br />Wish the jiggle button had a light to tell it\u2019s active HOWEVER perhaps this is a good thing (it immediately jiggles so I know it\u2019s working) no light no one knows around me it\u2019s on<br />I\u2019d highly recommend this",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "Great Wireless Mouse and Jiggler",
+        "text": "This mouse is the perfect size and weight, moves well and clicks quietly. I love the jigglier functionality; you just press the button built into the mouse and it keep the mouse cursor moving on the screen. It keeps my window open and Office teams active. I should have gotten a mouse like this long ago; it allows you additional freedom at work when you need to be away from your desk for a while. Highly recommend!",
+        "verified": false,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "Very good idea",
+        "text": "Very good idea to have this jiggler built in, other similar products need to have an additional equipment, and put mouse on it for moving, not as convenient as this one. But sometimes this product is not stable, after a couple of hours working, I found the mouse stopped moving, I checked and found the battery light was off due to unknown reason, and after I reset the battery, the mouse moved again, and such kinds of issue happened several times. Therefore, I can only gave 4 stars review. But anyway I like this cute tool.",
+        "verified": false,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Keep screensavers from activating or keep from being logged off for no activity!",
+        "text": "A very handy, take it with you mouse that will keep pretty much anything from timing out due to lack of activity. When you need to step away for a few minutes and not have anything you are working on, just press the button on top to activate the jiggler and keep the mouse pointer gently moving.<br />I have only had this for a week or so and it has already proved it's worth. When my screen saver kicks off any process I have running slows way down. When I am rendering media this is a major pain, or I should say \"used to be a major pain\".<br />The dongle for USB connectivity stores in the mouse itself so you can carry the mouse and never have to worry about losing the dongle. It also has an on/off switch to save battery life.<br />A nice piece of gear, I suggest this for anyone that doesn't want to time out again.",
+        "verified": false,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Quiet and Functional",
+        "text": "I have been searching for a product like this for a long time! I work remotely most days and have to rely on connecting through a VPN connection. The connection automatically disconnects after a certain time frame, so this jiggler function is great! I can click the button to activate and leave the computer.<br />The setup on this mouse is so simple. I plugged in the USB and the mouse worked right away.<br />My favorite feature that was unexpected was how quiet the mouse is. I wasn\u2019t use to not being able to hear a click. Such a nice product!",
+        "verified": false,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "EAXBUX",
+    "tags": [],
+    "price": 15.99
+  },
+  {
+    "id": "prod_gaming_mice_055",
+    "parent_asin": "B09CPZ3961",
+    "category": "Gaming Mice",
+    "title": "3C Light 2.4GHz Wireless Mouse Cute Silent Wireless Mouse Portable Optical Mice Cartoon Computer Mouse 3 Adjustable DPI for Laptop Desktop PC (Rabbit)",
+    "description": "2.4GHz Wireless Mouse Feature: Cute Cartoon Wireless Mouse Unique animal wireless mouse, designed specifically for female users or kids who have small hands. As a gift send to family and friends, they will love it. Slim Design Easy to carry, lightweight design, suitable for carrying, can be easily put in a pocket or bag, a necessary artifact for business trips. Quiet Clicks Quiet clicks free your worry about bothering others and keep you stay focused while working. Wide compatibility Well compatible with Windows 10 / 8 / 7 / XP / Me / 2000/Vista and Mac OS. You can use this wireless mouse for Laptop, PC Notebook, Tablet, Computer and MacBook. 2.4GHz Wireless Mouse Specification: Size: 4.1*2.55*1.1 inch Material: High quality ABS material Tracking System: Optical Operating Range: Up to 33ft Buttons:3 Buttons Battery Type: 1*AA battery (not included) Works with Windows XP/Vista/Win7/Win8/Win10/2000/Mac OS X1 and more Package Included: 1* Wireless Mouse 1 * USB Receiver All products are tested before delivery,your purchase at our store is . If any problem, please contact us and we'll supply our best service for you.",
+    "rating": 4.2,
+    "review_count": 419,
+    "features": [
+      "\u3010Cute Wireless Mouse\u3011Cute expression design, suitable for children, ladies and other small hand people. As a gift send to family and friends, they will love this cute wireless mouse.NOTE: The receiver is in the bottom of the mouse.",
+      "\u30102.4G Wireless Connection Technology\u30112.4GHz Wireless provides a powerful, reliable connection, increases working distance of up to 33ft and eliminates delays, dropouts and interference",
+      "\u3010Silent Clicks\u3011Special soundless design for the right and left buttons, make you concentrate on working or playing games without disturbing others.Advanced optical tracking technology ensures greater sensitivity for precise tracking on a wide range of surfaces",
+      "\u3010Slim Design\u3011 Thanks to the ultra-thin design, you can carry the mouse with you and put it in your computer bag without taking up much space.",
+      "\u3010Wide Compatibility\u3011Compatible with most system including Windows, Vista. Fit for Notebook, PC, Laptop, Computer and other device"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "size",
+        "text": "i had to get a new mouse. the one i was using was made for guys , my fingers were too short being female, this size is perfect.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "3C Light",
+    "tags": [],
+    "price": 12.98
+  },
+  {
+    "id": "prod_gaming_mice_121",
+    "parent_asin": "B07W1Q3X7S",
+    "category": "Gaming Mice",
+    "title": "VssoPlor Wireless Mouse, 2.4G Slim Portable Computer Mice with Nano Receiver for Notebook, PC, Laptop, Computer (Mint Green to Purple)",
+    "description": "",
     "rating": 4.6,
-    "review_count": 388,
-    "attributes": {
-      "dpi": "28134",
-      "weight": "93g",
-      "polling_rate": "8000Hz"
-    },
-    "tags": [
-      "Qi Charging",
-      "Grip"
-    ]
+    "review_count": 15907,
+    "features": [
+      "LOW POWER CONSUMPTION: Intelligent sleep mode can better extend battery life. It will enter auto sleep mode if you don't use it for 5 minutes to save battery and need to click it, the mouse will enter working mode again",
+      "STABLE CONNECTION: 2.4 GHz wireless provides stronger anti-interference ability, a faster transmission speed and a more reliable connection, working distances can up to 15 m, and high DPI can make it track more smoothly over most surfaces",
+      "WIDE COMPATIBILITY:Well compatible with Windows7/8/10/XP, Vista, Mac OS X 10.4 etc. Fits for desktop, laptop, PC, Macbook and other devices",
+      "ERGONOMIC & COMPACT DESIGN: USB-receiver stays in your PC USB port or stows conveniently inside the wireless mouse when not in use. The lightweight and simple features make the mouse perfect for the journey, office, home",
+      "WHISPER & SENSITIVE CLICKING: Smooth frosted surface and quiet clicks can bring a better user experience and free your worry about bothering others and keep you stay focused while working"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Very Nice",
+        "text": "Very nice. Looks good, I like the gold edging more than I thought I would. A little small, but I barely notice. The mouse I WAS using was HUGE, and my entire palm rested on it. This one only covers \u2154 of my palm.<br /><br />Very comfortable.<br /><br />Have not played anything that could be considered a stress test. I like that you can turn it off, but I dislike that you have to remember to turn it off.<br /><br />I cannot tell if it goes to sleep.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "wireless mouse",
+        "text": "My old wireless finally died - dropped too many times onto the hardwood floor.  I purchased one that was like the old one and this one.  This one is flatter.  I ended up choosing to use this one.  It loaded quickly and is very comfortable to use.  Very, very quiet click - almost silent.  Having said all of this, I never hesitate to update my reviews should new info seem useful.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 3.0,
+        "title": "Good value for the price",
+        "text": "This is a good value for the cost.  If you need something small and easy to carry around with you this is great. Especially right now I am between working from home but sometimes have to visit the office and the less and smaller items I carry, the better!  This is nice and slim and works great with my laptop.  I don't really like to use batteries but as long as you switch it off when not in use you will be able to get quite a bit of use out of one.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 1.0,
+        "title": "Loses Connection CONSTANTLY",
+        "text": "I have to turn it off and on about 5x a day because it randomly loses connectivity. When I am using it or idle for less than 1 min.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Good So Far",
+        "text": "Easy to install.  Nice color. Has on off switch with usb inside by battery.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "VssoPlor",
+    "tags": [],
+    "price": 13.99
   },
   {
-    "id": "prod_mice_012",
+    "id": "prod_gaming_mice_120",
+    "parent_asin": "B0BJDTBLWL",
     "category": "Gaming Mice",
-    "title": "Zowie EC2-CW",
-    "base_price": 149.99,
-    "rating": 3.8,
-    "review_count": 4830,
-    "attributes": {
-      "dpi": "19851",
-      "weight": "97g",
-      "polling_rate": "1000Hz"
-    },
-    "tags": [
-      "Shape King",
-      "Stable"
-    ]
+    "title": "Ergonomic Wireless Mouse with USB Receiver for PC Computer, Laptop and Desktop, Ergo Mouse with Silent Clicks, About 16-Month Battery Life, Up to 1600 DPI & 1 AA Battery Powered, BluePurple",
+    "description": "",
+    "rating": 4.2,
+    "review_count": 1540,
+    "features": [
+      "Ergonomic Design: The ergonomically vertical handshake position reduces muscular strain and the pressure on your wrist, while your thumb is positioned comfortably on the thumb rest.",
+      "Plug and Play: Reliable wireless connection using a plug-and-play USB dongle, wide working range of a radius up to 32 feet, no additional driver needed.",
+      "Comfort Shape for Medium or Large Grip: (Dimensions:11.8cm/4.6in*7.5cm/3in*5.8cm/2.2in)The ergo mouse can help you work better and faster with a perfectly-crafted full-size shape designed for the large palm (even over 7.5- inch palm).",
+      "Ultra-Quiet Clicks & Well-Placed Thumb Controls: No more annoying click noise to create better, quieter environment for you and those around you. Create and work more intuitively and effortlessly with the ideally placed front and back buttons.",
+      "Premium Long-Lasting Battery Life: Only one AA battery needed, it can work up to 16 months thanks to auto-sleep power saving mode and on/off switch button. Note: The battery life may vary based on use and computing conditions."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Perfect",
+        "text": "I was looking for something a bit angled because my wrist was feeling uncomfortable but I didn't want an extreme twist to the side. I've always used Logitech mice but this has been working great. I wish it had a couple more buttons on it so I could set a button to heal and one to my 4th skill but otherwise it's just what I needed. It goes to sleep when you don't use it and wakes up when you click so I don't have to turn it off. And it's blurple, the best color.",
+        "verified": true,
+        "helpful_votes": 3
+      },
+      {
+        "rating": 5.0,
+        "title": "Perfect fit",
+        "text": "I have a small hand and it fit great. Works amazing.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Love it - very comfortable",
+        "text": "Bought to replace the mouse I lost on vacation. Best purchase. I like the pink as my boys will not steal it.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 1.0,
+        "title": "Stopped working after 2 days",
+        "text": "Don\u2019t waste your time or money on this remote. It feels great & is a cute color, but stopped working after a few days.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 2.0,
+        "title": "Not the best",
+        "text": "I wanted so much to love this mouse, sadly after a few months it began to fail. The scrolling feature only works randomly, most of the time when you click, you have to click twice for it to work. Used brand new batteries but it didn't make a difference. Disappointed that I wasted money, will stick with a name brand.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "MICROPACK Digitally Yours",
+    "tags": [],
+    "price": 16.88
   },
   {
-    "id": "prod_mice_002",
+    "id": "prod_gaming_mice_111",
+    "parent_asin": "B08WJ2L1KL",
     "category": "Gaming Mice",
-    "title": "Razer DeathAdder V3 Pro",
-    "base_price": 149.99,
-    "rating": 4.8,
-    "review_count": 3413,
-    "attributes": {
-      "dpi": "16176",
-      "weight": "72g",
-      "polling_rate": "4000Hz"
-    },
-    "tags": [
-      "Ergo",
-      "Performance"
-    ]
+    "title": "LOGI Pebble M350 Portable Wireless Mouse with Bluetooth or 2.4 GHz Receiver, Silent, Slim Computer Mouse with Quiet Click for Laptop, Notebook, PC and Mac - Graphite - Asian Version",
+    "description": "Own your space with Logitech Portable Wireless Mouse M350 \u2013 a modern, slim, and silent portable mouse designed for your curated lifestyle. Make a statement with this slim mouse that can easily be scooped up and brought to the cafe or library. Silent clicking and scrolling means you can stay focused without disturbing those around you. And the Portable Wireless Mouse M350 stays powered for 18-months on a single AA battery so you don\u2019t have to worry about losing power. Connect the Portable Mouse M350 the way you want \u2013 via either Bluetooth or the USB receiver. The high-precision optical tracking works on most surfaces. Battery life may vary based on user and computing conditions",
+    "rating": 4.7,
+    "review_count": 196,
+    "features": [],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Works well",
+        "text": "Mouse seems to work well. Nothing fancy but it does what I want it to.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "Pretty good",
+        "text": "Only have had it for a short time but so far so good. No complaints as of now, would buy again",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "CounterAid",
+    "tags": [],
+    "price": 23.47
   },
   {
-    "id": "prod_mice_007",
+    "id": "prod_gaming_mice_003",
+    "parent_asin": "B07R32PZZ6",
     "category": "Gaming Mice",
-    "title": "Glorious Model O 2",
-    "base_price": 99.99,
-    "rating": 4.1,
-    "review_count": 4029,
-    "attributes": {
-      "dpi": "22930",
-      "weight": "82g",
-      "polling_rate": "4000Hz"
-    },
-    "tags": [
-      "RGB",
-      "Shape"
-    ]
+    "title": "2.4 GHz Wireless Mouse, Six-Button Silent Wireless Computer Mice with 1200/1600/2400 Adjustable Portable USB Mouse for Desktop/Laptop/PC(Gold)",
+    "description": "Feature:\nW Optical interface type USB key number: 4 Optical resolution: 1600 DPI Ergonomics: supports LED mouse: blue LED light System clock: 250Hz Frame type: 3000 frames / sec. Maximum acceleration: 20g Ultra precise scroll wheel Customize DPI switch: 600/1200/1600 DPI Ultra-pretty and low-friction Resulution adjustable in driverless unit Switch life: 5 million cycles Special edition for games, built-in weight Optical technology works on most surfaces Smart connectivity No need to code, plug and play Compatible with Windows XP, Vista, Windows 7, Windows 8, ME, 2000, MAC",
+    "rating": 4.5,
+    "review_count": 480,
+    "features": [
+      "[Cool design] The appearance of the mouse is modeled by Iron Man. It is cool and stylish, ergonomically designed, and comfortable to touch. Your hands will not feel tired when using for a long time. As a gift to your family, friends are also a great choice.",
+      "[Responsive] Wireless engineering optical mouse with 1600DPI high precision resolution for fast and sensitive response when connected to a laptop.",
+      "[Easy to connect] Simply connect to the computer's USB port using the configured USB receiver, no additional drivers, plug and play (note: the USB receiver is hidden in the battery compartment)",
+      "[Ultra-quiet design] The wireless gaming mouse has an ultra-quiet design that provides a more relaxing and enjoyable experience for your everyday use without worrying about affecting others around you.",
+      "[Reliable quality & worry-free warranty] Quality materials and advanced optical sensors, reliable quality; fhong promises to provide you with a one-year free warranty. If you encounter any problems, you can contact us immediately through Amazon, we will be happy to serve you!"
+    ],
+    "reviews": [
+      {
+        "rating": 3.0,
+        "title": "Cool looking but not the best mouse",
+        "text": "I wanted a cool looking mouse to replace a Microsoft mouse that was starting to act funny, after 5 + years. After using it for an hour now I really wish I would have spent more for functionality rather than aesthetic value.<br /><br />First of all I had to pull out a sheet of paper to use as a mouse pad because my old Microsoft mouse functioned with any surface that I used it on, performed flawlessly. This new mouse can't even be used on a standard wooden desk without skipping and jumping all over the screen.<br /><br />I prepared myself mentally for a cheap feeling mouse because in the end you get what you pay for but holy cow this mouse feels like something I would buy at the local dollar store it screams lack of quality.<br /><br />I am sure I will be buying another mouse to replace this one shortly either from frustration or because it was built at such a low quality standard.",
+        "verified": true,
+        "helpful_votes": 3
+      },
+      {
+        "rating": 5.0,
+        "title": "Mouse for computer",
+        "text": "My grandson loved it and he couldn't believe how fast it got here.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "fhong",
+    "tags": [],
+    "price": 15.99
   },
   {
-    "id": "prod_mice_011",
+    "id": "prod_gaming_mice_045",
+    "parent_asin": "B004ZEZB7O",
     "category": "Gaming Mice",
-    "title": "Finalmouse UltralightX",
-    "base_price": 189.0,
+    "title": "Logitech Wireless Mouse M305 (Victorian Wallpaper) (910-002459)",
+    "description": "The Logitech Wireless Mouse M305 offers exceptional comfort and cordless convenience with its ergonomically designed soft rubber grip and the Plug-and-Forget Nano-receiver.",
     "rating": 4.3,
-    "review_count": 4020,
-    "attributes": {
-      "dpi": "30480",
-      "weight": "94g",
-      "polling_rate": "4000Hz"
-    },
-    "tags": [
-      "Carbon Fiber",
-      "Hype"
-    ]
+    "review_count": 98,
+    "features": [
+      "Ergonomic design with soft rubber grip gives you exceptional comfort",
+      "Plug-and-forget Nano receiver is so small it can stay in your laptop",
+      "Logitech advanced 2.4 GHz wireless provides a powerful, reliable connection to your PC or Mac",
+      "Intelligent battery management delivers months of use and added convenience",
+      "High-definition optical tracking (1000 dpi) enables responsive and smooth cursor control"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Mouse",
+        "text": "I really like the Logitech Wireless Mouse M305. It was simple to hook up and I like the size. I like the fact it has a turn off switch underneath so I can extend the battery life. I use it with my desktop.",
+        "verified": true,
+        "helpful_votes": 3
+      },
+      {
+        "rating": 5.0,
+        "title": "My favorite mouse",
+        "text": "My favorite mouse. I have several of these, with different themes. They are reliable and just the right size for my adult female hands. Most adult mice are at least a little clumsy and over-sized, while chidren's mice are too small. Also this model comes in awesome designs, although this model has been STUPIDLY discontinued.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Five Stars",
+        "text": "Like small size.  Use with laptop I travel with and takes up less room.. Works great",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Battery lasts forever!",
+        "text": "Very good, and battery seems to last forever due to the auto-shutoff feature.  Also the design hasn't worn off one bit, which is nice.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Great MOUSE",
+        "text": "Mouse works great. I prefer the M305 over the New one, because I feel &#34;like I have more control with this model over the New faster replacement model.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Logitech",
+    "tags": [],
+    "price": 99.95
   },
   {
-    "id": "prod_mice_004",
+    "id": "prod_gaming_mice_015",
+    "parent_asin": "B0922X6KBG",
     "category": "Gaming Mice",
-    "title": "Logitech G502 X Plus",
-    "base_price": 159.99,
-    "rating": 3.9,
-    "review_count": 1169,
-    "attributes": {
-      "dpi": "23234",
-      "weight": "40g",
-      "polling_rate": "4000Hz"
-    },
-    "tags": [
-      "Features",
-      "Buttons"
-    ]
+    "title": "Electronics Organizer,LYDZTION Electronics Accessories Organizer Pouch Bag Waterproof Travel Cable Storage Bag for Power Adapter,Charger Cables,Wireless Mouse,SD Card, USB Cable and More(Pink)",
+    "description": "Features: Size:19 * 11 * 5.5 cm / 7.5 * 4.3 * 2.2 inch Characteristics: 1.Durable catonic fabric material Protect your electronic accessories from scratches, dust and accidental dropping to ensure a long time use in daily life. 2. Multi-layer classification, perspective net design, neat and orderly, net bag insulation to prevent entanglement, increased storage space. 3. Portable handle, delicate wiring, sturdy and wearable. 4.All you electronic accessories like cables, cords, USB flash driver, earphone, chargers, batteries, keys, pens, etc will organized neatly in one place. Package included: 1 x Electronics Accessories Organizer Pouch Bag",
+    "rating": 4.5,
+    "review_count": 314,
+    "features": [
+      "Water Resistant Material:This cable case is made of waterproof and Jacquard fabric material. Strong and durable material with the padded foam around to protect all the things inside well against scratches, dust, impacts and accidental dropping.",
+      "Portable Wrist Strap: This pouch comes with lanyard, pretty convenient to carry alone or throw into tote bag. The increased portability in Wrist Strap aillows you to carry the bag anywhere.",
+      "Large Capacity:This case bag comes with 2 compartments, designed to store electronic gadgets, also good for kids\u00a1\u00af stationeries, like pen, pencil, gel pen eraser and more.",
+      "Easy to Carry:This lightweight Electronics Accessories Case helps you to carry your chargers and accessories anywhere when traveling. The extra hand strp allows you to hold the case with one hand easily.",
+      "Perfect Gift :Perfect for black friday, cyber monday, christmas, thanksgiving day, remembrance day, birthday, graduation party, valentine's day. Apply to home school, office, family trip, road travel."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "great for travel",
+        "text": "I can keep all my cables organized when traveling.  There is enough room for everything, but it is not super bulky.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Great",
+        "text": "Great",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 3.0,
+        "title": "too thick",
+        "text": "After putting all my electronics in, it was too bulky for travel.  I ended up just using a baggie.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 3.0,
+        "title": "Great case but not functional",
+        "text": "I wanted to love this case so much. It\u2019s a great concept, but the pockets are way too small for present day electronic (iPhone, iPad, iwatch, etc) cords. Sadly, I had to return it.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "LYDZTION",
+    "tags": [],
+    "price": 7.99
+  },
+  {
+    "id": "prod_gaming_mice_174",
+    "parent_asin": "B09W41DW2T",
+    "category": "Gaming Mice",
+    "title": "Packard Bell 24 Inch Monitor FHD 1920 x 1080 Computer Monitor, 75 Hertz, 5 MS, Dual Monitor, Wireless Keyboard and Wireless Mouse, VESA, VGA and HDMI Monitor, Basic Monitor and Gaming Monitor \u2013 2 Pack",
+    "description": "",
+    "rating": 4.1,
+    "review_count": 460,
+    "features": [
+      "High-Quality Visuals - The Packard Bell airFrame 24 is equipped with a 1920 x 1080p resolution, this monitor delivers crisp and clear visuals that are great for both gaming and office use.",
+      "Fast Refresh Rate and Response Time - With a 75 hertz refresh rate and a 5 ms response time, the Packard Bell 24 Inch Monitor provides a smooth and seamless experience, making it perfect for gamers and anyone who needs a fast and responsive display.",
+      "VESA Mount Compatible \u2013 The airFrame 24 is compatible with VESA mounts, which allows you to easily mount it on a wall or a monitor arm for a more ergonomic setup.",
+      "Adjustable Stand - The stand is adjustable, with a 5 degree forward tilt and a 15 degree backward tilt, making it easy to find the most comfortable viewing angle.",
+      "Wide Viewing Angle - The airFrame 24 has a 178 degree viewing angle, which ensures that the display looks great from almost any angle, making it perfect for students who need to share their screen with others. Plus, it's compatible with PC, Xbox, and PS5, making it a versatile option for any setup."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Great price for this two pack",
+        "text": "I was really impressed with how well these monitors were packed for shipment. They arrived quickly and were better quality than expected.",
+        "verified": true,
+        "helpful_votes": 9
+      },
+      {
+        "rating": 4.0,
+        "title": "Value of the product",
+        "text": "It was nice to get two 24\" monitors for the price of one. It greatly helps by increasing the amount of screen I have to work with and the picture quality is phenomenal.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "great monitor for the price",
+        "text": "A great value and more importantly an excellent monitor.  I like the narrow edge border as it provides more space than my previous monitor without sacrificing screen space.  I like the clarity, no dead pixels, and less blue light issues.  very satisfied.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "Easy to view and use.",
+        "text": "I'm enjoying my first extended screen and found it quite intuitive. The colors are bright and the 24\" size is great for a smaller setup. The screen can tip up and down but it does not rotate. No problem for me.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "I couldn\u2019t be happier perfect picture!",
+        "text": "Great color and clarity!!!!",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Packard Bell",
+    "tags": [],
+    "price": 259.99
+  },
+  {
+    "id": "prod_gaming_mice_029",
+    "parent_asin": "B09NZNFZ14",
+    "category": "Gaming Mice",
+    "title": "Rii Wireless Mouse RM700 2.4G Silent Mouse with 3200 DPI,Computer Mouse with USB Nano Receiver for Laptop,PC,Mac,Chromebook,Windows and School Work(Orange)",
+    "description": "WIRELESS MOUSE",
+    "rating": 4.4,
+    "review_count": 569,
+    "features": [
+      "Slient BUTTON: This wireless mouse with Noiseless Click, you can force on your work or study, also suitable for cafe, library or any other public place. It won\u2019t disturb other people while using. Also it\u2019s portable enough to take out and travel.",
+      "HIGH DPI DESIGN: This wireless mouse was built for three DPI levels(1600-2400-3200) to meet your demands. The factory default is 2400, you can kindly press the DPI button to change it. It\u2019s only take 2 AAA battery (NOT INCLUDED) to power. This wireless mouse will turn to sleep mode in 5mins of inactivity for energy saving, can be easily activated by clicking any buttons.",
+      "PLUG AND PLAY: The USB Nano Receiver is in the battery slot, 2.4GHz Wireless provides a good connection, transmission distance up to 33ft (10m). Which eliminated delays, interference, accurate fast data transmission . There is a on/off button which enables you to turn off the mouse for energy saving. Great wireless mouse for home and office.",
+      "MAXIMUM HAND-FEELING: Slim wireless mouse shape reduces skin-friendly finish are for maximum comfort and support. The thoughtful ring and little finger rest provide extra comfort. The sturdy scroll wheel with rubber makes sure that your hand will not slip when scrolling.",
+      "WIDE COMPATILITY: This wireless mouse can be compatible with Laptop, Desktop , Notebook PC, Windows XP, Windows 8/9/10, Windows Vista, Mac OS , Chromebook."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "mouse",
+        "text": "good product would buy again",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Works great",
+        "text": "I've had this about a yea, works great.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Rii",
+    "tags": [],
+    "price": 5.99
   }
 ]
