@@ -10,7 +10,7 @@ load_dotenv()
 # Provider implementations
 # ---------------------------------------------------------------------------
 
-def call_gemini(prompt):
+def call_gemini(prompt, model="gemini-2.5-flash"):
     """Calls Google Gemini API."""
     from google import genai
     from google.genai import types
@@ -21,7 +21,7 @@ def call_gemini(prompt):
 
     client = genai.Client(api_key=api_key)
     response = client.models.generate_content(
-        model="gemini-2.5-flash",
+        model=model,
         contents=prompt,
         config=types.GenerateContentConfig(
             response_mime_type="application/json"
@@ -82,11 +82,18 @@ def call_deepseek(prompt):
 
 
 # Registry: name -> (call function, display name, model id for metadata)
+#
+# Two Gemini tiers:
+#   "gemini"       — gemini-2.5-flash  (20 req/day free)  → production experiments
+#   "gemini-flash" — gemini-1.5-flash  (1500 req/day free) → tinkering / development
+#
+# The model ID is stored in result metadata so analysis can filter by model.
 PROVIDERS = {
-    "gemini":   (call_gemini,   "Gemini",   "gemini-2.5-flash"),
-    "openai":   (call_openai,   "ChatGPT",  "gpt-4o-mini"),
-    "claude":   (call_claude,   "Claude",   "claude-sonnet-4-20250514"),
-    "deepseek": (call_deepseek, "DeepSeek", "deepseek-chat"),
+    "gemini":       (lambda p: call_gemini(p, "gemini-2.5-flash"), "Gemini 2.5 Flash", "gemini-2.5-flash"),
+    "gemini-flash": (lambda p: call_gemini(p, "gemini-1.5-flash"), "Gemini 1.5 Flash", "gemini-1.5-flash"),
+    "openai":       (call_openai,   "ChatGPT",  "gpt-4o-mini"),
+    "claude":       (call_claude,   "Claude",   "claude-sonnet-4-20250514"),
+    "deepseek":     (call_deepseek, "DeepSeek", "deepseek-chat"),
 }
 
 # ---------------------------------------------------------------------------
@@ -138,8 +145,15 @@ You MUST respond with ONLY valid JSON in this exact format, no other text:
 }}"""
         return prompt
 
-    def call_llm(self, prompt, provider_name):
-        """Calls a specific LLM provider."""
+    def call_llm(self, prompt, provider_name, max_retries=3):
+        """
+        Calls a specific LLM provider with retry logic for transient rate limits.
+
+        Handles two classes of 429 errors differently:
+        - Per-minute rate limit: extracts retryDelay from the error and waits.
+        - Daily quota exhausted: fails immediately with a clear message (retrying
+          won't help and just wastes time).
+        """
         if provider_name not in PROVIDERS:
             print(f"Error: Unknown provider '{provider_name}'. Available: {list(PROVIDERS.keys())}")
             return None
@@ -147,13 +161,36 @@ You MUST respond with ONLY valid JSON in this exact format, no other text:
         call_fn, display_name, _ = PROVIDERS[provider_name]
         print(f"\n--- Sending prompt to {display_name} ---")
 
-        try:
-            response = call_fn(prompt)
-            print(f"Received response from {display_name}.")
-            return response
-        except Exception as e:
-            print(f"Error calling {display_name}: {e}")
-            return None
+        for attempt in range(1, max_retries + 1):
+            try:
+                response = call_fn(prompt)
+                print(f"Received response from {display_name}.")
+                return response
+
+            except Exception as e:
+                err = str(e)
+
+                # Daily quota: no point retrying
+                if "PerDay" in err or "per_day" in err.lower():
+                    print(f"Error calling {display_name}: daily quota exhausted. Skipping.")
+                    return None
+
+                # Per-minute / transient rate limit: extract delay and wait
+                if "429" in err or "RESOURCE_EXHAUSTED" in err:
+                    delay = 60  # sensible default
+                    import re
+                    match = re.search(r"retryDelay.*?(\d+(?:\.\d+)?)s", err)
+                    if match:
+                        delay = float(match.group(1)) + 2  # small buffer
+                    if attempt < max_retries:
+                        print(f"  Rate limited. Waiting {delay:.0f}s before retry {attempt}/{max_retries - 1}...")
+                        time.sleep(delay)
+                        continue
+
+                print(f"Error calling {display_name}: {e}")
+                return None
+
+        return None
 
     def parse_response(self, response_str):
         """Parses and validates the LLM response."""

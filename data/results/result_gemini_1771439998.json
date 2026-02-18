@@ -1,0 +1,21 @@
+{
+  "experiment_id": "exp_placeholder",
+  "decision": {
+    "consideration_set": [
+      "prod_gaming_mice_086",
+      "prod_gaming_mice_050",
+      "prod_gaming_mice_179",
+      "prod_gaming_mice_053",
+      "prod_gaming_mice_054"
+    ],
+    "final_choice": "prod_gaming_mice_086",
+    "reasoning_trace": "The customer is specifically looking for 'Gaming Mice'. I prioritized products that are explicitly designed for gaming or offer features highly beneficial for gaming. \n\n1.  **prod_gaming_mice_086 (Corsair M65 PRO RGB Optical FPS Gaming Mouse)**: This is the strongest candidate as it is explicitly marketed as an 'FPS Gaming Mouse' with top-tier features like a 12000 DPI sensor, adjustable weights, 8 programmable buttons, and RGB lighting. It perfectly matches the customer's request.\n2.  **prod_gaming_mice_050 (Logitech MX Anywhere 2 Wireless Mouse)**: While not strictly a 'gaming' mouse, its high 4000 DPI Darkfield sensor offers excellent precision and tracks on virtually any surface, making it suitable for a wide range of tasks, including gaming, and comes from a reputable brand.\n3.  **prod_gaming_mice_179 (LODVIE Wireless Mouse)**: This mouse offers 5 adjustable DPI levels (up to 2400) and 6 buttons, providing more customization and control than standard mice, which is advantageous for gaming.\n4.  **prod_gaming_mice_053 (cimetech Rechargeable Cordless Mouse)**: Features 5 adjustable DPI settings (up to 2400) and a 2.4GHz wireless connection, offering a decent level of sensitivity control for various gaming preferences at an entry-level price.\n5.  **prod_gaming_mice_054 (Wireless Mouse, Led Mouse Portable Mobile Optical Cordless Mouse)**: This product explicitly states it 'can be used as a gaming mouse' and includes a 7 Colorful Breathing Light Effect, which aligns with common gaming aesthetics, despite a lower maximum DPI of 1600. It offers a budget-friendly option with a gaming-oriented look.\n\nMy final choice is the **Corsair M65 PRO RGB Optical FPS Gaming Mouse (prod_gaming_mice_086)** because it offers the most comprehensive set of features specifically designed for gaming, including very high DPI, programmable buttons, and adjustable weights, making it the best fit for a customer seeking a 'Gaming Mouse'."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/batch_gaming_mice.json",
+    "timestamp": 1771439998,
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "k": 5
+  }
+}

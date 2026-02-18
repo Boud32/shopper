@@ -37,7 +37,10 @@ CATEGORY_CONFIGS = {
     "Wireless Headphones": {
         "meta_sources":   [_parquet("raw_meta_Electronics")],
         "review_sources": [_jsonl_review("Electronics")],
-        "keywords": ["headphone", "earbuds", "earphone"],
+        # Require "wireless" or "bluetooth" qualifier to exclude wired headphones,
+        # replacement ear tips, and other accessories that match "headphone"/"earbuds" alone.
+        "keywords": ["wireless headphone", "bluetooth headphone", "wireless earbud",
+                     "bluetooth earbud", "true wireless"],
     },
     "Smartwatches": {
         "meta_sources":   [_parquet("raw_meta_Electronics"),
@@ -54,7 +57,9 @@ CATEGORY_CONFIGS = {
     "Gaming Mice": {
         "meta_sources":   [_parquet("raw_meta_Electronics")],
         "review_sources": [_jsonl_review("Electronics")],
-        "keywords": ["gaming mouse", "wireless mouse"],
+        # Drop "wireless mouse" — too broad, matches generic office mice.
+        # "gaming mice" catches plural titles; "esports mouse" catches competitive peripherals.
+        "keywords": ["gaming mouse", "gaming mice", "esports mouse"],
     },
     "Toothbrushes": {
         "meta_sources":   [_jsonl_meta("Health_and_Household")],

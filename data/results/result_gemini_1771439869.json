@@ -1,0 +1,20 @@
+{
+  "experiment_id": "exp_placeholder",
+  "decision": {
+    "consideration_set": [
+      "prod_wireless_headphones_142",
+      "prod_wireless_headphones_129",
+      "prod_wireless_headphones_137",
+      "prod_wireless_headphones_022"
+    ],
+    "final_choice": "prod_wireless_headphones_142",
+    "reasoning_trace": "The customer is looking for Wireless Headphones. After reviewing the product feed, only four products were identified as actual wireless headphones or earbuds: prod_wireless_headphones_142 (PowerLocus Over-Ear Bluetooth Headphones), prod_wireless_headphones_129 (Tempo 30 Wireless Earbuds), prod_wireless_headphones_137 (kuayang Wireless Cat Ear Headphones), and prod_wireless_headphones_022 (JLab Audio JBuds Pro Wireless Earbuds). The remaining products were either wired headphones, headphone accessories (cases, ear hooks, straps, ear pads), or unrelated electronics (neck fan, CD player, AirTag holder, cables). As only four suitable products were found, they all constitute the consideration set. The final choice, prod_wireless_headphones_142, is selected for its robust features, including an over-ear comfortable design, exceptional 70-hour battery life, Hi-Fi stereo sound with deep bass, and a built-in microphone, making it a versatile and reliable option for a broad range of customer needs."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/batch_wireless_headphones.json",
+    "timestamp": 1771439869,
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "k": 5
+  }
+}

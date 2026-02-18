@@ -75,7 +75,8 @@ JSON
   ],
   "store": "Sony",                                                   // * Store/brand from metadata
   "tags": [],                                                        // Populated by mutation engine (Sponsored, Overall Pick, Best Seller)
-  "position": 3                                                      // * Search result position (page rank)
+  "position": 3,                                                     // Injected by assign_positions() in generator — NOT from Amazon data
+  "page": 1                                                          // Page number derived from position and page_size (default 10 per page)
 }
 
 B. The Agent Response (Output)
@@ -120,34 +121,69 @@ Phase 3: Consider live scraping for dynamic catalog experiments (features and ca
 8. Implementation Requirements
 Step 1: generator.py (The Mixer)
 
-Create a class ExperimentGenerator that performs the following:
+ExperimentGenerator class with the following pipeline:
 
-Load: Read data/seed_catalog.json.
+create_batch(size=25, category=None): Randomly samples products from the seed catalog, optionally filtered by category.
 
-Sample: Function create_batch(size=10) that randomly selects size items from the seed.
+mutate(batch, price_multiplier=1.0, target_mutations=None):
+- Renames base_price → price (seed uses base_price; experiments use price).
+- Applies a global price_multiplier (e.g. 1.1 = +10%).
+- Applies targeted field overrides, e.g. [{"id": "prod_001", "field": "rating", "value": 3.0}] to "nerf" a specific product.
+- Tags (Sponsored, Overall Pick, Best Seller) are set via target_mutations on the "tags" field.
 
-Mutate:
-- Implement a price_multiplier argument. If set to 1.1, increase all prices by 10%.
-- Implement a target_mutation argument. Example: mutate_product(id="prod_001", field="rating", value=3.0). This allows us to specifically "nerf" a popular product to see if the Agent abandons it.
-- Support adding/removing tags (Sponsored, Overall Pick) per product.
-- Support setting position vectors.
+assign_positions(batch, mode="random", page_size=10):
+- Injects "position" (1-indexed global rank) and "page" (1-indexed page number) into each product.
+- Position is a key experimental variable: it is NOT sourced from Amazon data (which has no meaningful signal for controlled experiments) — it is assigned here.
+- Modes:
+  - "random"      — shuffle before assigning (default; baseline for detecting position bias)
+  - "price_asc"   — cheapest product at position 1
+  - "price_desc"  — most expensive product at position 1
+  - "rating_desc" — highest-rated product at position 1
+- page_size defaults to 10 (mimics a standard Amazon SERP page).
 
-Serialize: Save the resulting batch as data/experiments/batch_{timestamp}.json.
+serialize(batch, filename=None): Saves the batch as data/experiments/batch_{timestamp}.json.
+
+Full pipeline example:
+```python
+batch = generator.create_batch(size=25, category="Gaming Mice")
+batch = generator.mutate(batch, price_multiplier=1.1)
+batch = generator.assign_positions(batch, mode="random")
+generator.serialize(batch)
+```
 
 Step 2: agent_runner.py (The Multi-Model Client)
 
-Create a class AgentClient that:
+AgentClient class:
 
-Ingest: Reads a batch_{timestamp}.json file.
-
-Prompt: Wraps the JSON in a system prompt. The prompt is a variable under study — start with a baseline and iterate.
-
-Call: Sends to all configured models (Gemini, Claude, ChatGPT, DeepSeek) via a unified provider interface.
-
-Parse: Validates that each response is valid JSON and matches the Output Schema.
-
-Save: Results are tagged with model name, prompt version, and timestamp.
+- Ingest: Reads a batch_{timestamp}.json file.
+- Prompt: Wraps the JSON in a system prompt that includes a category hint ("A customer is looking to buy X"). The prompt is a variable under study — start with a baseline and iterate.
+- Call: Sends to all configured models (Gemini, Claude, ChatGPT, DeepSeek) via a unified provider interface.
+- Parse: Validates that each response is valid JSON and matches the Output Schema.
+- Save: Results are tagged with model name, prompt version, and timestamp. metadata.source_batch records the batch file path for joining at analysis time.
 
 Step 3: analysis.py (MNL Estimation)
 
-Aggregate results across models and experiment conditions. Estimate MNL coefficients per model. Compare feature sensitivities cross-model.
+load_results_to_dataframe(results_dir, experiments_dir): Joins all result files with their source batch files and returns a long-format pandas DataFrame for MNL estimation.
+
+DataFrame schema (one row per product per experiment):
+
+| Column           | Type   | Description                                      |
+|------------------|--------|--------------------------------------------------|
+| experiment_id    | str    | Result filename stem                             |
+| provider         | str    | Model provider key (e.g. "gemini")               |
+| model            | str    | Full model ID                                    |
+| timestamp        | int    | Unix timestamp of the run                        |
+| product_id       | str    | Product ID                                       |
+| category         | str    | Product category                                 |
+| price            | float  | Price at experiment time (post-mutation)         |
+| rating           | float  | Product rating                                   |
+| review_count     | int    | Number of reviews                                |
+| position         | int    | Search result position (1-indexed)               |
+| page             | int    | Page number (1-indexed)                          |
+| is_sponsored     | bool   | "Sponsored" tag present                          |
+| is_best_seller   | bool   | "Best Seller" tag present                        |
+| is_overall_pick  | bool   | "Overall Pick" tag present                       |
+| in_consideration | bool   | Product was in the model's consideration set     |
+| chosen           | bool   | Product was the model's final choice             |
+
+MNL estimation and cross-model coefficient comparison to be implemented in a future phase.

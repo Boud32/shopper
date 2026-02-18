@@ -1,407 +1,199 @@
 [
   {
-    "id": "prod_running_shoes_192",
-    "parent_asin": "B0B27YH5MH",
+    "id": "prod_running_shoes_145",
+    "parent_asin": "B077Z9H72C",
     "category": "Running Shoes",
-    "title": "adidas Men's Mana Bounce 2 M Aramis Running Shoe",
-    "description": "Designed to surround your foot in long-lasting comfort, these running shoes let you push for the extra mile with a closed mesh upper and cushioned midsole.",
-    "rating": 4.3,
-    "review_count": 149,
+    "title": "Reebok Men's Driftium Running Shoe",
+    "description": "Reebok was founded for one of the best reasons possible: athletes wanted to run faster. So in the 1890s, joseph william Foster made some of the first known running shoes with spikes in them. By 1895, he was in business making shoes by hand for top runners; and before long his fledgling company, j.W. Foster and sons, developed an international clientele of distinguished athletes.\nReebok was founded for one of the best reasons possible: athletes wanted to run faster. So in the 1890s, Joseph William Foster made some of the first known running shoes with spikes in them. By 1895, he was in business making shoes by hand for top runners; and before long his fledgling company, J.W. Foster and Sons, developed an international clientele of distinguished athletes.",
+    "rating": 4.6,
+    "review_count": 243,
     "features": [
-      "100% Synthetic",
+      "Textile and Synthetic",
       "Imported",
       "Rubber sole",
-      "Lightweight running shoe featuring breathable upper, printed overlays, and plush cushioning",
-      "Breathable closed-mesh upper",
-      "Padded tongue and collar, soft fabric lining",
-      "Responsive and cushioning Boost midsole",
-      "Durable rubber outsole"
+      "Shaft measures approximately low-top from arch",
+      "Reebok Shoes",
+      "Imported"
     ],
     "reviews": [
       {
-        "rating": 3.0,
-        "title": "fits small; go a half size up",
-        "text": "fits more snug than expected; not my fave.",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 4.0,
-        "title": "Comfortable",
-        "text": "Husband says they are comfortable and fit well. Black on black look like shoes that would be perfect for wait staff.",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
         "rating": 5.0,
-        "title": "Five Stars",
-        "text": "Nice shoes very light and comfortable",
+        "title": "Great running shoes",
+        "text": "I have no complaints about thus shoe.",
         "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 5.0,
-        "title": "Excellent overall shoe for running",
-        "text": "This is my 2nd pair of Adidas mana bounce sneakers. Excellent overall shoe for running, walking, and gym activities that is lightweight and breathable.",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 4.0,
-        "title": "Comfortable, sturdy and a great value.",
-        "text": "First things First.  I received this as a review item in exchange for an unbiased review. I have an 11 M foot (US) and while I wasn't overly crazy about the color, I realized they matched a lot of my race wear.  So I decided to give them a try.  The first run was a little tough but that's always the case (If you're new to running, trust me, don't run your first race without adequately breaking in your shoes). After about 15 miles I started to really like them.<br /><br />So, you see the colors.  I personally always buy the clip on laces which I did butI've probably got well over 60 miles on them now and while I'm pretty loyal to another brand (which is also costs substantially more) I will definitely be picking up another pair.<br /><br />If you are a heel striker (work on your form before you suffer the consequences of it) these have ample cusioning in the back - but take a friendly word of advice, instead of getting into bad form.  These are great shoes to improve your form with and once you have it, the extra padding in the back is not impediment.  They are very light and fit well once worn in.  I'm not trilled about the simultaneously yet cool look they have but so is life.  You don't buy running shoes to look cool unless you're a poster you buy them for performance and these deliver.<br /><br />Again I'm speaking to new runners and people that aren't that familiar with the sport. You don't want to have one pair you wear every day. They'll develop a wear pattern and it's not good. Instead buy at least two, ideally a few and alternate so that this happens at a much slower pace. From my experience, three pairs of shoes worn on alternating days will last much longer than one pair bought three times.  And this is important b/c unless you're working on bearfoot running (which seems to still be a raging philosophical battle in the podiatric communities) you'll want support, comfort and stability. As a digression, I've tried barefoot running and it fundamentally changed the way I ran, until I stepped on a piece of glass and my right foot had yet to harden.<br /><br />Again at the risk of lecturing remember that injuries are one of the biggest enemies to progress. You could easily run through broken glass on these and probably right over some smaller nails (I'm not advising it, just pointing it out).  Styling aside I love these and will be picking up another pair or two in the near future.",
-        "verified": false,
         "helpful_votes": 0
       }
     ],
-    "store": "adidas",
+    "store": "Reebok",
     "tags": [],
-    "price": 77.68
+    "price": 47.99,
+    "position": 1,
+    "page": 1
   },
   {
-    "id": "prod_running_shoes_174",
-    "parent_asin": "B096LLNTR4",
+    "id": "prod_running_shoes_075",
+    "parent_asin": "B09XZLV44K",
     "category": "Running Shoes",
-    "title": "Saucony Women's Switchback 2 Trail Running Shoe",
-    "description": "Dialed to grip and rip trails fast. For trail runners looking to get to their destination fast, The lightweight Switchback 2 is a race-ready machine that delivers more of what you need\u2014long-distance cushioning placed into a nimble, grippy, and dialed-in package.",
-    "rating": 4.2,
-    "review_count": 150,
+    "title": "New Balance DRFT Running Shoe White",
+    "description": "New Balance DRFT Women's Running Shoe Complete your next exercise wearing the New Balance DRFT Women's Running Shoe! This style has a breathable mesh upper with a cushioned with a supportive lace-up closure and padded collar. The cushioned insole adds padding and support on the go, while the rubber outsole is lightweight and flexible, perfect for every workout. Move smoothly and comfortably wearing the New Balance DRFT Women's Running Shoe! Lace-up closure Breathable mesh upper Cushioned insole Rubber outsole Padded collar White/Black/Purple Imported | New Balance DRFT Running Shoe White",
+    "rating": 4.6,
+    "review_count": 54,
     "features": [
-      "Synthetic-and-mesh",
+      "Imported",
       "Rubber sole",
-      "Toothy lugs made of PWRTRAC tacky rubber for grip",
-      "New pwrrun+ cushioning is 5% lighter for more protection and flexibility",
-      "New sock-like construction featuring a side-set boa lacing system"
+      "Lace-up closure",
+      "Breathable mesh upper",
+      "Cushioned insole",
+      "Rubber outsole",
+      "Padded collar"
     ],
     "reviews": [
       {
-        "rating": 4.0,
-        "title": "Love the idea, needs some redesign",
-        "text": "I really want to like this shoe more. I do actually use them a lot but it took nearly half a year to really break them in, and they\u2019re still fairly difficult to slip into, as the opening is not very flexible. The shoe itself is tight enough where the laces don\u2019t even really need to be there, and the toe box is fairly narrow which isn\u2019t very good for running and hiking. My pinky toe often feels wedged by this one part of the design and frequently causes pain. I really REALLY like the idea of this shoe though and it\u2019s still wearable for moderate hikes under 2 hours, I just wish they put more work and testing. It\u2019s probably better for people with thinner, narrower feet. My feet are medium wide and the top part is kind of high.",
-        "verified": true,
-        "helpful_votes": 4
-      },
-      {
-        "rating": 3.0,
-        "title": "Fits just right",
-        "text": "I like the way the shoes fit; however, they are more attractive in the picture than on my feet, at least to me.  They are a little pricey too, but all in all, I would recommend them.",
-        "verified": true,
-        "helpful_votes": 0
-      }
-    ],
-    "store": "Saucony",
-    "tags": [],
-    "price": 61.34
-  },
-  {
-    "id": "prod_running_shoes_031",
-    "parent_asin": "B07L9QD2LL",
-    "category": "Running Shoes",
-    "title": "AUGSUN 110 Pieces 1/2 Inch Stainless Steel Track and Cross Country Spikes with Spike Wrench, Replacement Spikes for Sprint Sports Short Running Shoes",
-    "description": "",
-    "rating": 4.5,
-    "review_count": 190,
-    "features": [
-      "\u3010QUALITY MATERIAL\u3011: Made of quality stainless steel, which is very sturdy, rust-resist and anti-corrode. Pyramid needle design, not damage track. Very practical items for both men and women.",
-      "\u3010PACKAGE INCLUDES\u3011: Package includes 110 pieces spikes with 1pcs spike wrench, convenient for you to replace your shoe spikes. There are enough quantity for your daily use.",
-      "\u3010SIZE\u3011: 1.27cm (1/2 inch) in length, tapered and needle-shaped, which increases friction between the sole and the ground and prevents skidding.",
-      "\u3010EASY TO USE & REPLACE SPIKES\u3011: The package includes a spike wrench. It is very easy for you to screw the track spikes into the shoes, convenient to replace the spikes. Ideal for athletic tracks, field and cross country surfaces.",
-      "\u3010PROVIDE GREAT DRIP FOR SPORTSMAN\u3011: The spike pins can increase the friction between the shoe sole and ground, resist skid and improve your running balance of traction, flexibility and speed for track sprints, long jump, running."
-    ],
-    "reviews": [
-      {
-        "rating": 1.0,
-        "title": "I Left This At The Drop Off In Herrick, IL Which is the Gas Station",
-        "text": "Too Small. I Left This At The Drop Off In Herrick The Gas Station Yesterday, With Patrick",
+        "rating": 5.0,
+        "title": "Comfortable",
+        "text": "Very light and comfy.",
         "verified": true,
         "helpful_votes": 1
-      }
-    ],
-    "store": "AUGSUN",
-    "tags": [],
-    "price": 10.99
-  },
-  {
-    "id": "prod_running_shoes_059",
-    "parent_asin": "B08CHWZRCD",
-    "category": "Running Shoes",
-    "title": "Brooks Womens Glycerin 18 Running Shoe",
-    "description": "A bit like running in the clouds. Thanks to the increased elasticity of the upper and the super-soft cushioning throughout the length, these men's running shoes are the ultimate comfort. Super soft cushioning. The revised ratio between midsole and outer sole allows you to increase LOFT DNA to achieve even more extreme softness at the sole of the foot, without losing reactivity or endurance. An OrthoLiteTM insole ensures an extraordinary wearing comfort.",
-    "rating": 4.7,
-    "review_count": 6787,
-    "features": [
-      "Imported",
-      "Rubber sole",
-      "THIS WOMEN'S SHOE IS FOR: The Glycerin 18 is perfect for runners who think there's no such thing as too much cushioning. The upper enhances comfort by perfectly balancing stretch and structure.",
-      "SUPPORT AND CUSHION: Provides neutral support while offering the maximum amount of cushioning. Ideal for road running, cross training, the gym or wherever you might want to take them! Predecessor: Glycerin 17.",
-      "SUPER-SOFT CUSHIONING: Increased DNA LOFT super-soft cushioning allows for even more extreme softness, without losing responsiveness or durability, while the OrthoLite sockliner provides premium step-in comfort.",
-      "PLUSH FIT: The plush feel of an internal stretch bootie surrounds your foot and moves and expands with your stride. The engineered mesh upper enhances the fit.",
-      "SMOOTH TRANSITIONS: The plush transition zone makes every move from heel to toe feel incredibly soft and smooth."
-    ],
-    "reviews": [
-      {
-        "rating": 1.0,
-        "title": "Defective manufacturing",
-        "text": "I\u2019m this was my second pair of these shoes within 6 months but this pair is very u comfortable on the left shoe and I can\u2019t do walks in them.  Very disappointed in it... it\u2019s like the left shoe has a defect I it.  Unfortunately I saved the shoe for over a month before I wore it and too late to return.",
-        "verified": true,
-        "helpful_votes": 0
       },
       {
         "rating": 5.0,
-        "title": "Great support",
-        "text": "These are very comfortable and supportive. I started wearing Brooks when I got planter fasciitis. I haven\u2019t had issues in a long time. I tried another model, but I went back to these.",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 5.0,
-        "title": "My Shoe!",
-        "text": "These are the only shoes I have been wearing on a daily basis for over 10 years, Brooks Glycerin. My feet have seen many years of 12 hour shifts and are in sad shape. I have a dress pair, a pair I wear indoors, and several pairs for outdoors and yard work.  I can wear a man's 8 1/2 D or a Women's 9 1/2 wide and they fit perfectly.  If you need a cushioned shoe with good support these are the ones to buy.",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 1.0,
-        "title": "Don't Buy!!",
-        "text": "The shoes are NOT worth 130.00 or 50.00 inserts last less than one month shoes themselves no arch support. In the end caused my feet problems.",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 4.0,
-        "title": "Comfortable Shoe",
-        "text": "Comfortable shoe however shoes is not black it is a very dark grey with some black trimming.",
-        "verified": true,
-        "helpful_votes": 0
-      }
-    ],
-    "store": "Brooks",
-    "tags": [],
-    "price": 160.39
-  },
-  {
-    "id": "prod_running_shoes_116",
-    "parent_asin": "B07VSW6GQB",
-    "category": "Running Shoes",
-    "title": "New Balance Men's 510 V5 Trail Running Shoe",
-    "description": "Are you looking for a lightweight, durable and supportive pair of trail running shoes? Then your search ends with the New Balance 510v5. Durability on the outside meets responsive comfort inside for a lightweight running shoe that's as ready as you are for a trail run or whatever else your day has in store. Built with a rugged construction, these New Balance trail shoes offer relentless durability that is suitable for various runs both on- and off-road. The lugged outsole on these comfortable running shoes features AT TREAD technology which provides enhanced traction on the trail or the road, while the lightweight injection-molded EVA foam midsole includes both ABZORB technology for impact absorption and an NB Soft + Supportive Insert for memory comfort that lasts. For added protection, the reinforced Toe Protect tip helps protect your toes from rocks, roots and debris so you can go off-road with confidence.",
-    "rating": 4.4,
-    "review_count": 6173,
-    "features": [
-      "50% Synthetic, 50% Textile",
-      "Imported",
-      "Rubber sole",
-      "Cushioned Running Shoes: ABZORB midsole technology in this runner absorbs impact through a combination of cushioning and compression resistance, and the rubber outsole provides strength and durability",
-      "Built-In Off-Road Technology: Toe Protect technology helps protect feet from rocks, roots and debris, while AT Tread on the outsole provides versatile traction during both on- and off-road activities",
-      "Plush, Cushioned Running Shoes: These runners feature lightweight injection-molded EVA foam midsoles to provide lightweight cushioning and an NB Soft + Supportive Insert for memory comfort that lasts",
-      "Built to Last: With an all-over durable construction and an aggressive lugged outsole, these trail running shoes are designed to stand up to all of your outdoor activities",
-      "Athletic Aesthetic: With synthetic and mesh uppers that deliver breathability and a top-quality fit, these running shoes also boast a stylish look to fit in with your active lifestyle"
-    ],
-    "reviews": [
-      {
-        "rating": 5.0,
-        "title": "Very good quality and comfort",
-        "text": "This is my 2nd pair. Great quality and comfort. Nice looking too. True to size. Both pairs have lasted me a long time. Highly recommend.",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 5.0,
-        "title": "New Balance shoes fit me the best of all the major brands.",
-        "text": "I keep reordering New Balance shoes as previous pairs wear out.",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 4.0,
-        "title": "good inexpensive trail shoes",
-        "text": "these shoes have an aggressive tread, and for the price are going to be fine. The medium width is actually fairly wide, and my feet have plenty of room.",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 5.0,
-        "title": "New Balance Men's 510 V5 Trail Running Shoe",
-        "text": "I love New Balance Trail Running Shoes. Have purchased several pairs and they have lasted me for years. Very comfortable and durable kicks.",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 5.0,
-        "title": "GREAT BUY",
-        "text": "As good a shoe as some of the more expensive brands that I purchased in the past.",
+        "title": "very comfortable",
+        "text": "I love New Balance tennis shoes.  They seem to fit my feet so well.  My last pair was well worn out, so I searched on Amazon to find a new pair.  I found these and the price was so good that I ordered them.  They fit perfectly and I love them.  So cozy to wear.",
         "verified": true,
         "helpful_votes": 0
       }
     ],
     "store": "New Balance",
     "tags": [],
-    "price": 54.95
+    "price": 58.86,
+    "position": 2,
+    "page": 1
   },
   {
-    "id": "prod_running_shoes_088",
-    "parent_asin": "B09D3N4PRM",
+    "id": "prod_running_shoes_097",
+    "parent_asin": "B09VB9Z2P4",
     "category": "Running Shoes",
-    "title": "RUNMAXX Running Shoes for Men Walking Shoes Non Slip Fashion Sneakers Gym Tennis Sport Athletic Shoes",
+    "title": "M MGRNDL Womens Air Running Shoes Breathable Tennis Fashion Sneakers for Walking Jogging Gym",
     "description": "",
-    "rating": 4.3,
-    "review_count": 188,
+    "rating": 4.1,
+    "review_count": 162,
     "features": [
       "Rubber sole",
-      "Fashion Low-top Sneakers:RUNMAXX is dedicated to design shoes which combine fashion and sport. Run on your own way.",
-      "Breathable Mesh:RUNMAXX Mens walking sneakers apply breathable woven mesh, which not only keep the shoes lightweight and fashionable, but also ensures the comfort of the product. You won't feel a thing even wearing these sneakers for a whole day.",
-      "Non-Slip Sole :The Blade Sneakers is made of hollow carved technology ,Providing full support and comfort for your feet Which Allows The Shoes To Bend Strongly While Doing Sports",
-      "Traditional lace-up closure for an adjustable wear: Breathable lining inside,Soft cushioned insoles make you feel good after one day's running , jogging, walking or standing",
-      "OCCASIONS:Perfect choice for many occasion: Running, training, gym, casual walking, workout, traveling, hiking, camping, climbing, outdoor activities and daily wear."
+      "Platform measures approximately 1.00\"",
+      "Air Cushion: M MGRNDL women's air running shoes features air cushion design to provide cushioning and support for the feet, protect your knees.",
+      "Breathable Mesh: Double-layer knitted fabric upper designs with unique knitted structures make the upper more breathable and comfortable.",
+      "Memory Foam Sole: The memory foam insole and the low-density PU outsole offer these sneakers great cushioning.",
+      "Occasions: Slip on sneaker suits for daily, walking, running, shopping, traveling, working, driving, jogging, training, playing tennis, casual outdoor, etc.",
+      "Easy slip on sneakers: This style of shoelaces is more inclined to decoration, which is suitable for adjusting the tightness of the shoes themselves. Very easy on and off. Medium width. We recommend the wide feet to choose a half size up."
+    ],
+    "reviews": [
+      {
+        "rating": 2.0,
+        "title": "Cut Foot",
+        "text": "At first glance these shoes looked ideal. The uppers are mesh and they tie. The black and white look sporty. But the shoes left a,cut on the top of my left foot. The piece that holds the lace is not padded and it rubbed and cut the top of the foot. The right one was okay. Just not acceptable. I suppose yoi could afgix pads to prevent the rubbing or better yet buy shoes without that problem.",
+        "verified": false,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 4.0,
+        "title": "Great for walking and running, on even or paved surfaces.",
+        "text": "[[VIDEOID:c1b550fb45bc70f6146cd85777443b05]] The M MGRNDL sneakers are light, a bit flexible, and the air cushion design provides a cushioned impact. They have a good grip on surfaces, so they provide stability.<br /><br />They do look good and the upper mesh fabric has some breathable properties.<br /><br />They do a good job when walking and running short distances.<br />I would have liked if they mold to the foot better and had softer fabric, but at this price point it might be hard to find.<br /><br />The M MGRNDL might not provide a good experience when running on uneven surfaces. They are not as comfortable as other well known and higher priced (twice as much) running sneakers brands.<br />The air cushion do provide a bit of support and comfort when running on even ground, such as concrete, pavement, grass or sand.<br />They do provide some level of impact resistant and support on the feet.",
+        "verified": false,
+        "helpful_votes": 1
+      }
+    ],
+    "store": "M MGRNDL",
+    "tags": [],
+    "price": 19.99,
+    "position": 3,
+    "page": 1
+  },
+  {
+    "id": "prod_running_shoes_041",
+    "parent_asin": "B07HQX118J",
+    "category": "Running Shoes",
+    "title": "Nike Women's Odyssey React Flyknit 2 Running Shoes Teal Tint and Sail 8.5",
+    "description": "",
+    "rating": 4.1,
+    "review_count": 13,
+    "features": [
+      "Rubber sole"
     ],
     "reviews": [
       {
         "rating": 5.0,
-        "title": "Great pair of shoes",
-        "text": "Love the color and comfort of these gym shoes! Fits great too!!!",
+        "title": "Comfortable",
+        "text": "Sneakers are super light and comfortable. Perfect for running, walking or jumping rope; I have plantar fasciitis and I don't feel pain when wearing these.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Nike",
+    "tags": [],
+    "price": 85.0,
+    "position": 4,
+    "page": 1
+  },
+  {
+    "id": "prod_running_shoes_099",
+    "parent_asin": "B0844MLRFB",
+    "category": "Running Shoes",
+    "title": "Xero Shoes Men's HFS Running Shoes - Zero Drop, Lightweight & Barefoot Feel",
+    "description": "",
+    "rating": 4.5,
+    "review_count": 1129,
+    "features": [
+      "A NEW LIGHTWEIGHT road running shoe. Foot-shaped for comfort. Built for speed!",
+      "Made in the USA or Imported",
+      "GRIP + COMFORT - Flexible to support natural foot motion, and grippy with its tire tread-inspired FeelTrue rubber sole",
+      "SHAPED FOR COMFORT, BUILT FOR SPEED - Xero HFS features a lightweight, minimalist build that contours to the shape of your feet. Its spacious toe-box allows you to splay, spread, and relax your toes for superior comfort",
+      "XERO DROP SOLE FOR PERFECT POSTURE - The Xero Drop sole offers a non-elevated heel and is low-to-the-ground - this allows for proper posture, balance, and agility for all-round performance",
+      "FLEX YOUR FEET, FEEL THE FLOOR - Our tire tread inspired patented 5.5mm FeelTrue sole strikes a balance between just-right protection and feedback - it delivers heel to toe cues to the brain for your best run ever. Allows your feet to bend and flex as nature intended",
+      "TRAVEL FRIENDLY, 5000 MILE WARRANTY - Xero HFS\u2019 extra-durable construction is backed by our 5,000 Mile Feel the World Sole Promise. Being ultra-flexible, you can roll \u2018em up and put in your pack or pocket for compact storage and easy travel",
+      "VEGAN FRIENDLY - Xero Shoes believes in promoting healthy and sustainable lifestyles which is why the HFS is made with zero animal products"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Surpassed My Expectations",
+        "text": "I feel like now I can write an honest review. I have run for years, 3 5k per week. My go to shoes were NB or Brooks and I loved them. Started seeing Xero Shoes pop up on social media and YouTube. I looked them for months and it seemed like a gimmick product. After some time I said ok I am going to try this shoe and see if they meet their hype. In July of this year I ordered the Prio Cross Trainer model. Now their instructions said adjust over a couple of weeks. Well I said hell no and put them to the test right out of the box. I wore them every chance I got for 30 days straight. I found them comfortable right out of the box and I did not experience any foot or leg discomfort during the break period. I began liking them the more I wore them. At day 31 I put my Brooks Adrenaline runners on. Within 15 mins I was aware of how unbalanced I was in that shoe and while walking around in my home said, I can\u2019t wear these any more I have to put my Xero Shoes on. I swear I referred to them specifically. I have since purchased 2 pairs of the HFS model runners and they are my favorite shoe. I wear them every day. In my old shoes at the end of the day I would change to my slides, I literally have these on until I go to bed. Closest thing to walking barefoot and still having a shoe on.",
+        "verified": true,
+        "helpful_votes": 7
+      },
+      {
+        "rating": 5.0,
+        "title": "If you like barefoot shoes give these a try.",
+        "text": "I wear a size 11 in most running shoes. Ordered a 10 1/2 in this and it fits great. My feet are on wider side so shorter sizes work for me if the shoe is somewhat wide. Really comfortable and appears well made. I look forward to trying other models. Unlike many other barefoot manufacturers I didn\u2019t see any irregularities in how the shoe was put together.",
+        "verified": true,
+        "helpful_votes": 2
+      },
+      {
+        "rating": 5.0,
+        "title": "Comfortable as \"bare foot\" shoes",
+        "text": "I have purchased 2 Xero Men's HFS Running Shoes - Zero Drop and I have been very happy and comfortable wearing them. I've successfully walked and run with them when I visited Philippines for a month and have gotten used to the \"bare foot\" concept. Although I'm still comfortable wearing my Adidas running shoes, I found myself to be wearing my bare foot shoes more often now as I really find them much lighter, comfortable (for bare foot shoes) and lighter/easier to pack on day or extended trips. I've only been wearing them for the last 2 months or so, so long term I would still need to see how they stand up.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "Forms to feet",
+        "text": "Really nice lightweight shoes that forms to feet rather than walking with slight incline on heel. One of the best work out shoes there are. Not for running or basket ball- in my opinion, though more for stretching, walking,  calisthenics, boxing or light aerobics.",
         "verified": true,
         "helpful_votes": 0
       },
       {
         "rating": 3.0,
-        "title": "You get what you pay for",
-        "text": "Cons.<br />First of all these shoes ARE NOT slip resistant, second after about a month of use the back heal is already wearing down.<br /><br />Pros.<br />They are inexpensive, they provide very good impact  resistance on your feet",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 1.0,
-        "title": "Not really for running",
-        "text": "Not really for running maybe walking but not running",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 5.0,
-        "title": "Very comfortable",
-        "text": "Definitely a bright color. My son loves them and said they were the most comfortable shoes he's had on his feet. The ladies at the dentist office kept complimenting how great the looked. He's happy/I'm happy!",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 2.0,
-        "title": "Wear very fast",
-        "text": "Wear very  fast",
+        "title": "Crazy not as comfortable as NEw BaLanCe Minimus",
+        "text": "The sole needs a bit more cushion.",
         "verified": true,
         "helpful_votes": 0
       }
     ],
-    "store": "RUNMAXX",
+    "store": "Xero Shoes",
     "tags": [],
-    "price": 22.99
-  },
-  {
-    "id": "prod_running_shoes_159",
-    "parent_asin": "B08RY1V5KP",
-    "category": "Running Shoes",
-    "title": "ASICS Kid's JOLT 3 Grade School Running Shoe",
-    "description": "Inspired by our GT running series, the JOLT 3 GRADE SCHOOL shoe is a multi-functional style that\u2019s engineered for everyday use. Featuring a comfortable fit in the forefoot, this shoe is complemented with stitched down overlays to improve support in the upper. Mesh underlays help deliver better airflow to keep feet cool, while the stitched toe and solid rubber outsole increases durability to last longer.",
-    "rating": 4.7,
-    "review_count": 845,
-    "features": [
-      "Made in the USA or Imported",
-      "Faux Leather sole",
-      "Mesh Upper: Provides excellent comfort and breathability",
-      "Synthetic leather overlays:",
-      "Stitched toe and solid rubber outsole: Improves durability",
-      "Stitched toe and solid rubber outsole"
-    ],
-    "reviews": [
-      {
-        "rating": 5.0,
-        "title": "More durable than most",
-        "text": "My son destroys his shoes and it is so hard to find something that doesn\u2019t get a hole the first week. I\u2019m sure not all 10 year old boys are as rough but this style has held up well and we are now on our 3rd pair.",
-        "verified": true,
-        "helpful_votes": 2
-      },
-      {
-        "rating": 5.0,
-        "title": "Good product.",
-        "text": "Grandson loved them.  Price was very good.",
-        "verified": true,
-        "helpful_votes": 2
-      },
-      {
-        "rating": 5.0,
-        "title": "Good quality, look nice",
-        "text": "I bought these for my 8 year old (heading into 3rd grade). They fit great and look greats he\u2019s very happy. Time will tell how well they hold up!<br /><br />We have bought ASICS for him before and they hold better than some. We usually wait until there are holes in them before buying new ones, the last ones lasted a good 6 months!",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 5.0,
-        "title": "Great shoes",
-        "text": "Well made, great looking, comfortable shoes.  Kiddo wears them to school and they are working out nicely for her during PE, recess, and after school sports.",
-        "verified": true,
-        "helpful_votes": 0
-      }
-    ],
-    "store": "ASICS",
-    "tags": [],
-    "price": 29.95
-  },
-  {
-    "id": "prod_running_shoes_074",
-    "parent_asin": "B09CLLKT28",
-    "category": "Running Shoes",
-    "title": "ASICS Men's Gel-Kayano 28 Running Shoes",
-    "description": "",
-    "rating": 4.6,
-    "review_count": 3859,
-    "features": [
-      "Made in the USA or Imported",
-      "Rubber sole",
-      "Engineered mesh upper improves breathability:",
-      "OrthoLite X-55 sockliner: Improves comfort",
-      "AHAR Plus Outsole: Strategically positioned in critical areas of the outsole, this exceptionally durable compound is 50% more durable than standard ASICS High Abrasion Rubber.",
-      "Trusstic System technology: Reduces the weight of the sole unit while retaining the structural integrity of the shoe.",
-      "Redesigned external heel counter helps keep the foot stable and provide a more comfortable stride:"
-    ],
-    "reviews": [
-      {
-        "rating": 5.0,
-        "title": "Total best!",
-        "text": "That this is my fourth in a row kayano 28 oughta tell ya something!!!",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 1.0,
-        "title": "Asics has changed",
-        "text": "I have been wearing Asics Gel Kayano running shoes  for many years.  This is the first time I have had a complaint.  They are no sized correctly.  Every time I wear them my back hurts.  When I put them up against the pair I am replacing the new ones are not the same size.  I missed the return period because I kept thinking they would be okay.  As it is I have 2 pair of shoes that I spent over $200 on and cannot wear them.",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 5.0,
-        "title": "Great for wide and flat feet",
-        "text": "Got these for my son who has a wide/flat foot. He said these are so comfortable. He\u2019s on his feet for most of the day and said his back pain has decreased since wearing these too.",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 5.0,
-        "title": "Comfy",
-        "text": "I like the additional loops that help keep the tongue from sliding over my narrow feet. Excellent cushion.",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 5.0,
-        "title": "GREAT FIT",
-        "text": "Just what I was looking for",
-        "verified": true,
-        "helpful_votes": 0
-      }
-    ],
-    "store": "ASICS",
-    "tags": [],
-    "price": 150.0
+    "price": 124.99,
+    "position": 5,
+    "page": 1
   },
   {
     "id": "prod_running_shoes_033",
@@ -454,823 +246,975 @@
     ],
     "store": "Sof Sole",
     "tags": [],
-    "price": 6.99
+    "price": 6.99,
+    "position": 6,
+    "page": 1
   },
   {
-    "id": "prod_running_shoes_156",
-    "parent_asin": "B086Z3QXTS",
+    "id": "prod_running_shoes_138",
+    "parent_asin": "B07J5CPW33",
     "category": "Running Shoes",
-    "title": "ASICS Men's Dynablast Running Shoes",
-    "description": "The DYNABLAST shoe is recommended for runners who want a responsive underfoot experience during their run. This running shoe comfortably wraps around the foot like a gentle hug. This design features a lightweight and breathable upper to keep feet cool without forgoing support. Additionally, the shoe's upper is made with recycled materials, while the sockliner is produced with a solution dyeing process that reduces carbon emissions and water usage. Equipped with FLYTEFOAM Blast cushioning in the midsole to generate soft landings, this material is also complemented with underfoot cutouts in the outsole to provide runners with a more responsive toe-off.",
-    "rating": 4.6,
-    "review_count": 991,
-    "features": [
-      "Synthetic-and-mesh",
-      "Rubber sole",
-      "FLYTEFOAM BLAST: Lightweight, midsole foam with energetic and highly responsive cushioning and bounce for an efficient ride.",
-      "Knit upper:",
-      "Solid Rubber Outsole: Provides enhanced durability and traction.",
-      "Underfoot cutouts provide excellent bounce:",
-      "EVA Sockliner: Removable sockliner that provides cushioning performance."
-    ],
-    "reviews": [
-      {
-        "rating": 5.0,
-        "title": "Very lightweight and comfortable",
-        "text": "Like color and comfort",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 4.0,
-        "title": "Dyna and Nova both a Blast.",
-        "text": "I had put 700 miles on my Novablast this year and wanted to tell you they held up great even through many runs in snow and rain. I found the Nova well cushioned,nice tongue, wide toe box, firm mid,, but  unstable on camber and turns and a touch heavy.. The dyna I recently purchased feel lighter, good heel cushion, thinner tongue and nice toe drop. I really like both models of ASIC.  Perfect for me at 36 miles a week.",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 5.0,
-        "title": "Love the color",
-        "text": "While too soft for me to use as a running shoe I do love the snazzy color and I get a lot of compliments on the looks.",
-        "verified": true,
-        "helpful_votes": 0
-      }
-    ],
-    "store": "ASICS",
-    "tags": [],
-    "price": 99.9
-  },
-  {
-    "id": "prod_running_shoes_176",
-    "parent_asin": "B08KYG467H",
-    "category": "Running Shoes",
-    "title": "DREAM PAIRS Boys Girls Athletic Sports Sneakers Tennis Running Shoes",
+    "title": "FLARUT Running Shoes Womens Lightweight Fashion\u00a0Sport Sneakers Casual Walking Athletic Non Slip",
     "description": "",
-    "rating": 4.3,
-    "review_count": 2253,
+    "rating": 4.2,
+    "review_count": 9790,
     "features": [
-      "Rubber sole",
-      "Soft upper for a modern look and maximum durability.",
-      "Elastic laces with hook-and-loop strap for easy adjustability.",
-      "Padded tongue and collar provides comfort against foot.",
-      "Breathable fabric lining for a great in-shoe feel.",
-      "Lightweight outsole delivers a natural feel for all-day play."
+      "leather-and-rubber sole",
+      "Functional: Engineered Arch support and cushioning heel that it enhances comfort and safety",
+      "Out-soles: Non slip, flexible rubber sole with air cushion which offer for stability and maximum moving",
+      "Uppers: Breathable and durable mesh fabric material makes your feet feel cool and clean",
+      "Lining: Breathable fabric lining for a great comfortable in-shoe feel",
+      "Applications: runing,walking,jogging,outdoor/athletic,gym,workout,training,indoor"
     ],
     "reviews": [
       {
-        "rating": 3.0,
-        "title": "Don't quite fit... 3 is too small & 13 is too big.",
-        "text": "I ordered Size 3 for my daughter who just grew out of 2s. They are tight, heavy and smaller than another 3 we have.<br /><br />I ordered size 13 for my son who just outgrew size 12. They are very large and larger than other 13s we have.<br /><br />Both kids said they are too heavy and stiff. They seem like good quality shoes but I can understand the kids' opinion. We are returning both and will try the running shoes with the mesh instead.",
-        "verified": true,
-        "helpful_votes": 2
-      },
-      {
-        "rating": 5.0,
-        "title": "Takes A Beating",
-        "text": "Purchased these sneakers for our seven year old son. He is very rough on his shoes and I am very surprised how well these sneakers are holding up. He says they are very comfortable and choices to wear them every day.",
-        "verified": true,
-        "helpful_votes": 2
-      },
-      {
-        "rating": 5.0,
-        "title": "daughter loves these",
-        "text": "We like these because they are cute, fit well and are mostly waterproof. They are a little bulky but daughter doesn't seem to mind. So far have held up for most of the year (kids run through their shoes pretty quickly usually).",
+        "rating": 4.0,
+        "title": "Size matters",
+        "text": "I loved everything except the sizing is off - I ordered a 7 but they were too small so I sent them back and ordered an 8 they were too big- so I don\u2019t know what to think- but I\u2019ll wash them to shrink a little and tie them up tight cause I like evielse about them and I\u2019m too tired to send them back again",
         "verified": true,
         "helpful_votes": 0
       },
       {
         "rating": 4.0,
-        "title": "Cute but not amazing quality.",
-        "text": "These sneakers are fine since little guys grow out of their shoes fairly quickly.  He's had better quality shoes, but still these are pretty nice and are holding up reasonably well.",
+        "title": "Light weight",
+        "text": "Not much cushioning but I\u2019ll buy an insert. Great color!",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Cute and Sporty",
+        "text": "Super Cute and Comfy! Nice quality style. They have an original appearance,  not like a knock-off item. Love them!",
         "verified": true,
         "helpful_votes": 0
       },
       {
         "rating": 2.0,
-        "title": "No thanks",
-        "text": "The velcro strap came apart after a month. Would not buy again",
+        "title": "They are terrible!!",
+        "text": "Bought these shoes for wearing around the house and yard. Big mistake! The material that they have as an insole is very thin and when you put them on and stand up you can feel all the little sharp edges of the plastic sole. It was somewhat shocking when I stood up. I tried a cheap pair of insoles at the dollar store thinking that might\u2019ve helped. As far as I am concerned they weren\u2019t even worth returning, into the garbage they went.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Comfort",
+        "text": "These shoes are a comfortable fit for all day.",
         "verified": true,
         "helpful_votes": 0
       }
     ],
-    "store": "DREAM PAIRS",
+    "store": "FLARUT",
     "tags": [],
-    "price": 30.99
+    "price": 32.99,
+    "position": 7,
+    "page": 1
   },
   {
-    "id": "prod_running_shoes_024",
-    "parent_asin": "B0BVLHSWFQ",
+    "id": "prod_running_shoes_113",
+    "parent_asin": "B076JJ7618",
     "category": "Running Shoes",
-    "title": "VOCOOL 100 PCS 1/4inch Stainless Steel Track and Cross Country Spikes with Spike Wrench, Pyramid Replacement Track Spikes for Sprint Sports Short Running Shoes, Black/Silver",
-    "description": "",
+    "title": "ASICS Jolt Men's Running Shoe",
+    "description": "Mens ASICS Jolt :: Durable, lightweight, synthetic overlays, neutral cushioning.",
     "rating": 4.6,
-    "review_count": 192,
+    "review_count": 953,
     "features": [
-      "\u3010What You Get\u3011: Package includes 100 pieces black spikes with 1pcs spike wrench, convenient for you to replace your shoe spikes. There are enough quantity for your daily use.",
-      "\u3010Quality Material\u3011: These spikes are made of quality hard steel, durable and rust-resist and anti-corrode, ensure you to use for a long time.Easy to match with most of the track shoes, improve your running balance of traction, flexibility and speed.",
-      "\u3010Easy to Use & Replace Spikes\u3011: The package includes a spike wrench. It is very easy for you to screw the track spikes into the shoes, convenient to replace the spikes. Ideal for athletic tracks, field and cross country surfaces.",
-      "\u3010Size\u3011: 6.35 mm (1/4 inch) in length, tapered and needle-shaped, which increases friction between the sole and the ground and prevents skidding,especially suit for track sprints, long jump,running, outdoor sports activities.",
-      "\u3010Improve Running\u3011: If you like running, climbing, or you are a sports enthusiast, this track spikes will help you a lot. This pyramid spikes will add the friction between the shoe sole and ground, thus can resist skid and improve your running speed."
+      "Rubber sole"
     ],
     "reviews": [
       {
         "rating": 5.0,
-        "title": "replacement for broken spikes",
-        "text": "I play cricket and the spikes under the shoes break frequently. I have bought this brand, i am hoping they would last me for a long time. They screw into the shoes perfectly",
+        "title": "Affordable and comfortable",
+        "text": "Update: I decided to keep these. Ok, so I am ashamed to wear them with jeans and a tee, I tried them for everyday but couldn't get over what I'll call the &#34;dad sneakers&#34; look. But I took these for a run and wow! They're very comfortable. A little clunky but flexible enough for daily training and the cushion is just right for me, sightly on the plush side but not squishy. These are my new daily runners. I don't know how long they'll last, but for the price, if I get 200 miles, I'll be happy.<br /><br />Also, if you're a 3e/4e and you like or need a wide toe box, these will deliver. I'm a smaller 4e but i need a wide toe box, especially since I'm not willing to give up my injinji toe socks. These are very spacious with plenty of room for my toe splay.<br /><br />-----<br /><br />Original review: From the product pictures I wasn't sure if I'd like them or hate them. But for the price I figured I might as well try them. They fit nicely, have moderate cushion, and they're more flexible than I expected. They're basic sneakers, no bells or whistles. But they're comfortable enough I would try running in them. They're certainly not fashion forward, but I wouldn't be ashamed to wear them with jeans and a tee. And if you're looking for extra-wide these fit like a true 4e. I expected to hate them but I'm pleasantly surprised and I'll probably keep them and use they for everyday sneakers or runners.",
         "verified": true,
-        "helpful_votes": 2
+        "helpful_votes": 8
       },
       {
         "rating": 5.0,
-        "title": "pyramid spikes",
-        "text": "love these but the track does not want pyramid, they want needle spikes. not sure what to do with these now.",
+        "title": "these feel great and I'm on my feet all day as a ...",
+        "text": "I have lots of foot issues, these feel great and I'm on my feet all day as a cook!",
         "verified": true,
-        "helpful_votes": 0
+        "helpful_votes": 1
       },
       {
         "rating": 5.0,
-        "title": "A must have in a coach\u2019s bag",
-        "text": "Great value",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 5.0,
-        "title": "Quanity",
-        "text": "Nice quantity and great fit dor ny daughter nike cletes.",
+        "title": "Fits well and comfortable",
+        "text": "My husband really liked it and said it\u2019s really comfortable.",
         "verified": true,
         "helpful_votes": 0
       },
       {
         "rating": 5.0,
-        "title": "Bought them again!",
-        "text": "We liked the 1st purchase so much that we bought another for the rest of the season.",
+        "title": "quality shoe",
+        "text": "second pair i have bought great fit and wear forever",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "Just a little low at ankle",
+        "text": "Just a little too low at ankle, so it doesn\u2019t feel like enough support.",
         "verified": true,
         "helpful_votes": 0
       }
     ],
-    "store": "VOCOOL",
-    "tags": [],
-    "price": 7.53
+    "store": "ASICS",
+    "tags": [
+      "Best Seller"
+    ],
+    "price": 189.99,
+    "position": 8,
+    "page": 1
   },
   {
-    "id": "prod_running_shoes_063",
-    "parent_asin": "B00RK351TA",
+    "id": "prod_running_shoes_131",
+    "parent_asin": "B0BQLVMB44",
     "category": "Running Shoes",
-    "title": "Saucony Men's Redeemer ISO Road Running Shoe",
-    "description": "High stability road running shoe, accomidates orthotics & overpronation\nSaucony is among the most respected names in running shoes. We offer a wide range of running and walking shoes, each with the Saucony trademark fit, feel and performance. We've spent years studying the biomechanics of top athletes. Our goal? To develop creatively engineered systems that maximize your performance in your specific activity, allowing you to focus on the activity instead of the equipment. From our studies have come many innovative Saucony concepts. Advanced technologies-like Grid, the first sole-based stability and cushioning system--provide an advantage to athletes of all types.",
+    "title": "New Balance Men's FuelCore Coast V4 Running Shoe",
+    "description": "Whether you're running at the gym or wearing on the streets, the new fuel core coast V4 unites convenience and comfort for the ultimate everyday athletic shoe. The ground contact eva outsole creates a lightweight ride while bootie construction has a second-skin feel and is easy to slip on and go.\nNew Balance, is dedicated to helping athletes achieve their goals. It's been their mission for more than a century. It's why they don't spend money on celebrity endorsements. They spend it on research and development. It's why they don't design products to fit an image. They design them to fit. New Balance is driven to make the finest shoes for the same reason athletes lace them up: to achieve the very best.",
     "rating": 4.4,
-    "review_count": 302,
+    "review_count": 2181,
+    "features": [
+      "50% Synthetic, 50% Mesh",
+      "Imported",
+      "Rubber sole",
+      "Laser Engraving",
+      "NB Response 2.0 Performance Insert",
+      "Bootie Construction",
+      "Synthetic/Mesh Upper"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Love them!",
+        "text": "Light weight with a great fit. Perfect for travel or day to day wear.  They handled a solid day of walking around city streets in comfort.  I\u2019m ordering another pair in a different color.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "Super Light weight",
+        "text": "The style, color and the lightweight of the material and sole make a perfect shoe. We will see in time if they stand up to my husbands daily regime at the gym.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Great running and walking shoe",
+        "text": "Wonderful product, fit perfectly, wash in washing machine NOT HOT WATER, warm or cold so glued parts do not come apart. They wash many, many times with no ill effects.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "a lite duty general purpose shoe",
+        "text": "I hd to send back my normal size, a 9EEE, for a size larger.  I've had this variation in size before with  New Balance so beware.  I'm still giving it 5 stars for style and price.<br /><br /> You may have noticed that price varies considerably with the color sub/style you choose.  Mine were only $21 while others are substantially more.  I assume construction is the same on all of them?  Maybe the price is based on the current inventory?  My price dropped slightly after I ordered.<br /><br />While it is sold as a running shoe (?) and is probably adequate for this purpose  a serious high mileage runner would probably pay more to get more.  If you can get the right price point as I did they are certainly worth a try as a general purpose/athletic/walking shoe.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Very nice",
+        "text": "Comfortable, fit well, sharp looking.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "New Balance",
+    "tags": [
+      "Sponsored"
+    ],
+    "price": 70.14,
+    "position": 9,
+    "page": 1
+  },
+  {
+    "id": "prod_running_shoes_142",
+    "parent_asin": "B09MNM6GM2",
+    "category": "Running Shoes",
+    "title": "XIANV Women Men Running Shoes Breathable Slip On Sneakers Mesh Sport Athletic Fashion Tennis Comfort Fitness Walking Shoes",
+    "description": "",
+    "rating": 4.2,
+    "review_count": 724,
+    "features": [
+      "Rubber sole"
+    ],
+    "reviews": [
+      {
+        "rating": 3.0,
+        "title": "8.5 was a 41? It should be 42",
+        "text": "Ordered a us 8.5 and a 41 was delivered. Every other 8.5 I have ordered has said 42 as the size. This caused my toes rub and touch the ends of the shoe. I believe sizing is wrong. Has just for fun new fashion printed on the sides which make the shoes loook really cheap. Bottom green portion not as dark as product pictures bust is acceptable. Order half a size larger then normal.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 4.0,
+        "title": "A good pair of shoes",
+        "text": "Bought for running but they are not performing well. They are too stiff. You get you what you pay for. So no complaints. They are surprisingly stylish. I wear them everyday.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "Exactly as described",
+        "text": "Fits well.  Very nice product.  Love the colors.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Worth it.",
+        "text": "Comfortable right out of box. No breaking in. Love them.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "Bien",
+        "text": "Las trenzas o cordones podr\u00edan ser de mejor calidad aunque cumplen la tarea.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "XIANV",
+    "tags": [],
+    "price": 16.99,
+    "position": 10,
+    "page": 1
+  },
+  {
+    "id": "prod_running_shoes_081",
+    "parent_asin": "B091QY8JJJ",
+    "category": "Running Shoes",
+    "title": "Brooks Women's Bedlam 3 Running Shoe",
+    "description": "",
+    "rating": 4.2,
+    "review_count": 473,
+    "features": [
+      "Rubber sole",
+      "THIS WOMEN'S SHOE IS FOR: The Bedlam 3 is perfect for runners who want a shoe that helps them by giving energy back with each step and supports the way their body naturally wants to move.",
+      "ENERGIZED CUSHIONING: Built with our best energy return, the DNA AMP midsole gives you back more of the effort you put in.",
+      "SECURE, SOCK-LIKE FIT: Redesigned Fit Knit upper provides a secure, sock-like fit that moves with you.",
+      "GUIDERAILS HOLISTIC SUPPORT SYSTEM: We\u2019ve shifted our focus beyond the feet to the most injury-prone part of a runner\u2019s body: the knees. GuideRails support keeps you moving comfortably by keeping excess movement in check.",
+      "WEAR TESTERS SAY: \u201c I love the energy I have in these shoes, they are light but powerful! Traction and stability are very strong as well.\u201d"
+    ],
+    "reviews": [
+      {
+        "rating": 4.0,
+        "title": "Change the laces",
+        "text": "These tennis shoes are very comfortable but the laces won\u2019t stay tied.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Brooks",
+    "tags": [
+      "Sponsored"
+    ],
+    "price": 135.72,
+    "position": 11,
+    "page": 2
+  },
+  {
+    "id": "prod_running_shoes_103",
+    "parent_asin": "B0C699QDPJ",
+    "category": "Running Shoes",
+    "title": "Brooks Men's Ghost 14 Neutral Running Shoe",
+    "description": "Smooth roads are ahead when you put on the Ghost 14. This award-winning runner favorite now features 100% DNA LOFT in the midsole, for a softer, smoother ride. We\u2019ve also improved the fit so the shoe adjusts even more comfortably to your foot.",
+    "rating": 4.7,
+    "review_count": 14830,
+    "features": [
+      "THIS MEN'S SHOE IS FOR: Runners looking for a smooth ride that won\u2019t distract from the fun of the run. The Ghost 14 offers a simplified midsole construction which creates more seamless transitions. This Brooks Ghost 14 is a certified PDAC A5500 Diabetic shoe and has been granted the APMA Seal of Acceptance. We recommend ordering Brooks running shoes 1/2 to one size larger than your dress shoe.",
+      "SUPPORT AND CUSHION: The Ghost 14 offers neutral support while providing high energizing cushioning. Ideal for road running, cross training, the gym or wherever you might want to take them! Predecessor: Ghost 13",
+      "BALANCED, SOFT CUSHIONING: BioMoGo DNA and DNA LOFT cushioning work together to provide a just-right softness underfoot without losing responsiveness and durability - yet it feels lighter than ever. DNA LOFT now makes up the entire midsole, for a softer, smoother, ride.",
+      "SMOOTH, STABLE RIDE: No matter how your foot lands, our Segmented Crash Pad - an integrated system of shock absorbers - will cushion every step and stride for smooth heel-to-toe transitions.",
+      "SOFT, SECURE, FIT: More strategic use of the 3D Fit Print upper technology provides structure that moves with the foot."
+    ],
+    "reviews": [
+      {
+        "rating": 4.0,
+        "title": "Great fit",
+        "text": "Fits as expected and extremely comfortable. Favorite running shoes ever",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "The Brooks Ghost line is my favorite 10k-Marathon shoe",
+        "text": "I've been using the Ghost by Brooks since I believe the Ghost 6. They're great for casual walking or if you like 10K-Marathon distance runs. Until they mess them up, I'll continue to purchase them.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 1.0,
+        "title": "A disappointment",
+        "text": "Wore these shoes to work and after 3 weeks have 3 rips on sides of shoes and a hole on top of shoe.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "These Brooks running shoes are the best sneakers that you can buy. Very comfortable.",
+        "text": "These Brooks running shoes are the best sneakers that you can buy. Very comfortable.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "Brooks has lost a step on wear/quality, but still a very good shoe",
+        "text": "First, Brooks is a top running shoe manufacturer, and I always like buying their products, and they are to be applauded for releasing shoes in widths, which lets you get a shoe that fits, which is essential.  If a shoe does not fit properly, then it will be extremely difficult to run (or walk any distance in).  The Brooks Glycerin is one model up from the Ghost, that has better cushioning, but is no longer available in a Narrow width, and is more expensive, but the Ghost is a pretty good shoe on its own.  I would have given the Ghost 5 stars, but the Ghost 14 is not quite perfect, having two areas where it could be better (and was better previously).<br /><br />The first picture shows a Ghost 14 (on the left), next to a Ghost 13 (the previous model, on the right), and you can see the Ghost 14 has less tread, so wears out sooner, I would say roughly 50-75 miles of road (asphalt) running.  The picture shows both shoes new.  The Ghost 13 also was a little more cushioned, but you can offset that some by putting a different insole in the 14, and a lot of runners replace the insoles anyway.  The thinner tread means less mileage on the 14s, but still probably as good as most of the competition, just no longer better here.<br /><br />The second pictures shows the upper collar on a Ghost 14, and the fabric Brooks is using there (not so much on the 13 and earlier models) is nice and soft, but does not hold up.  I generally see holes or failures at the top of the lace area, and on some shoes, towards the back collar area.  You get a lot of fraying, sometimes holes, which is more an appearance problem than anything that would impact running in them, but means also you cannot wear them casually, at least where someone might see the failures.  That may be an aspect that is supply chain related, they used to hold up better,  but I have seen the problem on two pair of Ghost 14s, and other manufacturers do a bit better (probably needs a bit more nylon, to hold up longer).<br /><br />I will say that the Ghost 14 has a narrower tongue at the top, that is shared with the 13 but was new there, and I have not seen it much in other shoes, but actually works very well, so I give kudos to Brooks on that design innovation.  There is less chance that during a run the tongue will shift over into the forefoot, at least in a painful way, and you don't have to stop to shift it back.<br /><br />So overall, particularly at this price point, the Brooks continues to be good value and one of the top shoes to consider, but as with anything, there are a couple of areas that could use further improvement.",
+        "verified": false,
+        "helpful_votes": 1
+      }
+    ],
+    "store": "Brooks",
+    "tags": [
+      "Sponsored"
+    ],
+    "price": 139.8,
+    "position": 12,
+    "page": 2
+  },
+  {
+    "id": "prod_running_shoes_123",
+    "parent_asin": "B08HP3TR7P",
+    "category": "Running Shoes",
+    "title": "Nike Women's Running Shoe",
+    "description": "Nike Women's Enigma Nike Shox Black/Black/Gym Red BQ9001-001",
+    "rating": 4.4,
+    "review_count": 532,
+    "features": [
+      "Rubber sole"
+    ],
+    "reviews": [
+      {
+        "rating": 1.0,
+        "title": "Knock offs!! Just DON'T DO IT \u2705",
+        "text": "[[VIDEOID:e270e5dd29b72c4c1bdeae3b2a3671e1]] They are dirty with red clay mud. Very very poorly made. For $185 I expect more quality. The material is not properly laid. I am a Nike Shox NZ fanatic. I have over 10 pair and clearly  these are knock offs. The Nike swish is smaller then my pinky finger nail. The shocks are not even so the shoe tilts. I will stick to buying in the store that way I know exactly what I am getting. Ohh let me add they charge you to return items. You have to drive to UPS to drop them off and they charge you a fee. I can not make this up the attached pictures do not lie. Do not buy from this seller. Don't do it!!!! Very disappointed \ud83d\ude1e RETURNING!!!!!",
+        "verified": true,
+        "helpful_votes": 18
+      },
+      {
+        "rating": 5.0,
+        "title": "recommended for painful Plantar Fasciitis",
+        "text": "recommended for painful Plantar Fasciitis . I ordered these for that reason, and pretty much wear them all the time.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Nike shox",
+        "text": "Love them",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Nike",
+    "tags": [],
+    "price": 312.23,
+    "position": 13,
+    "page": 2
+  },
+  {
+    "id": "prod_running_shoes_172",
+    "parent_asin": "B07L1NC91Z",
+    "category": "Running Shoes",
+    "title": "New Balance Women's Cruz V2 Fresh Foam Running Shoe",
+    "description": "Fresh gets even fresher with the introduction of the fresh foam cruz V2 knit. Featuring a softer, lighter version of our award-winning fresh foam technology, it's comfort youve never felt before. A heathered knit upper is as stylish as it is technical and a suede saddle and deconstructed heel support you no matter where you take the shoe. Its performance with everyday style.\nNew Balance, is dedicated to helping athletes achieve their goals. It's been their mission for more than a century. It's why they don't spend money on celebrity endorsements. They spend it on research and development. It's why they don't design products to fit an image. They design them to fit. New Balance is driven to make the finest shoes for the same reason athletes lace them up: to achieve the very best.",
+    "rating": 4.3,
+    "review_count": 1697,
     "features": [
       "100% Synthetic",
       "Imported",
       "Rubber sole",
-      "Width denoters: D (Medium), E, 2E (Wide), 3E (X-Wide),"
+      "Fresh Foam midsole cushioning is engineered for precision comfort; built for running and designed for living"
     ],
     "reviews": [
       {
-        "rating": 4.0,
-        "title": "Stability at a reasonable price",
-        "text": "My podiatrist said I needed stability shoes. These were the only ones that fit me properly. So far, they are working well for me. They are slightly wider than expected, but only slightly.",
-        "verified": true,
-        "helpful_votes": 1
-      },
-      {
         "rating": 5.0,
-        "title": "My ankle feel better!",
-        "text": "Excellent choice for fallen arches and overpronating ankle.",
-        "verified": true,
-        "helpful_votes": 1
-      },
-      {
-        "rating": 5.0,
-        "title": "Great for flat feet",
-        "text": "I have an extremely flat arch, these are wonderful for walking or gym days. This was my third pair I've bought.",
+        "title": "Great",
+        "text": "\ud83d\udc4d\ud83c\udffb",
         "verified": true,
         "helpful_votes": 0
       },
       {
-        "rating": 4.0,
-        "title": "great",
-        "text": "8th different pair of saucony  shoes. great comfort and quality.",
+        "rating": 5.0,
+        "title": "So comfy!",
+        "text": "Comfortable and good for wide feet!",
         "verified": true,
         "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Great Quality & Comfortable",
+        "text": "Very comfortable, light weight shoe. I\u2019m an RN and I\u2019m on my feet all day and these shoes have been great so far.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Great fit!",
+        "text": "Love these shoes!",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Good for around town",
+        "text": "I like these cause they\u2019re quick on and off- maybe not good for sports but comfy and stylish",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "New Balance",
+    "tags": [],
+    "price": 74.0,
+    "position": 14,
+    "page": 2
+  },
+  {
+    "id": "prod_running_shoes_185",
+    "parent_asin": "B083GV5SWM",
+    "category": "Running Shoes",
+    "title": "ALTRA Men's AL0A4VQM Olympus 4 Trail Running Shoe",
+    "description": "",
+    "rating": 4.4,
+    "review_count": 7,
+    "features": [
+      "Imported",
+      "Vibram sole",
+      "Go Further: Improved breathability and premium tongues for better comfort will have you locked in",
+      "Get Comfortable: Signature Altra balanced cushioning and FootShape toe boxes allow your toes to spread and encourages proper, low-impact form throughout your run",
+      "Stay Focused: Vibram Megagrip rubber outsoles provide secure traction on varied terrain",
+      "Push Yourself: InnerFlex midsole technology ensures increased flexibility and performance",
+      "Stay Comfortable: Stack height of 33mm provides ample cushion for long runs"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Very comfortable shoe.",
+        "text": "The bottom of the shoe is thick.<br />But the overall weight of the shoe is not bad.<br />I feel like I have better contact than any other shoe I own.<br />I like the quality, money well spent.",
+        "verified": true,
+        "helpful_votes": 1
       },
       {
         "rating": 3.0,
-        "title": "Extreme width",
-        "text": "The width is substantially wider than stated. I wear a 2E, which is sometimes too tight, but the 2E in these shoes is far too wide for me, giving the space of a 4E or larger.",
-        "verified": false,
+        "title": "Runs much smaller/shorter than the Lone Peak 6, and much stiffer than expected",
+        "text": "I own a pair of Lone Peak 6 size 11 which have a little toe allowance.  Same size 11 Olympus 4 literally had my toes scrunched along the front of the shoe!  May have to go one whole size up for proper fitting.  They also felt a LOT stiffer than the Lone Peaks, which surprised me given they are supposed to have maximum cushioning;  the Lone Peaks actually feel more cushy to me.  Returning the 11s and mulling over whether I should bother trying a 11.5 or a 12, considering how much stiffer they felt.",
+        "verified": true,
         "helpful_votes": 1
-      }
-    ],
-    "store": "Saucony",
-    "tags": [],
-    "price": 119.95
-  },
-  {
-    "id": "prod_running_shoes_062",
-    "parent_asin": "B096CB91P8",
-    "category": "Running Shoes",
-    "title": "Saucony Women's Kinvara 13 Running Shoe",
-    "description": "When it comes to lightweight speed, nothing crushes the competition like the Kinvara. And this just so happens to be our lightest one yet. With more speed contouring and its signature flexible feel, it pushes you forward without holding anything back. These are the shoes you\u2019ll do big things in.",
-    "rating": 4.5,
-    "review_count": 299,
-    "features": [
-      "Rubber sole",
-      "The Kinvara 13 was literally designed for speed. Its beveled midsole and new midfoot contouring deliver a smoother, faster ride.",
-      "Its re-imagined upper is made with a single-layer mesh, giving you a lightweight feeling and even more breathability.",
-      "We created the lightest Kinvara ever to help you truly take off. It\u2019s 7.2 ounces of pure speed."
-    ],
-    "reviews": [
-      {
-        "rating": 5.0,
-        "title": "Light, neutral shoe",
-        "text": "Saucony neutral running shoes are the only kind of running shoes that I have ever purchased. I had accepted that my feet can only tolerate running if I\u2019m wearing the ugliest, clunkiest shoes. That\u2019s changed with this pair. They are so lightweight and look nothing like my other pairs. I usually have to lace up my shoes differently, but haven\u2019t had to do that with these. They\u2019re so lightweight, but provide all of the support that I need",
-        "verified": true,
-        "helpful_votes": 5
       },
       {
         "rating": 5.0,
-        "title": "Get 1/2 size larger. I wear 8 1/2 purchased 9.",
-        "text": "Comfortable and lightweight. Great color.",
+        "title": "HD user, Size 14 feet, torn knees 50+",
+        "text": "I tear up any shoes in 3-4 months and these ones hold up the best (4+months ave.)\u2026I\u2019ve destroyed many pairs and won\u2019t use anything else.  They are comfortable and allow me to continue working out with aches or injury (from hiking every day).<br />Size 14 ft<br />Wgt 250<br />Ex-Athlete with numerous knee and back injuries<br />Hike 6 miles per day and workout in the gym to maintain good fitness level.<br />Neuropathy in feet.<br />Compression fractures in back (old injury)<br /><br />These shoes are made for Clydesdale ex-athletes like myself\u2026I\u2018be been using Altra for 4 years\u2026",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "A good shoe",
+        "text": "As this is my third pair of Altra Olympus shoes, I can say I am a happy customer. Each pair has lasted just over 1000 miles trekking over rough terrain. The Vibram is great but only holds out so long. Thank you Altra. Great customer service too. \ud83d\ude1c",
         "verified": true,
         "helpful_votes": 0
       },
       {
         "rating": 4.0,
-        "title": "Lightweight and breathable",
-        "text": "Pros:<br />-Overall these shoes are pretty lightweight and breathable. Good amount of air flow with the mesh siding, however you need to take good care of these as the mesh can rip easier when you catch your foot on a step.<br />-I am a huge fan of saucony and have never had bad results with any of their shoes over the past 20 years. These shoes appear to be more of a basic model that I would expect to last about a year or 1 marathon season.<br />-No issues with blisters or rubbing.<br /><br />Cons:<br />-There isn\u2019t much grip/tread on the bottom of these shoes. For this reason, I don\u2019t expect these to hold up as well as some of the other models of Saucony shoes I\u2019ve had in the past.",
-        "verified": false,
-        "helpful_votes": 3
-      },
-      {
-        "rating": 5.0,
-        "title": "Lightweight, cushioned, and Comfortable\u2026",
-        "text": "[[VIDEOID:e8f84c743163d7b17341711cad808847]] These sneakers are true to size and very comfortable.  Nice sneakers for light runs or jogging.  Very breathable for summer too.<br /><br />Trust you found this review honest and helpful:-)",
-        "verified": false,
-        "helpful_votes": 2
-      },
-      {
-        "rating": 4.0,
-        "title": "True Fit",
-        "text": "I have been wearing Saucony shoes for a few years now. They're one of the few shoe brands that I can order without trying on first. I can count on their shoes being true fit. This pair is no exception. I have wide feet and it's hard to find shoes that fit period! Let alone being able to order them online. These are running shoes and I am not a runner. I do find them to be less cushiony than I am used to. Maybe it's because they are running shoes. They are still comfortable to wear. I like the black and silver colors.",
-        "verified": false,
+        "title": "I'm waiting for the hiking day.",
+        "text": "searched for these shoes after recommending them on Youtuber, but I bought them after thinking about it because I didn't like the color, but it's light and I'm waiting for the hiking day.",
+        "verified": true,
         "helpful_votes": 0
       }
     ],
-    "store": "Saucony",
-    "tags": [],
-    "price": 69.94
+    "store": "ALTRA",
+    "tags": [
+      "Sponsored"
+    ],
+    "price": 129.95,
+    "position": 15,
+    "page": 2
   },
   {
-    "id": "prod_running_shoes_097",
-    "parent_asin": "B09VB9Z2P4",
+    "id": "prod_running_shoes_147",
+    "parent_asin": "B083QSKPBB",
     "category": "Running Shoes",
-    "title": "M MGRNDL Womens Air Running Shoes Breathable Tennis Fashion Sneakers for Walking Jogging Gym",
+    "title": "STQ Women's Running Shoes Breathable Air Cushion Sneakers",
     "description": "",
     "rating": 4.1,
-    "review_count": 162,
+    "review_count": 15891,
     "features": [
-      "Rubber sole",
-      "Platform measures approximately 1.00\"",
-      "Air Cushion: M MGRNDL women's air running shoes features air cushion design to provide cushioning and support for the feet, protect your knees.",
-      "Breathable Mesh: Double-layer knitted fabric upper designs with unique knitted structures make the upper more breathable and comfortable.",
-      "Memory Foam Sole: The memory foam insole and the low-density PU outsole offer these sneakers great cushioning.",
-      "Occasions: Slip on sneaker suits for daily, walking, running, shopping, traveling, working, driving, jogging, training, playing tennis, casual outdoor, etc.",
-      "Easy slip on sneakers: This style of shoelaces is more inclined to decoration, which is suitable for adjusting the tightness of the shoes themselves. Very easy on and off. Medium width. We recommend the wide feet to choose a half size up."
-    ],
-    "reviews": [
-      {
-        "rating": 2.0,
-        "title": "Cut Foot",
-        "text": "At first glance these shoes looked ideal. The uppers are mesh and they tie. The black and white look sporty. But the shoes left a,cut on the top of my left foot. The piece that holds the lace is not padded and it rubbed and cut the top of the foot. The right one was okay. Just not acceptable. I suppose yoi could afgix pads to prevent the rubbing or better yet buy shoes without that problem.",
-        "verified": false,
-        "helpful_votes": 1
-      },
-      {
-        "rating": 4.0,
-        "title": "Great for walking and running, on even or paved surfaces.",
-        "text": "[[VIDEOID:c1b550fb45bc70f6146cd85777443b05]] The M MGRNDL sneakers are light, a bit flexible, and the air cushion design provides a cushioned impact. They have a good grip on surfaces, so they provide stability.<br /><br />They do look good and the upper mesh fabric has some breathable properties.<br /><br />They do a good job when walking and running short distances.<br />I would have liked if they mold to the foot better and had softer fabric, but at this price point it might be hard to find.<br /><br />The M MGRNDL might not provide a good experience when running on uneven surfaces. They are not as comfortable as other well known and higher priced (twice as much) running sneakers brands.<br />The air cushion do provide a bit of support and comfort when running on even ground, such as concrete, pavement, grass or sand.<br />They do provide some level of impact resistant and support on the feet.",
-        "verified": false,
-        "helpful_votes": 1
-      }
-    ],
-    "store": "M MGRNDL",
-    "tags": [],
-    "price": 19.99
-  },
-  {
-    "id": "prod_running_shoes_196",
-    "parent_asin": "B0BKWFQW9S",
-    "category": "Running Shoes",
-    "title": "Avia Avi Factor Slip On Girls' Sneakers - Lightweight Tennis, Athletic, Running Shoes for Girls - Toddler, Little Kid, and Big Kid Sizes 11 to 6",
-    "description": "",
-    "rating": 4.2,
-    "review_count": 507,
-    "features": [
-      "Rubber sole",
-      "PERFORMANCE SNEAKERS FOR GIRLS - A sturdy, dependable everyday sneaker that provides ultimate durability for active kids. The lightweight, breathable mesh overlays create comfort and ventilation.",
-      "SLIP ON, NO TIE LACES ALTERNATIVE CLOSURE - Gore, bungee, or toggle lace closures with no tying makes an easy, fast on and off option for toddlers, preschoolers, and kids of all ages. The perfect camp, sports, everyday, or back to school shoes! Available in sizes toddler 10 to big kid 6.",
-      "COMFORTABLE & DURABLE GIRLS ATHLETIC SHOES - The Avia compression molded EVA midsole and removable EVA sock add supportive cushioning for all-day wear.",
-      "COOL TODDLER & GIRLS SNEAKERS - In trendy, versatile colors, these running shoes go with everything in their wardrobes - and they stand out in the crowd!",
-      "NON-MARKING TPR SOLEPLATE - Kids will leave their mark on people, not on the ground or gym floor! The thick but light weight rubber sole holds up to everyday wear and play."
-    ],
-    "reviews": [
-      {
-        "rating": 5.0,
-        "title": "Great little athletic shoes",
-        "text": "My daughter, age 5, wears a size 13(kid) and has a wide foot. These shoes fit nicely. I like that there isn't any velcro. Velcro never holds up well and everything gets stuck to it. These shoes are closer to the shoes that we'll be buying in the near future once my daughter masters tying laces. Highly recommend these shoes.",
-        "verified": true,
-        "helpful_votes": 1
-      },
-      {
-        "rating": 3.0,
-        "title": "Pretty and comfortable but looked worn very quickly",
-        "text": "My granddaughter loved these shoes - she loved the colors and the fit -  but they wore out in a matter of a few weeks.",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 5.0,
-        "title": "True Size Fit",
-        "text": "These girl's tennis shoes are so cute! They're also pretty comfortable. The slip-on feature is easy and the shoes stay on. Traction is good. They are true size fit. And they're very affordable.",
-        "verified": false,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 5.0,
-        "title": "Pretty",
-        "text": "They liked the rainbow sneakers. These sneakers were good. She could run in them without a problem.<br />These shoes are very nice. They were cute for my child. They thought they were comfortable. The fit was fine. They were able to use it for different situations. They were easy to put on and off. The quality seemed fine. They looked good on her. She liked them. The deal was fine. I would recommend them.",
-        "verified": false,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 5.0,
-        "title": "Comfortable",
-        "text": "Fits as expected, pretty design and colors.  Comfortable,  well made, good brand.",
-        "verified": false,
-        "helpful_votes": 0
-      }
-    ],
-    "store": "Avia",
-    "tags": [],
-    "price": 29.98
-  },
-  {
-    "id": "prod_running_shoes_152",
-    "parent_asin": "B07WZGQ7CM",
-    "category": "Running Shoes",
-    "title": "WONESION Mens Breathable Walking Tennis Running Shoes Blade Fashion Sneakers",
-    "description": "",
-    "rating": 4.2,
-    "review_count": 20698,
-    "features": [
-      "Rubber sole",
-      "UPPER---Fashion mesh upper, soft and breathable. Super breathable upper keeps your feet clean and cool.",
-      "INSOLES---The interior of the shoe uses a honeycomb insole that adds cushioning and impact resistance to provide a comfortable feeling for your feet.",
-      "OUTSOLES---Blade soles, made of TPU rubber, durable and enhanced non-slip design and make you walk and sports freely on all kinds of ground.",
-      "OCCASIONS---Perfect choice for many occasion: Running, training, gym, casual walking, workout, traveling, hiking, camping, climbing, outdoor activities and daily wear.",
-      "Stylish color scheme gives you a different visual experience, slip-on closure type easy put on & off. Simple style, all-match colors, can be match any clothing."
-    ],
-    "reviews": [
-      {
-        "rating": 4.0,
-        "title": "Waited a year of use before my review",
-        "text": "To be honest I only bought these shoes from the way they looked (Camo) and only after watching a few viedeos on them.. the price is great.. the comfort is surprising and easy to wear. I weith right at 300 lbs and they support me just fine.. now know I also own Brooks, NB, Adidas, UA HOVR, etc... shoes as well.. are these as comfortable as they are.. No.. but they sure pack a punch bang for the buck thought.. NOW.. One huge issue.;. and again I wanted to wait and see if the soles \"scuffed up: for traction.. but no.. If there is rain.. and the water on any surface is thin.. like tile, ocncrete, wood or anything besices most asphalt.. this shoe is like your walking on thin ice.. and YOU WILL SKID! Be warned.. Good.. but Dry use ONLY",
-        "verified": true,
-        "helpful_votes": 14
-      },
-      {
-        "rating": 2.0,
-        "title": "Uncomfortable",
-        "text": "Order larger since these run real small.",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 5.0,
-        "title": "Est\u00e1n dura buen estilo  me gustaron mucho",
-        "text": "Gracias me gusta mucho",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 4.0,
-        "title": "Oddly they're a nice shoe",
-        "text": "I didn't expect much from these but, they're surprisingly comfortable. They're true to size and the color is pretty neon. The strap around the back is awkward however and I will likely cut it off so it doesn't catch on something when I'm walking. The \"just so so\" text on the shoe makes no sense... Haha it could easily have been left off... But, again... They're different and bright.",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 5.0,
-        "title": "Love these shoes",
-        "text": "My feet haven't felt this good in years",
-        "verified": true,
-        "helpful_votes": 0
-      }
-    ],
-    "store": "WONESION",
-    "tags": [],
-    "price": 45.99
-  },
-  {
-    "id": "prod_running_shoes_006",
-    "parent_asin": "B08YRNZ94T",
-    "category": "Running Shoes",
-    "title": "sanheng fire Deformation Parkour Shoes Four Rounds of Running Shoes Roller Skates",
-    "description": "Size reference (length is foot length)  36-23 cm  37 -235 cm  38-240 cm  39-245 cm  40-255 cm  41-260 cm  42-265 cm  43-270 cm",
-    "rating": 4.2,
-    "review_count": 1418,
-    "features": [
-      "41",
-      "Roller bearing capacity: 85KG. Please buy below 85KG",
-      "Secure the wheels to avoid the wheels flying out during use.",
-      "Lubricants can be added before use to reduce friction and make it easier to slide (you can also use cooking oil)",
-      "Please choose the correct size,shoes are too small, please buy shoes with a larger size",
-      "Then start your parkour!"
-    ],
-    "reviews": [
-      {
-        "rating": 1.0,
-        "title": "I'd not buy this to wear as a shoe period",
-        "text": "Its so heavy & bulky that you can probably use it as a roller shoe but not a shoe per se. I bought this for my daughter as she insisted for it but this is useless and too pricey for the purpose. There are better products available in the market.",
-        "verified": true,
-        "helpful_votes": 5
-      },
-      {
-        "rating": 5.0,
-        "title": "Love them",
-        "text": "I\u2019ve only taken them for a couple of \u201crides\u201d, but they seem to work like they should. I put oil on the wheels as directed before first time use. Seemed easier to use the second time as the oil had time to dry. Pretty great and looks good too. I did get the wrong size tho, but somehow still fit",
-        "verified": true,
-        "helpful_votes": 3
-      },
-      {
-        "rating": 4.0,
-        "title": "My daughter loves them.",
-        "text": "Perhaps my daughter is heavy-footed or something because, when she walks around with these things on, it's so loud. Clank clank clank clank... from the wheels hitting the ground with each step....Reason for the 4 star rating. Other than that, these are great! Seem very sturdy and they operate well. My daughter loves them. She normally wears a size 8.5/9 in women's shoes. The size 42 fits her just fine.",
-        "verified": true,
-        "helpful_votes": 3
-      },
-      {
-        "rating": 3.0,
-        "title": "Difficult for me to use",
-        "text": "The shoes were cute! They are heavy and clunky, but they definitely looked good! The wheels are far back on the foot, so balancing is hard with the skates out, which put a lot of stress on my calves. For those worried about buying them and paying return shipping if they don't work: Amazon will cover return shipping. The seller sent me a return address and I paid $20 or so to return it to their Cali location. Amazon refunded it to me as a credit that only works on products sold/shipped by amazon (must be both!). I might be weak in the legs, so it could be different for someone else if you want to try it.",
-        "verified": true,
-        "helpful_votes": 2
-      },
-      {
-        "rating": 5.0,
-        "title": "Perfect",
-        "text": "Reminds me of street flyers",
-        "verified": true,
-        "helpful_votes": 0
-      }
-    ],
-    "store": "sanheng fire",
-    "tags": [],
-    "price": 85.0
-  },
-  {
-    "id": "prod_running_shoes_078",
-    "parent_asin": "B0BXH6QTDN",
-    "category": "Running Shoes",
-    "title": "adidas Women's Qt Racer 2.0 Running Shoe",
-    "description": "adidas women's QT Racer 2.0 Running Shoe",
-    "rating": 4.3,
-    "review_count": 9590,
-    "features": [
-      "100% Other fibers",
       "Imported",
       "Rubber sole",
-      "Shaft measures approximately 6-12 inches from arch",
-      "Platform measures approximately 0-3 inches",
-      "Boot opening measures approximately 0-3 inches around",
-      "Everyday shoes with a modern look.",
-      "Cloud foam midsole for step-in comfort and superior cushioning",
-      "A holistic comfort experience from step-in to stride. Designed for an ultra-soft step with superior cushioning."
+      "Air Cushioning-and-rubber sole : Lightweight, flexible response.",
+      "Versatile running shoe for low mileage, neutral runners",
+      "Removable sockliner improves comfort, remove to accommodate orthotics",
+      "Women running shoes use mesh and synthetic upper materials offer a snug, sock-like fit. Knit tennis fabric, comfortable, breathable and lightweight.",
+      "Perfect for run, walk, work, weight training, park, boating, cycling jogging, garden, lawn, equestrian, basketball, rowing, athletics, tennis, volleyball, football, driving and yoga. Casual daily shoes which can bring more enjoy to your life."
     ],
     "reviews": [
       {
         "rating": 5.0,
-        "title": "Def buy these. \ud83d\udda4",
-        "text": "These are so comfortable and cuuuteee!!!",
+        "title": "durable and comfortable",
+        "text": "OK, so I was not expecting these to be comfortable for my 12.5hr shifts, nor was I expecting them to be durable. Surprise!! They are both. I am a nurse, enough said about comfort. I got poop on them, washed them in my washing machine, expecting to remove tattered and torn, I found them clean and INTACT!!!!! The color is just as bright as the day I  bought them. My coworkers are spending $150 or more on HOKA and I got these cheeeeap!! I love them!!!! Plus, when it rains they don't squeak????? I was so surprised, I don't know what to say about that. The heel is see thru and there isn't even any water inside after washing them. Sized very accurate, if anything they were 1/2 inch longer than expected. I wear a 7.5 in womens U.S. and these are not tight AT ALL, if I had gotten an 8, which I normally do when buying online and especially foreign, I would have been in trouble. Get them! I am getting another color as soon as I finish typing.",
+        "verified": true,
+        "helpful_votes": 4
+      },
+      {
+        "rating": 1.0,
+        "title": "Very uncomfortable",
+        "text": "Very uncomfortable wore it and couldn\u2019t wait to get the shoes off.",
         "verified": true,
         "helpful_votes": 0
       },
       {
-        "rating": 2.0,
-        "title": "Disappointed",
-        "text": "I really wanted to like these shoes. It's just completely uncomfortable.  There's no support. It feels cheap on. The side stripes are actually tighter than the rest of the shoe so it felt like my foot was being compressed. I have narrow feet and don't have the problem generally so it was very surprising to me. The heel is definitely higher thN the toe. I could feel that I was standing at an angle. I usually love adidas so I was pretty disappointed.",
+        "rating": 5.0,
+        "title": "Purple running shoes",
+        "text": "It\u2019s a little small",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Five stars!",
+        "text": "I purchased these sneakers for myself and my daughter as extra throw on pairs for running around. I usually buy Nike sneakers as I find the brand never lets me down. These are super light and extremely comfortable. I got my daughter a purple pair and she has been wearing them for kick boxing. Excellent sneaker for the price!",
+        "verified": false,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Perfect fit and comfortable",
+        "text": "Love the shoes comfort and look.",
+        "verified": false,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "STQ",
+    "tags": [],
+    "price": 35.11,
+    "position": 16,
+    "page": 2
+  },
+  {
+    "id": "prod_running_shoes_022",
+    "parent_asin": "B00GBLYOIQ",
+    "category": "Running Shoes",
+    "title": "EZ-STIK 13.1 Half Marathon Decal Sticker 6\" 5k 10k Running Shoes runnerA010",
+    "description": "There is no background color. The surface that you apply the sticker to will become your background color. This will be a single color sticker. This is a DIE-CUT vinyl decal meaning that the background has been trimmed off. If there is a background color in the picture, it is used only as a representation. The background color will be the surface color you place the sticker on (or clear if you put it on a window). The decal will come with clear transfer tape, so you can easily apply it to anything you like (walls, windows, cars, mailbox, mirrors, laptops, etc etc etc). I use PREMIUM Oracal brand vinyl for all decals. Application is relatively easy. Your decal will come as THREE pieces - the backing paper, the sticker itself, and the clear transfer tape. Make sure you are applying to a CLEAN surface. You carefully pull the clear transfer tape up from the backing paper, making sure that it pulls the sticker up with it (if it does not, then firmly press down on it with a squee-gee or credit card or something similar until it sticks properly to the clear transfer tape). Then you apply the sticker and clear transfer tape to whatever surface you would like the decal on. You then use a squee-gee or credit card or something similar to firmly press down once again, making sure that the sticker STICKS, and then you carefully and slowly remove the clear transfer tape from the top, leaving behind only the sticker. I have found that on some surfaces (especially walls and wood surfaces), it helps to leave the clear transfer tape on for awhile to make sure everything is sticking well before removing it. I do not issue refunds or exchanges on vinyl decals. Please understand this before you bid. Some decals are more difficult to apply than others (especially the little ones!) - likewise, some surfaces are more difficult to apply decals to.",
+    "rating": 5.0,
+    "review_count": 1,
+    "features": [
+      "Easy to Apply",
+      "Instructions Included",
+      "Free Practice Sticker",
+      "7 year Premium Vinyl",
+      "Quick Shipping"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Five Stars",
+        "text": "My daughter loved this-as it shows her big acomplishment",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "EZ-STIK",
+    "tags": [],
+    "price": 4.99,
+    "position": 17,
+    "page": 2
+  },
+  {
+    "id": "prod_running_shoes_115",
+    "parent_asin": "B07DCT4HTL",
+    "category": "Running Shoes",
+    "title": "adidas Originals Unisex-Child Swift Running Shoe",
+    "description": "adidas authentic shoes",
+    "rating": 4.7,
+    "review_count": 4339,
+    "features": [
+      "100% Rubber",
+      "Rubber sole",
+      "Snug fit",
+      "OrthoLite sockliner",
+      "Lightweight shoes"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Five Stars",
+        "text": "Love it",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "I love them",
+        "text": "They feel like you have nothing on I love it",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Great baby shoe!",
+        "text": "Great baby shoe!",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Great looking shoe",
+        "text": "Bought it for my son.  He love it.  Fit true to size",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Great shoes",
+        "text": "Love these shoes for my toddler. They fit great, always look clean, and are easily washed. They do, however, tie and not velcro. They still look great after several months of everyday wear.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "adidas Originals",
+    "tags": [],
+    "price": 37.29,
+    "position": 18,
+    "page": 2
+  },
+  {
+    "id": "prod_running_shoes_198",
+    "parent_asin": "B00ZAU59QK",
+    "category": "Running Shoes",
+    "title": "ASICS Women's GT-2000 4 Running Shoes",
+    "description": "The gt-2000 4 is the core runner\u2019s bread and butter with its balance of cushioning and stability, outfitted by the comfortably supportive dynamic duomax and guidance trusstic system that also enhance gait efficiency. Our rear foot and forefoot gel cushioning systems are now even more adaptive, assisting mild to moderate over pronators alike with greater support, while the fluid ride midsole offers the ultimate ride.\nIn 1949, Mr. Kihachiro Onitsuka began his athletic footwear company (Onitsuka Co., Ltd.) by manufacturing basketball shoes out of his living room in Kobe, Japan. He chose the name ASICS for his company in 1977, based on a famous Latin phrase \"Anima Sana In Corpore Sano,\" which, when translated, expresses the ancient ideal of \"A Sound Mind in a Sound Body.\" Taking the acronym of this phrase, ASICS was founded on the belief that the best way to create a healthy and happy lifestyle is to promote total health and fitness. Today, ASICS offers a full line of performance-driven athletic shoes and technical active sports apparel and accessories dedicated to bringing harmony to the body and soul.",
+    "rating": 4.3,
+    "review_count": 1829,
+    "features": [
+      "100% Synthetic",
+      "Imported",
+      "Rubber sole",
+      "Impact Guidance System (I.G.S): ASICS design philosophy that employs linked componentry to enhance the foot's natural gait from heel strike to toe-off.",
+      "Dynamic duomax Support System: This evolution of duomax system enhances stability and support, with reduced weight and increased platform support.",
+      "Rear foot and Forefoot GEL Cushioning Systems: Attenuates shock during impact and toe-off phases, and allows movement in multiple planes as the foot transitions through the gait cycle.",
+      "Fluid ride: fluid ride provides the ultimate combination of bounce back and cushioning properties with reduced weight and exceptional durability.",
+      "Guidance Truss tic System: This Truss tic System integrates Guidance Line construction for enhanced gait efficiency while providing midfoot structural integrity."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Great shoe for an over-pronator like me",
+        "text": "I've used the GT-2000 shoes over the last few years and have yet to have issue with them. I over-pronate pretty badly and this shoe offers great support for that issue; My knees thank me. I found the shoe to fit exactly true to size and for those reviews that say it's small, people tend to forget that your feet swell when you run, especially longer distances! My personal size foot is between a 6.5-7 and I typically wear a 7 shoe for running, dress, or sandals. I can't say I know the difference between the GT-2000 model numbers (1-5?) except for new-ness. I have no issue with wearing older models and like the cheaper prices. For reference, I run half marathons several times a year on city sidewalks, asphalt, dirt roads, and dirt trails.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "This was a gift. Didn't fit. So, ...",
+        "text": "This was a gift. Didn't fit. So, hearsay- I am not sure of the exact fit. They are exchanging for a bigger size though.",
         "verified": true,
         "helpful_votes": 0
       },
       {
         "rating": 4.0,
-        "title": "Good shoe",
-        "text": "Well made",
+        "title": "Great shoe but runs small",
+        "text": "Great shoe, very supportive in the arch and heel. I love the bright colors of the Asics shoes. The only thing I would be leary of is the size of the shoe. It runs small. I wear an 8 and because of other reviews, bought a 8-1/2. They fit but are still a little snug. After wearing for a bit, they will loosen up enough to be great. If you have a wider foot, you may not like these particular shoes.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 3.0,
+        "title": "Color in photo is not quite accurate",
+        "text": "Have always loved my Asics GT-2000.  32 marathons and our relationship continues!  My only comment about this particular color combo is the photo appears to be grey and more coral color.  When they arrived what looks like a coral color in the photo is closer to fluorescent orange!  They are a bit &#34;loud&#34;.  If they had been full price I probably would not have chosen them because of this.  Too &#34;loud&#34; for my preferences.  However, given the clearance price I'll make do!  :)",
         "verified": true,
         "helpful_votes": 0
       },
       {
         "rating": 5.0,
-        "title": "Estan Excelentes me gusto mucho",
-        "text": "Los Zapatos se sienten bien por el precio, una excelente compra. actualizar\u00e9 esta rese\u00f1a mas adelante.",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 5.0,
-        "title": "Best",
-        "text": "Best purchase",
+        "title": "... been a fan of Asics and this did not disappoint!",
+        "text": "I've always been a fan of Asics and this did not disappoint!",
         "verified": true,
         "helpful_votes": 0
       }
     ],
-    "store": "adidas",
-    "tags": [],
-    "price": 45.5
+    "store": "ASICS",
+    "tags": [
+      "Sponsored"
+    ],
+    "price": 105.57,
+    "position": 19,
+    "page": 2
   },
   {
-    "id": "prod_running_shoes_133",
-    "parent_asin": "B082186JQY",
+    "id": "prod_running_shoes_165",
+    "parent_asin": "B00Q2JC290",
     "category": "Running Shoes",
-    "title": "ASICS Men's Gel-Cumulus 22 Running Shoes",
-    "description": "",
-    "rating": 3.9,
-    "review_count": 6,
+    "title": "ASICS Mens Gel-Venture 6 Running Shoe",
+    "description": "The GEL-Venture 5 provides great fit and everyday comfort, with Rearfoot GEL Cushioning and a rugged outsole ideal for a variety of terrains.\nIn 1949, Mr. Kihachiro Onitsuka began his athletic footwear company (Onitsuka Co., Ltd.) by manufacturing basketball shoes out of his living room in Kobe, Japan. He chose the name ASICS for his company in 1977, based on a famous Latin phrase \"Anima Sana In Corpore Sano,\" which, when translated, expresses the ancient ideal of \"A Sound Mind in a Sound Body.\" Taking the acronym of this phrase, ASICS was founded on the belief that the best way to create a healthy and happy lifestyle is to promote total health and fitness. Today, ASICS offers a full line of performance-driven athletic shoes and technical active sports apparel and accessories dedicated to bringing harmony to the body and soul.",
+    "rating": 4.6,
+    "review_count": 24394,
     "features": [
-      "Synthetic-and-mesh",
-      "Made in USA or Imported",
       "Rubber sole",
-      "3D Print Upper - Increases forefoot support and comfort",
-      "Rearfoot and Forefoot GEL Technology Cushioning System - Attenuates shock during impact and toe-off phases, and allows movement in multiple planes as the foot transitions through the gait cycle.",
-      "FlyteFoam Propel Technology - ASICS energetic foam formulation that provides supreme bounce thanks to a unique elastomer compound.",
-      "FlyteFoam Midsole Technology - Our FlyteFoam technology provides exceptional bounce back and responsiveness no matter the distance, utilizing organic super fibers to help reduce packing out that traditionally happens with softer, low density foams.",
-      "Guidance Line\u00a0Midsole Technology - Vertical flex groove decouples the tooling along the line of progression for enhanced gait efficiency."
+      "Outdoor-ready runner with mesh and brushstroke-patterned underlays",
+      "Rearfoot GEL cushioning",
+      "Removable sockliner accommodates medical orthotics",
+      "Trail-specific outsole with reversed traction lugs",
+      "AHAR outsole rubber in critical high-wear areas"
     ],
     "reviews": [
       {
         "rating": 5.0,
-        "title": "Good stability",
-        "text": "These sneakers fit well. They gave me the support I need. Very comfortable to wear",
+        "title": "Fit",
+        "text": "Good shoe",
         "verified": true,
         "helpful_votes": 0
       },
       {
         "rating": 5.0,
-        "title": "Snug and comfortable. True size fit.",
-        "text": "I ordered and they fit so well that I ordered two more pair in different colors.",
+        "title": "Comfort",
+        "text": "Second time buying this style because my son loves how comfortable they are.",
         "verified": true,
         "helpful_votes": 0
       },
       {
         "rating": 5.0,
-        "title": "None",
-        "text": "I liked the color combo... plus I already have a pair",
+        "title": "Five Stars",
+        "text": "These shoes are PERFECT for walking and hiking. Comfortable and roomy toe box.",
         "verified": true,
         "helpful_votes": 0
       },
       {
         "rating": 5.0,
-        "title": "Good looking shoe that feels great",
-        "text": "This shoe looks great and it feels even better for running, walking or just to go somewhere.",
+        "title": "Five Stars",
+        "text": "Love these Asics, 4th pair,",
         "verified": true,
         "helpful_votes": 0
       },
       {
-        "rating": 5.0,
-        "title": "Just the show I was looking for",
-        "text": "Asics is my go-to shoe for exercise and everyday wear, these were no exception and completely fit the bill.",
+        "rating": 4.0,
+        "title": "Ok shoe",
+        "text": "Length is right but width is a bit tight. Should fit better after a while of wearing in. I wear a size 11 with medium width. Get 1 width bigger. Nice quality.",
         "verified": true,
         "helpful_votes": 0
       }
     ],
     "store": "ASICS",
     "tags": [],
-    "price": 119.9
+    "price": 39.99,
+    "position": 20,
+    "page": 2
   },
   {
-    "id": "prod_running_shoes_132",
-    "parent_asin": "B08DNJC18T",
+    "id": "prod_running_shoes_153",
+    "parent_asin": "B07RGTWS22",
     "category": "Running Shoes",
-    "title": "Damyuan Men's Sport Gym Running Shoes Walking Shoes Casual Lace Up Lightweight",
-    "description": "",
-    "rating": 4.0,
-    "review_count": 4300,
+    "title": "New Balance Men's 410 V6 Trail Running Shoe",
+    "description": "Be off-road ready in the New Balance 410v6 men\u2019s trail shoe. Featuring a durable AT Tread rubber outsole, this shoe is fit for any adventure. Made with a sleek upper, ACTEVA midsole technology and a cushioned NB Comfort Insert, the versatile men\u2019s running shoe is designed to keep you comfortable and stylish before, during and after your hike.\nNew Balance, is dedicated to helping athletes achieve their goals. It's been their mission for more than a century. It's why they don't spend money on celebrity endorsements. They spend it on research and development. It's why they don't design products to fit an image. They design them to fit. New Balance is driven to make the finest shoes for the same reason athletes lace them up: to achieve the very best.",
+    "rating": 4.5,
+    "review_count": 7439,
     "features": [
-      "import",
-      "Ethylene Vinyl Acetate sole",
-      "Mens running shoes SOLE:Rubber sole is durable and flexible, it can free bending with you for increased comfort",
-      "Breathable mesh upper\uff1aLightweight support and breathable that make your foot always keeps dry and cool.",
-      "Non-slip: The rubber outsole offers impact cushioning, anti-twist, abrasion-resistant and anti-slip performance",
-      "Light and Breathable:The ultra lightweight knitted upper and breathable mesh sport shoes, make feet more healthy, not smelly, not stuffy, very refreshing.",
-      "Occacion\uff1asuitable for daily, walking, running, indoor, sports, outdoor, travel, exercise, workout, vacation"
+      "50% Synthetic, 50% Mesh",
+      "Imported",
+      "Rubber sole",
+      "ACTEVA midsole cushioning delivers versatile, flexible support",
+      "AT Tread outsole provides versatile traction during both on and off-road activities",
+      "Lightweight injection-molded EVA foam midsole provides lightweight cushioning",
+      "NB Comfort Insert offers additional cushioning",
+      "Synthetic/mesh upper"
     ],
     "reviews": [
-      {
-        "rating": 3.0,
-        "title": "Not recommended for you name brand sneaker wearers",
-        "text": "Extremely light weight(mesh material)....Bought them thinking it wud be where I wudnt hve to tie the laces( but I did)....I wore them out about 3hrs to do some community service with that said... they were actually comfortable.... I wear sz 8 in ladies so a 6.5 is what I selected in this male shoe",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 5.0,
-        "title": "Love love them",
-        "text": "They fit like a glove. Two days and my feet is in love.  I can't wait til I go for my run in them. Nicely made as well.",
-        "verified": true,
-        "helpful_votes": 0
-      },
       {
         "rating": 1.0,
-        "title": "It's cheap for a reason",
-        "text": "Not well constructed, zero support, cheaply made and cannot be used for any athletic activity. It's a for show and I'll be luckly if it  lasts 4 months as it's already wearing out.",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 5.0,
-        "title": "Quality and Comfortable Shoe for All Activities",
-        "text": "This shoe is very comfortable to walk long distances. If you're on your feet a lot I highly recommend this shoe. It provides good comfort and support. You can use this shoe for any daily activity.",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 3.0,
-        "title": "Good indoor shoe",
-        "text": "Good indoor shoe but may not last long walking on street or pavement. Shoe does not open up like a lace up shoe.  Shoe looks good on just hope the inner sole holds up and remains comfortable.",
-        "verified": true,
-        "helpful_votes": 0
-      }
-    ],
-    "store": "Damyuan",
-    "tags": [],
-    "price": 29.99
-  },
-  {
-    "id": "prod_running_shoes_090",
-    "parent_asin": "B075V2N9RV",
-    "category": "Running Shoes",
-    "title": "Hawkwell Boys Girls Breathable Lightweight Running Shoes(Toddler/Little Kid/Big Kid)",
-    "description": "",
-    "rating": 4.4,
-    "review_count": 2268,
-    "features": [
-      "Fabric upper",
-      "Ethylene Vinyl Acetate sole",
-      "Phylon outsole with lightweight",
-      "Mesh lining, breathable and comfort.",
-      "Design for perfect fit and comfort,soft and speed",
-      "Two ways wear,slip on and lace up.",
-      "Fitting update: we've updated Camouflage type to normal size, please measure your foot length and choose the correct size according to our size chart."
-    ],
-    "reviews": [
-      {
-        "rating": 4.0,
-        "title": "Coolest shoes for a great price. My son got lots of compliments",
-        "text": "Coolest shoes for a great price. My son got lots of compliments. He is 2 and a true size 8, and I ordered a 9 and his toes are at the end. So they fit perfect now but not for long, so order a size up or 2!",
+        "title": "Sizing",
+        "text": "Too narrow",
         "verified": true,
         "helpful_votes": 1
-      },
-      {
-        "rating": 5.0,
-        "title": "Perfect!",
-        "text": "Brought these as summer shoes for my son. The design is exactly the same as the photo; durable and stylish sneaker.",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 5.0,
-        "title": "Nice shoes for reasonable price",
-        "text": "Cute and ultra light. They look like lace shoes but are actually slip in which is a bonus for a 4 year old. He just loved opening these shoes when they came and put them right on!",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 5.0,
-        "title": "good",
-        "text": "like",
-        "verified": true,
-        "helpful_votes": 0
       },
       {
         "rating": 2.0,
-        "title": "The part that the laces threads through broke",
-        "text": "The part that the laces threads through broke, it's like a rubber type of material and once the little holes break the laces can't stay and you can't tie your shoes. Sucks to waste money for something he used for a few weeks",
+        "title": "Cheap quality",
+        "text": "These are wimpy tennis shoes.  They probably wont' make it a year.  I judge the quality by picking up the shoe and twisting in my hands.  I can easily warp these shoes.  I have some Merrills and I absolutely can't bend them up.",
         "verified": true,
-        "helpful_votes": 0
-      }
-    ],
-    "store": "Hawkwell",
-    "tags": [],
-    "price": 25.99
-  },
-  {
-    "id": "prod_running_shoes_017",
-    "parent_asin": "B00TOM2VUC",
-    "category": "Running Shoes",
-    "title": "Forget The Glass Slippers This Princess Wears Running Shoes 6\" Vinyl Sticker DecalI90 Runner Running Exercise Cross Fitness Gym Weightlifting Jogger Color Run 5k Car Wall",
-    "description": "",
-    "rating": 5.0,
-    "review_count": 2,
-    "features": [],
-    "reviews": [
-      {
-        "rating": 5.0,
-        "title": "Five Stars",
-        "text": "Easy to apply. Looks great.",
-        "verified": true,
-        "helpful_votes": 0
-      }
-    ],
-    "store": "DesignsThatStick",
-    "tags": [],
-    "price": 3.99
-  },
-  {
-    "id": "prod_running_shoes_026",
-    "parent_asin": "B09TB97VKV",
-    "category": "Running Shoes",
-    "title": "1/4 Inch Track Spikes, 110pcs Stainless Steel Pyramid Shoe Spikes with Spike Wrench for Track and Cross Country,Replacement Spikes for Sprint Sports Short Running Shoes",
-    "description": "",
-    "rating": 4.7,
-    "review_count": 65,
-    "features": [
-      "Improve Running Speed and Safety: Running or sports enthusiast, you must not miss this Track Spikes! This pyramid spikes will add the friction between the shoe sole and ground, thus can resist skid and improve your running speed.",
-      "Quality Spikes for Track Shoes : Made of quality stainless steel, which is very sturdy, rust-resist and anti-corrode. Pyramid needle design, not damage track. Providing long servicing life.These spikes are suitable for all athletic tracks, and field or cross country surfaces,help you get better grades.",
-      "Small Spikes Size : Perfect size 1/4\"extra track spikes, full length is 0.5\u201d(12.8mm), pyramid needle design, spike wrench size 2\"*1.8\". Easy to match with most of the track shoes, bring you superior traction, strength and durability",
-      "Widely Usage : The spikes provide optimal grip for track and field or dry terrain in cross-country, ideal for track sprints, long jump, running, outdoor sports activities",
-      "Enough Quantity Spikes : Package include 110 pieces pyramid track spikes with 1 pieces spike wrench and 1 pieces transparent storage box, easy to carry and convenient for you to replace your shoe spikes. There are enough quantity for your daily use."
-    ],
-    "reviews": [
-      {
-        "rating": 5.0,
-        "title": "Track star musts!",
-        "text": "Go fast or go home! \ud83d\ude01",
-        "verified": true,
-        "helpful_votes": 0
-      }
-    ],
-    "store": "LucaSng",
-    "tags": [],
-    "price": 11.99
-  },
-  {
-    "id": "prod_running_shoes_121",
-    "parent_asin": "B088DZBSR2",
-    "category": "Running Shoes",
-    "title": "New Balance Kids' 680 V6 Hook and Loop Running Shoe",
-    "description": "The New Balance 680 v6 kids' running shoe is a sneaker that blends style and performance to satisfy both kids and adults alike. A modern design ups your little one's cool factor, featuring a no-sew construction for a sleek fit and feel that's snug and secure without being too tight, delivering both a comfortable fit and contemporary style. The streamlined silhouette on these running shoes for kids includes leather and mesh upper material with a stitched-down tip and foxing details for flexible support and lasting durability. These kids' performance shoes also include an ABZORB midsole that absorbs impact through a combination of cushioning and compression resistance, for a cushioned ride that takes kiddos from the classroom to the playground and everywhere in between. These comfortable kids' running shoes are available in a variety of colors that range from neutral to bold and bright, so your child can pick the one that suits their style and boosts their confidence.",
-    "rating": 4.4,
-    "review_count": 8364,
-    "features": [
-      "Rubber sole",
-      "Power in Simplicity: The New Balance 680v6 running shoe for kids features a minimal leather and open mesh upper, offering flexible support and easy-breezy comfort",
-      "Modern Construction for an Outstanding Fit: The leather/mesh upper on these New Balance kids' running shoes features a stitched-down tip and foxing details to provide flexible support and durability",
-      "Soft Underfoot Cushioning: The ABZORB midsole absorbs impact through a combination of cushioning and compression resistance, giving these kids' running shoes a comfortable feel that lasts all day",
-      "Designed for Support and Durability: These kids' performance shoes feature a strong rubber outsole to offer long-lasting durability, built to stand up to daily use and playground wear-and-tear",
-      "Available in a Range of Colors: From neutral tones to bold hues, these cushioned running shoes for kids are available in a range of shades to suit the style and color preferences of your little one"
-    ],
-    "reviews": [
-      {
-        "rating": 5.0,
-        "title": "Great for wide feet!",
-        "text": "My son has bilateral clubbed feet, and he no longer wears braces but has a wide foot. New balance is the only brand that works for him. This particular model is perfect for him!",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 5.0,
-        "title": "The best for extra wide feet",
-        "text": "These shoes are perfect for my special needs child. He has extra wide feet and he has trouble with shoe tying.",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 3.0,
-        "title": "Reviews are right about the quality",
-        "text": "Wish I read the reviews more carefully. I\u2019m so desperate to find shoes that fits my boys\u2019 wide feet that I just assumed NB would be good because I\u2019ve gotten them in the past. But no the quality is sub par. They are already falling apart and it\u2019s only been 1.5 months. I\u2019ll probably have to buy them new shoes soon which is a shame because it\u2019s not like these are some off brand cheapies. You expect more from a company like NB.",
-        "verified": true,
-        "helpful_votes": 0
-      },
-      {
-        "rating": 5.0,
-        "title": "5 stars",
-        "text": "These New Balance shoes are great. The insoles are so comfortable and I know that my little one is getting the protection that she needs for her growing feet. The shoes fit true to size, and they width is great. She has a normal foot, I wouldn't recommend them for a child with wide feet. They are comfortable to wear and look great. This particular style is great for young children due to the velcro. Most kids by the time they get to this style shoe CAN tie their own shoes, but its so much easier and quicker for them just to  be able to do the velcro and go!We love them.",
-        "verified": false,
         "helpful_votes": 1
       },
       {
-        "rating": 3.0,
-        "title": "Maybe I just got a defective pair of shoes...",
-        "text": "The insoles don\u2019t fit the shoes, nor were they glued in. So they kept sliding out. Nice looking shoe from a distance but they are falling apart.",
+        "rating": 5.0,
+        "title": "Not the best looking shoe but the most comfortable!",
+        "text": "Man my feet hurt. And because I wear the same shoes everyday all day they break down pretty quickly.  These are perfect.  The color isn't my absolute favorite BUT that was the color that was on sale. Besides I'm nearly 50 so I'm not out to impress anyone lol.  They fit my feet perfectly and  there is no better feeling of new shoes when your old shoes broke down! Just enough support.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Great Walking Shoe!",
+        "text": "I got these for at home. I like wearing shoes inside. So they need to be clean. I got these, and they are comfy and see like they will last a long time. They should, if I only wear them in my house.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Good fit in a large size",
+        "text": "I bought these shoes as a gift for my 25 year old son, who wears a size 16. I know from past experience that New Balance provides a good, consistent fit in their large sizes, and this pair did not disappoint. The fit was great and my son liked the color and style.",
         "verified": false,
         "helpful_votes": 0
       }
     ],
     "store": "New Balance",
     "tags": [],
-    "price": 35.49
+    "price": 59.96,
+    "position": 21,
+    "page": 3
+  },
+  {
+    "id": "prod_running_shoes_003",
+    "parent_asin": "B08PKY9JB9",
+    "category": "Running Shoes",
+    "title": "adidas Climacool Vento",
+    "description": "",
+    "rating": 5.0,
+    "review_count": 4,
+    "features": [
+      "Made in USA or Imported",
+      "Rubber sole"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Great shoe.",
+        "text": "Nice!",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "adidas",
+    "tags": [],
+    "price": 109.99,
+    "position": 22,
+    "page": 3
+  },
+  {
+    "id": "prod_running_shoes_070",
+    "parent_asin": "B08K7FZ59Q",
+    "category": "Running Shoes",
+    "title": "Soulsfeng Running Shoes Low-top Lace-up Breathable Gym Trainer Tennis Walking Athletic Shoes Fashion Sneakers for Men Women",
+    "description": "",
+    "rating": 4.5,
+    "review_count": 195,
+    "features": [
+      "Rubber sole",
+      "Flamingo Shoes,Use Environmental Friendly Material",
+      "Freeknit Fabric Animal Printed Upper",
+      "Design base on Flamingos from Bahamas",
+      "Non-slip rubber sole",
+      "PU midsole with good elasticity and toughness can ensure the flexible movement and cushioning effect"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Colors are poppin in true Graffiti fashion",
+        "text": "I usually wear a size 8 but since moving wear the climate is hot all year round I fit a size 9 more comfortably. This is why I am happy to write that the size 9 fit perfectly and the graffiti design is poppin with the colors. I am very happy with this purcahse.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "x STYLISH AS ALL HELL x",
+        "text": "I have them on display / They are exremely stylish for the price //  for cosplay / cyberpunk / future goth .. these shoes look great //",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Soulsfeng",
+    "tags": [],
+    "price": 39.0,
+    "position": 23,
+    "page": 3
+  },
+  {
+    "id": "prod_running_shoes_027",
+    "parent_asin": "B09P785LJT",
+    "category": "Running Shoes",
+    "title": "Nike womens Running Shoes",
+    "description": "The Nike Odyssey React Flyknit 2 Women's Running Shoe delivers a strategic combination of lightweight Flyknit and synthetic material for support just where you need it. Underfoot, Nike React cushioning delivers a soft, springy ride for a route that begs to be crushed.",
+    "rating": 3.9,
+    "review_count": 14,
+    "features": [
+      "100 % Cotton",
+      "Drawstring closure",
+      "Machine Wash"
+    ],
+    "reviews": [
+      {
+        "rating": 1.0,
+        "title": "Too tight",
+        "text": "Bought my sneaker size which is a size that's 1/2 too big and these were too tight. Poorly made.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Nike",
+    "tags": [],
+    "price": 102.0,
+    "position": 24,
+    "page": 3
+  },
+  {
+    "id": "prod_running_shoes_036",
+    "parent_asin": "B0C23Y82BV",
+    "category": "Running Shoes",
+    "title": "Yontune 2X Headlights for Crocs/Sneakers, LED Shoe Lights for Night Safety Running Shoe Lights for Night Runner Funny Gifts for Hiking Camping Walking The Dogs (Red)",
+    "description": "",
+    "rating": 4.1,
+    "review_count": 77,
+    "features": [
+      "\u26c8\ufe0f\u3010High Quality & Weatherproof\u3011Our runner shoe lights are made of aluminum alloy and ABS plastic, IPX5 Waterproof, these lights for shoes are built to withstand the toughest rainstorm. Rather it be snow or heavy rain, our gear got your cover.",
+      "\ud83d\udd06\u3010Lightweight & Bright\u3011They are pretty lightweight (each light weights only 25g). It stays stable while you walk or run without you even notice. These shoe lights for night safety are bright which can increase your visibility to avoid tripping on things and seeing the path. Let you see and be seen safely in the dark from dusk till dawn.",
+      "\ud83d\udca1\u3010Upgraded Hidden Switch\u3011Press on the head of the shoe light to turn on/off and switch 3 different modes base on your need (Always Bright, Flashing, or Flashing slowly). It can retain power for 72 hours on its highest setting. An essential safety equipment for any low-light activity.",
+      "\u2728\u3010Easy to Install\u3011Night runner shoe lights the bottom design allows you to fix the shoe light on your shoelace or straps firmly. Note: Please remove the insulating paper between the two batteries at first.",
+      "\ud83c\udfc3\ud83c\udffd\u3010Application to All Outdoor Activities\u3011Runners shoe lights for night safety, these lights for shoes are hands-free lighting solution for runners, hikers, or any outdoor enthusiast. You can safely trek through mountains, trails, or your own neighborhood knowing you\u2019ve got reliable, safe lighting at all times. Whether running, cycling, walking, hiking, camping, fishing, or walking your dog."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Work great",
+        "text": "I was excited to receive these. I also have a pair that stick in the hole on the shoes. I prefer these, however, because you can adjust where the beam is directed by moving the heel strap around. I use my crocs for taking care of the chickens. So this is great for the walk to the coop every night.",
+        "verified": false,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Good quality",
+        "text": "Great little product gives good light and I can pop them on my tennis shoes for camping.",
+        "verified": false,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "Fun little headlights for your shoes",
+        "text": "I've had these lights on my shoes full time for the last few days, and I really like them for evening walks.  They don't replace a flashlight, but they do light up a fair amount of the path that I wouldn't otherwise see with my small flashlight.  I've smacked them against car doors and chair rails a few times, and they've stayed solidly on my feet and are no worse for wear.  They are great for visibility for others too - your feet move a lot, and so do these lights.  Add flashing and you're much more visible either walking or on a bicycle.  I think they'd also be great for camping, and maybe at a dance party (flashing feet might be fun!)  My only thought is that they seem a little pricey, but they are one of the few that go on shoe laces and not just popping into holes in Crocs.  They're quite sturdy and battery life is great too.",
+        "verified": false,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "Perfect for early morning/night walking",
+        "text": "I bought these lights for an upcoming hike to the Grand Canyon in October. We need to start our hike before sunrise and thought these would be the perfect accessory to stop us from tripping in the dark. What I like - they are small and lightweight, with a secure clip for my shoes. The battery is a standard size. They are easy to turn off and on. I'm undecided on if these are really bright enough to be practical... is there a light - yes. Is it going to replace a flashlight - absolutely not. I don't know if I'd buy these again for the purpose of a hike, but they would be good if you are an early morning/late evening walker and runner and want additional lights for safety so cars, etc, can see you.",
+        "verified": false,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 3.0,
+        "title": "They are ok",
+        "text": "Batteries are not working. I have to replace them right from the start. I hope they will work.<br /><br />They seem a bit heavy but I will use them. Safety is more important.",
+        "verified": false,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Yontune",
+    "tags": [
+      "Overall Pick"
+    ],
+    "price": 9.99,
+    "position": 25,
+    "page": 3
   }
 ]

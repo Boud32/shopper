@@ -24,6 +24,12 @@ data/raw/
 *.csv.gz
 *.jsonl.gz
 
+# Jupyter notebooks (outputs contain raw product data; share stripped versions only)
+*.ipynb
+
+# Old experiment results (kept locally for reference, not tracked)
+data/results/old_results/
+
 # Research writing (not public until paper is ready)
 *.tex
 *.aux

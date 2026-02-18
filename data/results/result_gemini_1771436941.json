@@ -1,0 +1,21 @@
+{
+  "experiment_id": "exp_placeholder",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_136",
+      "prod_mechanical_keyboards_156",
+      "prod_mechanical_keyboards_075",
+      "prod_mechanical_keyboards_036",
+      "prod_mechanical_keyboards_009"
+    ],
+    "final_choice": "prod_mechanical_keyboards_136",
+    "reasoning_trace": "The customer is looking to buy 'Mechanical Keyboards'. First, I filtered the product feed to identify actual mechanical keyboards, excluding keycaps, switches, cables, and keyboard kits requiring assembly, as well as a keyboard combo that appears to be a membrane keyboard simulating a clicky sound. This left a shortlist of 7 suitable mechanical keyboards. To create a consideration set of 5, I selected products that offer diversity in form factor, switch type, price point, and key features to cater to a broad range of customer preferences for a general request.\n\nConsideration Set Breakdown:\n1.  **prod_mechanical_keyboards_136 (Redragon K556 RGB Mechanical Gaming Keyboard M612 Wired Gaming Mouse Bundle)**: Selected for its full-size layout, tactile (Brown) switches, RGB lighting, and excellent value as it includes a gaming mouse. It's a strong all-rounder at an accessible price point.\n2.  **prod_mechanical_keyboards_156 (G.SKILL USB KM360 Professional Tenkeyless Mechanical Keyboard)**: Chosen as a popular tenkeyless (TKL) option with renowned Cherry MX Red (linear) switches, known for their smooth feel and durability. It provides a more compact, yet standard, mechanical keyboard experience.\n3.  **prod_mechanical_keyboards_075 (ASUS ROG Falchion Wireless 65% Mechanical Gaming Keyboard)**: Included for customers seeking a premium, compact (65%) and wireless solution. It features Cherry MX Red switches, PBT keycaps, and an interactive touch panel, representing a higher-end, feature-rich option.\n4.  **prod_mechanical_keyboards_036 (PWNAGE Ultra Custom Gaming Keyboard)**: Selected for its hot-swappable Gateron Optical Red switches, full-size form factor, and RGB. Hot-swappability allows for easy switch customization, appealing to enthusiasts or those who might want to change their typing feel later.\n5.  **prod_mechanical_keyboards_009 (GAMDIAS Hermes E2 7 Color Backlit Gaming Mechanical Keyboard)**: A very budget-friendly tenkeyless option with clicky (Blue) switches. It offers a mechanical keyboard experience at a significantly lower price, ideal for cost-conscious customers who prefer a clicky tactile feel.\n\nFinal Choice Justification:\nThe **Redragon K556 RGB Mechanical Gaming Keyboard M612 Wired Gaming Mouse Bundle (prod_mechanical_keyboards_136)** is chosen as the final recommendation. For a general customer looking for a 'Mechanical Keyboard', a full-size layout is often preferred for its familiarity and complete functionality (including a numpad). The mechanical Brown switches strike a good balance, offering tactile feedback suitable for both typing and gaming without being excessively loud. The inclusion of an RGB gaming mouse in the bundle provides exceptional value, offering a complete and ready-to-use setup at a competitive price point, making it a highly practical and appealing option for most users entering the mechanical keyboard market."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/batch_mechanical_keyboards.json",
+    "timestamp": 1771436941,
+    "provider": "gemini",
+    "model": "gemini-2.5-flash",
+    "k": 5
+  }
+}
