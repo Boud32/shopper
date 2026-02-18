@@ -47,6 +47,7 @@ The project should be organized as follows:
   ├── experiments/            # Output folder for generated experiment batches
   └── results/                # Output folder for Agent decisions (tagged by model)
 /src
+  ├── ingest_kaggle.py        # Data ingestion: streams Amazon Reviews 2023 from HF into seed catalog
   ├── generator.py            # The "Mixer": Loads seed, mutates, saves experiment JSON
   ├── agent_runner.py         # The "Runner": Multi-model client, sends JSON to LLMs, parses responses
   ├── create_mock_catalog.py  # Legacy mock catalog generator
@@ -59,22 +60,21 @@ This is the structure of a single item in the product catalog. Fields marked wit
 
 JSON
 {
-  "id": "prod_001",
+  "id": "prod_headphones_001",
+  "parent_asin": "B0C8PSQF7C",                                      // * Amazon ASIN for traceability
+  "category": "Wireless Headphones",
   "title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones",
   "description": "Industry-leading noise cancellation...",           // * Full product description
   "base_price": 348.00,       // "base_price" in seed, "price" in experiment
   "rating": 4.8,
   "review_count": 12405,
-  "reviews": [                                                       // * Sample review text
-    {"rating": 5, "title": "Best headphones ever", "text": "..."},
-    {"rating": 3, "title": "Good but heavy", "text": "..."}
+  "features": ["30-hour battery life", "Bluetooth 5.2", ...],       // * Real bullet-point features from listings
+  "reviews": [                                                       // * Sample review text (up to 5 per product)
+    {"rating": 5, "title": "Best headphones ever", "text": "...", "verified": true, "helpful_votes": 12},
+    {"rating": 3, "title": "Good but heavy", "text": "...", "verified": true, "helpful_votes": 3}
   ],
-  "attributes": {
-    "battery_life": "30 hours",
-    "weight": "250g",
-    "connection": "Bluetooth 5.2"
-  },
-  "tags": ["Best Seller", "Over-Ear", "Sponsored", "Overall Pick"], // * Sponsored + Overall Pick tags
+  "store": "Sony",                                                   // * Store/brand from metadata
+  "tags": [],                                                        // Populated by mutation engine (Sponsored, Overall Pick, Best Seller)
   "position": 3                                                      // * Search result position (page rank)
 }
 
@@ -100,7 +100,18 @@ JSON
 5. Can we estimate stable MNL coefficients for each model?
 
 7. Data Strategy
-Phase 1 (Current): Use Amazon Reviews 2023 dataset (McAuley Lab, Kaggle) as seed data. This provides real titles, prices, descriptions, and review text.
+Phase 1 (Current): Use Amazon Reviews 2023 dataset (McAuley Lab, Hugging Face) as seed data. This provides real titles, prices, descriptions, features, and review text. Ingested via `src/ingest_kaggle.py` which streams data from Hugging Face without downloading the full 22GB dataset.
+
+Target categories: Wireless Headphones, Smartwatches, Mechanical Keyboards, Gaming Mice, Toothbrushes, Running Shoes. ~500 products per category with 5 reviews each.
+
+```bash
+# Full ingestion (all categories, ~500 products each, 5 reviews per product)
+python src/ingest_kaggle.py
+
+# Specific categories or smaller batches
+python src/ingest_kaggle.py --categories "Wireless Headphones" "Gaming Mice"
+python src/ingest_kaggle.py --products-per-category 100 --reviews-per-product 3
+```
 
 Phase 2: LLM-expand seed data to fill gaps — generate realistic product descriptions and reviews for items missing detail.
 

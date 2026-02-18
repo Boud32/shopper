@@ -23,3 +23,9 @@ Thumbs.db
 data/raw/
 *.csv.gz
 *.jsonl.gz
+
+# Research writing (not public until paper is ready)
+*.tex
+*.aux
+*.log
+*.pdf

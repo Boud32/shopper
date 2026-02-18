@@ -21,7 +21,7 @@ def call_gemini(prompt):
 
     client = genai.Client(api_key=api_key)
     response = client.models.generate_content(
-        model="gemini-2.0-flash",
+        model="gemini-2.5-flash",
         contents=prompt,
         config=types.GenerateContentConfig(
             response_mime_type="application/json"
@@ -83,7 +83,7 @@ def call_deepseek(prompt):
 
 # Registry: name -> (call function, display name, model id for metadata)
 PROVIDERS = {
-    "gemini":   (call_gemini,   "Gemini",   "gemini-2.0-flash"),
+    "gemini":   (call_gemini,   "Gemini",   "gemini-2.5-flash"),
     "openai":   (call_openai,   "ChatGPT",  "gpt-4o-mini"),
     "claude":   (call_claude,   "Claude",   "claude-sonnet-4-20250514"),
     "deepseek": (call_deepseek, "DeepSeek", "deepseek-chat"),
@@ -113,8 +113,14 @@ class AgentClient:
 
     def create_prompt(self):
         """Wraps the product data in a shopping-assistant prompt."""
+        # Infer category from the batch for a realistic task framing
+        category = None
+        if self.products:
+            category = self.products[0].get("category")
+        category_line = f"A customer is looking to buy {category}." if category else "A customer has asked you to find the best product."
+
         products_json = json.dumps(self.products, indent=2)
-        prompt = f"""You are a shopping assistant. A customer has asked you to find the best product. Review the following JSON product feed and select a consideration set of {self.k} products.
+        prompt = f"""You are a shopping assistant. {category_line} Review the following JSON product feed and select a consideration set of {self.k} products that best meet the customer's needs.
 
 You may also choose "no_purchase" as your final choice if none of the products are suitable.
 
