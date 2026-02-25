@@ -37,7 +37,7 @@ class ExperimentGenerator:
             if not pool:
                 print(f"No products found for category: {category}")
                 return []
-            print(f"Filtered pool size for '{category}': {len(pool)}")
+            # pool size printed once by caller if needed
 
         if size <= len(pool):
             return random.sample(pool, size)

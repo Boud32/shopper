@@ -35,3 +35,8 @@ data/results/old_results/
 *.aux
 *.log
 *.pdf
+
+# Admin / working documents (spec, notes — not public until paper is ready)
+# TODO: create a proper README.md once the project is more stable and ready to share
+spec.md
+notes/

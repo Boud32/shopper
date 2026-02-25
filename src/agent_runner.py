@@ -81,19 +81,39 @@ def call_deepseek(prompt):
     return response.choices[0].message.content
 
 
+def call_groq(prompt, model="llama-3.3-70b-versatile"):
+    """Calls Groq API (OpenAI-compatible). ~14,400 req/day free tier."""
+    from openai import OpenAI
+
+    api_key = os.getenv("GROQ_API_KEY")
+    if not api_key:
+        raise ValueError("GROQ_API_KEY not set in environment")
+
+    client = OpenAI(api_key=api_key, base_url="https://api.groq.com/openai/v1")
+    response = client.chat.completions.create(
+        model=model,
+        messages=[{"role": "user", "content": prompt}],
+        response_format={"type": "json_object"},
+    )
+    return response.choices[0].message.content
+
+
 # Registry: name -> (call function, display name, model id for metadata)
 #
-# Two Gemini tiers:
-#   "gemini"       — gemini-2.5-flash  (20 req/day free)  → production experiments
-#   "gemini-flash" — gemini-1.5-flash  (1500 req/day free) → tinkering / development
+# Gemini free tier limits (as of Feb 2026):
+#   "gemini"       — gemini-2.5-flash  (~25 req/day free)
+#   "gemini-flash" — gemini-2.0-flash  (requires billing; limit: 0 on free tier)
+#
+# Groq free tier: ~14,400 req/day — primary scale provider for experiments.
 #
 # The model ID is stored in result metadata so analysis can filter by model.
 PROVIDERS = {
-    "gemini":       (lambda p: call_gemini(p, "gemini-2.5-flash"), "Gemini 2.5 Flash", "gemini-2.5-flash"),
-    "gemini-flash": (lambda p: call_gemini(p, "gemini-1.5-flash"), "Gemini 1.5 Flash", "gemini-1.5-flash"),
-    "openai":       (call_openai,   "ChatGPT",  "gpt-4o-mini"),
-    "claude":       (call_claude,   "Claude",   "claude-sonnet-4-20250514"),
-    "deepseek":     (call_deepseek, "DeepSeek", "deepseek-chat"),
+    "gemini":       (lambda p: call_gemini(p, "gemini-2.5-flash"), "Gemini 2.5 Flash",      "gemini-2.5-flash"),
+    "gemini-flash": (lambda p: call_gemini(p, "gemini-2.0-flash"), "Gemini 2.0 Flash",      "gemini-2.0-flash"),
+    "groq":         (call_groq,    "Groq Llama 3.3 70B",  "llama-3.3-70b-versatile"),
+    "openai":       (call_openai,  "ChatGPT",              "gpt-4o-mini"),
+    "claude":       (call_claude,  "Claude",               "claude-sonnet-4-20250514"),
+    "deepseek":     (call_deepseek,"DeepSeek",             "deepseek-chat"),
 }
 
 # ---------------------------------------------------------------------------
