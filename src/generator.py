@@ -1,8 +1,6 @@
 import copy
 import json
 import random
-import time
-import os
 
 
 POSITION_MODES = ["random", "price_asc", "price_desc", "rating_desc"]
@@ -203,35 +201,3 @@ class ExperimentGenerator:
             print(f"  Batch valid — tags: {counts}")
         return valid
 
-    def serialize(self, batch, filename=None):
-        """Saves the batch to JSON and returns the output path."""
-        if filename is None:
-            timestamp = int(time.time())
-            filename = f"batch_{timestamp}.json"
-
-        output_path = os.path.join(self.output_dir, filename)
-        os.makedirs(self.output_dir, exist_ok=True)
-
-        with open(output_path, "w") as f:
-            json.dump(batch, f, indent=2)
-
-        print(f"Saved batch to {output_path}")
-        return output_path
-
-
-if __name__ == "__main__":
-    generator = ExperimentGenerator()
-
-    print("\n--- Generating Batches for All Categories ---")
-    if generator.seed_data:
-        categories = sorted(set(p.get("category") for p in generator.seed_data if p.get("category")))
-        for cat in categories:
-            slug = cat.lower().replace(" ", "_")
-            print(f"Generating for category: {cat}")
-            batch = generator.create_batch(size=25, category=cat)
-            if batch:
-                batch = generator.mutate(batch)
-                batch = generator.assign_positions(batch, mode="random")
-                batch = generator.inject_tags(batch)
-                if generator.validate_batch(batch):
-                    generator.serialize(batch, f"batch_{slug}.json")

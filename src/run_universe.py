@@ -21,7 +21,7 @@ import time
 from pathlib import Path
 
 sys.path.insert(0, ".")
-from src.agent_runner import PROVIDERS
+from src.providers import PROVIDERS
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -73,22 +73,6 @@ def parse_response(response_str):
     except json.JSONDecodeError:
         print(f"  Failed to parse response: {response_str[:200]}")
         return None
-
-
-def slim_product(p, desc_chars=300, review_chars=200):
-    """Truncate verbose text fields to keep prompt tokens manageable."""
-    s = dict(p)
-    if s.get("description"):
-        s["description"] = s["description"][:desc_chars]
-    if s.get("reviews"):
-        trimmed = []
-        for r in s["reviews"]:
-            r2 = dict(r)
-            if r2.get("text"):
-                r2["text"] = r2["text"][:review_chars]
-            trimmed.append(r2)
-        s["reviews"] = trimmed
-    return s
 
 
 def slim_product(p, desc_chars=300, review_chars=200):
