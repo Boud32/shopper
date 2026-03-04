@@ -1,0 +1,22 @@
+{
+  "experiment_id": "exp_running_shoes",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_059",
+      "prod_running_shoes_101",
+      "prod_running_shoes_133",
+      "prod_running_shoes_172",
+      "prod_running_shoes_147"
+    ],
+    "final_choice": "prod_running_shoes_101",
+    "reasoning_trace": "Based on the product feed, I have selected the top 5 products that best meet the customer's needs for running shoes. I considered factors such as product ratings, review counts, prices, and product descriptions. The final choice, 'prod_running_shoes_101', is the ASICS Women's Gel-Contend 6 Running Shoes, which has a high rating of 4.6, a large review count of 12582, and a reasonable price of $54.95. This product seems to offer a good balance of quality, comfort, and value, making it an attractive choice for the customer."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_202.json",
+    "offer_set_id": "running_shoes_202",
+    "timestamp": 1772502398,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

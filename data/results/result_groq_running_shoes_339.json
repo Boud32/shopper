@@ -1,0 +1,22 @@
+{
+  "experiment_id": "exp_running_shoes",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_100",
+      "prod_running_shoes_128",
+      "prod_running_shoes_177",
+      "prod_running_shoes_069",
+      "prod_running_shoes_059"
+    ],
+    "final_choice": "prod_running_shoes_177",
+    "reasoning_trace": "Based on the product feed, the consideration set includes the top-rated running shoes from reputable brands such as ASICS, Brooks, and adidas. The final choice, 'prod_running_shoes_177' (Brooks Men's Ghost 12 Running Shoe), has a high rating of 4.7 and over 12,000 reviews, indicating excellent quality and customer satisfaction."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_339.json",
+    "offer_set_id": "running_shoes_339",
+    "timestamp": 1772502711,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

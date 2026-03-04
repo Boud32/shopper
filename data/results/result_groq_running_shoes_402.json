@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_recommendation",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_099",
+      "prod_running_shoes_158",
+      "prod_running_shoes_128",
+      "prod_running_shoes_116",
+      "prod_running_shoes_060"
+    ],
+    "final_choice": "prod_running_shoes_158",
+    "reasoning_trace": "Based on the product feed, I considered factors such as rating, review count, and price to select the top 5 products for the consideration set. The final choice, 'prod_running_shoes_158' (ASICS Men's Noosa Tri 13 Running Shoes), has a high rating of 4.8, a large number of reviews (1759), and a reasonable price ($129.48), indicating its popularity and quality. This product seems to be a great option for a customer looking for running shoes."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_402.json",
+    "offer_set_id": "running_shoes_402",
+    "timestamp": 1772502855,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_116",
+      "prod_running_shoes_186",
+      "prod_running_shoes_144",
+      "prod_running_shoes_089",
+      "prod_running_shoes_157"
+    ],
+    "final_choice": "prod_running_shoes_116",
+    "reasoning_trace": "The final choice, prod_running_shoes_116, is the New Balance Men's 510 V5 Trail Running Shoe. It has a high rating of 4.4, a large number of reviews (6173), and a reasonable price of $54.95. The consideration set includes other highly rated products from reputable brands such as Brooks, ASICS, and Salomon, but the New Balance shoe stands out due to its balance of price, quality, and customer satisfaction. The Brooks Women\u2019s Launch 9 Neutral Running Shoe and the ASICS Women's Adistar Boost W ESM Running Shoe are also strong contenders, but their higher prices and slightly lower ratings make the New Balance shoe the most attractive option."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_146.json",
+    "offer_set_id": "running_shoes_146",
+    "timestamp": 1772502271,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

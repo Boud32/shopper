@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_recommendation",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_162",
+      "prod_running_shoes_128",
+      "prod_running_shoes_186",
+      "prod_running_shoes_194",
+      "prod_running_shoes_165"
+    ],
+    "final_choice": "prod_running_shoes_162",
+    "reasoning_trace": "The top 5 products were selected based on their high overall rating, number of reviews, and relevance to the 'Running Shoes' category. The final choice, 'adidas Men's Racer Tr21 Running Shoe', was selected due to its high rating of 4.5, over 6,900 reviews, and its description highlighting everyday style with a running twist, making it a well-rounded choice for running shoes."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_014.json",
+    "offer_set_id": "running_shoes_014",
+    "timestamp": 1772502027,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

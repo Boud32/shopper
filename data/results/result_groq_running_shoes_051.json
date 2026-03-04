@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_166",
+      "prod_running_shoes_062",
+      "prod_running_shoes_074",
+      "prod_running_shoes_124",
+      "prod_running_shoes_080"
+    ],
+    "final_choice": "prod_running_shoes_124",
+    "reasoning_trace": "I selected the consideration set based on high ratings and review counts. The final choice, Brooks Women's Ghost 14 Neutral Running Shoe, has the highest rating of 4.7 and the most reviews at 26445, indicating a high level of customer satisfaction."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_051.json",
+    "offer_set_id": "running_shoes_051",
+    "timestamp": 1772502085,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "experiment_id": "Running_Shoes_Selection",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_067",
+      "prod_running_shoes_094",
+      "prod_running_shoes_114",
+      "prod_running_shoes_158",
+      "prod_running_shoes_194"
+    ],
+    "final_choice": "prod_running_shoes_067",
+    "reasoning_trace": "The selected consideration set includes the top-rated running shoes from reputable brands such as New Balance, ASICS, and Brooks. The final choice, 'prod_running_shoes_067', is the New Balance Men's Fresh Foam Arishi V2 Running Shoe, which has a high rating of 4.4 and over 4000 reviews, indicating its comfort and performance. Additionally, it is priced relatively affordably at $89.96. The reasoning behind this choice is based on the product's features, customer reviews, and price, which collectively suggest it is a high-quality and value-for-money option for running shoes."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_299.json",
+    "offer_set_id": "running_shoes_299",
+    "timestamp": 1772502621,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

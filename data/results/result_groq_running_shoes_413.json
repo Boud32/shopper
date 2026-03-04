@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_186",
+      "prod_running_shoes_126",
+      "prod_running_shoes_194",
+      "prod_running_shoes_146",
+      "prod_running_shoes_077"
+    ],
+    "final_choice": "prod_running_shoes_186",
+    "reasoning_trace": "Based on the product feed, the top 5 products in the consideration set were selected based on their high ratings, review counts, and relevance to running shoes. The final choice, 'prod_running_shoes_186' (Brooks Women\u2019s Launch 9 Neutral Running Shoe), was selected due to its high rating of 4.6, large review count of 1250, and positive reviews emphasizing its comfort, lightweight feel, and support. This product is also from a well-known brand, Brooks, which is a major factor in the decision-making process."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_413.json",
+    "offer_set_id": "running_shoes_413",
+    "timestamp": 1772502880,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

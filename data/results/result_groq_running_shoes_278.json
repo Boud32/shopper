@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_recommendation",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_114",
+      "prod_running_shoes_129",
+      "prod_running_shoes_165",
+      "prod_running_shoes_077",
+      "prod_running_shoes_072"
+    ],
+    "final_choice": "prod_running_shoes_114",
+    "reasoning_trace": "Based on the product feed, the consideration set of 5 products that best meet the customer's needs for running shoes includes ASICS Women's Gel-Nimbus 18 Running Shoe, adidas Men's Ultraboost-21 Running Shoes, ASICS Mens Gel-Venture 6 Running Shoe, ASICS Men's Gel-Cumulus 21 Running Shoes, and ASICS Women's Gel-Cumulus 22 Running Shoes. The final choice is ASICS Women's Gel-Nimbus 18 Running Shoe due to its high rating of 4.5, large number of reviews (727), and positive review comments indicating that it is well-cushioned and comfortable for running."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_278.json",
+    "offer_set_id": "running_shoes_278",
+    "timestamp": 1772502571,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

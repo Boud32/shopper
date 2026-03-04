@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_099",
+      "prod_running_shoes_113",
+      "prod_running_shoes_119",
+      "prod_running_shoes_186",
+      "prod_running_shoes_160"
+    ],
+    "final_choice": "prod_running_shoes_099",
+    "reasoning_trace": "The final choice is based on high ratings, positive reviews, and a balance of features such as comfort, support, and price. The Xero Shoes Men's HFS Running Shoes have a 4.5-star rating and over 1000 reviews, with many praising their comfort and 'barefoot feel'. They are also priced competitively at $124.99. While other products like ASICS Jolt Men's Running Shoe and Brooks Women's Adrenaline GTS 22 have high ratings as well, the Xero Shoes Men's HFS Running Shoes stand out for their unique features and value."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_443.json",
+    "offer_set_id": "running_shoes_443",
+    "timestamp": 1772502949,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

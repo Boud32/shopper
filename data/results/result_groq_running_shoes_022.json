@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_140",
+      "prod_running_shoes_171",
+      "prod_running_shoes_061",
+      "prod_running_shoes_177",
+      "prod_running_shoes_129"
+    ],
+    "final_choice": "prod_running_shoes_171",
+    "reasoning_trace": "The top consideration set was selected based on factors such as high average review ratings, relevance to running, brand reputation, and diversity of options. The final choice, 'prod_running_shoes_171', was selected due to its high rating of 4.6, numerous positive reviews highlighting comfort and performance, and the reputable brand 'Saucony', indicating a well-regarded product among runners."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_022.json",
+    "offer_set_id": "running_shoes_022",
+    "timestamp": 1772502041,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

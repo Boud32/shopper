@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_095",
+      "prod_running_shoes_105",
+      "prod_running_shoes_156",
+      "prod_running_shoes_177",
+      "prod_running_shoes_186"
+    ],
+    "final_choice": "prod_running_shoes_095",
+    "reasoning_trace": "Selected products with high ratings and positive reviews, focusing on running shoes from reputable brands like New Balance, ASICS, and Brooks. The final choice, 'prod_running_shoes_095', is the New Balance Women's Fresh Foam Roav V1 Running Shoe, which has a high rating of 4.5 and numerous positive reviews praising its comfort and performance."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_389.json",
+    "offer_set_id": "running_shoes_389",
+    "timestamp": 1772502826,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

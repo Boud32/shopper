@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_103",
+      "prod_running_shoes_110",
+      "prod_running_shoes_072",
+      "prod_running_shoes_114",
+      "prod_running_shoes_199"
+    ],
+    "final_choice": "prod_running_shoes_103",
+    "reasoning_trace": "Based on the high ratings and numerous positive reviews, the Brooks Men's Ghost 14 Neutral Running Shoe (prod_running_shoes_103) is selected as the final choice. The consideration set consists of this product and four other highly-rated running shoes from reputable brands, including Brooks, ASICS, and New Balance. The decision is influenced by factors such as comfort, support, and overall customer satisfaction."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_301.json",
+    "offer_set_id": "running_shoes_301",
+    "timestamp": 1772502625,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

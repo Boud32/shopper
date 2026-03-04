@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_072",
+      "prod_running_shoes_165",
+      "prod_running_shoes_057",
+      "prod_running_shoes_144",
+      "prod_running_shoes_063"
+    ],
+    "final_choice": "prod_running_shoes_072",
+    "reasoning_trace": "Based on the product feed, I selected a consideration set of 5 products that best meet the customer's needs for running shoes. I prioritized products with high ratings, numerous reviews, and descriptions that mention comfort, support, and suitability for running. The final choice, 'prod_running_shoes_072', is the ASICS Women's Gel-Cumulus 22 Running Shoes, which has a high rating of 4.5, over 4,000 reviews, and a description that highlights its comfort, flexibility, and support features."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_207.json",
+    "offer_set_id": "running_shoes_207",
+    "timestamp": 1772502410,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

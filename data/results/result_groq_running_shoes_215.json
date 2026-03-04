@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_recommendation",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_131",
+      "prod_running_shoes_166",
+      "prod_running_shoes_067",
+      "prod_running_shoes_177",
+      "prod_running_shoes_069"
+    ],
+    "final_choice": "prod_running_shoes_131",
+    "reasoning_trace": "The consideration set was chosen based on a combination of factors including high average customer review ratings, relevance to the 'Running Shoes' category, and a balance of price points. The New Balance Men's FuelCore Coast V4 Running Shoe (prod_running_shoes_131) was selected as the final choice due to its high rating of 4.4, a large number of reviews (2181), and a description that highlights features relevant to running such as a lightweight ride and a second-skin feel. This shoe appears to balance performance, comfort, and style, making it a strong candidate to meet the customer's needs for running shoes."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_215.json",
+    "offer_set_id": "running_shoes_215",
+    "timestamp": 1772502428,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

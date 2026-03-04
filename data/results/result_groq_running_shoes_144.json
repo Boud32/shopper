@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_133",
+      "prod_running_shoes_163",
+      "prod_running_shoes_062",
+      "prod_running_shoes_099",
+      "prod_running_shoes_128"
+    ],
+    "final_choice": "prod_running_shoes_133",
+    "reasoning_trace": "The final choice is based on the product with the highest overall rating and review count. ASICS Men's Gel-Cumulus 22 Running Shoes have a rating of 3.9 and 6 reviews. Although the review count is relatively low, the product is from a well-known brand and the reviews are all 5-star, indicating a high level of customer satisfaction. The consideration set includes other high-rated products from reputable brands, such as ASICS and New Balance, to provide a range of options for the customer."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_144.json",
+    "offer_set_id": "running_shoes_144",
+    "timestamp": 1772502267,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

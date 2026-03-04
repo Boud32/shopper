@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_exp",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_092",
+      "prod_running_shoes_146",
+      "prod_running_shoes_148",
+      "prod_running_shoes_124",
+      "prod_running_shoes_171"
+    ],
+    "final_choice": "prod_running_shoes_146",
+    "reasoning_trace": "The customer is looking for running shoes. From the product feed, the top 5 products that meet this need are INZCOU Running Shoes, ASICS Women's Gel-Cumulus 24 Running Shoes, Reebok Women's Ztaur Running Shoe, Brooks Women's Ghost 14 Neutral Running Shoe, and Saucony Men's Cohesion 15 Running Shoe. Considering factors like price, rating, and reviews, ASICS Women's Gel-Cumulus 24 Running Shoes stands out as the best option, offering a high rating of 4.6, a description that highlights comfort and support, and positive reviews from verified purchasers."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_338.json",
+    "offer_set_id": "running_shoes_338",
+    "timestamp": 1772502708,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_162",
+      "prod_running_shoes_094",
+      "prod_running_shoes_177",
+      "prod_running_shoes_144",
+      "prod_running_shoes_079"
+    ],
+    "final_choice": "prod_running_shoes_162",
+    "reasoning_trace": "The customer is looking for running shoes, so I prioritized products with high ratings, reviews, and relevance to running. The ASICS and Brooks shoes are highly rated, but the Brooks Ghost 12 and ASICS Gel-Contend 6 have lower overall ratings compared to the Adidas Racer Tr21. The Brooks Ghost 12 also has a higher price point, while the Adidas Racer Tr21 offers a balance of affordability, style, and functionality, making it the final choice."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_391.json",
+    "offer_set_id": "running_shoes_391",
+    "timestamp": 1772502830,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_146",
+      "prod_running_shoes_157",
+      "prod_running_shoes_177",
+      "prod_running_shoes_080",
+      "prod_running_shoes_193"
+    ],
+    "final_choice": "prod_running_shoes_146",
+    "reasoning_trace": "The customer is looking for running shoes. Based on the product feed, I selected a consideration set of 5 products with high ratings and relevant features for running. The final choice, prod_running_shoes_146 (ASICS Women's Gel-Cumulus 24 Running Shoes), has a high rating of 4.6, a large number of reviews (422), and is from a reputable brand (ASICS), making it the most suitable option for the customer's needs."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_289.json",
+    "offer_set_id": "running_shoes_289",
+    "timestamp": 1772502596,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

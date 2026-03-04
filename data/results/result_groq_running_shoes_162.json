@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_164",
+      "prod_running_shoes_129",
+      "prod_running_shoes_137",
+      "prod_running_shoes_131",
+      "prod_running_shoes_119"
+    ],
+    "final_choice": "prod_running_shoes_129",
+    "reasoning_trace": "Based on the provided product feed, a consideration set of 5 products was selected considering factors like high ratings, positive reviews, and relevance to running. The final choice, 'prod_running_shoes_129' (adidas Men's Ultraboost-21 Running Shoes), was made due to its high rating of 4.6, a large number of positive reviews (5131), and its description highlighting comfort and support, which are key features for running shoes."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_162.json",
+    "offer_set_id": "running_shoes_162",
+    "timestamp": 1772502307,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "experiment_id": "exp_placeholder",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_161",
+      "prod_running_shoes_136",
+      "prod_running_shoes_062",
+      "prod_running_shoes_114",
+      "prod_running_shoes_086"
+    ],
+    "final_choice": "prod_running_shoes_161",
+    "reasoning_trace": "Selected products based on high ratings, relevant descriptions, and customer reviews indicating comfort and support for running. Brooks Women's Ravenna 9 Road Running Shoe was chosen as the final product due to its high rating, excellent customer reviews, and features such as adaptive cushioning and stability."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_129.json",
+    "offer_set_id": "running_shoes_129",
+    "timestamp": 1772502232,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

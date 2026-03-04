@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_198",
+      "prod_running_shoes_064",
+      "prod_running_shoes_072",
+      "prod_running_shoes_080",
+      "prod_running_shoes_200"
+    ],
+    "final_choice": "prod_running_shoes_198",
+    "reasoning_trace": "Based on the product feed, the top 5 running shoes were selected based on their high ratings and review counts. The final choice, 'prod_running_shoes_198', is the ASICS Women's GT-2000 4 Running Shoes, which has a rating of 4.3 and over 1800 reviews. This shoe is a great option for runners due to its balance of cushioning and stability, making it suitable for high mileage runners."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_010.json",
+    "offer_set_id": "running_shoes_010",
+    "timestamp": 1772502007,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

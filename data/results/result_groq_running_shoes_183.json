@@ -1,0 +1,22 @@
+{
+  "experiment_id": "exp_running_shoes",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_077",
+      "prod_running_shoes_165",
+      "prod_running_shoes_094",
+      "prod_running_shoes_153",
+      "prod_running_shoes_177"
+    ],
+    "final_choice": "prod_running_shoes_177",
+    "reasoning_trace": "Based on the customer's interest in running shoes, I selected a consideration set of 5 products with high ratings, positive reviews, and relevant features. The final choice, 'prod_running_shoes_177' (Brooks Men's Ghost 12 Running Shoe), stands out due to its excellent rating (4.7), numerous positive reviews (12057), and suitable features for running, such as comfort, support, and cushioning."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_183.json",
+    "offer_set_id": "running_shoes_183",
+    "timestamp": 1772502355,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

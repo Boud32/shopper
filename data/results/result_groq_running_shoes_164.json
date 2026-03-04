@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_072",
+      "prod_running_shoes_101",
+      "prod_running_shoes_165",
+      "prod_running_shoes_123",
+      "prod_running_shoes_177"
+    ],
+    "final_choice": "prod_running_shoes_072",
+    "reasoning_trace": "The final choice of 'prod_running_shoes_072', which is the ASICS Women's Gel-Cumulus 22 Running Shoes, is based on a combination of high customer ratings (4.5 out of 5 stars), a large number of reviews (4313), and a description that emphasizes comfort and support for runners. While other products like 'prod_running_shoes_101' (ASICS Women's Gel-Contend 6 Running Shoes) and 'prod_running_shoes_177' (Brooks Mens Ghost 12 Running Shoe) also have good ratings and numerous reviews, 'prod_running_shoes_072' offers a good balance of features, price ($119.95), and customer satisfaction, making it a suitable choice for someone looking for running shoes."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_164.json",
+    "offer_set_id": "running_shoes_164",
+    "timestamp": 1772502312,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

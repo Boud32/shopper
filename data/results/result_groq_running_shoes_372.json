@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_059",
+      "prod_running_shoes_105",
+      "prod_running_shoes_085",
+      "prod_running_shoes_061",
+      "prod_running_shoes_073"
+    ],
+    "final_choice": "prod_running_shoes_059",
+    "reasoning_trace": "To determine the best running shoes, we evaluated each product's category, rating, review count, and price. 'prod_running_shoes_059' stood out for its high rating of 4.7, substantial review count of 6787, and a price of $160.39, indicating a balance of quality and customer satisfaction. Although 'prod_running_shoes_105' also had a high rating and significant review count, its price was higher. 'prod_running_shoes_085' and 'prod_running_shoes_061' offered competitive pricing but had lower ratings or fewer reviews. 'prod_running_shoes_073' had a good balance but was less favored due to some negative reviews about size and comfort issues."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_372.json",
+    "offer_set_id": "running_shoes_372",
+    "timestamp": 1772502787,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

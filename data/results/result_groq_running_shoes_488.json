@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_186",
+      "prod_running_shoes_059",
+      "prod_running_shoes_124",
+      "prod_running_shoes_055",
+      "prod_running_shoes_094"
+    ],
+    "final_choice": "prod_running_shoes_186",
+    "reasoning_trace": "The final choice, prod_running_shoes_186 (Brooks Women\u2019s Launch 9 Neutral Running Shoe), is selected due to its high rating of 4.6, large number of reviews (1250), and a price point of $69.95, which suggests a good balance between quality, popularity, and affordability. The consideration set includes other high-rated products with significant numbers of reviews, ensuring a diverse range of options for the customer to choose from based on their preferences and needs."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_488.json",
+    "offer_set_id": "running_shoes_488",
+    "timestamp": 1772503051,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

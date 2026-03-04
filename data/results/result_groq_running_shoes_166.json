@@ -1,0 +1,22 @@
+{
+  "experiment_id": "exp_running_shoes",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_135",
+      "prod_running_shoes_133",
+      "prod_running_shoes_199",
+      "prod_running_shoes_080",
+      "prod_running_shoes_059"
+    ],
+    "final_choice": "prod_running_shoes_135",
+    "reasoning_trace": "Based on the provided product feed, I have selected a consideration set of 5 products that best meet the customer's needs for running shoes. The products were chosen based on their high ratings, positive reviews, and relevant features for running shoes. The final choice, 'prod_running_shoes_135', is the Brooks Men's Launch 9 Neutral Running Shoe, which has a high rating of 4.5 and many positive reviews mentioning its comfortable fit, cushioning, and performance."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_166.json",
+    "offer_set_id": "running_shoes_166",
+    "timestamp": 1772502316,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}
