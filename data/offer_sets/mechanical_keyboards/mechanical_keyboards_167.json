@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "prod_mechanical_keyboards_041",
+    "parent_asin": "B099236RDH",
+    "category": "Mechanical Keyboards",
+    "title": "YUNZII AKKO CS Switch, 3 Pins for DIY MX Mechanical Keyboard, 45 pcs (Ocean Blue Switch)",
+    "description": "",
+    "rating": 4.7,
+    "review_count": 211,
+    "features": [
+      "\u3010About AKKO CS Switches\u3011 AKKO Custom Series (CS) switches are the newly designed 3-pin switches for customers who have specific typing and gaming needs. Each package has 45 switches. Six types of switches are available and no matter which kind of typing feeling you want, we cover it all.",
+      "\u3010Compatibility\u3011AKKO CS switches are designed with a general MX structure so that they can fit most keycaps sets. The switch has 3 pins but also fit in all 3 pins and 5 pins keyboards. Based on the strong compatibility, you can easily change the switch and customize your mechanical keyboard.",
+      "\u3010Built-in LED Slot \u3011The AKKO CS switches are equipped with a north-facing LED slot for LED modification. It is also compatible with SMD LED, provides more fun and options for keyboard enthusiasts.",
+      "\u3010Durable Lifespan & Improved Performance\u3011With a lifespan of approximately 50 million times of keystrokes, you are assured of high quality and a long lifespan. The CS switches feature a spiral spring design that can make the typing more comfortable.",
+      "\u3010Ocean Blue Tactile Switch\u3011The tactile bump of the Ocean Blue switch is at 0.55mm and it ends at 1.88mm, which gives long-continued feedback. Different from the blue and brown switch, the Ocean blue switch has a medium tactile position that can give you an excellent experience in typing and gaming."
+    ],
+    "reviews": [
+      {
+        "rating": 4.0,
+        "title": "Very good for the price",
+        "text": "I'm not a mechanical keyboard connoisseur, but needed to replace the switches on my cheap Redragon keyboard to get rid of the loud clicking noise. The original switches were blue switch clones and the clicks will wake up the neighbors. These are cheap enough that I decided to give them a try. They are pretty good in terms of touch and sound, from my perspective and my use. Will definitely resort to these again in the future if I need to replace keyboard switches, especially for budget keyboards.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "YUNZII",
+    "tags": [
+      "Sponsored"
+    ],
+    "price": 18.0,
+    "position": 1,
+    "page": 1
+  },
+  {
+    "id": "prod_mechanical_keyboards_020",
+    "parent_asin": "B09RSKHGMH",
+    "category": "Mechanical Keyboards",
+    "title": "SNAP 75% Mechanical Keyboard Kit (White)",
+    "description": "A stylish, 75% split The SNAP is a 75% split mechanical keyboard kit with support for 2 rotary encoders, 2 OLED displays, speaker, and RGB underglow. We took all the best parts of the NIBBLE and added some of the most popular requests: true split shift/space/backspace. The SNAP is configurable, programmable, and easily assembled. 100% through hole design The SNAP uses a Pro Micro MCU instead of a discrete micro-controller chip. It offers the fun and aesthetic of a kit without having to worry about soldering the difficult bits like USB connectors. All required parts diodes, caps, and ICs) are through-hole, meaning they're easy and forgiving to solder. underglow LEDs are surface-mount Multiple Layout Options Use the SNAP in split mode, or snap it whoa, get it?) together for a more traditional layout. Strong internal magnets hold the two sides together and magical spring-loaded pogo pin contacts mean there's no need for a TRRS cable when the two sides are attached. The SNAP supports many configurations and layouts: Split space/backspace, split shift, ISO enter, and more. Since it runs QMK firmware and uses VIA, it's easy to change keymaps, program macros, and customize functionality. RGB underglow ready 10x optional bottom-mounted SMT LEDs shine nicely through the acrylic support material. Included Top & bottom PCB Acrylic supports M2 standoffs & screws Diodes, ICs, decoupling caps, reset switch RGB underglow, speaker, magnets, and pogo pins Rotary encoder & color-matched knob TRRS cable and mini bumpons Not included 2x Bit-Cs or Pro Micro Compatible MCU MX-compatible switches & keycaps PCB-mount stabilizers NOTE: This is a kit which requires assembly and soldering! Bit-Cs, switches, keycaps, and other accessories are sold separately",
+    "rating": 4.3,
+    "review_count": 17,
+    "features": [
+      "The SNAP is a high-quality split 75% keyboard kit with tons of room for customization",
+      "Use the SNAP together, or separate! It snaps together for a traditional 75% layout or pulls apart for use as a split board",
+      "Built around a Pro Micro, rather than a discrete microcontroller. This saves assembly time, and also reduces the build difficulty",
+      "All required parts (diodes, caps, and ICs) are through-hole, meaning they're easy and forgiving to solder",
+      "RGB underglow ready: 10x optional bottom-mounted SMT LEDs shine nicely through the acrylic support material. RGB underglow is supported natively in QMK, allowing for easy programming and configuration"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Not for the faint of heart",
+        "text": "This kit does take a lot of work so I would not recommend it as a first build, or for someone looking for a quick build.<br /><br />It is also a fairly unique one of a kind kit. I don't know of other split 75% keyboards with pro micro support that also have great documentation, support and community. If you are willing to put in the time you will be rewarded with a unique keyboard, and the kit really is fun to put together for experienced builders.<br /><br />I would knock down half star as I encountered some issues with the fitting of the acrylic plate, specifically in these areas:<br />1. acrylic plate fitting at the keyboard split edge, had to use an exacto knife<br />2. acrylic plate fitting with bottom screws of the PCB mount stabilizers, had to make the holes wider<br />3. snap magnets did not fit, gave up trying to fit these<br />4. components pin through the solder joints interfered with acrylic, this is expected and is easily fixable by trimming them down.<br /><br />Apart from that everything worked as expected. Firmware worked on first try and I was easily able to get it working with VIA.",
+        "verified": true,
+        "helpful_votes": 5
+      }
+    ],
+    "store": "nullbits",
+    "tags": [],
+    "price": 99.99,
+    "position": 2,
+    "page": 1
+  },
+  {
+    "id": "prod_mechanical_keyboards_102",
+    "parent_asin": "B07FNMYLB6",
+    "category": "Mechanical Keyboards",
+    "title": "YMDK 108 104 PBT Double Shot Non Shine Through ANSI OEM Profile KEYCAP for MX Mechanical Keyboard (Only Keycap)(White Gray Mixed)",
+    "description": "DetailsThis is only keycap Keyset in package,no keyboard included. The keycap is PBT double shot and legend shine through. Package 1x104 Keycap Keyset which can be used for Standard 104 87 61 keyboard. Compatiability It can be used for most Cherry MX Gateron MX Kailh MX mechanical keyboard. Incompatiability If the spacebar is 6u 6.5u instead of 6.25u,it can't be compatible.It's not compatible with Cosair Logitech.\nIt's not compatible Some old Cherry keyboard whose Spacebar Capslock back hole is different,such as 1800\nAfter Service\nIf some keys missing or broken on the way,just leave us message,we will send you missing or broken ones soon.Don't worry about it and don't leave feedback immediately.",
+    "rating": 4.2,
+    "review_count": 197,
+    "features": [
+      "This link only sells Keycaps,no keyboard included in the link.There is a puller presented in package.",
+      "This keycap is made of 90% PBT.The thickness is around 1.2mm.The legend is double shot which never fades however it's not shine through",
+      "This keycap is compatible with most standard ANSI MX switches keyboard whose bottom modifier key is 1x6.25u 7x1.25u.Space is around 11.7cm.",
+      "This YMDK keycap is not compatible with Corsair Razer Keyboard..64 68 75 84 96 keyboard can't use it as well"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Looks like durgod k320",
+        "text": "Awesome caps.  Looks exactly lie durgod k320",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Very sturdy product. Was as described",
+        "text": "I bought it as a gift for my grandson. Just what he wanted. Working good",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Good Keycap Set! Beat Expectations",
+        "text": "I had initially bought this keycap set as a placeholder for my GMK Samurai Keycap set that I was set to receive. However, I had learned that Drop would ship them in late July, and since I was unsure if I was getting a refund, I bought this keycap set as a placeholder.<br /><br />This keycap set broke all expectations that I held for cheap keycaps. They feel to be of good quality, with a high-ish thock sound that is what I wanted. Overall, it is a good keycap set that I would recommend to people if they are looking for good quality and good-sounding keycaps.<br /><br />Also, I did get a refund for the GMK keycaps so I will be sticking with these keycaps, although they don't match as they were not meant to pair together and were rather a last-minute decision.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "YMDK",
+    "tags": [],
+    "price": 16.9,
+    "position": 3,
+    "page": 1
+  },
+  {
+    "id": "prod_mechanical_keyboards_079",
+    "parent_asin": "B07R9N9GYN",
+    "category": "Mechanical Keyboards",
+    "title": "Replacement Mechanical Gaming Keyboard Left and Right CTRL keycap for logitech G610",
+    "description": "",
+    "rating": 4.4,
+    "review_count": 40,
+    "features": [
+      "Original Replacement Part",
+      "Performance gaming keys",
+      "only for Logitech Replacement Keycaps G610",
+      "Package included: \uff1a2 pcs CTRL keycap",
+      "This item is Keyboard Button\uff0cNot include the Keyboard\uff01"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Great replacement keys.",
+        "text": "These keys work just as good as the stock ones, excellent product. Recommended.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "HUYUN",
+    "tags": [
+      "Sponsored"
+    ],
+    "price": 8.99,
+    "position": 4,
+    "page": 1
+  },
+  {
+    "id": "prod_mechanical_keyboards_152",
+    "parent_asin": "B072JYD1YD",
+    "category": "Mechanical Keyboards",
+    "title": "Keyboard Mouse Combos,Soke-Six Waterproof Multimedia 2.4GHz Wireless Gaming Keyboard with USB Cordless Ergonomic Mouse DPI Control For Desktop PC Laptop(Black)",
+    "description": "Specification\n1.Optical Resolution: 1600DPI 2.Mouse Resolution : 1000DPI 3.Operation Range: Up to 10m 4.Net Weight: 700g 5.Normal Keys: 104 4.Multimedia Keys:12 5.Interface Type: USB 6.Color of Backlight: None 7.Compatible with laptops/desktops/intelligent televisions 8.Keyboard: - Keyboard Dimensions: 445x150x25mm(L x W x H) - All of the keys lifespan up to 1-500-000 times - Multimedia key combination- simple and convenient - Keyboard battery: 1 * AA battery (not included) 9. Mouse: - Mouse size: 115 * 67 *45mm - Ergonomically designed- comfort grip - Micro nano-receiver -Mouse battery: 1 * AA battery (not included)\nPacking Included:\n1 X Wireless Keyboard 1 X USB Wireless Mouse 1 X USB Receiver\nMore Features:\n-High quality and Brand new. Whirlwind Streamline, Dual-Spring big spaces.  -Subtle ergonomic design, the most subtle touch, offer the most comfortable gaming environment. -Anti-skid, with stable stand design, you can adjust the keyboard height. -The keycap using laser engraving technology, durable wear does not fade. -With Ultra-Wearable Laser Blue Chacacter, even at night to experience the game is quite suitable. -Unique S-Shaped ergonomic design, can effectively reduce fatigue and increase comfort. -Mouse Standard 6 keys and keys of roller wheel up and roller down can self-defined key function. -Mouse 4000FPS frames per second ( 32 megapixels per second) -Mouse Buttons: 6 buttons with scroll wheel(Two Side-Buttons, One DPI Switch)\nOur service\nMake our customer satisfy is our goal,if have any questions,please feel free to contact with us,we will response within 24 hours,and give you right solutions. Thank you for visiting our store,if you love it,ADD TO CART now !",
+    "rating": 4.0,
+    "review_count": 1000,
+    "features": [
+      "Wireless QWERTY keyboard,Wireless mini Optical mouse,Tiny USB Receiver.OS:Windows Me/2000/XP/Vista/7/8/10/ Android TV BOX & Tablet PC",
+      "Wireless carrier frequency: 2402MHz-2480MHz",
+      "Mouse with DPI governor,keyboard and mouse share one receiver,more convenient",
+      "Backside super drain holes design.Waterproof and splashproof protect the keyboard well",
+      "Compact size and fashionable design.Perfectly for any working space.(NOTE:\u2460The USB receiver is located in the groove at the bottom of the mouse and is pulled out and inserted\u2461if the keyboard and mouse appear work slower condition,please consider replace battery,it maybe because the battery out of power)"
+    ],
+    "reviews": [
+      {
+        "rating": 3.0,
+        "title": "Frequent disconnections.",
+        "text": "It works ok, but the mouse keeps disconnecting and they keyboard is sometimes unresponsive. Since I mostly game on my PC this is extremely annoying. I do like the look and feel of the keyboard and mouse, the disconnection issues are my only problem. (and since another wireless keyboard and mouse don't have the problem on the same PC, I know I don't have interference issues or badly set settings)",
+        "verified": true,
+        "helpful_votes": 2
+      },
+      {
+        "rating": 5.0,
+        "title": "Works good",
+        "text": "Bought this for my sons birthday. Gave it to him a little early. He seems to love it. He\u2019s not had a complaint one about it.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 4.0,
+        "title": "Used for pc gaming",
+        "text": "Works fine. Sometimes I had problems with the mouse signal, moving USB port closer to mouse helped. Keys aren\u2019t the most comfortable but I\u2019ll get used to them. Worth it for the money",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "Ty",
+        "text": "Ty",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "Fantastic",
+        "text": "My son wanted this for gaming. He enjoys the size of the keyboard and mouse. The colors are vibrant and the keys don't stick as bad as other keyboards. Would recommend for a great price.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Soke-Six",
+    "tags": [
+      "Best Seller"
+    ],
+    "price": 30.99,
+    "position": 5,
+    "page": 1
+  },
+  {
+    "id": "prod_mechanical_keyboards_085",
+    "parent_asin": "B0963Y7F5S",
+    "category": "Mechanical Keyboards",
+    "title": "Carbon Miami PBT Double Shot Shine Through ANSI Backlit Keycaps for MX Mechanical Keyboard Melody 96 KBD75 68 61 87 104 Keychron(Only Keycap) (Reversed Carbon)",
+    "description": "Details\nThere is only keycap Keyset in package,no keyboard included.The keycaps will be packed in keycap bag and then pack into our carton. The keycap is PBT double shot.The thickness is around 1.2mm This keycap is OEM profile which is higher than Cherry profile. The legend is double shot which won't be erased.And it's shine through\nPackage\n1x Full Keyset +1x Puller\nCompatiability\nIt can be used for most standard ANSI Cherry MX Gateron MX Kailh MX mechanical keyboard whose bottom is 1x6.25u space + 7x1.25u It can be used for KBD75 YMD75 Tada68 XD64 GH60 Keychron K2 K4 K6 It can be compatible with YMD96 Melody 96 Layout C\nAfter Service\nIf some keys missing or broken on the way,just leave us message,we will send you missing or broken ones soon.Don't worry about it and don't leave feedback immediately.",
+    "rating": 4.5,
+    "review_count": 147,
+    "features": [
+      "Package Included: 1x Full Keycaps + Puller,No Keyboard Included",
+      "The keycap is PBT double shot OEM profile.The thickness is around 1.2mm",
+      "It can be used for most standard ANSI Cherry MX Gateron MX Kailh MX mechanical keyboard whose bottom is 1x6.25u space + 7x1.25u",
+      "It can be used for KBD75 YMD75 Tada68 XD64 GH60 Keychron K2 K6",
+      "It can be compatible with YMD96 Melody 96 Layout C"
+    ],
+    "reviews": [
+      {
+        "rating": 3.0,
+        "title": "Shine through is very disappointing",
+        "text": "I got these primarily because I liked the orange and black color scheme and the advertised shine through features but the backlit brightness is only fair to poor on these (I'm being generous giving it 3 stars, I think).  Even the cheap $6.00 keycap set ($0.38 after discounts) with a similar color scheme I got from aliexpress is brighter than these.  However, since I need those 1u-sized right Alt, FN and Ctrl keycaps for my Royal Kludge RK96 90% keyboard, I'm not returning therm, though I basically paid $20 for those 3 keycaps :/",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "YMDK",
+    "tags": [],
+    "price": 20.5,
+    "position": 6,
+    "page": 1
+  },
+  {
+    "id": "prod_mechanical_keyboards_132",
+    "parent_asin": "B09WNFMH4Z",
+    "category": "Mechanical Keyboards",
+    "title": "Ranked Pudding PBT Keycaps | 112 Double Shot Translucent ANSI US & ISO Layout | OEM Profile for RGB Mechanical Gaming Keyboard (Dark Blue)",
+    "description": "",
+    "rating": 4.3,
+    "review_count": 199,
+    "features": [
+      "\u23e9 MILKY EFFECT: Perfect for PC Gaming : Translucent keycap enhances your keyboard RGB effect to create a magical atmosphere.",
+      "\u23e9 OEM PROFILE \u2013 OEM profile, perfect for typing and gaming, the best of both worlds",
+      "\u23e9 ANSI & ISO : Compatible with both ANSI US - American Layout and ISO European layouts. Not compatible with Low Profile switches.",
+      "\u23e9 EXTREME DURABILITY \u2013 Industry leading, unbeatable doubleshot PBT forged in extreme heat and resistant up to 223c",
+      "\u23e9 MX SWITCHES COMPATIBLE: Compatible with Cherry MX , Gateron, Kailh, Kailh Box, Outemu TTC & LK Mechanical or optical Key Switches Perfectly suit your 60 / TKL or Full Size Gaming Keyboard.",
+      "\u23e9 DURABLE double shot design is resistant to wear, frictions; Legends never fade.",
+      "\u23e9 KEYPULLER: Keycap puller / Removal tool included to change your key caps on the go or at a esport tournament.",
+      "\u23e9 ULTRA GRIP \u2013 High resistance to water, PBT provides a zero-sweat experience",
+      "\u23e9 WARRANTY ; 2 Years Limited Manufacturer Warranty"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "really nice keycaps",
+        "text": "i bought these because i always wanted pudding style keycaps for my rgb keyboard, they look really great and the light shines through really well. the quality and material is also good for the price",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Ranked",
+    "tags": [],
+    "price": 14.99,
+    "position": 7,
+    "page": 1
+  },
+  {
+    "id": "prod_mechanical_keyboards_011",
+    "parent_asin": "B08B7YZKLH",
+    "category": "Mechanical Keyboards",
+    "title": "VELOCIFIRE Keycap Puller Tool, 3 in 1 Keycap Puller, Stainless Steel Keycap Removal Tool, Key Pulling, Loosen, Tighten Keycap Stem, Expert for Mechanical Keyboard(Black)",
+    "description": "",
+    "rating": 4.2,
+    "review_count": 169,
+    "features": [
+      "This wire style keycap puller is a necessary tool for any mechanical keyboard owner. Easily remove and replace keycaps with this keycap removal tool.",
+      "Creative two-stage combination design, multifunctional keycap puller, one part is keycap puller, one part is keycap stem adjust.",
+      "You just need to place the keycap puller metal at the bottom of the keycap and pull the keycap out vertically.",
+      "Round body shape designed for maximum comfort.Compatible for most mechanical keyboards including Cherry MX\uff0cKailh, Outemu, and Content Switches.",
+      "Wires can bend outward to fit onto every key except the spacebar. (The spacebar key can be removed by hand after the surrounding keys are removed)."
+    ],
+    "reviews": [
+      {
+        "rating": 4.0,
+        "title": "It's good, but it doesn't fit Daskeyboard keys",
+        "text": "I have a das keyboard.  This doesn't fit over the keys.  I had to twist and bend it to make it work.  It's not the right tool for a das keyboard.  With that said, it's a good quality tool.  I would buy it again for something with smaller keys.  Just don't bother for the mechanical das keyboard.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "VELOCIFIRE",
+    "tags": [],
+    "price": 6.99,
+    "position": 8,
+    "page": 1
+  },
+  {
+    "id": "prod_mechanical_keyboards_057",
+    "parent_asin": "B09X73RPRL",
+    "category": "Mechanical Keyboards",
+    "title": "Ganss ALT 71 Wireless/Wired 2.4G + USB Mechanical Keyboard with Cherry MX Clear Switch for Mac and Windows, PBT Keycaps for Desktop and Laptop Computer, 71 Keys (Can Be Customize to 68 Keys Layout)",
+    "description": "",
+    "rating": 4.0,
+    "review_count": 27,
+    "features": [
+      "Cherry MX Clear Switches - Medium Tactile and Light Clicky. They are ideal for people who want to use their keyboard for both gaming and typing.",
+      "Compact and Portable - Enjoy the freedom of wirelessness with a 2.4G connection. Reliable and fast connects with devices. It saves desk space and fits right in the backpack to carry around. Perfect for home, work and on the go.",
+      "Full Keys Anti-ghosting - All 71 keys are conflict free N-Key rollover with no input error for ultimate Gaming performance, it\u2019s more friendly to users, ensuring smooth gaming experience.",
+      "Wireless keyboard - Simply connect your portable keyboard with one USB receiver without any software.",
+      "PBT Dye Sublimation - With high-quality PBT keycaps and an anti-grease coating, these 71-key keycaps provide top-notch durability and a great feel for your typing. Advanced five-sided sublimation technology makes the pattern not fade."
+    ],
+    "reviews": [
+      {
+        "rating": 3.0,
+        "title": "Only the 3 switches above the arrow keys are hotswapable",
+        "text": "Ganss ALT 71 Wireless/Wired 2.4G + USB Mechanical Keyboard with Cherry MX Brown Switch for Mac and Windows, PBT Keycaps for Desktop and Laptop Computer, 71 Keys (Can Be Customize to 68 Keys Layout)<br /><br />This Keyboard is weird. I don't know why they made only the 3 switches above the arrow key hotswapable and not the others. I like the customization of the layout, but c'mon. The keyboard sounds terrible and with the limited tuning I was able to do, it sounds and feels a bit better. The wireless works fine and doesn't lose connection. The included keycaps are not great either. I replaced those straight away. If you are looking for a keyboard to mod this is not it.",
+        "verified": false,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 4.0,
+        "title": "Compact and functional at a premium price",
+        "text": "The Ganss ALT 71 keyboard is good, but not good enough to justify the price tag. I do really like that it's wireless--the dongle works well and I didn't experience any lag while typing for work or gaming. The keyboard even came with batteries, which was great! The wired option works well, too.<br /><br />I didn't love the keycaps and replaced them right away with some that I already had, which are more smooth and have a broader key surface. That's a personal preference thing, though.<br /><br />I've never used clear switches and was excited to give them a try. I usually use red switches, and found the clear switches to be very comfortable. They offer more resistance and shorter travel than red switches. Once I switched to lower profile key caps, I found the noise level to be slightly quieter as well. There is a bit of spring squeak when typing, though. There are also no feet on the keyboard to adjust the height/angle of your typing surface.<br /><br />Only three of the switches can be removed, though I cannot figure out why you would... It removes functionality (why would you want a page up key, but not page down?). The only reason to do this that I could think of was to more distinctly isolate the arrow keys for gaming.<br /><br />The keyboard came with a keycap puller and I was able to replace all of the caps without too much trouble. The keyboard is nice and compact and I do like that it's wireless. But for the price, it's very strange that there's no backlighting or truly hot-swappable switches.",
+        "verified": false,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 3.0,
+        "title": "Cherry Switches, dual USB/wireless, but missing other features",
+        "text": "I read the specifications several times for the Ganss keyboard, thinking I had missed something.  Some things, in fact.  The basic product -- the experience of typing on it -- is solid, and it's good to have both wireless and wired alternatives in the same keyboard.<br /><br />But . . .<br /><br />At this price point, you are going to do without several features that you might want.  See CON.<br /><br />But what you do get is a compact (no numeric pad, no function key row) keyboard whose touch I would judge to be halfway between gamer (\"clacky\") and laptop membrane-like (near-silent, minimal key feedback, short throw).  The keys are durable, rollover-tolerant, likely top of the line at the key level.<br /><br />PRO<br />- Compact<br />- Durable, with keytop replacement tool supplied<br />- Well-considered \"middle feel\" tactile design<br />- Status lights are below the keyboard, which makes them more visible when accidentally set (e.g., caps lock)<br />- Molded plastic cover will probably last awhile<br /><br />CON<br />- Better keep the supplied manual (an annotated 2-pp diagram), as you may not be able to figure out key combinations after not using this for awhile.  Function key access, for instance, is anything but intuitive<br />- Limited programmability<br />- No USB hub/auxiliary port (for mouse)<br />- Not backlit (requires different model from this maker)<br />- Tilt feature I usually use didn't work well for me YMMV<br />- I miss having an alternate ENTER key on the right edge somewhere<br />- The DEL key is oddly placed<br /><br />Despite these limitations, you might like this model for the feel.",
+        "verified": false,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 3.0,
+        "title": "There are Much Better Options for the Price",
+        "text": "This board was okay but at $100 it's hard to justify it's price. The build quality is similar to your run of the mill gk61 or sk61, so it's a plastic tray mount case with an some kind of metal plate not sure if it's steel or aluminum. The board isn't hotswap aside from 3 keys in the nav cluster on the right side of the board that can be covered with a plastic plate. I personally think Ganss was really brave to offer Cherry MX Clears as an option as those bottom out at nearly 100g but I'm here for it. The acoustics of the board are pretty bad this thing is loud and I would not recommend it for an office environment unless you really hate your coworkers. The stabilizers were sufficiently lubed and fit well in the plate so they didn't rattle. The keycaps seem like a cheap dye sub set and weren't terrible. The board lacks any kind of backlighting which I find strange as it has north facing switches which is usually the reason to have them that way otherwise they can interference with row 3 of cherry profile keycaps. The board has Bluetooth but doesn't have a rechargeable battery included, just 2 AAA Duracell batteries which I will give them credit for as Duracell is a good brand. Overall the board doesn't really do anything to justify it's steep price point there are much better boards in it's price range that include better switches, backlighting, and way better acoustics.",
+        "verified": false,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Compact, Well-Made",
+        "text": "This super-compact mechanical keyboard has a solid feel for a plastic keyboard at this price point. The travel and build quality of the keys feel great, and as expected for MX Clears (which are softer than other Cherry MX switches I have used). Having a detachable USB-C cable plus wireless is the best of all worlds for connectivity and long-term usability, and should be the standard for all keyboards moving forward.<br /><br />I prefer a larger footprint for my daily driver, but this is a great keyboard if you need portability or work in a small space, and still want the benefits of Cherry MX switches.<br /><br />n.b. The keyboard is not backlit, which increased battery life, but definitely reduces its \"gamer chic\" vibe.",
+        "verified": false,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "HELLO GANSS",
+    "tags": [],
+    "price": 49.99,
+    "position": 9,
+    "page": 1
+  },
+  {
+    "id": "prod_mechanical_keyboards_194",
+    "parent_asin": "B0BF8SZGTM",
+    "category": "Mechanical Keyboards",
+    "title": "KINESIS USB-A Freestyle Pro Quiet Ergonomic Split Mechanical Keyboard (Cherry MX Silent Red Switches)",
+    "description": "",
+    "rating": 4.4,
+    "review_count": 510,
+    "features": [
+      "AWARD-WINNING SPLIT DESIGN: Advanced ergonomics for all body types and preferences via adjustable split, splay, and tent (tenting accessories sold separately). New cable storage compartment supports up to 20\" of separation when you need it.",
+      "GENUINE CHERRY MECHANICAL SWITCHES FOR PREMIUM TYPING FEEL AND PERFORMANCE WITH LESS NOISE: Cherry MX \"Silent\" red mechanical switches feature a low activation force, linear feel and are rated for 50M key presses for unmatched durability.",
+      "FULL ONBOARD PROGRAMMABILITY WITH THE DRIVERLESS SMARTSET ENGINE: 9 custom layouts, 8 office hotkeys, on-the-fly macro recording, one-touch key remapping, pre-configured Mac and Dvorak layouts, settings saved to keyboards 4MB flash memory, and the SmartSet App GUI for Windows & Mac.",
+      "PLUG-AND-PLAY WITH ALL MAJOR OPERATING SYSTEMS: Windows 7-10, Mac OS X, Linux, Chrome.",
+      "2 YEAR MANUFACTURER'S WARRANTY: Buy with confidence knowing that Kinesis engineers all our products in the USA to the highest standards and stands behind them 100 percent since 1992."
+    ],
+    "reviews": [
+      {
+        "rating": 4.0,
+        "title": "Good, but could be better",
+        "text": "I use this with my MacBook Pro.  I have brutal pain in my hands, wrists and forearms from osteoarthritis, tendon-patchy and tendonitis;  caused from 19 years of being at my computer and holding my phone up for blogging.<br /><br />This keyboard has made things so much better, however... I needed the keyboard to have the lift without the wrist pads which are agony for my hands.  Only, the tent system is made to include all pieces; the lift and the wrist pads.  So, I have to use the lift pieces without the wrist pads which leaves a chunk of awkward plastic sticking straight out from the keyboard; something I am constantly catching.  It's frustrating to no end.<br /><br />I am now looking for something I can simply glue to the inner, underside of the keyboard that will add the lift but leave the front open.<br /><br />I'm also disappointed with the price.  Come on now.  It's sooooo overpriced.  It's only a matter of time before another brand comes out with a more reasonable one- but in the meantime, I feel like they are taking advantage.<br /><br />In the end, this is far better than nothing.  It definitely places your hands in a more ergonomic position, and is better than a flat keyboard or laptop touchpad setup.",
+        "verified": true,
+        "helpful_votes": 3
+      },
+      {
+        "rating": 5.0,
+        "title": "Great keyboard for ergonomics",
+        "text": "The split keyboard layout has been great for my shoulders and arms.  It took a couple of weeks for me to get used to the layout but the extra functions offered on the edges of the keyboard are very helpful.  Being able to replace the key caps is huge.  I really love this keyboard.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 4.0,
+        "title": "Quality material, but as wide as TKL keyboards",
+        "text": "I wish the length of the cable was longer, and that a longer cable can be purchased separately.<br />For the price, the tenting should be standard, but it is a separate purchase. And, without them, this keyboard isn't as great.<br /><br />I purchased the tenting separately, and it really helps with ergonomics when typing. But, when gaming it tends to push my hands side and down, so it's better to use a separate palm support.<br /><br />I was surprised that when the keyboard is laid out, it is as wide as a ten keyless keyboard. I was hoping that it would be shorter, so that the mouse has more room. It's fine for work or just typing. For gaming, I'll put the right section farther up. Or, I'll put it above the keyboard tray, so I still have access to the keys when needed. That frees up a lot of room for the mouse.<br /><br />The quality of the keyboard is great. Everything feels solid. The keys feel wonderful. And, the ergonomics is great for typing.<br />The tech support was friendly and helpful. I had a bit of a problem early on with customizing the keys, and their tech support promptly helped me.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Great keyboard",
+        "text": "Nice quiet keyboard with a great feel.  I got the tenting and wrist rest kit.  It took a little bit to get used to the angle but I'm really enjoying it and have already programmed some of the keys to do routine things for me.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Perfect balance of ergonomics and key comfort.",
+        "text": "I have tried all the Kinesis keyboards with the exception of the 400$ console setup. I have chosen this one as the best overall experience, specifically paired with the VIP3Pro tent and wrist accessory. The keys on this keyboard have a much more consistent and pleasant feeling as compared to their membrane offerings as well as their silent switch option. Those keyboards are fantastic if you are not already addicted to the feeling of mechanical keys. However if you are searching for the ultimate in keyboard experiences for daily use, I heavily and without reservation recommend this keyboard set. The keyboard may initially seem expensive when compared to other ergonomic keyboards that do not split or offer the tenting/wrist rests, however having tried many different curved and non split ergonomic options from Microsoft, Logitech, and many others, I can say without a doubt that the optimal configuration requires the keyboard to be split. If you need to have a number pad like I do, I suggest any simple number key option, they'll fit nicely between the two halves and do not interfere at all. I plan to purchase a second keyboard for my WFH setup to compliment my work setup. I don't want to go back to a standard keyboard and you won't either after using it.<br /><br />This review was not endorsed, sponsored, or influenced by any 3rd party, I am simply that overjoyed with the product.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "KINESIS",
+    "tags": [],
+    "price": 166.35,
+    "position": 10,
+    "page": 1
+  },
+  {
+    "id": "prod_mechanical_keyboards_189",
+    "parent_asin": "B083XJPNJQ",
+    "category": "Mechanical Keyboards",
+    "title": "4-Port HDMI KVM Switch \u2013 4K 60Hz \u2013 QHD 144Hz - Audio Output and USB Sharing \u2013 Mechanical & Gaming Keyboards Supported \u2013 HKS0401A2U",
+    "description": "This 4x1 HDMI KVM Switch allows you to share one set of \u201ckeyboard, video monitor, and mouse\u201d (\u201cKVM\u201d) with up to four PC\u2019s or video devices (Xbox, PS4, Firestick, etc). The switcher does not require software and works with Windows, MacOS, Unix/Linux, Raspberri Pi, etc. HDMI 2.0 protocol supports 4K@60hz and blazing 144hz@1440P, making this device a perfect fit for work-from-home professionals and high-end video gaming.\nKey Features\n- Supports DisplayPort, DVI, & VGA with approved adapters.  - Keyboard passthrough mode allows for better compatibility plus multimedia key functions  - Hotkey triggers assignable to either Scroll Lock or Right-CTRL  - USB sharing works with printers, jump drives, USB headsets and webcams for teleconferencing.  - Auto-scanning with adjustable time interval from 1 to 250 seconds.  - 1-year US-based warranty when purchased from BuyTESmart\nFAQ\n- Audio is transmitted via HDMI connection. HDMI or DisplayPort monitor required for audio  - Use powered USB hub to expand the USB2.0 port if multiple connections are needed  - Use USB extender to reduce distance to receiver if wireless mouse/keyboard is \u201cjumpy\u201d  - Please install CR2025 battery before use (battery not included)\nMouse / Keyboard Compatibility\nDedicated mouse & keyboard ports have emulation programming. Second gen chipsets have \u201cPassthrough Mode\u201d to send special characters such as multimedia keys (play, pause, volume up/down), which improves keyboard compatibility. Keyboard software such as Logitech Options, Corsair iCUE, etc conflicts with the emulation and limits the ability to use macro keys. We recommend using the KVM\u2019s USB2.0 port as a workaround if this software if needed. USB2.0 port does not have emulation programming and KVM will not recognize hotkey commands. Please use a powered USB hub to expand USB connectivity.",
+    "rating": 3.9,
+    "review_count": 25,
+    "features": [
+      "Share 4 computers with 1 monitor, keyboard, mouse. Switch between PC\u2019s with push button, keyboard hotkeys, mouse gestures, or remote control. Can also use as HDMI switch for gaming consoles and streaming devices.",
+      "HDMI 2.0 supports UHD 4K60hz (3840x2160), QHD 144hz (2560x1440), 1080P 144hz (1920x1080). Plus Ultrawide 60hz (21:9 & 32:9). HDCP 2.2, HDR10, Dolby Vision. EDID Emulation.",
+      "Plug & Play. No software or drivers needed. Supported by IT departments for work-from-home professionals. Separate your work from your personal life without the hassle & clutter!",
+      "Transmit audio to monitor via HDMI and/or external speakers via stereo output. Share USB device such as webcam and headset with dedicated USB2.0 port. Great for Zoom and Twitch users.",
+      "Supports wired, wireless, mechanical, multimedia, and gaming keyboards. No delay, zero latency keyboard switching and pass-through mode for multimedia keys. READ FAQ & PICS.",
+      "U.S. Based TECHNICAL SUPPORT from BuyTESmart available to help resolve all issues."
+    ],
+    "reviews": [
+      {
+        "rating": 3.0,
+        "title": "Mostly good",
+        "text": "One of my connected PCs has a hard time getting the resolution to 1440, cannot figure out why.  I have to restart to get it to go from 1080 to 1440.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Great KVM switch",
+        "text": "I wasn\u2019t sure what to expect , but after having it for a week I really like the switch.  Perfect size and functionality.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "BuyTESmart",
+    "tags": [],
+    "price": 124.99,
+    "position": 11,
+    "page": 2
+  },
+  {
+    "id": "prod_mechanical_keyboards_127",
+    "parent_asin": "B0BCFYMRF2",
+    "category": "Mechanical Keyboards",
+    "title": "Vaydeer 4 Fully Programmable Keys with Floating Window and Macro Multifunctional Keypad, One-Handed Mechanical Keyboard Support NKRO, Hotkeys, One-Click Start, Compatible with iOS,Windows",
+    "description": "",
+    "rating": 4.2,
+    "review_count": 436,
+    "features": [
+      "\ud83d\udda5 User-Friendly Interface and Floating Window\uff1aWith user-friendly interface and real-time floating window, you will never forget the function of the key being used at the moment. This one handed macro mechanical keyboard can make your work faster and more efficient, and make the game experience more comfortable and smooth. Besides, you can carry the macro keyboard anywhere due to the compact and elegant design.",
+      "\ud83d\udda5 OTA Upgrade and Setting Sharing\uff1aThe macro keyboard supports OTA online upgrade. Timely push message reminds you to update the firmware for more useful functions. Easy setting and you can export/import your settings for backup. No more set up for different computers. You can also share your settings with friends. If you have any problems with this one-handed macro mechanical keyboard, please feel free to contact us, we are sure to provide you with a satisfactory solution."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Hey, this is nifty",
+        "text": "JUST GOT THIS LAST NIGHT -- CHECK MY PURCHASE DATE -- AND IT WORKS! FEW MINUTES TO UNDERSTAND THE APP AND CONFIGURATION BUT NOW I'M UP AND FLYING.<br />USING BUTTONS FOR TRANSCRIBING SHORTCUTS; HIGHLIGHTING TEXT, BOLD, UNDERLINE, LARGER, DELETE, PLAY/PAUSE, FORWARD AND REWIND AUDIO/VIDEO TRACKS.<br />9-KEY *DOES* WORK THE GLOBAL APPLE MEDIA KEYS -- PLAY/PAUSE, REV, FFW AND IT WILL SCRUB AUDIO/VIDEO AS NORMAL AKA HOLDING DOWN THE REWIND KEY IN QUICKTIME, FOR EXAMPLE.<br />THE DEPRESSING OF KEYS ARE OLD SCHOOL -- LONG THROW AND LOUD -- BUT WILL GET USED TO.<br />CONTOUR SHUTTLE PRO V2 WILL ALSO GET AN AUDITION.<br />SUPER HAPPY WITH THIS LITTLE CONTROLLER, IT'S A TIDY SQUARE ON THE TABLE, AS WELL. LONG CABLE LEAD.",
+        "verified": true,
+        "helpful_votes": 3
+      },
+      {
+        "rating": 5.0,
+        "title": "Awesome keypad for Day Trading Hotkeys",
+        "text": "This keypad is good quality. Keys are tactile and clicky. Board is solid and no flex. Cable is braided and good quality. Very happy with this device. The programming can be flashed to the hardware so you do NOT need to have the software running for this to work.",
+        "verified": true,
+        "helpful_votes": 2
+      },
+      {
+        "rating": 5.0,
+        "title": "I live the macro board",
+        "text": "I am a software developer and use this everyday. It was easy to program and I love the onscreen UI that tells me what I have mapped to each button.  I also like the ability to store multiple button sets in other \u201cpresets\u201d on the board. Overall it works great and I am glad I picked this up.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 4.0,
+        "title": "very good for the price",
+        "text": "I got this for a few different use such as photoshop, gaming, and other work software.<br />At first, looking at the photo I thought it was a metal case, but it's just a thin metal on the top and everything is plastic. Therefore, it's really light, and when you tap the keys it sounds so hallow, so I end up opening up taping the board, and filling it with some foam. This made a bit better but not much different. As for the software it is easy to use and there are a few layers (profile) settings that you can set it up for different software if needed. Also, the software is very easy to use.<br /><br />Overall for the price, it is a good macro keypad for many different uses.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Nice Additional Keys",
+        "text": "The software couldn\u2019t be any easier to program. Keys have a nice feel to them. You can program up to 6 layers with this software. I use it with my CNC CAD/CAM software for repetitive functions that I use most. I would buy it again.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "VAYDEER",
+    "tags": [],
+    "price": 35.99,
+    "position": 12,
+    "page": 2
+  },
+  {
+    "id": "prod_mechanical_keyboards_061",
+    "parent_asin": "B0872GRYH2",
+    "category": "Mechanical Keyboards",
+    "title": "Novelty Allover dye subbed Keycaps spacebar pbt Custom Mechanical Keyboard Luo Tianyi \u30eb\u30aa\u30fb\u30c6\u30f3\u30a4 (Spacebar Luo Tianyi)",
+    "description": "PBT Dye-subbed Spacebar(Only 6.25u Spacebar)-OEM Profile\nAttention:Keycaps only, not including other things.",
+    "rating": 4.6,
+    "review_count": 190,
+    "features": [],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "CUTE!",
+        "text": "Love it so much and so cute in person!",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "KPREPUBLIC",
+    "tags": [],
+    "price": 5.9,
+    "position": 13,
+    "page": 2
+  },
+  {
+    "id": "prod_mechanical_keyboards_014",
+    "parent_asin": "B09XMPDP58",
+    "category": "Mechanical Keyboards",
+    "title": "JOMKIZ Gold Plated V2 PCB Mount Screw in Stabilizers,Translucent Smokey Keyboard Stabilizers Screw-in Keycap Stabilizers Shaft for Mechanical Keyboard Stabilizers\uff082U 6.25U 7U\uff09",
+    "description": "Note:\n1. Due to the light and screen setting difference, the item's color may be slightly different from the pictures.\n2. Please allow slight dimension difference due to different manual measurements.\nPackage Contents:\n7x 2u Stabilizers\n1x 6.25u Stabilizers\n1x 7u Stabilizers\n36x Washers\n18x small screw",
+    "rating": 3.5,
+    "review_count": 2,
+    "features": [
+      "\u2662Precision Design: Keyboard stabilizers screw-in stabilizers are with new Non-Stripping Wire Design, fits for MX-compatible plate.",
+      "\u2662Strong Stability: The V2 Outer Casing wire are used to prevent the thread from falling off.",
+      "\u2662Gold Plating Process: Using gold-plated stainless steel wire, anti-oxidation and beautiful.",
+      "\u2662Materials:With polymer nylon shell, it has higher hardness.",
+      "\u2662Applicable Scope: Pre-clipped Insert method, no need to clip the feet. Fit for 60% and 80% Keyboard Set."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "No complaints",
+        "text": "No complaints, Would buy again.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "JOMKIZ",
+    "tags": [],
+    "price": 11.19,
+    "position": 14,
+    "page": 2
+  },
+  {
+    "id": "prod_mechanical_keyboards_108",
+    "parent_asin": "B097BN4Y9S",
+    "category": "Mechanical Keyboards",
+    "title": "SteelSeries PRISMCAPS - Double Shot Pudding-Style Keycaps - Durable PBT Thermoplastic - Compatible with a Wide Range of Mechanical Keyboards - White",
+    "description": "Built for extreme durability with thermoplastic PBT keycaps and with enhanced RGB pudding-style lighting, PrismCaps include 2 additional sets of bottom row keycaps, making them compatible with the widest range of MX stem mechanical keyboards.",
+    "rating": 4.6,
+    "review_count": 1184,
+    "features": [
+      "Ultra-wide compatibility with both standard and non-standard bottom row keycap sets to fit most mechanical keyboard brands, including SteelSeries, Razer, Corsair, and virtually all other MX stem mechanical keyboards",
+      "Standard US ANSI 104 keys works on full sized, tenkeyless, and 60% mini keyboard layouts",
+      "Enhanced lighting displays brilliant pudding-style RGB illumination through a specially engineered double shot design with translucent sides and letters",
+      "Retains consistent texture and appearance even after heavy use with highly durable double shot PBT keycaps",
+      "Included keycap puller is built with finger hole grip to pull any keycap out with ease and flexible enough to fit around any standard keycap."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "for apex pro",
+        "text": "bought these for my apex pro. they fit perfect and i definitely like them better than the caps that came with the keyboard",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 4.0,
+        "title": "Great keys for $25",
+        "text": "I really like these keys because it is very nicely built. The plastic is thick and there is some texture. The only problem with the texture part is that the A,W,S,D buttons are going to wear down and it will smooth out. I would appreciate if they can do something to make it more durable. I\u2019d still recommend this for putty caps.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Great keycaps",
+        "text": "i got these for my Apex Pro they look amazing on it about the only thing about them is more about the apex then the keycaps,the space bar only has one led on the keyboard in the center so does not light up the spacebar as much as the rest of the keys and is pretty noticeable...the kit came with everything needed to be used on several different keyboards that i have so i might get another set for my corsair boards next.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "They look so good!",
+        "text": "Made my Steelseries Apex 7 keyboard pop even more. They feel great with my Red Linear Switches. They are a little more expensive than some other brands, but I feel like it was better to go with the same brand since I have seen other people have issues with switching out the keycaps on Steelseries keyboards.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Love these!",
+        "text": "Amazing PBT pudding keycaps, I absolutely love these! I chose these to match my SteelSeries keyboard and I'm very happy with them.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "SteelSeries",
+    "tags": [],
+    "price": 28.99,
+    "position": 15,
+    "page": 2
+  },
+  {
+    "id": "prod_mechanical_keyboards_169",
+    "parent_asin": "B08ZYR3V9M",
+    "category": "Mechanical Keyboards",
+    "title": "Heayzoki Gaming Keyboard Mouse Converter,USB 2.0 Mobile Gaming Keyboard Mouse Converter Adapter,Bluetooth 4.0,with Adjustable Stand,for Android/for iOS Systerm(Black)",
+    "description": "",
+    "rating": 3.1,
+    "review_count": 21,
+    "features": [
+      "\u3010Wide Compatibility\u3011It has a wide range of applications and supports for iOS/Android operating systems.",
+      "\u3010Support Bluetooth\u3011Bluetooth 4.0 connection, mobile game, connect and play, nonemulator, no delay.",
+      "\u3010Fast Charging\u3011Fast charging interface, supports output 5V/2000mA, USB2.0 interface high output safe power.",
+      "\u3010Adjustable Stand\u3011Comes with an adjustable stand, multiangle adjustable, free to choose a comfortable viewing angle.",
+      "\u3010Convenient to Use\u3011It supports charging while playing games, which makes it convenient and practical."
+    ],
+    "reviews": [
+      {
+        "rating": 4.0,
+        "title": "Cumple las espectativas",
+        "text": "El tama\u00f1o y su funcionabilidad",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Heayzoki",
+    "tags": [],
+    "price": 20.55,
+    "position": 16,
+    "page": 2
+  },
+  {
+    "id": "prod_mechanical_keyboards_134",
+    "parent_asin": "B07QD6JRBN",
+    "category": "Mechanical Keyboards",
+    "title": "Wireless Gaming Keyboard Mouse Combo,2.4G Wireless Rechargeable Backlit Keyboard+Optical 1600DPI Soundless Mouse with USB Receiver for Home Office Game Windows 2000/ME/XP/Vista/7/8/10,Mac (Pink)",
+    "description": "\u2650\nThe Multimedia Function Keys provides easy access to media,volume control,etc\n\u3010FN+F1\u3011Music,\u3010FN+F2\u3011Volume-,\u3010FN+F3\u3011Volume+ \u3010FN+F4\u3011Mute, \u3010FN+F5\u3011Previous Track,\u3010FN+F6\u3011Next Track \u3010FN+F7\u3011Play/Pause,\u3010FN+F8\u3011CD Stop,\u3010FN+F9\u3011Web browser  \u3010FN+F10\u3011Mailbox,\u3010FN+F11\u3011Computer,\u3010FN+F12\u3011Favorites \u3010FN+scrolk\u3011Turn on/off backlight,\u3010FN+pgup\u3011Increase brightness \u3010FN+pgdn\u3011Reduce brightness\nProduct detail information\nMouse Rated Working Current:\u226410MA Keyboard Rated Working Current:\u226440MA Optical Resolution:800-1200-1600 DPI Frequency:2402-2408MAZ Maximum Acceleration:14 inches per second Work Channel:34 channel frequency hopping Operating System:Windows Mac OS Working Voltage:DC 5V USB Interface:1.1/2.0 \u2650\nKeyboard Mouse Matching Mode\nSince some computer cpus cannot recognize the universal 2.4G multi-threaded wireless universal driver some computers may not work properly with the keyboard or mouse \u25cfWhen the keyboard is not working properly Press the \u3010ESC+K\u3011button at the same time until the keyboard indicator begins to flash then plug in the USB receiver until the keyboard indicator stops flashing(driver identification match is complete) You can use the wireless keyboard normally \u25cfWhen the mouse is not working properly Please insert the USB receive then press the \u3010Scroll Wheel+ Right Button\u3011for 3-5 seconds at the same time,your wireless moue adaptation is completed You can use the wireless mouse normally\nNote\n\u278aThe 2.4G USB receiver is stored inside the mouse and can be taken out for use \u278bThere is a ON/OFF switch at the bottom of mouse \u278c It support Windows 2000/ME/XP/Vista/7/8/10,Mac OS X \u25d5\u203f\u25d5\uff61 If there is any questions,pls contact with us freely.we will offer you best service.thanks for your visiting Soseeln shop If you love it ,then ADD TO CART now",
+    "rating": 3.7,
+    "review_count": 60,
+    "features": [
+      "\u3010Bright Backlit Keyboard\u3011Its backlight design makes your keyboard look cool at night.\uff3bFn+Scrlk\uff3dturn on/off the backlight\uff3bFn+Pgup\uff3dluminance+\uff3bFn+Pgdn\uff3dluminance-.There are 3 levels of brightness",
+      "\u3010Rechargeable keyboard & mouse\u3011They both can get a quick charging with the USB cable,(Fully charged about 2-3 hours ),No need to replace batteries,convenient and environmental.(Pls charge the product for 12 hours before first use to activate the built-in battery)",
+      "\u3010Wireless 2.4G Driver-free\u3011This keyboard and mouse set adopts advanced 2.4GHz wireless technology,and the wireless distance up to 10m( 33ft);Share a usb receiver,plug and play,and high quality USB interface can provide efficient and stable data transmission",
+      "\u3010Auto Sleep Design,Power Saving\u3011Adopt the industry's top chip, which is 5 times power-saving than ordinary keyboard mouse combo.The mouse auto into sleep mode for 8 minutes not use, the keyboard is 5 minutes,the backlight turn off,and press any key to wake up",
+      "\u3010High Quality and Good Choice\u3011104 dual-color injection keys,long time use without discoloration;12 combinations of multimedia shortcut keys;3 adjustable DPI levels(800-1200-1600),control your own cursor speed freely. The mouse use aluminum alloy 3D non-slip roller,very comfortable"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Excellent keyboard and mouse for the price",
+        "text": "I was not looking for a gaming keyboard just wanted a backlit, wireless keyboard.  The lights in my home office hurt my eyes so when I need to work after dark all I really need is the screen on for light.  This keyboard allows me to work anytime without turning the lights on.  Easy to charge and can charge it while using it.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Sweet Keyboard",
+        "text": "This is a great wireless keyboard.  The range is great and the backlit is very helpful in low light situations, plus it looks really cool.  Had some issues with the keyboard after return period had passed.  I contacted the seller thinking it wouldn't go anywhere.  I was wrong!  They returned my email quickly and was eager to resolve my problem, which they did.  I am extremely pleased with the keyboard and customer support I received.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Sosee",
+    "tags": [
+      "Sponsored"
+    ],
+    "price": 39.99,
+    "position": 17,
+    "page": 2
+  },
+  {
+    "id": "prod_mechanical_keyboards_198",
+    "parent_asin": "B07ZLSYPMV",
+    "category": "Mechanical Keyboards",
+    "title": "ZugGear Piano Plate Mount Stabilizers 2U 6.25U 7U for Cherry MX Compatible Mechanical Keyboards (DUROCK Piano Plate Mount 60/87 Keyboard Kit)",
+    "description": "DUROCK Piano Plate Mount Stabilizers 60/87 Keyboard Kit.\nIt fits for the Mechanical Keyboards as below:\n6.25U 60 keyboard Set 6.25U 87 keyboard Set 7U 60 keyboard Set 7U 87 keyboard Set\nPackage included\n4x 2u Stabilizers 1x 6.25u Stabilizers 1x 7u Wire\nProduct Main Feature:\nDurock Piano Plate Mount Stabilizer Kit is Designed for MX-compatible Plates.\nDurock Piano Plate Mount Stabilizer Kit is Designed for MX-compatible Plates.\nBlack Housing, Original White Stem/Slide, Gold-plated Wires.\nBlack Housing, Original White Stem/Slide, Gold-plated Wires.\nThe insert is NOT pre-clipped, but the stem bottom design is flat which is not necessary to clip.\nThe insert is NOT pre-clipped, but the stem bottom design is flat which is not necessary to clip.",
+    "rating": 4.5,
+    "review_count": 2089,
+    "features": [
+      "DUROCK Piano Plate Mount Stabilizers Designed for MX-compatible Plates.",
+      "Gold-plated Stainless Steel Wires -- Oxidation Resistance and Nice Appearance.",
+      "Black Housing with Original White Stem, specially made to reduce stripping of the threads.",
+      "Polymer Nylon outer Casing and Stem/Slider-- Higher Hardness.",
+      "Fits for 60/87 Keyboard Set( 2ux4, 6.25ux1, 7u Wirex1)"
+    ],
+    "reviews": [
+      {
+        "rating": 3.0,
+        "title": "doesnt work correctly for gmmk tkl",
+        "text": "bought these to replace the stabilizers in my gmmk tk; board ... for some reason they just dont work.  they dont correctly click in and if you put a keycap on it and take the keycap off it pulls the whole thing with it. ended up just using the gold bars and white switch part with the other stuff from my gmmk.  its better than stock at least.",
+        "verified": true,
+        "helpful_votes": 2
+      },
+      {
+        "rating": 5.0,
+        "title": "Everglides and they are nice",
+        "text": "very nice Stabilizers,  just needsa touch of lube and they are good to go",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Cure clicky stabs",
+        "text": "Since you always gotta replace PCB manufacturer stabs, you might as well buy these.  Great quality.  Highly recommend full Holee mod for the best feel.  Always lube your stabs folks.<br />highly recommend.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Improvement on V1",
+        "text": "I have used the first version of these and they work good, but have had issues with the stabilizer wires popping out when removing keycaps.  These updated V2 have extra hook to keep the wire in place and work nicely.  These are some of the best stabilizers you can get right now.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "I should have gotten these a while ago...",
+        "text": "I have an NK87 and the stabilizer ticking was terrible. I did all the tricks for it, but it persisted from some keys. NK sells their stabilizers for about the same price as these, so I thought I would just have to live with it. Then I just decided to get these, and am so glad I did. Ticking is gone.<br /><br />Key points<br />1. They look extremely similar to the NKs, but there is obviously some difference.<br />2. Straight and flat wires - no tuning needed<br />3. Manufactured right - i.e. no need to clip, stems are flat<br />4. Came with the soulmate tuning kit. I think this helped a lot too.<br /><br />Highly recommended.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "ZugGear",
+    "tags": [],
+    "price": 11.99,
+    "position": 18,
+    "page": 2
+  },
+  {
+    "id": "prod_mechanical_keyboards_080",
+    "parent_asin": "B06XGC36FP",
+    "category": "Mechanical Keyboards",
+    "title": "NPKC 104 87 61 Mixed Red Black PBT OEM Profile Keycap for 104 TKL 60% MX Switches Mechanical Gaming Keyboard (Only Keycap) (87 Side Print)",
+    "description": "This link is only the keycaps,no keyboard included.The keycap loading board is only to take photo,not included in the sold package.We will pack the keycaps in our own carton.\nThis blank keycap set is no lengend.The printed ones are laser engraved. The keycap is made of durable PBT material,the thickness is about 1.5mm. Compatiability It can be used for most Cherry MX Gateron MX Kailh MX and all other MX switches keyboard. Incompatiability If the spacebar is 6u 6.5u 7u instead of 6.25u,it can't be compatible,such as some HHKB Cosair .You can order additional keys needed.We will produce special full set for them soon. Some old Cherry keyboard whose Spacebar Capslock back hole is different is not compatible.We have cherry 117 121 keyset owns both special Space and Capslock in other link. Some Costar stabilizer keyboard whose spacebar may be clicky for thick caps.You can adjust the wire or cut the edges of inner spacebar.This is a easy problem.If you have met this problem,just leave us message.We will help you solve it. After Service If some keys missing or broken on the way,just leave us message,we will send you missing or broken ones soon.Don't worry about it and don't leave feedback immediately.",
+    "rating": 4.6,
+    "review_count": 21,
+    "features": [
+      "This link only sells OEM profile Keycaps,no keyboard included.There is a puller presented in package.",
+      "This keycap is made of 90% PBT.The thickness is around 1.5mm.The printed one is laser etched.The blank one is no legend",
+      "This keycap is compatible with most standard ANSI MX switches keyboard whose bottom modifier key is 1x6.25u 7x1.25u.Space is around 11.7cm.",
+      "This YMDK keycap is not compatible with Corsair Razer Keyboard..64 68 75 84 96 keyboard can't use it as well"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Great keyboard",
+        "text": "Great keyboard",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "NPKC",
+    "tags": [],
+    "price": 26.5,
+    "position": 19,
+    "page": 2
+  },
+  {
+    "id": "prod_mechanical_keyboards_016",
+    "parent_asin": "B0BRK95NNM",
+    "category": "Mechanical Keyboards",
+    "title": "dagaladoo XVX 131 Keys Double Shot Keycaps, Cherry Profile PBT Keycaps Full Set, Custom Keyboard Keycaps for 60% 65% 75% 100% Cherry Gateron MX Switches Mechanical Keyboard, Dark Blue/Black/White",
+    "description": "",
+    "rating": 4.4,
+    "review_count": 31,
+    "features": [
+      "Full 131 keys custom keycaps set, including 108 standard keys and 23 modifiers keys, suitable for most ASIN US and UK layout 61/64/66/68/84/87/96/98/100/104/108 mechanical keyboards.",
+      "Cherry profile keycaps, ergonomic shapes design and curved layout, provide a lasting and comfortable experience of typing to you.",
+      "Double shot design keycaps, made from two colors material molded into each others, make the keycaps characters maintain the vibrance and saturation, clear and not fade.",
+      "Made from high content PBT material, 1.3mm extra thick keycaps wall, which is provide top-notch durability, excellent touch and grease resistance.",
+      "Minimalist theme style and classic color matching keycaps, will be a powerful addition to for personalized of your keyboards."
+    ],
+    "reviews": [
+      {
+        "rating": 4.0,
+        "title": "Great budget keycaps",
+        "text": "Please don\u2019t mind my cat lol she\u2019s modeling the keyboard. Really great budget keycaps, super pretty color. I use aqua king switches and the sound with the keycaps is pretty good. Really like and enjoy them. P.S. the yellow keycaps ARE NOT part of the set, they are from another keycap set. I thought it would compliment the purple nicely :)",
+        "verified": true,
+        "helpful_votes": 6
+      },
+      {
+        "rating": 4.0,
+        "title": "Nice keycaps, but holy crap they're snug",
+        "text": "These keycaps are probably best suited for soldered switches. If you're on a hot swap board, get ready to separate every key from the cap as you'll be pulling the entire assembly out EVERY TIME.<br /><br />Other than my tolerance/keycap ripping issues these are solid and have a good sound indicative of a good pbt material.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Great keycap set, just wish they we're backlight compatible.",
+        "text": "That's my fault, I always assume keycaps are backlight compatible but they feel awesome, love the satin touch, they look great, and the legend is super bright and clear. If you're not specifically looking for a keycap set to use with a backlit keyboard, this one looks great.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "dagaladoo",
+    "tags": [],
+    "price": 29.99,
+    "position": 20,
+    "page": 2
+  },
+  {
+    "id": "prod_mechanical_keyboards_128",
+    "parent_asin": "B09KQQ9ZC7",
+    "category": "Mechanical Keyboards",
+    "title": "CUSTOMIZATIONS Coiled USB c Cable, Customized Gaming Mechanical Keyboard Cable, Handwork Braided + PET mesh, Metal Plug, with Detachable Metal Aviator Connector (Black White)",
+    "description": "",
+    "rating": 4.2,
+    "review_count": 85,
+    "features": [
+      "[Multiple color options] CUSTOMIZATIONS coiled keyboard cable has various eye-catching color settings, which can provide more interesting elements for your desktop settings.",
+      "[keyboard Coiled cables, durable quality]: This custom coiled cable uses four high-quality copper wires and aluminum shielding foil as the core. The material is not afraid of bending or breaking. The weaving adopts woven mesh + PET mesh double-layer weaving, and the resin mesh is both beautiful and durable.",
+      "[Metal aviator connector]: The metal cannon connector allows you to quickly connect different cables to the keyboard or other accessories. The pure copper is chrome-plated, the copper needle and the copper core are plated with 24K gold wire, and the shell adopts electroplating technology to achieve a bright texture, highlighting high-end and texture.",
+      "[Coiled USB C Cable, USB 2.0 compatible] The cable adopts Type-C interface design, aluminum alloy CNC shell, sandblasted surface, corrosion and oxidation resistance, and recessed design can match most keyboards.",
+      "[Excellent quality]: This Coiled Cable has experienced multiple technical tests, including data transmission stability, Cable is firm and durable, and the joint welding is firm. Each product you have got is high quality."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Works great",
+        "text": "This USB C cable works great! It's appears to be high quality material and I really like the coiled style. Very impressed!",
+        "verified": false,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "CUSTOMIZATIONS",
+    "tags": [
+      "Sponsored"
+    ],
+    "price": 9.99,
+    "position": 21,
+    "page": 3
+  },
+  {
+    "id": "prod_mechanical_keyboards_081",
+    "parent_asin": "B07J9YGBHM",
+    "category": "Mechanical Keyboards",
+    "title": "YMDK GH60 GK61 RGB Hot Swap Independent Driver Tyce-C ANSI Mechanical Keyboard DIY kit Plastic Case CNC Aluminum Case Plate PCB (CNC Alu Cyan)",
+    "description": "Package Included Case + Feet + Screws + GK61 Hot Swap PCB + Alu Silver Plate + USB Cable + Switch Removal Tool \u200b Details The alu keyboard case is made of CNC aluminum sand Blast and then anodized.The plastic case is ABS amoulded. The chipset is MCU 32 bit,8M Flash,3 pcs 256*256*256 RGB drive to support full 16.8 million RGB. PCB has RGB presoldered,it's under per switch.PCB RGB can support by music. There is no switches in the kit,you can order Cherry Gateron Kailh SMD Box switches etc yourself.Just put in switches in is ok,no need soldering again. PCB is programmable with the software GK6x Plus,can download in official sitejikedingzhi dot com",
+    "rating": 4.4,
+    "review_count": 790,
+    "features": [
+      "Package Included:Case + Feet + Screws + GK61 Hot Swap PCB + Alu Plate + USB Cable + Switch Removal Tool",
+      "Pls note:The PCB is fully programmable with GK software,the Fn key is the last key at the bottom and can't change place.",
+      "The chipset is MCU 32 bit,8M Flash,3 pcs 256*256*256 RGB drive to support full 16.8 million RGB.",
+      "PCB has RGB presoldered,it's under per switch.PCB RGB can support by music.",
+      "There is no switches in the kit,you can order Cherry Gateron Kailh SMD Box switches etc yourself.Just put in switches in PCB is ok,no need soldering again."
+    ],
+    "reviews": [
+      {
+        "rating": 4.0,
+        "title": "Great pre-solder build. Comes with two cherry mx blacks and the Bluetooth is tricky.",
+        "text": "Very good build quality overall. It came with two cherry mx black switches for the space bar and the right control keys which is a huge bonus. I purchased the Bluetooth white pcb which is very well built but the Bluetooth is very tricky. I have not been able to set it up yet even when I try to do the \u201cfn+zxc\u201d keys to setup for pairing it doesn\u2019t work. Other than that it was a great purchase for the price and I will eventually figure out the Bluetooth.",
+        "verified": true,
+        "helpful_votes": 9
+      },
+      {
+        "rating": 4.0,
+        "title": "Awesome first kit",
+        "text": "First I want to state why I removed 1 star. I was missing 2 tiny screws that are easy to replace. However, the seller was very quick to reply and gave me all the details I needed to replace it. They even offered to fix the issue for me. But I am ok doing it myself. This is my first board build and I used Kahil Box Navy blues. The board feels amazing and well put together. Great first kit to get started. Can't wait to build my next board and get some more parts to form YMDK. I would choose the faster shipping if you are like me and hate waiting. I did get the board quicker than the projected date.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "Great Kit for the money.",
+        "text": "this is a really great for the money.  fit and finish is really pretty good,  not great, but real good.  the overall design is great, and the implementation is good.  the clip in stabilizers are \"lacking\" but thats not a serious knock on the kit.<br /><br />It is a good kit for the money for sure.",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Awesome",
+        "text": "Worked out for the kids.<br />They liked it .",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "EASY TO MOD BAREBONES KIT",
+        "text": "Amazing little 60% board to mod.<br /><br />I bought some switches, and installed them no problem.<br /><br />Stabilizers are not pre lubed<br /><br />Mods listed below<br /><br />1.Tape mod on bottom of PCB<br />2.pennies on the bottom of the inside of the case<br />3.EVA foam inside case<br /><br />Sounds amazing with lubed switches.",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "YMDK",
+    "tags": [],
+    "price": 85.0,
+    "position": 22,
+    "page": 3
+  },
+  {
+    "id": "prod_mechanical_keyboards_151",
+    "parent_asin": "B09C16ZCLY",
+    "category": "Mechanical Keyboards",
+    "title": "Capsmiths Cat Paw Artisan Keycap Set - MX Mechanical Gaming Keyboards (Purple)",
+    "description": "Cat Paw Keycap for Cherry MX Keyboards. Hand cast in resin.",
+    "rating": 5.0,
+    "review_count": 2,
+    "features": [
+      "HAND CAST RESIN",
+      "MX STYLE KEYBOARD COMPATIBLE",
+      "CAT PAW KITTY DESIGN"
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "CUTE!",
+        "text": "I love it so much! so cute in person!",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Capsmiths",
+    "tags": [
+      "Sponsored"
+    ],
+    "price": 18.99,
+    "position": 23,
+    "page": 3
+  },
+  {
+    "id": "prod_mechanical_keyboards_126",
+    "parent_asin": "B0BFCXX3BM",
+    "category": "Mechanical Keyboards",
+    "title": "Akko Keycaps Set, Black&Bronze Theme 158-Key ASA Profile PBT Double-Shot Keycap Set with Black Keycaps for Mechanical Keyboards with Collection Box",
+    "description": "",
+    "rating": 4.6,
+    "review_count": 419,
+    "features": [
+      "BLACK&BRONZE THEME \u2013 The combination with classic black, gray and dark bronze,\u3000the Black&Bronze keycaps brings heavy sense of history. The bronze charactors shine on the dark keycaps let us fantasy the bronze gleams in the dark night through thick fog.",
+      "ULTIMATE CUSTOMIZATION FLEXIBILITY \u2013 Comes with Akko ASA profile, the 158-key keycap set is suitable for a variety of layouts including but not limited to 61-key(60%), 68-key (65%), 84-key (75%), 87-key (TKL), 98-Key (Classic 1800), 100-Key (96%) and full 108-key size, and thus offers strong flexibility for keyboard personalization.",
+      "PBT DOUBLE-SHOT \u2013 Double-shot keycaps are extremely durable and resistant to wear even for decades, and the legends are particularly vibrant, sharp with high contrast.",
+      "ASA PROFILE \u2013 Akko\u2019s proprietary ASA profile is tailored to offer a more familiar and comfortable typing experience by matching the height for OEM profile while maintaining the aesthetics and spheric top of the classic SA profile.",
+      "FOR MX STRUCTURE SWITCHES \u2013 Compatible with MX structure switches including but not limited to Cherry, Gateron, Akko and Kailh etc. Large keys of non-standard layout & stabilizers may not be compatible."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Some of the best keycaps under $100",
+        "text": "These keycaps are fantastic.  The quality of material is noticeable right when you open the package, and the layout compatibility is uncomparable.  For about $60 you get keycaps that work with the following layouts:<br /><br />Full Size<br />1800<br />96%<br />75%<br />65%<br />60%<br />40% (non ortholinear)<br /><br />The only layouts that aren't supported are ortholinear (though you might be able to make something work) and split (no split spacebar here).  60% with arrows (the 64-key) also is not supported as there is no 2u shift.<br /><br />The colors are fantastic, the material feels very nice, and the cap profile is just incredibly comfortable to type on.  In fact, it's so comfortable the only caps that I think are nicer are Drop's MT3 which cost double and don't come with as much layout variation without buying extra kits.<br /><br />This specific set, Dracula's Castle, also comes with custom novelites and two different colors worth of compatibility (crimson and black) for a lot of the keys to make your board look exactly the way you want.<br /><br />I'd highly recommend anything in ASA profile.  The Cherry profile is good too, but not s comfortable for me to type on personally.",
+        "verified": true,
+        "helpful_votes": 1
+      },
+      {
+        "rating": 5.0,
+        "title": "So amazing for the price",
+        "text": "They looks so good for the price, Akko does it again!",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Great quality double shot pbt keycaps.",
+        "text": " ",
+        "verified": true,
+        "helpful_votes": 0
+      },
+      {
+        "rating": 5.0,
+        "title": "Pretty Great Set with an Interesting Profile",
+        "text": "This set is pretty nice, unlike most of Akko's keycap sets this set doesn't directly rip off color ways from existing GMK or EBPT sets, it comes close to something like SA Bliss but it adds black mods so it's not exactly the same.  The keycaps themselves are fairly nice and the font of the legends are a lot more consistent than their cherry profile sets. The packing is nice albeit a little frustrating as you pretty much need to use a keycap puller to remove the keycaps. The ASA profile is what I found the most interesting, if I had to compare it to anything I would actually compare it to OEM profile but slightly taller with rounded edges than something SA profile, The sculpting is a lot more derivative of OEM than SA in my opinion. The typing feel is pretty great it is very reminiscent of OEM profile so if you are used to OEM profile you will be right at home. The sound is more clacky than thocky at least in my NK65 with Gateron Cap Gold Switches. Overall the keycaps are nice and the ASA profile is a pleasant surprise coming from someone that uses both SA and OEM profile fairly regularly.",
+        "verified": false,
+        "helpful_votes": 2
+      },
+      {
+        "rating": 5.0,
+        "title": "Good quality, Vivid colors, Nice sounding, Great value",
+        "text": "Akko Los Angeles 158-Key ASA Profile PBT Double-Shot Full Keycap Set for Mechanical Keyboards with Collection Box<br /><br />I really love the profile of these keycaps. I have a hard time with whether to call this company a knock off company or not. They do have their own color combos and make combos that other companies do for a lot cheaper. Are color combos and fonts really proprietary? I'm not sure and eventually there will be no more combination of colors that one company will be able to claim as only their colors. I do think that Akko make really good keycaps and you get a lot for your money. So that's my two cents.",
+        "verified": false,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "Akko",
+    "tags": [],
+    "price": 59.99,
+    "position": 24,
+    "page": 3
+  },
+  {
+    "id": "prod_mechanical_keyboards_008",
+    "parent_asin": "B08JLV2F1T",
+    "category": "Mechanical Keyboards",
+    "title": "68 Keycap PBT OEM Height Five-Sided Sublimation Compatible with GH60 / GK64 / GK61 / 68/87/104/108 Mechanical Keyboard with Cherry MX Switch Purple Tang Dynasty 64 Keys",
+    "description": "",
+    "rating": 4.3,
+    "review_count": 134,
+    "features": [
+      "\u3010Widely compatible\u3011And this keycap set can be used with most60/ 61/64/64 keyboard designs that support left shift, Cherry MX switch mechanical gaming keyboard and Outemu, Kailh and Gateron switches, and fit most standard ANSI keyboards.",
+      "\u3010PBT dye sublimation process\u3011These 64-key keycaps are made of high-quality PBT material, with a matte texture and anti-grease coating, which can provide first-class durability and typing feel.Advanced five-sided sublimation technology makes the pattern not fade.",
+      "\u3010Diversification Keycap Selection\u3011Consists of 64 keycaps and DIY keycaps, suitable for all mechanical keyboards\uff0cas well as any key switch with a cross-shaped axis\uff0cIdeal for DIY mechanical keyboard.",
+      "\u3010Specification\u3011PBT Keycaps designed with 6.25U space bar, the thickness is around 1.5mm,The exquisite pattern is perfectly combined with the PBT keycap.",
+      "\u3010Commodity keycap\u3011The product is a keycap set. The keyboard in the picture is only for displaying keycaps, not for sale."
+    ],
+    "reviews": [
+      {
+        "rating": 5.0,
+        "title": "Clean key caps",
+        "text": "Using these key caps on a Corsair K70 pro mini wireless and they look great. They feel good and match my purple and white theme",
+        "verified": true,
+        "helpful_votes": 0
+      }
+    ],
+    "store": "IJKT",
+    "tags": [],
+    "price": 24.88,
+    "position": 25,
+    "page": 3
+  }
+]

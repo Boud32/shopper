@@ -1,0 +1,22 @@
+{
+  "experiment_id": "Running_Shoe_Recommendation",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_079",
+      "prod_running_shoes_075",
+      "prod_running_shoes_157",
+      "prod_running_shoes_137",
+      "prod_running_shoes_146"
+    ],
+    "final_choice": "prod_running_shoes_079",
+    "reasoning_trace": "The final choice is based on the product with the highest rating and review count that is specifically designed for running. Brooks Women's Glycerin GTS 20 Supportive Running Shoe has a rating of 4.6 and 800 reviews, making it a high-quality and reliable option. The consideration set includes other high-rated products from reputable brands such as New Balance, Nike, and ASICS, which are known for their quality and performance in running shoes."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_365.json",
+    "offer_set_id": "running_shoes_365",
+    "timestamp": 1772502771,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

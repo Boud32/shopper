@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_116",
+      "prod_running_shoes_200",
+      "prod_running_shoes_061",
+      "prod_running_shoes_062",
+      "prod_running_shoes_133"
+    ],
+    "final_choice": "prod_running_shoes_116",
+    "reasoning_trace": "The final choice is based on a balance of high ratings, large number of reviews, and affordable price. 'prod_running_shoes_116' offers a high rating of 4.4, a large number of reviews (6173), and a relatively low price of $54.95, making it an attractive choice for running shoes."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_075.json",
+    "offer_set_id": "running_shoes_075",
+    "timestamp": 1772502125,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

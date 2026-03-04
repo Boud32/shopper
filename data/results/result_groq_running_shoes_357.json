@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_193",
+      "prod_running_shoes_069",
+      "prod_running_shoes_075",
+      "prod_running_shoes_059",
+      "prod_running_shoes_061"
+    ],
+    "final_choice": "prod_running_shoes_069",
+    "reasoning_trace": "Based on the product feed, I selected the top 5 products with the highest ratings and most reviews. The final choice, 'prod_running_shoes_069', is the ASICS Men's Gel-Kayano 26 Running Shoes, which has a high rating of 4.7 and over 7,780 reviews. This product is likely to meet the customer's needs for running shoes due to its high quality, comfort, and support features."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_357.json",
+    "offer_set_id": "running_shoes_357",
+    "timestamp": 1772502753,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

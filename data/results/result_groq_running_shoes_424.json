@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_recommendation",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_088",
+      "prod_running_shoes_191",
+      "prod_running_shoes_074",
+      "prod_running_shoes_162",
+      "prod_running_shoes_129"
+    ],
+    "final_choice": "prod_running_shoes_074",
+    "reasoning_trace": "The final choice, prod_running_shoes_074 (ASICS Men's Gel-Kayano 28 Running Shoes), is selected based on its high rating of 4.6 and a large number of reviews (3859), indicating a high level of customer satisfaction. The consideration set includes products with a balance of high ratings, affordable prices, and positive reviews, suitable for running purposes."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_424.json",
+    "offer_set_id": "running_shoes_424",
+    "timestamp": 1772502905,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "experiment_id": "exp_running_shoes",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_193",
+      "prod_running_shoes_195",
+      "prod_running_shoes_148",
+      "prod_running_shoes_136",
+      "prod_running_shoes_200"
+    ],
+    "final_choice": "prod_running_shoes_193",
+    "reasoning_trace": "The final choice, 'prod_running_shoes_193', is based on a balance of factors including high rating (4.6), large review count (11049), a price that is competitive ($89.95), and specific features like Rearfoot GEL technology and a removable sockliner that cater to running comfort and support. The consideration set includes a mix of men's and women's running shoes from different brands like ASICS, New Balance, and Reebok, reflecting a range of options in terms of price, features, and brand reputation."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_063.json",
+    "offer_set_id": "running_shoes_063",
+    "timestamp": 1772502104,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

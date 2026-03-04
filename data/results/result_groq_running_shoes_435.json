@@ -1,0 +1,22 @@
+{
+  "experiment_id": "exp_running_shoes",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_103",
+      "prod_running_shoes_166",
+      "prod_running_shoes_064",
+      "prod_running_shoes_128",
+      "prod_running_shoes_177"
+    ],
+    "final_choice": "prod_running_shoes_103",
+    "reasoning_trace": "Based on the product feed, I considered the top-rated running shoes with the highest number of reviews. The Brooks Men's Ghost 14 Neutral Running Shoe (prod_running_shoes_103) has a rating of 4.7 with 14,830 reviews, indicating a high level of customer satisfaction. The New Balance Men's Fresh Foam X Vongo V5 Running Shoe (prod_running_shoes_166) and other ASICS models (prod_running_shoes_064, prod_running_shoes_128, prod_running_shoes_177) are also strong contenders, but the Brooks Ghost 14 stands out for its exceptional comfort, support, and durability."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_435.json",
+    "offer_set_id": "running_shoes_435",
+    "timestamp": 1772502930,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

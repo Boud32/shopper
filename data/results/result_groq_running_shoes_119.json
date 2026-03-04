@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_094",
+      "prod_running_shoes_156",
+      "prod_running_shoes_086",
+      "prod_running_shoes_165",
+      "prod_running_shoes_099"
+    ],
+    "final_choice": "prod_running_shoes_094",
+    "reasoning_trace": "The customer is looking for running shoes. The consideration set includes the top-rated products from well-known brands such as ASICS, New Balance, and Brooks. The final choice, ASICS Men's Gel-Contend 6 Running Shoes, is selected based on its high rating (4.6), affordable price ($63.99), and positive reviews from verified customers. This shoe is a great option for runners who want a comfortable and supportive shoe without breaking the bank."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_119.json",
+    "offer_set_id": "running_shoes_119",
+    "timestamp": 1772502210,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_100",
+      "prod_running_shoes_190",
+      "prod_running_shoes_114",
+      "prod_running_shoes_158",
+      "prod_running_shoes_074"
+    ],
+    "final_choice": "prod_running_shoes_100",
+    "reasoning_trace": "The final choice is based on a combination of factors including product rating, review count, price, and brand reputation. The Adidas Men's Ultraboost X Running Shoe has a high rating of 4.7, a large number of reviews (6002), and a reasonable price of $110. The ASICS Women's Gel-Nimbus 18 Running Shoe and the ASICS Men's Noosa Tri 13 Running Shoes are also strong contenders with high ratings and large review counts. The Nike Women's Running Shoe and the ASICS Men's Gel-Kayano 28 Running Shoes are also considered due to their strong brand reputation and high product ratings."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_453.json",
+    "offer_set_id": "running_shoes_453",
+    "timestamp": 1772502971,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_recommendation",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_062",
+      "prod_running_shoes_144",
+      "prod_running_shoes_119",
+      "prod_running_shoes_193",
+      "prod_running_shoes_128"
+    ],
+    "final_choice": "prod_running_shoes_062",
+    "reasoning_trace": "The final choice is based on a balance of high ratings, supportive features, and a focus on running. The Saucony Women's Kinvara 13 Running Shoe stands out for its lightweight speed, flexible feel, and high rating of 4.5 from 299 reviews. While other options like the Brooks Women's Adrenaline GTS 22 and ASICS models offer strong support and comfort, the Kinvara 13 is highlighted for its exceptional performance in running-specific criteria."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_322.json",
+    "offer_set_id": "running_shoes_322",
+    "timestamp": 1772502673,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

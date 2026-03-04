@@ -1,0 +1,22 @@
+{
+  "experiment_id": "exp_running_shoes",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_159",
+      "prod_running_shoes_057",
+      "prod_running_shoes_162",
+      "prod_running_shoes_186",
+      "prod_running_shoes_165"
+    ],
+    "final_choice": "prod_running_shoes_159",
+    "reasoning_trace": "Based on the given product feed, the consideration set is chosen by filtering products with high ratings (> 4.0), a reasonable number of reviews (> 100), and prices that are affordable (< $100). The ASICS Kid's JOLT 3 Grade School Running Shoe (prod_running_shoes_159) is selected as the final choice due to its high rating (4.7), a large number of reviews (845), and an affordable price ($29.95). This shoe seems to be a top choice for kids, with many reviewers praising its durability, comfort, and style."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_323.json",
+    "offer_set_id": "running_shoes_323",
+    "timestamp": 1772502675,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

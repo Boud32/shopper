@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_117",
+      "prod_running_shoes_089",
+      "prod_running_shoes_101",
+      "prod_running_shoes_160",
+      "prod_running_shoes_146"
+    ],
+    "final_choice": "prod_running_shoes_101",
+    "reasoning_trace": "Selected products based on high ratings, large review counts, and relevance to running. ASICS Women's Gel-Contend 6 Running Shoes stood out due to its high rating of 4.6, substantial review count of 12582, and specific design for running, making it a top choice for customers seeking quality running shoes."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_442.json",
+    "offer_set_id": "running_shoes_442",
+    "timestamp": 1772502946,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

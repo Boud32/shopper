@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_129",
+      "prod_running_shoes_124",
+      "prod_running_shoes_103",
+      "prod_running_shoes_062",
+      "prod_running_shoes_080"
+    ],
+    "final_choice": "prod_running_shoes_129",
+    "reasoning_trace": "The final choice is based on the product with the highest overall rating, review count, and positive review sentiment. 'prod_running_shoes_129' is the 'adidas Men's Ultraboost-21 Running Shoes' with a rating of 4.6 and 5131 reviews, making it a highly recommended product. The consideration set includes other high-rated products such as 'prod_running_shoes_124' (Brooks Women's Ghost 14 Neutral Running Shoe), 'prod_running_shoes_103' (Brooks Men's Ghost 14 Neutral Running Shoe), 'prod_running_shoes_062' (Saucony Women's Kinvara 13 Running Shoe), and 'prod_running_shoes_080' (ASICS Men's Gel-Venture 7 Running Shoes), which are all reputable brands with high customer satisfaction."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_097.json",
+    "offer_set_id": "running_shoes_097",
+    "timestamp": 1772502161,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

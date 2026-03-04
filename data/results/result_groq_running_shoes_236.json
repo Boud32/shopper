@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_062",
+      "prod_running_shoes_114",
+      "prod_running_shoes_200",
+      "prod_running_shoes_131",
+      "prod_running_shoes_158"
+    ],
+    "final_choice": "prod_running_shoes_062",
+    "reasoning_trace": "The customer is looking for running shoes. Based on the product feed, the top 5 products with the highest ratings and most relevant reviews are selected for the consideration set. The final choice, 'prod_running_shoes_062', is the Saucony Women's Kinvara 13 Running Shoe, which has a rating of 4.5, over 299 reviews, and is specifically designed for running with a focus on lightweight speed and flexibility."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_236.json",
+    "offer_set_id": "running_shoes_236",
+    "timestamp": 1772502477,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

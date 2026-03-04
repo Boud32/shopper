@@ -29,7 +29,7 @@ def generate_universe(
     n=500,
     batch_size=25,
     position_mode="random",
-    experiments_dir="data/experiments",
+    experiments_dir="data/offer_sets",
     seed_path="data/seed_catalog.json",
 ):
     gen = ExperimentGenerator(seed_path=seed_path)
@@ -84,7 +84,7 @@ if __name__ == "__main__":
         "--position-mode", default="random",
         choices=["random", "price_asc", "price_desc", "rating_desc"],
     )
-    parser.add_argument("--experiments-dir", default="data/experiments")
+    parser.add_argument("--experiments-dir", default="data/offer_sets")
     parser.add_argument("--seed", default="data/seed_catalog.json")
 
     args = parser.parse_args()

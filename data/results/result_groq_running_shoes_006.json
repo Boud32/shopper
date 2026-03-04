@@ -1,0 +1,22 @@
+{
+  "experiment_id": "exp_running_shoes",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_146",
+      "prod_running_shoes_163",
+      "prod_running_shoes_119",
+      "prod_running_shoes_168",
+      "prod_running_shoes_164"
+    ],
+    "final_choice": "prod_running_shoes_146",
+    "reasoning_trace": "The final choice of 'prod_running_shoes_146', which is the ASICS Women's Gel-Cumulus 24 Running Shoes, was selected based on its high overall rating of 4.6 from 422 reviews and the specific mention of being 'great for bad joints' and 'super comfortable' in the reviews, indicating its suitability for running. Additionally, its price point of $70.96 offers a relatively affordable option compared to other high-rated products in the consideration set."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_006.json",
+    "offer_set_id": "running_shoes_006",
+    "timestamp": 1772502000,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

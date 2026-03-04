@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_156",
+      "prod_running_shoes_062",
+      "prod_running_shoes_147",
+      "prod_running_shoes_172",
+      "prod_running_shoes_139"
+    ],
+    "final_choice": "prod_running_shoes_156",
+    "reasoning_trace": "The choice of running shoes depends on several factors including the runner's experience level, running style, and personal preferences. Based on the provided data, the consideration set includes the ASICS Men's Dynablast Running Shoes, the Saucony Women's Kinvara 13 Running Shoe, the STQ Women's Running Shoes, the New Balance Women's Cruz V2 Fresh Foam Running Shoe, and the New Balance Women's 430 V1 Running Shoe. The ASICS Men's Dynablast Running Shoes (prod_running_shoes_156) are chosen as the final choice due to their high rating of 4.6, a large number of reviews (991), and a description that highlights their responsiveness and comfort."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_233.json",
+    "offer_set_id": "running_shoes_233",
+    "timestamp": 1772502470,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

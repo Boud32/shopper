@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_200",
+      "prod_running_shoes_139",
+      "prod_running_shoes_055",
+      "prod_running_shoes_119",
+      "prod_running_shoes_074"
+    ],
+    "final_choice": "prod_running_shoes_200",
+    "reasoning_trace": "The final choice is based on the product with the highest rating and most reviews. New Balance Women's W1260V5 Running Shoe has a rating of 4.4 and 390 reviews, making it the top choice. The consideration set includes other high-rated products from reputable brands such as New Balance, ASICS, and Brooks."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_437.json",
+    "offer_set_id": "running_shoes_437",
+    "timestamp": 1772502934,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

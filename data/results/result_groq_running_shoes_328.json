@@ -1,0 +1,22 @@
+{
+  "experiment_id": "exp_running_shoes",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_137",
+      "prod_running_shoes_086",
+      "prod_running_shoes_080",
+      "prod_running_shoes_072",
+      "prod_running_shoes_119"
+    ],
+    "final_choice": "prod_running_shoes_137",
+    "reasoning_trace": "The final choice, New Balance Men's Fresh Foam X 1080 V12 Running Shoe, is selected based on its high rating of 4.6, a large number of reviews (1256), and a description that emphasizes comfort and support. The consideration set includes other highly-rated products from reputable brands, such as New Balance, ASICS, and Brooks, with a focus on comfort, support, and performance features."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_328.json",
+    "offer_set_id": "running_shoes_328",
+    "timestamp": 1772502686,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

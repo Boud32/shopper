@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_recommendation",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_164",
+      "prod_running_shoes_198",
+      "prod_running_shoes_177",
+      "prod_running_shoes_074",
+      "prod_running_shoes_116"
+    ],
+    "final_choice": "prod_running_shoes_164",
+    "reasoning_trace": "Based on the provided product feed, I selected a consideration set of 5 products that best meet the customer's needs for running shoes. The factors considered include product ratings, review counts, prices, and descriptions. The final choice, 'prod_running_shoes_164' (ASICS Men's GEL Excite 3 Running Shoe), stands out due to its high rating of 4.6, substantial review count of 826, and a balance of cushioning and stability features as described, making it a well-rounded and highly-regarded option for runners."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_392.json",
+    "offer_set_id": "running_shoes_392",
+    "timestamp": 1772502832,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

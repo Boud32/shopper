@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_exp",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_122",
+      "prod_running_shoes_100",
+      "prod_running_shoes_069",
+      "prod_running_shoes_129",
+      "prod_running_shoes_124"
+    ],
+    "final_choice": "prod_running_shoes_122",
+    "reasoning_trace": "The final choice, prod_running_shoes_122, is based on the New Balance Women's 510 V5 Trail Running Shoe, which has a high rating of 4.4 and over 4600 reviews, indicating a reliable and well-liked product. The consideration set includes a mix of high-rated products from reputable brands such as New Balance, Adidas, and ASICS, catering to different preferences and needs. The decision prioritizes products with high ratings, numerous reviews, and descriptions that emphasize comfort, support, and performance, which are essential for running shoes."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_380.json",
+    "offer_set_id": "running_shoes_380",
+    "timestamp": 1772502805,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

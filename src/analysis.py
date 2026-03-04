@@ -24,7 +24,8 @@ import pandas as pd
 
 def load_results_to_dataframe(
     results_dir="data/results",
-    experiments_dir="data/experiments",
+    experiments_dir="data/offer_sets",
+    include_ablation=True,
 ):
     """
     Load all result files and their corresponding batch files into a long-format DataFrame.
@@ -35,15 +36,17 @@ def load_results_to_dataframe(
     and/or chosen.
 
     Args:
-        results_dir:     Directory containing result_*.json files.
-        experiments_dir: Fallback directory for batch files if the path in metadata
-                         is not found on disk (e.g. after moving files).
+        results_dir:      Directory containing result_*.json files.
+        experiments_dir:  Fallback directory for batch files if the path in metadata
+                          is not found on disk (e.g. after moving files).
+        include_ablation: If True, also load files from results_dir/ablation/.
 
     Returns:
         pd.DataFrame with columns:
             experiment_id   str    Stem of the result filename (e.g. "result_gemini_...")
             provider        str    Model provider key (e.g. "gemini")
             model           str    Full model ID (e.g. "gemini-2.5-flash")
+            variant         str    Prompt variant ("full", "minimal", "no_reviews", "extended")
             timestamp       int    Unix timestamp of the run
             product_id      str    Product ID from the batch
             category        str    Product category
@@ -60,17 +63,31 @@ def load_results_to_dataframe(
     """
     rows = []
 
-    for result_file in sorted(Path(results_dir).glob("result_*.json")):
+    result_files = sorted(Path(results_dir).glob("result_*.json"))
+    if include_ablation:
+        ablation_dir = Path(results_dir) / "ablation"
+        if ablation_dir.exists():
+            result_files = sorted(result_files) + sorted(ablation_dir.glob("result_*.json"))
+
+    for result_file in result_files:
         with open(result_file) as f:
             result = json.load(f)
 
         metadata = result.get("metadata", {})
         source_batch = metadata.get("source_batch", "")
 
-        # Resolve batch file path — fall back to experiments_dir if needed
+        # Resolve batch file path — fall back to experiments_dir subdirs if needed
         if not os.path.exists(source_batch):
             batch_filename = os.path.basename(source_batch)
-            source_batch = os.path.join(experiments_dir, batch_filename)
+            # Try experiments_dir root first, then any immediate subdirectory
+            candidate = os.path.join(experiments_dir, batch_filename)
+            if not os.path.exists(candidate):
+                for subdir in Path(experiments_dir).iterdir():
+                    if subdir.is_dir():
+                        candidate = str(subdir / batch_filename)
+                        if os.path.exists(candidate):
+                            break
+            source_batch = candidate
 
         if not os.path.exists(source_batch):
             print(f"  Warning: batch file not found for {result_file.name}, skipping.")
@@ -92,6 +109,7 @@ def load_results_to_dataframe(
                 "experiment_id":   experiment_id,
                 "provider":        metadata.get("provider"),
                 "model":           metadata.get("model"),
+                "variant":         metadata.get("variant", "full"),
                 "timestamp":       metadata.get("timestamp"),
                 "product_id":      product_id,
                 "category":        product.get("category"),
@@ -123,14 +141,25 @@ def load_results_to_dataframe(
     return df
 
 
-def summary(df):
-    """Print a quick summary of the experiment DataFrame."""
+def summary(df, category=None):
+    """Print a quick summary of the experiment DataFrame.
+
+    Args:
+        category: Optional category name to filter to (e.g. "Running Shoes").
+    """
     if df.empty:
         print("DataFrame is empty.")
         return
 
+    if category:
+        df = df[df["category"] == category]
+        if df.empty:
+            print(f"No rows for category: {category}")
+            return
+
     print(f"Experiments: {df['experiment_id'].nunique()}")
     print(f"Providers:   {sorted(df['provider'].dropna().unique())}")
+    print(f"Variants:    {sorted(df['variant'].dropna().unique())}")
     print(f"Categories:  {sorted(df['category'].dropna().unique())}")
     print(f"Total rows:  {len(df)}\n")
 
@@ -145,8 +174,65 @@ def summary(df):
     print(considered.groupby("provider")["set_size"].mean().round(1).to_string())
 
 
+def describe(df, category=None):
+    """
+    Print a richer breakdown of choice behavior for exploratory analysis.
+
+    Covers:
+      - Position and page distribution of chosen products
+      - Rating and price of chosen vs. not chosen
+      - Tag rates (sponsored, best seller, overall pick) for chosen vs. not chosen
+      - No-purchase rate
+
+    Args:
+        category: Optional category name to filter to (e.g. "Running Shoes").
+    """
+    if df.empty:
+        print("DataFrame is empty.")
+        return
+
+    if category:
+        df = df[df["category"] == category]
+        if df.empty:
+            print(f"No rows for category: {category}")
+            return
+
+    chosen = df[df["chosen"]]
+    not_chosen = df[~df["chosen"]]
+
+    print("=" * 50)
+    print(f"EXPERIMENTS : {df['experiment_id'].nunique()}")
+    print(f"TOTAL ROWS  : {len(df)}")
+    print(f"NO-PURCHASE : {df['experiment_id'].nunique() - len(chosen)} experiments")
+    print("=" * 50)
+
+    print("\n--- Position of chosen product ---")
+    print(chosen["position"].describe().round(2).to_string())
+
+    print("\n--- Page of chosen product ---")
+    print(chosen["page"].value_counts().sort_index().to_string())
+
+    print("\n--- Rating: chosen vs. not chosen ---")
+    print(f"  Chosen:     {chosen['rating'].mean():.3f}")
+    print(f"  Not chosen: {not_chosen['rating'].mean():.3f}")
+
+    print("\n--- Price: chosen vs. not chosen ---")
+    print(f"  Chosen:     ${chosen['price'].mean():.2f}")
+    print(f"  Not chosen: ${not_chosen['price'].mean():.2f}")
+
+    print("\n--- Tag rates: chosen vs. not chosen ---")
+    for tag, col in [("Sponsored", "is_sponsored"), ("Best Seller", "is_best_seller"), ("Overall Pick", "is_overall_pick")]:
+        c_rate = chosen[col].mean() * 100
+        nc_rate = not_chosen[col].mean() * 100
+        print(f"  {tag:15s}  chosen: {c_rate:.1f}%   not chosen: {nc_rate:.1f}%")
+
+    print("\n--- Review count: chosen vs. not chosen ---")
+    print(f"  Chosen:     {chosen['review_count'].mean():.0f}")
+    print(f"  Not chosen: {not_chosen['review_count'].mean():.0f}")
+
+
 if __name__ == "__main__":
     df = load_results_to_dataframe()
     summary(df)
-    print("\nSample rows:")
-    print(df[df["chosen"]].to_string(index=False))
+    print()
+    describe(df)

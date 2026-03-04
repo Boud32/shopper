@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_067",
+      "prod_running_shoes_136",
+      "prod_running_shoes_122",
+      "prod_running_shoes_055",
+      "prod_running_shoes_080"
+    ],
+    "final_choice": "prod_running_shoes_067",
+    "reasoning_trace": "Based on the provided product feed, a consideration set of 5 products that best meet the customer's needs for running shoes was selected. The final choice, 'prod_running_shoes_067' (New Balance Men's Fresh Foam Arishi V2 Running Shoe), was chosen due to its high rating of 4.4, numerous positive reviews highlighting comfort and quality, and a reasonable price of $89.96. The New Balance brand is also well-known for its running shoes, adding to the credibility of this choice."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_271.json",
+    "offer_set_id": "running_shoes_271",
+    "timestamp": 1772502555,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

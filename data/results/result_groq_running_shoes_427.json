@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_161",
+      "prod_running_shoes_200",
+      "prod_running_shoes_136",
+      "prod_running_shoes_199",
+      "prod_running_shoes_090"
+    ],
+    "final_choice": "prod_running_shoes_199",
+    "reasoning_trace": "The final choice, 'prod_running_shoes_199', is based on the product with the highest rating (4.5) among the consideration set and has a sufficient number of reviews (436) to ensure reliability. Additionally, it belongs to a well-known brand (ASICS) and has a tag 'Overall Pick', indicating its high quality and popularity. The consideration set includes products from reputable brands such as New Balance and Adidas, with high ratings and sufficient reviews, making them suitable alternatives."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_427.json",
+    "offer_set_id": "running_shoes_427",
+    "timestamp": 1772502912,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

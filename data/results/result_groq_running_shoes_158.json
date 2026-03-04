@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_recommendation",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_099",
+      "prod_running_shoes_105",
+      "prod_running_shoes_200",
+      "prod_running_shoes_186",
+      "prod_running_shoes_077"
+    ],
+    "final_choice": "prod_running_shoes_099",
+    "reasoning_trace": "The consideration set consists of the top-rated running shoes from various brands, considering factors such as customer reviews, ratings, and prices. The final choice, 'prod_running_shoes_099' (Xero Shoes Men's HFS Running Shoes), is selected based on its high rating (4.5), positive customer reviews, and a price point ($124.99) that suggests a good balance of quality and affordability."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_158.json",
+    "offer_set_id": "running_shoes_158",
+    "timestamp": 1772502298,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

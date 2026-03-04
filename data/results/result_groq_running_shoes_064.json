@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_selector",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_114",
+      "prod_running_shoes_086",
+      "prod_running_shoes_171",
+      "prod_running_shoes_193",
+      "prod_running_shoes_074"
+    ],
+    "final_choice": "prod_running_shoes_114",
+    "reasoning_trace": "The customer is looking to buy running shoes. Based on the product feed, the top 5 products with high ratings and reviews are selected for the consideration set. The final choice is 'prod_running_shoes_114' (ASICS Women's Gel-Nimbus 18 Running Shoe) due to its high rating (4.5) and large number of reviews (727), indicating a high level of customer satisfaction and reliability."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_064.json",
+    "offer_set_id": "running_shoes_064",
+    "timestamp": 1772502106,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

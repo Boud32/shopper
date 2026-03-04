@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_057",
+      "prod_running_shoes_166",
+      "prod_running_shoes_062",
+      "prod_running_shoes_179",
+      "prod_running_shoes_080"
+    ],
+    "final_choice": "prod_running_shoes_057",
+    "reasoning_trace": "Based on the customer's search for running shoes, a consideration set of five products was selected. These products were chosen due to their high ratings, relevance to running, and positive reviews. The final choice, 'prod_running_shoes_057' (ASICS Gel-Nimbus 19 Lite Show Men's Running Shoe), was selected because it has a high rating of 3.9, a large number of reviews (88), and features a revolutionary FlyteFoam Technology for optimal comfort and a responsive ride."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_321.json",
+    "offer_set_id": "running_shoes_321",
+    "timestamp": 1772502670,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

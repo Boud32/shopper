@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_129",
+      "prod_running_shoes_162",
+      "prod_running_shoes_077",
+      "prod_running_shoes_103",
+      "prod_running_shoes_078"
+    ],
+    "final_choice": "prod_running_shoes_129",
+    "reasoning_trace": "Based on the provided JSON product feed, the consideration set of 5 products that best meet the customer's needs for running shoes includes 'adidas Men's Ultraboost-21 Running Shoes', 'adidas Men's Racer Tr21 Running Shoe', 'ASICS Men's Gel-Cumulus 21 Running Shoes', 'Brooks Men's Ghost 14 Neutral Running Shoe', and 'adidas Women's Qt Racer 2.0 Running Shoe'. The final choice, 'adidas Men's Ultraboost-21 Running Shoes', is selected due to its high rating of 4.6, large number of reviews (5131), and positive customer feedback indicating comfort, support, and stylish design. Additionally, the price point of $140.51, although on the higher end, reflects the quality and brand reputation of Adidas, making it a suitable choice for customers seeking a high-performance running shoe."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_444.json",
+    "offer_set_id": "running_shoes_444",
+    "timestamp": 1772502951,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

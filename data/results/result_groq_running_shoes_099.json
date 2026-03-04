@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_recommendation",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_172",
+      "prod_running_shoes_128",
+      "prod_running_shoes_080",
+      "prod_running_shoes_161",
+      "prod_running_shoes_131"
+    ],
+    "final_choice": "prod_running_shoes_172",
+    "reasoning_trace": "Based on the customer's interest in running shoes, I considered products with high ratings, relevant descriptions, and affordable prices. The New Balance Women's Cruz V2 Fresh Foam Running Shoe (prod_running_shoes_172) stands out due to its high rating (4.3), numerous positive reviews, and reasonable price ($74.0). The ASICS Men's GT-2000 9 Running Shoes (prod_running_shoes_128) and ASICS Men's Gel-Venture 7 Running Shoes (prod_running_shoes_080) are also strong contenders with high ratings and positive reviews, but the New Balance shoe's price and features make it the most attractive option. The Brooks Women's Ravenna 9 Road Running Shoe (prod_running_shoes_161) and New Balance Men's FuelCore Coast V4 Running Shoe (prod_running_shoes_131) are also included in the consideration set due to their high ratings and relevant features."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_099.json",
+    "offer_set_id": "running_shoes_099",
+    "timestamp": 1772502165,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

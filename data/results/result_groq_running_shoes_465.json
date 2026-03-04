@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_179",
+      "prod_running_shoes_126",
+      "prod_running_shoes_146",
+      "prod_running_shoes_069",
+      "prod_running_shoes_131"
+    ],
+    "final_choice": "prod_running_shoes_179",
+    "reasoning_trace": "I selected the Mizuno Women's Wave Horizon 2 Running Shoe as the final choice because it has the highest rating (4.5) and a large number of reviews (74), indicating a high level of customer satisfaction. The consideration set includes other high-rated shoes from reputable brands such as ASICS and New Balance, but the Mizuno shoe stands out for its comfort and stability features."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_465.json",
+    "offer_set_id": "running_shoes_465",
+    "timestamp": 1772502998,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

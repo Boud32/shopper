@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_193",
+      "prod_running_shoes_067",
+      "prod_running_shoes_171",
+      "prod_running_shoes_101",
+      "prod_running_shoes_129"
+    ],
+    "final_choice": "prod_running_shoes_193",
+    "reasoning_trace": "Based on the provided product feed, the top consideration set was selected by evaluating key factors such as category relevance (Running Shoes), high average customer review ratings, and a significant number of reviews. The final choice, 'prod_running_shoes_193' (ASICS Men's Gel-Contend 5 Running Shoes), was selected due to its high rating of 4.6, a large number of reviews (11049), and being specifically designed for running, indicating a strong reputation and customer satisfaction among runners."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_463.json",
+    "offer_set_id": "running_shoes_463",
+    "timestamp": 1772502994,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

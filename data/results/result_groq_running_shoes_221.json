@@ -1,0 +1,22 @@
+{
+  "experiment_id": "running_shoes_exp",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_124",
+      "prod_running_shoes_072",
+      "prod_running_shoes_062",
+      "prod_running_shoes_116",
+      "prod_running_shoes_129"
+    ],
+    "final_choice": "prod_running_shoes_124",
+    "reasoning_trace": "The customer is looking for running shoes. Based on the product feed, the top 5 products in the consideration set are Brooks Women's Ghost 14 Neutral Running Shoe, ASICS Women's Gel-Cumulus 22 Running Shoes, Saucony Women's Kinvara 13 Running Shoe, New Balance Men's 510 V5 Trail Running Shoe, and adidas Men's Ultraboost-21 Running Shoes. The final choice is Brooks Women's Ghost 14 Neutral Running Shoe due to its high rating of 4.7, large number of reviews (26445), and a price point of $94.95, which seems reasonable for a high-quality running shoe."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_221.json",
+    "offer_set_id": "running_shoes_221",
+    "timestamp": 1772502442,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}

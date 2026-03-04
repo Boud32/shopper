@@ -1,0 +1,22 @@
+{
+  "experiment_id": "exp_running_shoes",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_103",
+      "prod_running_shoes_059",
+      "prod_running_shoes_119",
+      "prod_running_shoes_163",
+      "prod_running_shoes_114"
+    ],
+    "final_choice": "prod_running_shoes_103",
+    "reasoning_trace": "The final choice is based on the customer's need for running shoes. The consideration set includes products with high ratings, positive reviews, and features that are suitable for running. The Brooks Men's Ghost 14 Neutral Running Shoe (prod_running_shoes_103) is chosen as the final product due to its high rating (4.7), large number of reviews (14830), and features such as 100% DNA LOFT in the midsole for a softer, smoother ride."
+  },
+  "metadata": {
+    "source_batch": "data/experiments/running_shoes/running_shoes_285.json",
+    "offer_set_id": "running_shoes_285",
+    "timestamp": 1772502587,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "k": 5
+  }
+}
