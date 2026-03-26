@@ -27,8 +27,9 @@ data/raw/
 # Jupyter notebooks (outputs contain raw product data; share stripped versions only)
 *.ipynb
 
-# Old experiment results (kept locally for reference, not tracked)
-data/results/old_results/
+# Results and offer sets — stored on Google Drive, not in repo
+data/offer_sets/
+data/results/
 
 # Research writing (not public until paper is ready)
 *.tex
