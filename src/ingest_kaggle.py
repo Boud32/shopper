@@ -6,9 +6,17 @@ by parent_asin, and writes to data/seed_catalog.json.
 
 Each unique HF source file is streamed only once, even when shared across categories.
 
+NOTE: data/seed_catalog.json is committed to git and is the canonical source of truth
+for all downstream steps (offer set generation, inference, MNL estimation). You do NOT
+need to run this script to reproduce results — just use the committed catalog.
+
+Only re-run this script if you are intentionally changing the product categories or
+refreshing the catalog. After re-running, commit the new seed_catalog.json so the
+change is tracked. Keyword filters and HF source paths are pinned here for provenance.
+
 Usage:
     python src/ingest_kaggle.py
-    python src/ingest_kaggle.py --categories "Wireless Headphones" "Gaming Mice"
+    python src/ingest_kaggle.py --categories "Bluetooth Speakers" "Yoga Mats"
     python src/ingest_kaggle.py --products-per-category 50 --reviews-per-product 3
 """
 
@@ -33,45 +41,92 @@ def _jsonl_review(name):
     return {"fmt": "json", "path": f"{HF_BASE}/raw/review_categories/{name}.jsonl"}
 
 
+# ── Catalog v1 (original, retired Mar 2026) ───────────────────────────────────
+# Retired because categories skewed toward premium/enthusiast products where
+# price-as-quality is the default. Running Shoes and Toothbrushes explicitly
+# flagged by Marouane as problematic; full set replaced for cross-category
+# MNL comparison to produce diverse price coefficient signs.
+#
+# CATEGORY_CONFIGS = {
+#     "Wireless Headphones": {
+#         "meta_sources":   [_parquet("raw_meta_Electronics")],
+#         "review_sources": [_jsonl_review("Electronics")],
+#         "keywords": ["wireless headphone", "bluetooth headphone", "wireless earbud",
+#                      "bluetooth earbud", "true wireless"],
+#     },
+#     "Smartwatches": {
+#         "meta_sources":   [_parquet("raw_meta_Electronics"),
+#                            _parquet("raw_meta_Cell_Phones_and_Accessories")],
+#         "review_sources": [_jsonl_review("Electronics"),
+#                            _jsonl_review("Cell_Phones_and_Accessories")],
+#         "keywords": ["smartwatch", "smart watch", "fitness tracker"],
+#     },
+#     "Mechanical Keyboards": {
+#         "meta_sources":   [_parquet("raw_meta_Electronics")],
+#         "review_sources": [_jsonl_review("Electronics")],
+#         "keywords": ["mechanical keyboard", "gaming keyboard"],
+#     },
+#     "Gaming Mice": {
+#         "meta_sources":   [_parquet("raw_meta_Electronics")],
+#         "review_sources": [_jsonl_review("Electronics")],
+#         "keywords": ["gaming mouse", "gaming mice", "esports mouse"],
+#     },
+#     "Toothbrushes": {
+#         "meta_sources":   [_jsonl_meta("Health_and_Household")],
+#         "review_sources": [_jsonl_review("Health_and_Household")],
+#         "keywords": ["electric toothbrush", "toothbrush"],
+#     },
+#     "Running Shoes": {
+#         "meta_sources":   [_jsonl_meta("Sports_and_Outdoors"),
+#                            _jsonl_meta("Clothing_Shoes_and_Jewelry")],
+#         "review_sources": [_jsonl_review("Sports_and_Outdoors"),
+#                            _jsonl_review("Clothing_Shoes_and_Jewelry")],
+#         "keywords": ["running shoe", "running shoes"],
+#     },
+# }
+
+# ── Catalog v2 (current, Mar 2026) ────────────────────────────────────────────
+# Chosen for price-sensitivity diversity: expected range from near-zero/negative
+# (toilet paper) to ambiguous (backpacks, protein powder) to moderately positive
+# (bluetooth speakers, coffee makers). Avoids the uniform "buy most expensive"
+# pattern seen in v1 premium categories.
 CATEGORY_CONFIGS = {
-    "Wireless Headphones": {
-        "meta_sources":   [_parquet("raw_meta_Electronics")],
-        "review_sources": [_jsonl_review("Electronics")],
-        # Require "wireless" or "bluetooth" qualifier to exclude wired headphones,
-        # replacement ear tips, and other accessories that match "headphone"/"earbuds" alone.
-        "keywords": ["wireless headphone", "bluetooth headphone", "wireless earbud",
-                     "bluetooth earbud", "true wireless"],
-    },
-    "Smartwatches": {
-        "meta_sources":   [_parquet("raw_meta_Electronics"),
-                           _parquet("raw_meta_Cell_Phones_and_Accessories")],
-        "review_sources": [_jsonl_review("Electronics"),
-                           _jsonl_review("Cell_Phones_and_Accessories")],
-        "keywords": ["smartwatch", "smart watch", "fitness tracker"],
-    },
-    "Mechanical Keyboards": {
-        "meta_sources":   [_parquet("raw_meta_Electronics")],
-        "review_sources": [_jsonl_review("Electronics")],
-        "keywords": ["mechanical keyboard", "gaming keyboard"],
-    },
-    "Gaming Mice": {
-        "meta_sources":   [_parquet("raw_meta_Electronics")],
-        "review_sources": [_jsonl_review("Electronics")],
-        # Drop "wireless mouse" — too broad, matches generic office mice.
-        # "gaming mice" catches plural titles; "esports mouse" catches competitive peripherals.
-        "keywords": ["gaming mouse", "gaming mice", "esports mouse"],
-    },
-    "Toothbrushes": {
+    "Toilet Paper": {
         "meta_sources":   [_jsonl_meta("Health_and_Household")],
         "review_sources": [_jsonl_review("Health_and_Household")],
-        "keywords": ["electric toothbrush", "toothbrush"],
+        "keywords": ["toilet paper", "bath tissue", "bathroom tissue"],
     },
-    "Running Shoes": {
+    "Bluetooth Speakers": {
+        "meta_sources":   [_parquet("raw_meta_Electronics")],
+        "review_sources": [_jsonl_review("Electronics")],
+        # Require "bluetooth" or "portable" to exclude desktop/bookshelf/soundbar speakers.
+        "keywords": ["bluetooth speaker", "portable speaker", "wireless portable speaker"],
+    },
+    "Yoga Mats": {
+        "meta_sources":   [_jsonl_meta("Sports_and_Outdoors")],
+        "review_sources": [_jsonl_review("Sports_and_Outdoors")],
+        "keywords": ["yoga mat", "exercise mat", "fitness mat"],
+    },
+    "Backpacks": {
         "meta_sources":   [_jsonl_meta("Sports_and_Outdoors"),
                            _jsonl_meta("Clothing_Shoes_and_Jewelry")],
         "review_sources": [_jsonl_review("Sports_and_Outdoors"),
                            _jsonl_review("Clothing_Shoes_and_Jewelry")],
-        "keywords": ["running shoe", "running shoes"],
+        "keywords": ["backpack", "daypack"],
+    },
+    "Coffee Makers": {
+        "meta_sources":   [_jsonl_meta("Home_and_Kitchen")],
+        "review_sources": [_jsonl_review("Home_and_Kitchen")],
+        # Exclude espresso machines and grinders — targeting drip/pod/auto-drip.
+        "keywords": ["coffee maker", "drip coffee maker", "coffee brewer",
+                     "single serve coffee", "pod coffee maker"],
+    },
+    "Protein Powder": {
+        "meta_sources":   [_jsonl_meta("Health_and_Household"),
+                           _jsonl_meta("Sports_and_Outdoors")],
+        "review_sources": [_jsonl_review("Health_and_Household"),
+                           _jsonl_review("Sports_and_Outdoors")],
+        "keywords": ["protein powder", "whey protein", "protein shake"],
     },
 }
 

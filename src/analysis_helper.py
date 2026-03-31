@@ -10,7 +10,7 @@ Each row captures:
   - Choice outcomes     (in_consideration, chosen)
 
 Usage:
-    from src.analysis import load_results_to_dataframe
+    from src.analysis_helper import load_results_to_dataframe
     df = load_results_to_dataframe()
     print(df.groupby("provider")["chosen"].value_counts())
 """
