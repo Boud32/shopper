@@ -89,6 +89,11 @@ def parse_and_write(input_path, category, provider, model, offer_sets_dir, outpu
     entries = extract_json_array(raw)
     print(f"Parsed {len(entries)} entries from {input_path}")
 
+    # Rewrite input file as pretty-printed JSON so it's human-readable
+    with open(input_path, "w") as f:
+        json.dump(entries, f, indent=2)
+    print(f"  (reformatted {input_path} with indentation)")
+
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
 
@@ -161,8 +166,8 @@ def main():
     parser.add_argument("--category",       required=True, help="Category name (e.g. 'Mechanical Keyboards')")
     parser.add_argument("--provider",       default="gemini-frontend",
                         help="Provider label for result filenames (default: gemini-frontend)")
-    parser.add_argument("--model",          default="gemini-2.5-flash",
-                        help="Model ID (default: gemini-2.5-flash)")
+    parser.add_argument("--model",          default="gemini-3-flash-preview",
+                        help="Model ID (default: gemini-3-flash-preview)")
     parser.add_argument("--offer-sets-dir", default="data/offer_sets")
     parser.add_argument("--output",         default="data/results/frontend",
                         help="Output directory for result files (default: data/results/frontend)")

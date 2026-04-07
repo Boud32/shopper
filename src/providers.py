@@ -102,8 +102,9 @@ def call_groq(prompt, model="llama-3.3-70b-versatile"):
 
 
 PROVIDERS = {
-    "gemini":       (lambda p: call_gemini(p, "gemini-2.5-flash"), "Gemini 2.5 Flash",      "gemini-2.5-flash"),
-    "gemini-flash": (lambda p: call_gemini(p, "gemini-2.0-flash"), "Gemini 2.0 Flash",      "gemini-2.0-flash"),
+    "gemini":       (lambda p: call_gemini(p, "gemini-2.5-flash"),          "Gemini 2.5 Flash",        "gemini-2.5-flash"),
+    "gemini-flash": (lambda p: call_gemini(p, "gemini-2.0-flash"),          "Gemini 2.0 Flash",        "gemini-2.0-flash"),
+    "gemini-3":     (lambda p: call_gemini(p, "gemini-3-flash-preview"),    "Gemini 3 Flash Preview",  "gemini-3-flash-preview"),
     "groq":         (call_groq,     "Groq Llama 3.3 70B", "llama-3.3-70b-versatile"),
     "openai":       (call_openai,   "ChatGPT",             "gpt-4o-mini"),
     "claude":       (call_claude,   "Claude",              "claude-sonnet-4-20250514"),

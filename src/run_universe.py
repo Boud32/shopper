@@ -86,7 +86,11 @@ def parse_response(response_str):
             response_str = response_str.split("```json")[1].split("```")[0].strip()
         elif "```" in response_str:
             response_str = response_str.split("```")[1].split("```")[0].strip()
-        return json.loads(response_str)
+        result = json.loads(response_str)
+        if not isinstance(result, dict):
+            print(f"  Failed to parse response: expected dict, got {type(result).__name__}")
+            return None
+        return result
     except json.JSONDecodeError:
         print(f"  Failed to parse response: {response_str[:200]}")
         return None
@@ -128,13 +132,28 @@ def slim_product(p, variant="full"):
     return s
 
 
-def build_prompt(products, category, k, variant="full"):
-    category_line = f"A customer is looking to buy {category}."
+def build_prompt(products, category, k, variant="full", n_purchased=0, n_no_purchase=0):
     slimmed = [slim_product(p, variant=variant) for p in products]
     products_json = json.dumps(slimmed, indent=2)
-    return f"""You are a shopping assistant. {category_line} Review the following JSON product feed and select a consideration set of {k} products that best meet the customer's needs.
 
-You may also choose "no_purchase" as your final choice if none of the products are suitable.
+    total_so_far = n_purchased + n_no_purchase
+    if total_so_far > 0:
+        current_pct = round(100 * n_no_purchase / total_so_far)
+        rate_line = (f"So far in this experiment: {n_purchased} purchases, "
+                     f"{n_no_purchase} no_purchase decisions ({current_pct}% no_purchase). "
+                     f"Target: ~30% no_purchase overall.")
+    else:
+        rate_line = "Target: ~30% no_purchase overall across this experiment."
+
+    return f"""You are simulating a realistic online shopping session for {category}.
+
+A customer is browsing {category} and considering whether to make a purchase. In realistic shopping, roughly 1 in 3 browsing sessions results in no_purchase.
+
+{rate_line}
+
+Review the following {len(products)} products and:
+1. Select a consideration set of exactly {k} products worth evaluating seriously.
+2. Make a final decision: choose one product to buy, or no_purchase if nothing is worth it.
 
 Product Feed:
 {products_json}
@@ -186,6 +205,8 @@ def run_universe(category_dir, model, k=5, results_dir=None, limit=None, variant
     failed = 0
     consecutive_failures = 0
     MAX_CONSECUTIVE_FAILURES = 5
+    n_purchased = 0
+    n_no_purchase = 0
 
     for offer_set_file in offer_set_files:
         stem = offer_set_file.stem
@@ -210,7 +231,8 @@ def run_universe(category_dir, model, k=5, results_dir=None, limit=None, variant
         done_so_far = completed + run
         print(f"[{done_so_far + 1}/{n_total}] {stem}...", end=" ", flush=True)
 
-        prompt = build_prompt(products, category, k, variant=variant)
+        prompt = build_prompt(products, category, k, variant=variant,
+                              n_purchased=n_purchased, n_no_purchase=n_no_purchase)
         response_str = call_provider(prompt, model)
 
         if response_str == "QUOTA_EXHAUSTED":
@@ -231,6 +253,10 @@ def run_universe(category_dir, model, k=5, results_dir=None, limit=None, variant
             }
             with open(result_path, "w") as f:
                 json.dump(result, f, indent=2)
+            if result["decision"]["final_choice"] == "no_purchase":
+                n_no_purchase += 1
+            else:
+                n_purchased += 1
             print("done")
             run += 1
             consecutive_failures = 0

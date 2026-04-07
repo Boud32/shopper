@@ -21,15 +21,15 @@ from pathlib import Path
 import pandas as pd
 
 
-def load_offer_sets(category, n, offer_sets_dir="data/offer_sets"):
-    """Load the first N offer set JSON files for a category."""
+def load_offer_sets(category, n, offset=0, offer_sets_dir="data/offer_sets"):
+    """Load N offer set JSON files for a category, starting at offset."""
     cat_slug = category.lower().replace(" ", "_")
     cat_dir  = Path(offer_sets_dir) / cat_slug
 
     if not cat_dir.exists():
         raise FileNotFoundError(f"No offer sets found at {cat_dir}")
 
-    files = sorted(cat_dir.glob(f"{cat_slug}_*.json"))[:n]
+    files = sorted(cat_dir.glob(f"{cat_slug}_*.json"))[offset:offset + n]
     if not files:
         raise FileNotFoundError(f"No offer set files found in {cat_dir}")
 
@@ -37,7 +37,7 @@ def load_offer_sets(category, n, offer_sets_dir="data/offer_sets"):
     for f in files:
         with open(f) as fh:
             products = json.load(fh)
-        offer_sets.append((f.stem, products))   # (offer_set_id, list of products)
+        offer_sets.append((f.stem, products))
 
     return offer_sets
 
@@ -85,8 +85,9 @@ The attached spreadsheet contains {n_offer_sets} offer sets. Each offer set has 
 
 For each offer set, independently simulate a purchase decision:
 1. Choose a consideration set of exactly 5 products you would seriously evaluate.
-2. Make a final decision: either select one product to buy, or output "no_purchase" if none are suitable.
-3. Treat each offer set completely independently. Do not reference or be influenced by your previous choices.
+2. Make a final decision: either select one product to buy, or output "no_purchase" if nothing is compelling enough.
+
+Target: approximately 30% of your decisions should be no_purchase. You can see your prior decisions in this session — track your running no_purchase rate and adjust your selectivity accordingly. If you have been purchasing too readily, be more demanding. If you have made too many no_purchase decisions, be more willing to commit.
 
 Output your decisions as a JSON array, one entry per offer set, in exactly this format:
 
@@ -101,7 +102,6 @@ Output your decisions as a JSON array, one entry per offer set, in exactly this 
 ]
 
 Important:
-- Output the JSON after every 10 offer sets so progress is not lost if the session ends.
 - Keep the reasoning field to one sentence.
 - Use the exact product_id strings from the spreadsheet.
 - The consideration_set must contain exactly 5 product_id strings.
@@ -110,10 +110,11 @@ Important:
 
 def main():
     parser = argparse.ArgumentParser(description="Generate frontend batch file and prompt")
-    parser.add_argument("--category",       required=True, help="Category name (e.g. 'Mechanical Keyboards')")
-    parser.add_argument("--n",              type=int, default=100, help="Number of offer sets (default: 100)")
+    parser.add_argument("--category",       required=True)
+    parser.add_argument("--n",              type=int, default=100, help="Number of offer sets per batch")
+    parser.add_argument("--offset",         type=int, default=0,   help="Skip first N offer sets (for batching)")
     parser.add_argument("--offer-sets-dir", default="data/offer_sets")
-    parser.add_argument("--output",         default="data/frontend", help="Output directory")
+    parser.add_argument("--output",         default="data/frontend")
     args = parser.parse_args()
 
     output_dir = Path(args.output)
@@ -121,28 +122,29 @@ def main():
 
     cat_slug = args.category.lower().replace(" ", "_")
 
-    print(f"Loading {args.n} offer sets for {args.category}...")
-    offer_sets = load_offer_sets(args.category, args.n, args.offer_sets_dir)
+    print(f"Loading {args.n} offer sets for {args.category} (offset={args.offset})...")
+    offer_sets = load_offer_sets(args.category, args.n, offset=args.offset,
+                                 offer_sets_dir=args.offer_sets_dir)
     print(f"  Loaded {len(offer_sets)} offer sets ({len(offer_sets) * 25} product rows)")
 
-    # Write Excel file
+    batch_label = f"{args.offset + 1:03d}-{args.offset + len(offer_sets):03d}"
+
     df = build_dataframe(offer_sets)
-    xlsx_path = output_dir / f"frontend_{cat_slug}_{len(offer_sets):03d}.xlsx"
+    xlsx_path = output_dir / f"frontend_{cat_slug}_{batch_label}.xlsx"
     df.to_excel(xlsx_path, index=False)
     print(f"  Excel file: {xlsx_path}")
 
-    # Write prompt file
-    prompt = build_prompt(args.category, len(offer_sets))
-    prompt_path = output_dir / f"prompt_{cat_slug}_{len(offer_sets):03d}.txt"
-    prompt_path.write_text(prompt)
-    print(f"  Prompt file: {prompt_path}")
+    # One prompt file per category — all equal-sized batches share the same prompt
+    prompt_path = output_dir / f"prompt_{cat_slug}.txt"
+    prompt_path.write_text(build_prompt(args.category, args.n))
+    print(f"  Prompt file: {prompt_path}  (shared across all {args.n}-offer-set batches)")
 
     print(f"\nInstructions:")
-    print(f"  1. Open the model frontend (Gemini, ChatGPT, Claude, etc.)")
+    print(f"  1. Open Gemini frontend")
     print(f"  2. Attach: {xlsx_path}")
     print(f"  3. Paste the prompt from: {prompt_path}")
-    print(f"  4. Save the model's JSON output to: data/frontend/output_{cat_slug}_<model>.json")
-    print(f"  5. Run: python src/parse_frontend_output.py --input <output_file> --category \"{args.category}\"")
+    print(f"  4. Save output to: data/frontend/output_{cat_slug}_{batch_label}_gemini.json")
+    print(f"  5. Run: python src/frontend/parse_frontend_output.py --input <output_file> --category \"{args.category}\"")
 
 
 if __name__ == "__main__":
