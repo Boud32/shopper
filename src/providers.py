@@ -53,7 +53,7 @@ def call_openai(prompt):
     return response.choices[0].message.content
 
 
-def call_claude(prompt):
+def call_claude(prompt, model="claude-opus-4-6"):
     from anthropic import Anthropic
 
     api_key = os.getenv("ANTHROPIC_API_KEY")
@@ -62,8 +62,8 @@ def call_claude(prompt):
 
     client = Anthropic(api_key=api_key)
     response = client.messages.create(
-        model="claude-sonnet-4-20250514",
-        max_tokens=4096,
+        model=model,
+        max_tokens=8192,
         messages=[{"role": "user", "content": prompt}],
     )
     return response.content[0].text
@@ -107,6 +107,6 @@ PROVIDERS = {
     "gemini-3":     (lambda p: call_gemini(p, "gemini-3-flash-preview"),    "Gemini 3 Flash Preview",  "gemini-3-flash-preview"),
     "groq":         (call_groq,     "Groq Llama 3.3 70B", "llama-3.3-70b-versatile"),
     "openai":       (call_openai,   "ChatGPT",             "gpt-4o-mini"),
-    "claude":       (call_claude,   "Claude",              "claude-sonnet-4-20250514"),
+    "claude":       (call_claude,   "Claude Opus 4.6",     "claude-opus-4-6"),
     "deepseek":     (call_deepseek, "DeepSeek",            "deepseek-chat"),
 }

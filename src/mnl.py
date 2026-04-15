@@ -3,8 +3,8 @@ Multinomial Logit (MNL) estimation for the Shopper experiment engine.
 
 Utility of product j in experiment n:
 
-    u_j = beta_0 + beta_pos * position_j + beta_price * price_j
-        + beta_rating * rating_j + beta_logrev * log(1 + review_count_j)
+    V_j = beta_0 + beta_pos * position_j + beta_price * price_j
+        + beta_rating * rating_j + beta_logrev * log(1 + review_count_j) # need to try without log too!
         + beta_sp * is_sponsored_j + beta_bs * is_best_seller_j
         + beta_op * is_overall_pick_j
 
@@ -12,13 +12,17 @@ Two specs via outside_good argument:
 
   outside_good=True  — outside good included, beta_0 estimated.
       Requires ~30% no_purchase rate for beta_0 to be identified.
-      P(j) = exp(u_j) / (1 + sum_k exp(u_k))
-      P(no_purchase) = 1 / (1 + sum_k exp(u_k))
+      P(j) = exp(V_j) / (1 + sum_k exp(V_k))
+      P(no_purchase) = 1 / (1 + sum_k exp(V_k))
 
   outside_good=False — no outside good, beta_0 dropped.
-      no_purchase experiments are excluded. Use when no_purchase rate is near zero.
-      Coefficients are proportional to the outside_good=True spec under IIA.
-      P(j) = exp(u_j) / sum_k exp(u_k)
+      no_purchase experiments are excluded.
+      P(j) = exp(V_j) / sum_k exp(V_k)
+
+Observability note: continuous features are normalized (mean 0, std 1) inside
+prepare_experiments, and the normalization parameters (mu, sigma per feature) are
+returned alongside experiments so that V_j values from compute_utilities can be
+mapped back to raw units if needed.
 """
 
 import numpy as np
@@ -39,13 +43,14 @@ def prepare_experiments(df, category=None, variant="full", outside_good=True):
     if sub.empty:
         raise ValueError("No rows remain after filtering — check category/variant.")
 
-    # log(1 + review_count) to capture diminishing returns to social proof
     sub["log_review_count"] = np.log1p(sub["review_count"].astype(float))
 
-    # normalize continuous features (mean 0, std 1) so coefficients are comparable
+    # Normalize continuous features (mean 0, std 1) so coefficients are comparable.
+    norm_params = {}
     for col in CONT_FEATURES:
         mu    = sub[col].mean()
         sigma = sub[col].std()
+        norm_params[col] = {"mu": mu, "sigma": sigma}
         sub[col] = (sub[col] - mu) / max(sigma, 1e-10)
 
     for col in BIN_FEATURES:
@@ -56,73 +61,136 @@ def prepare_experiments(df, category=None, variant="full", outside_good=True):
         X           = group[FEATURES].values.astype(float)
         chosen_mask = group["chosen"].values
 
-        if chosen_mask.any():
-            chosen_idx = int(np.where(chosen_mask)[0][0])
-        else:
-            chosen_idx = None  # no_purchase
+        chosen_idx = int(np.where(chosen_mask)[0][0]) if chosen_mask.any() else None
 
         if not outside_good and chosen_idx is None:
             continue
 
         experiments.append({"X": X, "chosen_idx": chosen_idx})
 
-    return experiments
+    return experiments, norm_params
+
+
+def _nll_and_grad(betas, experiments, outside_good):
+    """
+    Returns (negative log-likelihood, gradient) for L-BFGS-B.
+
+    Analytical gradient avoids finite-difference noise and ensures the optimizer
+    satisfies the first-order condition at convergence:
+        sum_n P_n(no_purchase) == n_no_purchase   [when outside_good=True]
+    Nelder-Mead (gradient-free) frequently fails this condition on this data.
+    """
+    beta_0    = betas[0]  if outside_good else 0.0
+    beta_rest = betas[1:] if outside_good else betas
+
+    total_nll = 0.0
+    grad = np.zeros_like(betas)
+
+    for exp in experiments:
+        X          = exp["X"]           # (J, K)
+        chosen_idx = exp["chosen_idx"]
+
+        utilities = beta_0 + X @ beta_rest   # (J,)
+        exp_u     = np.exp(utilities)
+        sum_exp   = np.sum(exp_u)
+        denom     = (1.0 + sum_exp) if outside_good else sum_exp
+
+        if chosen_idx is None:
+            prob = 1.0 / denom
+        else:
+            prob = exp_u[chosen_idx] / denom
+
+        total_nll -= np.log(prob + 1e-300)
+
+        # Inside-good probabilities: P_n(j) = exp(V_j) / denom
+        P_inside = exp_u / denom           # (J,)
+
+        # Gradient w.r.t. beta_rest: E_n[x_k] - x_{chosen,k}
+        expected_x = X.T @ P_inside        # (K,)
+        chosen_x   = X[chosen_idx] if chosen_idx is not None else np.zeros(X.shape[1])
+        grad_rest  = expected_x - chosen_x # (K,)
+
+        if outside_good:
+            # Gradient of NLL w.r.t. beta_0: y_n(0) - P_n(0)
+            # At MLE: sum_n P_n(0) == n_no_purchase (first-order condition)
+            P_0   = 1.0 / denom
+            y_0   = 1.0 if chosen_idx is None else 0.0
+            grad[0]  += y_0 - P_0
+            grad[1:] += grad_rest
+        else:
+            grad += grad_rest
+
+    return total_nll, grad
 
 
 def log_likelihood(betas, experiments, outside_good=True):
-    if outside_good:
-        beta_0    = betas[0]
-        beta_rest = betas[1:]
-    else:
-        beta_0    = 0.0
-        beta_rest = betas
+    """Negative log-likelihood only (kept for compatibility)."""
+    nll, _ = _nll_and_grad(betas, experiments, outside_good)
+    return nll
 
-    total_log_lik = 0.0
 
+def compute_utilities(experiments, betas, outside_good=True):
+    """
+    Return per-experiment V_j arrays given estimated betas.
+
+    Values are in normalized feature space (see module docstring). Each entry
+    mirrors the structure of experiments from prepare_experiments.
+
+    Returns: list of {"utilities": np.array, "chosen_idx": int or None}
+    """
+    beta_0    = betas[0]  if outside_good else 0.0
+    beta_rest = betas[1:] if outside_good else betas
+
+    return [
+        {"utilities": beta_0 + exp["X"] @ beta_rest, "chosen_idx": exp["chosen_idx"]}
+        for exp in experiments
+    ]
+
+
+def predicted_no_purchase_rate(experiments, betas, outside_good=True):
+    """
+    Compute the model-implied mean P(no_purchase) given fitted betas.
+
+    At the true MLE, this must equal the observed no_purchase rate (first-order
+    condition). Use this as a convergence diagnostic: a large discrepancy means
+    the optimizer did not find the true MLE.
+
+    Returns: (mean implied P(no_purchase), list of per-experiment values)
+    """
+    if not outside_good:
+        return None, []
+
+    beta_0    = betas[0]
+    beta_rest = betas[1:]
+
+    rates = []
     for exp in experiments:
-        X          = exp["X"]
-        chosen_idx = exp["chosen_idx"]
-
-        utilities = beta_0 + X @ beta_rest
+        utilities = beta_0 + exp["X"] @ beta_rest
         sum_exp   = np.sum(np.exp(utilities))
+        rates.append(1.0 / (1.0 + sum_exp))
 
-        if outside_good:
-            denom = 1.0 + sum_exp  # exp(0) = 1 for the outside good
-        else:
-            denom = sum_exp
-
-        if chosen_idx is None:  # no_purchase
-            prob = 1.0 / denom
-        else:
-            prob = np.exp(utilities[chosen_idx]) / denom
-
-        total_log_lik += np.log(prob)
-
-    return -total_log_lik  # minimize expects a positive value
+    return float(np.mean(rates)), rates
 
 
 def fit_mnl(df, category=None, variant="full", outside_good=True):
-    experiments = prepare_experiments(df, category=category, variant=variant,
-                                      outside_good=outside_good)
+    experiments, norm_params = prepare_experiments(
+        df, category=category, variant=variant, outside_good=outside_good
+    )
 
-    if outside_good:
-        feature_names = ["beta_0"] + FEATURES
-    else:
-        feature_names = FEATURES
-
+    feature_names = (["beta_0"] + FEATURES) if outside_good else FEATURES
     initial_betas = np.zeros(len(feature_names))
 
     result = minimize(
-        log_likelihood,
+        _nll_and_grad,
         x0=initial_betas,
         args=(experiments, outside_good),
-        method="Nelder-Mead",
-        options={"maxiter": 100_000, "xatol": 1e-6, "fatol": 1e-6},
+        method="L-BFGS-B",
+        jac=True,
+        options={"maxiter": 10_000, "ftol": 1e-12, "gtol": 1e-8},
     )
 
     beta_hat = result.x
 
-    # null model: uniform choice over all alternatives
     if outside_good:
         ll_null = sum(np.log(1.0 / (len(exp["X"]) + 1)) for exp in experiments)
     else:
@@ -141,6 +209,8 @@ def fit_mnl(df, category=None, variant="full", outside_good=True):
         "outside_good":   outside_good,
         "converged":      result.success,
         "beta":           beta_hat,
+        "experiments":    experiments,
+        "norm_params":    norm_params,
     }
 
 

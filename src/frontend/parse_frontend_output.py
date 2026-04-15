@@ -160,17 +160,54 @@ def parse_and_write(input_path, category, provider, model, offer_sets_dir, outpu
     return n_written, n_skipped
 
 
+def export_inspection_excel(output_dir, category, export_dir="data/frontend"):
+    """
+    Generate the per-category inspection Excel file immediately after parsing.
+
+    This makes the full pipeline self-contained: parse → inspect in one step.
+    """
+    import sys
+    sys.path.insert(0, ".")
+    from src.export_for_analysis import build_export_df
+    from src.analysis_helper import load_results_to_dataframe
+    from pathlib import Path
+
+    df = load_results_to_dataframe(results_dir=output_dir, include_ablation=False)
+    if df.empty:
+        print("  (no results loaded for export)")
+        return
+
+    export = build_export_df(df)
+    export = export[export["category"] == category]
+    if export.empty:
+        print(f"  (no rows for category '{category}' in export)")
+        return
+
+    slug     = category.lower().replace(" ", "_")
+    out_path = Path(export_dir) / f"mnl_data_frontend_{slug}.xlsx"
+    Path(export_dir).mkdir(parents=True, exist_ok=True)
+    export.drop(columns=["category"]).to_excel(out_path, index=False)
+
+    n_exp        = export["offer_set_id"].nunique()
+    n_no_purchase = int(export.groupby("offer_set_id")["no_purchase"].first().sum())
+    print(f"  Inspection Excel: {out_path}  ({n_exp} offer sets, {n_no_purchase} no_purchase)")
+
+
 def main():
     parser = argparse.ArgumentParser(description="Parse frontend model output into result files")
     parser.add_argument("--input",          required=True, help="Path to model JSON output file")
     parser.add_argument("--category",       required=True, help="Category name (e.g. 'Mechanical Keyboards')")
-    parser.add_argument("--provider",       default="gemini-frontend",
-                        help="Provider label for result filenames (default: gemini-frontend)")
-    parser.add_argument("--model",          default="gemini-3-flash-preview",
-                        help="Model ID (default: gemini-3-flash-preview)")
+    parser.add_argument("--provider",       default="frontend",
+                        help="Provider label for result filenames (default: frontend)")
+    parser.add_argument("--model",          default="",
+                        help="Model ID string (e.g. claude-opus-4, gpt-4o)")
     parser.add_argument("--offer-sets-dir", default="data/offer_sets")
     parser.add_argument("--output",         default="data/results/frontend",
                         help="Output directory for result files (default: data/results/frontend)")
+    parser.add_argument("--export-dir",     default="data/frontend",
+                        help="Directory for inspection Excel (default: data/frontend)")
+    parser.add_argument("--no-export",      action="store_true",
+                        help="Skip automatic inspection Excel generation")
     args = parser.parse_args()
 
     parse_and_write(
@@ -181,6 +218,13 @@ def main():
         offer_sets_dir = args.offer_sets_dir,
         output_dir     = args.output,
     )
+
+    if not args.no_export:
+        export_inspection_excel(
+            output_dir = args.output,
+            category   = args.category,
+            export_dir = args.export_dir,
+        )
 
 
 if __name__ == "__main__":

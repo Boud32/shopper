@@ -9,13 +9,19 @@ Reads offer set JSON files from data/offer_sets/<category>/ and produces:
 The Excel file contains the same fields used in the full prompt variant so results
 are comparable to Architecture 1 API runs.
 
+Row order within each offer set is shuffled (seeded by offer_set_id) so the model
+cannot shortcut by taking the first N rows. The 'position' column still reflects
+search rank and the model must read it explicitly.
+
 Usage:
-    python src/make_frontend_file.py --category "Mechanical Keyboards" --n 100
-    python src/make_frontend_file.py --category "Mechanical Keyboards" --n 100 --output data/frontend/
+    python src/frontend/make_frontend_file.py --category "Backpacks" --n 500
+    python src/frontend/make_frontend_file.py --category "Backpacks" --n 100 --offset 0
 """
 
 import argparse
+import hashlib
 import json
+import random
 from pathlib import Path
 
 import pandas as pd
@@ -42,11 +48,73 @@ def load_offer_sets(category, n, offset=0, offer_sets_dir="data/offer_sets"):
     return offer_sets
 
 
+def _human_scan_order(products, rng):
+    """
+    Return products in a human-like scan order seeded by rng.
+
+    Three modes are assigned randomly per offer set:
+      linear   (40%) — roughly top-to-bottom with small noise: [1,3,2,5,4,8,...]
+      snake    (35%) — scan forward to ~65% depth, then reverse: [1,2,4,3,8,...,25,22,19,...]
+      accordion(25%) — alternate front/back chunks, snaking in both directions:
+                        [1,2,3,25,24,4,5,23,22,6,7,21,...]
+
+    All modes start near position 1 (lowest positions always surface first).
+    The accordion pattern produces the most aggressive end-jumping behavior.
+    """
+    by_pos = sorted(products, key=lambda p: p.get("position", 99))
+    n = len(by_pos)
+    sigma = 1.5   # within-segment noise
+
+    def noisy_sort(items, reverse=False):
+        return sorted(items,
+                      key=lambda p: p.get("position", 0) + rng.gauss(0, sigma),
+                      reverse=reverse)
+
+    roll = rng.random()
+
+    if roll < 0.40:
+        # Linear: small noise, monotonically increasing on average
+        return noisy_sort(by_pos, reverse=False)
+
+    elif roll < 0.75:
+        # Snake: forward to pivot, then reverse the tail
+        pivot = rng.randint(int(n * 0.55), int(n * 0.80))
+        return noisy_sort(by_pos[:pivot]) + noisy_sort(by_pos[pivot:], reverse=True)
+
+    else:
+        # Accordion: alternate front and back chunks, snaking inward
+        result = []
+        lo, hi = 0, n - 1
+        take_front = True
+        while lo <= hi:
+            k = rng.randint(2, 4)
+            if take_front:
+                chunk = by_pos[lo : min(lo + k, hi + 1)]
+                result.extend(noisy_sort(chunk))
+                lo += len(chunk)
+            else:
+                chunk = by_pos[max(hi - k + 1, lo) : hi + 1]
+                result.extend(noisy_sort(chunk, reverse=True))
+                hi -= len(chunk)
+            take_front = not take_front
+        return result
+
+
 def build_dataframe(offer_sets):
-    """Convert list of (offer_set_id, products) into a flat DataFrame."""
+    """
+    Convert list of (offer_set_id, products) into a flat DataFrame.
+
+    Row order within each offer set simulates a human scan pattern (seeded by
+    offer_set_id for reproducibility). The model cannot shortcut by taking the
+    first N rows — it must read the 'position' column as an explicit attribute.
+    """
     rows = []
     for offer_set_id, products in offer_sets:
-        for p in products:
+        seed = int(hashlib.md5(offer_set_id.encode()).hexdigest(), 16) % (2**32)
+        rng = random.Random(seed)
+        shuffled = _human_scan_order(products, rng)
+
+        for p in shuffled:
             # Combine reviews into one readable string
             review_texts = []
             for r in (p.get("reviews") or [])[:5]:
@@ -81,15 +149,21 @@ def build_prompt(category, n_offer_sets):
     """Return the system prompt text to paste into the frontend chat."""
     return f"""You are simulating a consumer shopping for {category}.
 
-The attached spreadsheet contains {n_offer_sets} offer sets. Each offer set has a unique offer_set_id and contains 25 products with their attributes (price, rating, review count, position, tags, description, reviews).
+I will attach the spreadsheet in the next message. Please read these instructions first and confirm you understand before I send the data.
+
+The spreadsheet contains {n_offer_sets} offer sets. Each offer set has a unique offer_set_id and contains 25 products with their attributes (price, rating, review count, position, tags, description, reviews).
+
+Important: rows within each offer set are in RANDOM order — do not use row order as a proxy for quality or relevance. The 'position' column contains the actual search rank (1 = top of page) and should be treated as one attribute among many, not as a sorting key.
+
+Do not write or execute any code. For each offer set, act as a human consumer: read the product listings and make each decision using your own judgment.
 
 For each offer set, independently simulate a purchase decision:
-1. Choose a consideration set of exactly 5 products you would seriously evaluate.
+1. Choose a consideration set of exactly 5 products you would seriously evaluate, based on their attributes.
 2. Make a final decision: either select one product to buy, or output "no_purchase" if nothing is compelling enough.
 
-Target: approximately 30% of your decisions should be no_purchase. You can see your prior decisions in this session — track your running no_purchase rate and adjust your selectivity accordingly. If you have been purchasing too readily, be more demanding. If you have made too many no_purchase decisions, be more willing to commit.
+No_purchase is the right choice whenever the selection is uninspiring, the price feels too high for the quality on offer, ratings are mediocre, or nothing stands out clearly. A browsing session that ends without buying is completely normal — target approximately 30% no_purchase overall. Track your running rate and stay honest: if you have been buying too readily, be more demanding.
 
-Output your decisions as a JSON array, one entry per offer set, in exactly this format:
+Output your decisions as a JSON array, one entry per offer set:
 
 [
   {{
@@ -101,10 +175,12 @@ Output your decisions as a JSON array, one entry per offer set, in exactly this 
   ...
 ]
 
-Important:
-- Keep the reasoning field to one sentence.
+Rules:
 - Use the exact product_id strings from the spreadsheet.
-- The consideration_set must contain exactly 5 product_id strings.
+- consideration_set must contain exactly 5 product_id strings.
+- reasoning must be one sentence.
+
+Please confirm you understand, then I will send the spreadsheet.
 """
 
 
@@ -139,12 +215,16 @@ def main():
     prompt_path.write_text(build_prompt(args.category, args.n))
     print(f"  Prompt file: {prompt_path}  (shared across all {args.n}-offer-set batches)")
 
-    print(f"\nInstructions:")
-    print(f"  1. Open Gemini frontend")
-    print(f"  2. Attach: {xlsx_path}")
-    print(f"  3. Paste the prompt from: {prompt_path}")
-    print(f"  4. Save output to: data/frontend/output_{cat_slug}_{batch_label}_gemini.json")
-    print(f"  5. Run: python src/frontend/parse_frontend_output.py --input <output_file> --category \"{args.category}\"")
+    print(f"\nNext steps:")
+    print(f"  1. Open your model frontend (Claude, ChatGPT, Gemini, etc.)")
+    print(f"  2. Attach:     {xlsx_path}")
+    print(f"  3. Paste prompt from: {prompt_path}")
+    print(f"  4. Save the JSON output to, e.g.:")
+    print(f"       data/frontend/output_{cat_slug}_{batch_label}_<model>.json")
+    print(f"  5. Parse + export:")
+    print(f"       python src/frontend/parse_frontend_output.py \\")
+    print(f"           --input data/frontend/output_{cat_slug}_{batch_label}_<model>.json \\")
+    print(f"           --category \"{args.category}\" --provider <model-name>")
 
 
 if __name__ == "__main__":
