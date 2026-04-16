@@ -115,6 +115,158 @@ CATEGORY_FILTERS = {
         ],
         "price_min": 12.0,
     },
+
+    # ── Catalog v3 candidates (Apr 2026) ────────────────────────────────────
+    "Conditioner": {
+        "require": [
+            "conditioner",
+        ],
+        "exclude": [
+            # Wrong product type — fabric/material conditioners
+            "fabric conditioner", "fabric softener", "wood conditioner",
+            "leather conditioner", "leather care", "air conditioner",
+            # Dual-format shampoo+conditioner hybrids
+            "shampoo and conditioner", "shampoo & conditioner",
+            "2-in-1", "2 in 1",
+            # Leave-in (different product — not rinsed out)
+            "leave-in conditioner", "leave in conditioner", "leave-in treatment",
+            # Color/toning treatments
+            "color depositing", "color conditioner", "grey reducing", "gray reducing",
+            # Beard-specific
+            "beard conditioner", "beard balm",
+            # Baby
+            "baby conditioner",
+            # Accessories
+            "dispenser", "pump bottle", "empty bottle",
+        ],
+        "price_min": 6.0,
+    },
+    "Laundry Detergent": {
+        "require": [
+            "laundry detergent", "washing detergent", "laundry pods",
+            "laundry pacs", "laundry sheets", "laundry soap", "laundry liquid",
+            "laundry powder",
+        ],
+        "exclude": [
+            # Adjacent laundry products (different decision)
+            "fabric softener", "dryer sheets", "dryer balls", "dryer bar",
+            "stain remover", "stain stick", "stain spray", "spot remover",
+            "bleach", "color catcher",
+            # Wrong category
+            "dishwasher detergent", "dish detergent", "dish soap",
+            # Accessories / dispensers
+            "laundry bag", "mesh bag", "washing bag", "laundry basket",
+            "detergent dispenser", "soap dispenser",
+        ],
+        "price_min": 5.0,
+    },
+    "Power Banks": {
+        "require": [
+            "power bank", "portable charger", "portable battery",
+            "battery bank", "battery pack charger",
+        ],
+        "exclude": [
+            # Not portable / different format
+            "car charger", "wall charger", "wireless charger", "charging pad",
+            "charging station", "solar charger", "solar panel",
+            # Phone cases with built-in battery (different product category)
+            "battery case", "charging case", "case with battery",
+            # Device-specific replacement batteries
+            "replacement battery", "laptop battery", "camera battery",
+            "drill battery", "tool battery", "aa battery", "aaa battery",
+            # Cables without a battery
+            "charging cable", "usb cable", "data cable",
+        ],
+        "price_min": 10.0,
+    },
+    "Body Wash": {
+        "require": [
+            "body wash", "shower gel", "body cleanser",
+        ],
+        "exclude": [
+            # Wrong body part
+            "face wash", "facial wash", "face cleanser", "facial cleanser",
+            "hand wash", "hand soap", "hand sanitizer",
+            # Household / pet
+            "dish soap", "dish wash", "pet wash", "dog wash", "cat wash",
+            # Baby (different consumer)
+            "baby wash", "baby shampoo",
+            # Hybrid format with shampoo
+            "shampoo and body wash", "shampoo & body wash",
+            "2-in-1", "2 in 1",
+            # Accessories / containers
+            "empty bottle", "pump bottle", "dispenser", "loofah", "bath pouf",
+        ],
+        "price_min": 4.0,
+    },
+    "Shampoo": {
+        "require": ["shampoo"],
+        "exclude": [
+            # Accessories — bottles, containers, tools
+            "travel bottle", "empty bottle", "silicone bottle", "squeeze bottle",
+            "refillable bottle", "shampoo bottle", "toiletry bag", "travel bag",
+            "amenities set", "amenities kit", "travel kit",
+            "scalp massager", "shampoo brush", "scalp scrubber", "scalp brush",
+            "massage tool", "massage brush",
+            # Hair color / toning treatments
+            "color depositing", "colorwash", "grey reducing", "gray reducing",
+            "hair dye", "hair color shampoo", "dye shampoo",
+            # Dry shampoo (spray/powder format — different product)
+            "dry shampoo",
+            # Beard-specific
+            "beard wash", "beard shampoo",
+            # Baby products (different consumer)
+            "baby shampoo",
+            # Body wash (when it is the primary product)
+            "body wash",
+            # Non-hair / off-category junk
+            "softgel capsule", "capsule", "eyelash", "aqua suds",
+            "equipment cleaner", "toiletries kit",
+            # Leave-in detanglers
+            "leave in detangler", "leave-in detangler",
+        ],
+        "price_min": 6.0,
+    },
+
+    "Face Moisturizer": {
+        # Broad require: many legitimate face creams don't say "face" or "facial"
+        # explicitly in the title (Dr. Jart Ceramidin Cream, Olay Night Firming Cream,
+        # L'Oreal Night Cream, etc.). Rely on exclusions to remove non-face products.
+        "require": [
+            "cream", "moisturiz", "lotion", "balm",
+            "face", "facial",
+        ],
+        "exclude": [
+            # Hair products that slip through keyword matching
+            "leave-in hair", "hair treatment", "hair conditioner",
+            "night time oil treatment",  # Fantasia hair oil
+            "for hair and skin",         # dual-purpose hair/skin oils
+            # Face washes and cleansers
+            "face wash", "facial wash", "cleanser", "cleansing tissue",
+            "cleansing oil",
+            # Face mists and sprays (different format from cream/lotion)
+            "face mist", "facial mist", "setting spray", "finishing spray",
+            "ampoule mist", "mist spray",
+            # Wrong body part
+            "body lotion", "body moisturizer", "body cream",
+            "hand cream", "hand lotion", "hand moisturizer",
+            "neck cream",
+            "body treatment",            # hand and body treatments
+            # Makeup hybrids
+            "cc cream", "bb cream", "skin tint",
+            # Eye area
+            "eye cream", "eye gel", "under eye", "dark circles", "eyelash",
+            # Accessories and containers
+            "empty jar", "empty bottle", "pump bottle", "dispenser",
+            "spatula", "cosmetic jar",
+            # Off-category junk
+            "oxygen gel",      # Cellfood supplement gel
+            "aqua wear",       # equipment/wetsuit cleaner
+            "softgel capsule",
+            "shaving cream",   # not a moisturizer
+        ],
+        "price_min": 6.0,
+    },
 }
 
 

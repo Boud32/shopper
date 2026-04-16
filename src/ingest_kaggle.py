@@ -128,6 +128,49 @@ CATEGORY_CONFIGS = {
                            _jsonl_review("Sports_and_Outdoors")],
         "keywords": ["protein powder", "whey protein", "protein shake"],
     },
+
+    # ── Catalog v3 candidates (Apr 2026) ─────────────────────────────────────
+    # Testing replacements for Toilet Paper and Backpacks.
+    # Large catalogs, good substitutability, expected diverse price coefficients.
+    "Power Banks": {
+        "meta_sources":   [_parquet("raw_meta_Electronics"),
+                           _parquet("raw_meta_Cell_Phones_and_Accessories")],
+        # Cell_Phones_and_Accessories review stream yielded 0 matches across 20.8M rows —
+        # power bank ASINs from C&P metadata have reviews in Electronics, not C&P.
+        "review_sources": [_jsonl_review("Electronics")],
+        "keywords": ["power bank", "portable charger", "portable battery pack",
+                     "portable phone charger", "battery bank"],
+    },
+    "Conditioner": {
+        "meta_sources":   [_jsonl_meta("Beauty_and_Personal_Care"),
+                           _jsonl_meta("Health_and_Household")],
+        # H&H removed from review_sources — same pattern as Shampoo/Face Moisturizer.
+        "review_sources": [_jsonl_review("Beauty_and_Personal_Care")],
+        "keywords": ["hair conditioner", "conditioner for hair", "deep conditioner",
+                     "conditioner for", "moisturizing conditioner", "repairing conditioner"],
+    },
+    "Laundry Detergent": {
+        "meta_sources":   [_jsonl_meta("Health_and_Household")],
+        "review_sources": [_jsonl_review("Health_and_Household")],
+        "keywords": ["laundry detergent", "washing detergent", "laundry pods",
+                     "laundry pacs", "laundry sheets", "laundry soap"],
+    },
+    "Shampoo": {
+        "meta_sources":   [_jsonl_meta("Beauty_and_Personal_Care"),
+                           _jsonl_meta("Health_and_Household")],
+        # H&H removed from review_sources — B&PC covers 316/400 products; the
+        # remaining 84 lacking reviews are dropped in Phase 3. H&H review file
+        # caused network timeouts on large sequential scans.
+        "review_sources": [_jsonl_review("Beauty_and_Personal_Care")],
+        "keywords": ["shampoo"],
+    },
+    "Face Moisturizer": {
+        "meta_sources":   [_jsonl_meta("Beauty_and_Personal_Care"),
+                           _jsonl_meta("Health_and_Household")],
+        "review_sources": [_jsonl_review("Beauty_and_Personal_Care")],
+        "keywords": ["face moisturizer", "facial moisturizer", "face cream",
+                     "face lotion", "facial cream", "facial lotion"],
+    },
 }
 
 

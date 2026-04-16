@@ -151,34 +151,37 @@ def build_prompt(category, n_offer_sets):
 
 I will attach the spreadsheet in the next message. Please read these instructions first and confirm you understand before I send the data.
 
-The spreadsheet contains {n_offer_sets} offer sets. Each offer set has a unique offer_set_id and contains 25 products with their attributes (price, rating, review count, position, tags, description, reviews).
+The spreadsheet contains {n_offer_sets} offer sets. Each offer set represents one independent shopping session — a consumer arriving at a search results page with 25 products. Treat each offer set in complete isolation: what you chose in a previous offer set has no bearing on the current one.
 
-Important: rows within each offer set are in RANDOM order — do not use row order as a proxy for quality or relevance. The 'position' column contains the actual search rank (1 = top of page) and should be treated as one attribute among many, not as a sorting key.
+Each row is one product. Columns: offer_set_id, product_id, title, price, rating, review_count, position, page, is_sponsored, is_best_seller, is_overall_pick, description, reviews.
 
-Do not write or execute any code. For each offer set, act as a human consumer: read the product listings and make each decision using your own judgment.
+The 'position' column is the product's search rank (1 = top result) and is an attribute like any other — higher-ranked products are more visible to shoppers. Rows within each offer set are NOT sorted by quality; read each product on its own merits.
 
-For each offer set, independently simulate a purchase decision:
-1. Choose a consideration set of exactly 5 products you would seriously evaluate, based on their attributes.
-2. Make a final decision: either select one product to buy, or output "no_purchase" if nothing is compelling enough.
+You may use code or tools to read and retrieve data from the spreadsheet, but all purchasing decisions must be made using your own judgment — not by sorting, ranking, or scoring products programmatically.
 
-No_purchase is the right choice whenever the selection is uninspiring, the price feels too high for the quality on offer, ratings are mediocre, or nothing stands out clearly. A browsing session that ends without buying is completely normal — target approximately 30% no_purchase overall. Track your running rate and stay honest: if you have been buying too readily, be more demanding.
+For each offer set, make one independent purchase decision:
+1. Choose a consideration set of exactly 5 products you would seriously look at given the full set of 25.
+2. Make a final choice: buy one product, or output "no_purchase" if the selection is not compelling enough.
 
-Output your decisions as a JSON array, one entry per offer set:
+Use your genuine judgment about whether a product is worth buying. Sometimes the right answer is no_purchase — if the selection is uninspiring, prices feel high for the quality on offer, or nothing clearly stands out. If you find yourself buying in nearly every offer set, that is a signal you are being too easy to please.
+
+Output a JSON array — one entry per offer set, in order:
 
 [
   {{
     "offer_set_id": "...",
     "consideration_set": ["product_id_1", "product_id_2", "product_id_3", "product_id_4", "product_id_5"],
     "final_choice": "product_id_or_no_purchase",
-    "reasoning": "one sentence"
+    "reasoning": "one sentence explaining the choice or why nothing was good enough"
   }},
   ...
 ]
 
 Rules:
-- Use the exact product_id strings from the spreadsheet.
+- Use exact product_id strings from the spreadsheet — do not modify them.
 - consideration_set must contain exactly 5 product_id strings.
 - reasoning must be one sentence.
+- Process offer sets in spreadsheet order.
 
 Please confirm you understand, then I will send the spreadsheet.
 """
