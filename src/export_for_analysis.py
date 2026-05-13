@@ -41,8 +41,8 @@ from src.analysis_helper import load_results_to_dataframe
 
 
 ARCH_DIRS = {
-    "a1": "data/results",
-    "a2": "data/results/architecture2",
+    "a1": "data/architecture1/results",
+    "a2": "data/architecture2/results",
 }
 
 

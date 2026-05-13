@@ -1,1 +1,602 @@
-[]
+[
+  {
+    "offer_set_id": "yoga_mats_101",
+    "consideration_set": [
+      "prod_yoga_mats_110",
+      "prod_yoga_mats_014",
+      "prod_yoga_mats_025",
+      "prod_yoga_mats_038",
+      "prod_yoga_mats_099"
+    ],
+    "final_choice": "prod_yoga_mats_110",
+    "reasoning": "The Manduka EKO Lite offers superior grip and durability for a high-quality, long-lasting mat."
+  },
+  {
+    "offer_set_id": "yoga_mats_102",
+    "consideration_set": [
+      "prod_yoga_mats_022",
+      "prod_yoga_mats_044",
+      "prod_yoga_mats_051",
+      "prod_yoga_mats_073",
+      "prod_yoga_mats_101"
+    ],
+    "final_choice": "prod_yoga_mats_022",
+    "reasoning": "This mat provides excellent cushioning for a reasonable price point compared to the rest of the page."
+  },
+  {
+    "offer_set_id": "yoga_mats_103",
+    "consideration_set": [
+      "prod_yoga_mats_045",
+      "prod_yoga_mats_012",
+      "prod_yoga_mats_033",
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_089"
+    ],
+    "final_choice": "prod_yoga_mats_045",
+    "reasoning": "The alignment lines on this mat are very helpful for a beginner ensuring correct posture."
+  },
+  {
+    "offer_set_id": "yoga_mats_104",
+    "consideration_set": [
+      "prod_yoga_mats_018",
+      "prod_yoga_mats_024",
+      "prod_yoga_mats_039",
+      "prod_yoga_mats_077",
+      "prod_yoga_mats_092"
+    ],
+    "final_choice": "prod_yoga_mats_018",
+    "reasoning": "It's an eco-friendly choice with solid reviews and decent thickness for daily practice."
+  },
+  {
+    "offer_set_id": "yoga_mats_105",
+    "consideration_set": [
+      "prod_yoga_mats_011",
+      "prod_yoga_mats_029",
+      "prod_yoga_mats_048",
+      "prod_yoga_mats_062",
+      "prod_yoga_mats_084"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The available options were either too expensive or had concerning reviews regarding long-term durability."
+  },
+  {
+    "offer_set_id": "yoga_mats_106",
+    "consideration_set": [
+      "prod_yoga_mats_077",
+      "prod_yoga_mats_015",
+      "prod_yoga_mats_031",
+      "prod_yoga_mats_055",
+      "prod_yoga_mats_088"
+    ],
+    "final_choice": "prod_yoga_mats_077",
+    "reasoning": "The cork surface offers great slip resistance during excessively sweaty sessions."
+  },
+  {
+    "offer_set_id": "yoga_mats_107",
+    "consideration_set": [
+      "prod_yoga_mats_033",
+      "prod_yoga_mats_041",
+      "prod_yoga_mats_059",
+      "prod_yoga_mats_072",
+      "prod_yoga_mats_095"
+    ],
+    "final_choice": "prod_yoga_mats_033",
+    "reasoning": "A great overall pick with high ratings and a very competitive price compared to standard mats."
+  },
+  {
+    "offer_set_id": "yoga_mats_108",
+    "consideration_set": [
+      "prod_yoga_mats_005",
+      "prod_yoga_mats_019",
+      "prod_yoga_mats_043",
+      "prod_yoga_mats_067",
+      "prod_yoga_mats_081"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of the highly rated mats in this set had the specific 6mm thickness I prefer."
+  },
+  {
+    "offer_set_id": "yoga_mats_109",
+    "consideration_set": [
+      "prod_yoga_mats_088",
+      "prod_yoga_mats_014",
+      "prod_yoga_mats_027",
+      "prod_yoga_mats_053",
+      "prod_yoga_mats_099"
+    ],
+    "final_choice": "prod_yoga_mats_088",
+    "reasoning": "The included carrying strap and lightweight design make this perfect for commuting to the studio."
+  },
+  {
+    "offer_set_id": "yoga_mats_110",
+    "consideration_set": [
+      "prod_yoga_mats_012",
+      "prod_yoga_mats_028",
+      "prod_yoga_mats_046",
+      "prod_yoga_mats_061",
+      "prod_yoga_mats_079"
+    ],
+    "final_choice": "prod_yoga_mats_012",
+    "reasoning": "Outstanding value for a mat with such high review counts and consistent positive feedback."
+  },
+  {
+    "offer_set_id": "yoga_mats_111",
+    "consideration_set": [
+      "prod_yoga_mats_055",
+      "prod_yoga_mats_021",
+      "prod_yoga_mats_037",
+      "prod_yoga_mats_068",
+      "prod_yoga_mats_083"
+    ],
+    "final_choice": "prod_yoga_mats_055",
+    "reasoning": "The extra length on this mat is exactly what I need for full stretching without coming off the edge."
+  },
+  {
+    "offer_set_id": "yoga_mats_112",
+    "consideration_set": [
+      "prod_yoga_mats_003",
+      "prod_yoga_mats_017",
+      "prod_yoga_mats_034",
+      "prod_yoga_mats_058",
+      "prod_yoga_mats_074"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top results were dominated by low-quality, cheap foam mats that looked prone to tearing."
+  },
+  {
+    "offer_set_id": "yoga_mats_113",
+    "consideration_set": [
+      "prod_yoga_mats_091",
+      "prod_yoga_mats_025",
+      "prod_yoga_mats_049",
+      "prod_yoga_mats_065",
+      "prod_yoga_mats_086"
+    ],
+    "final_choice": "prod_yoga_mats_091",
+    "reasoning": "I chose this because the natural rubber base provides excellent stability on hardwood floors."
+  },
+  {
+    "offer_set_id": "yoga_mats_114",
+    "consideration_set": [
+      "prod_yoga_mats_064",
+      "prod_yoga_mats_016",
+      "prod_yoga_mats_032",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_097"
+    ],
+    "final_choice": "prod_yoga_mats_064",
+    "reasoning": "The unique foldable design makes it much more convenient for travel than standard rolled mats."
+  },
+  {
+    "offer_set_id": "yoga_mats_115",
+    "consideration_set": [
+      "prod_yoga_mats_104",
+      "prod_yoga_mats_023",
+      "prod_yoga_mats_047",
+      "prod_yoga_mats_071",
+      "prod_yoga_mats_085"
+    ],
+    "final_choice": "prod_yoga_mats_104",
+    "reasoning": "High-density material and positive reviews about knee support make this the winner for joint care."
+  },
+  {
+    "offer_set_id": "yoga_mats_116",
+    "consideration_set": [
+      "prod_yoga_mats_009",
+      "prod_yoga_mats_035",
+      "prod_yoga_mats_052",
+      "prod_yoga_mats_069",
+      "prod_yoga_mats_087"
+    ],
+    "final_choice": "prod_yoga_mats_009",
+    "reasoning": "It is a reliable best-seller that optimally balances cost, comfort, and grip."
+  },
+  {
+    "offer_set_id": "yoga_mats_117",
+    "consideration_set": [
+      "prod_yoga_mats_013",
+      "prod_yoga_mats_026",
+      "prod_yoga_mats_042",
+      "prod_yoga_mats_063",
+      "prod_yoga_mats_094"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Prices in this set felt artificially inflated compared to the actual quality of the mats shown."
+  },
+  {
+    "offer_set_id": "yoga_mats_118",
+    "consideration_set": [
+      "prod_yoga_mats_027",
+      "prod_yoga_mats_015",
+      "prod_yoga_mats_038",
+      "prod_yoga_mats_056",
+      "prod_yoga_mats_075"
+    ],
+    "final_choice": "prod_yoga_mats_027",
+    "reasoning": "The closed-cell surface keeps sweat out, making it much easier to clean and maintain hygiene."
+  },
+  {
+    "offer_set_id": "yoga_mats_119",
+    "consideration_set": [
+      "prod_yoga_mats_081",
+      "prod_yoga_mats_022",
+      "prod_yoga_mats_045",
+      "prod_yoga_mats_068",
+      "prod_yoga_mats_091"
+    ],
+    "final_choice": "prod_yoga_mats_081",
+    "reasoning": "A premium option that justifies its higher price point through exceptional grip and eco-friendly materials."
+  },
+  {
+    "offer_set_id": "yoga_mats_120",
+    "consideration_set": [
+      "prod_yoga_mats_008",
+      "prod_yoga_mats_020",
+      "prod_yoga_mats_039",
+      "prod_yoga_mats_057",
+      "prod_yoga_mats_082"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Nothing clearly stood out, and the options lacked the extra cushioning required for joint protection."
+  },
+  {
+    "offer_set_id": "yoga_mats_121",
+    "consideration_set": [
+      "prod_yoga_mats_115",
+      "prod_yoga_mats_031",
+      "prod_yoga_mats_046",
+      "prod_yoga_mats_072",
+      "prod_yoga_mats_098"
+    ],
+    "final_choice": "prod_yoga_mats_115",
+    "reasoning": "The reversible design offers versatility and both sides have excellent texture for different styles of yoga."
+  },
+  {
+    "offer_set_id": "yoga_mats_122",
+    "consideration_set": [
+      "prod_yoga_mats_042",
+      "prod_yoga_mats_014",
+      "prod_yoga_mats_033",
+      "prod_yoga_mats_061",
+      "prod_yoga_mats_089"
+    ],
+    "final_choice": "prod_yoga_mats_042",
+    "reasoning": "It's lightweight but still dense enough to provide good joint protection during kneeling poses."
+  },
+  {
+    "offer_set_id": "yoga_mats_123",
+    "consideration_set": [
+      "prod_yoga_mats_073",
+      "prod_yoga_mats_025",
+      "prod_yoga_mats_051",
+      "prod_yoga_mats_069",
+      "prod_yoga_mats_093"
+    ],
+    "final_choice": "prod_yoga_mats_073",
+    "reasoning": "The beautiful printed design paired with non-toxic materials made this an easy choice."
+  },
+  {
+    "offer_set_id": "yoga_mats_124",
+    "consideration_set": [
+      "prod_yoga_mats_098",
+      "prod_yoga_mats_018",
+      "prod_yoga_mats_037",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_078"
+    ],
+    "final_choice": "prod_yoga_mats_098",
+    "reasoning": "This extra-wide mat provides the additional space needed for more expansive, dynamic movements."
+  },
+  {
+    "offer_set_id": "yoga_mats_125",
+    "consideration_set": [
+      "prod_yoga_mats_007",
+      "prod_yoga_mats_029",
+      "prod_yoga_mats_044",
+      "prod_yoga_mats_065",
+      "prod_yoga_mats_084"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The search results were cluttered with sponsored products that had questionable, sparse reviews."
+  },
+  {
+    "offer_set_id": "yoga_mats_126",
+    "consideration_set": [
+      "prod_yoga_mats_036",
+      "prod_yoga_mats_011",
+      "prod_yoga_mats_048",
+      "prod_yoga_mats_075",
+      "prod_yoga_mats_092"
+    ],
+    "final_choice": "prod_yoga_mats_036",
+    "reasoning": "The polyurethane top layer provides unparalleled grip even when the mat is completely soaked with sweat."
+  },
+  {
+    "offer_set_id": "yoga_mats_127",
+    "consideration_set": [
+      "prod_yoga_mats_051",
+      "prod_yoga_mats_024",
+      "prod_yoga_mats_041",
+      "prod_yoga_mats_062",
+      "prod_yoga_mats_088"
+    ],
+    "final_choice": "prod_yoga_mats_051",
+    "reasoning": "A great budget-friendly mat that doesn't compromise on basic grip and comfort."
+  },
+  {
+    "offer_set_id": "yoga_mats_128",
+    "consideration_set": [
+      "prod_yoga_mats_004",
+      "prod_yoga_mats_021",
+      "prod_yoga_mats_043",
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_087"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The highly rated options were out of my budget and the cheaper alternatives looked too flimsy."
+  },
+  {
+    "offer_set_id": "yoga_mats_129",
+    "consideration_set": [
+      "prod_yoga_mats_068",
+      "prod_yoga_mats_015",
+      "prod_yoga_mats_032",
+      "prod_yoga_mats_053",
+      "prod_yoga_mats_074"
+    ],
+    "final_choice": "prod_yoga_mats_068",
+    "reasoning": "The alignment markers are subtle but highly effective for improving form and preventing injury."
+  },
+  {
+    "offer_set_id": "yoga_mats_130",
+    "consideration_set": [
+      "prod_yoga_mats_102",
+      "prod_yoga_mats_027",
+      "prod_yoga_mats_049",
+      "prod_yoga_mats_067",
+      "prod_yoga_mats_095"
+    ],
+    "final_choice": "prod_yoga_mats_102",
+    "reasoning": "Its thick memory foam construction provides unmatched comfort, perfect for restorative yoga sessions."
+  },
+  {
+    "offer_set_id": "yoga_mats_131",
+    "consideration_set": [
+      "prod_yoga_mats_010",
+      "prod_yoga_mats_028",
+      "prod_yoga_mats_050",
+      "prod_yoga_mats_071",
+      "prod_yoga_mats_094"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "I could not find a specific reason any of these mats were better than standard options I could find elsewhere."
+  },
+  {
+    "offer_set_id": "yoga_mats_132",
+    "consideration_set": [
+      "prod_yoga_mats_015",
+      "prod_yoga_mats_035",
+      "prod_yoga_mats_058",
+      "prod_yoga_mats_079",
+      "prod_yoga_mats_099"
+    ],
+    "final_choice": "prod_yoga_mats_015",
+    "reasoning": "The natural cork and rubber combination is both sustainable and highly functional for grip."
+  },
+  {
+    "offer_set_id": "yoga_mats_133",
+    "consideration_set": [
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_022",
+      "prod_yoga_mats_046",
+      "prod_yoga_mats_064",
+      "prod_yoga_mats_082"
+    ],
+    "final_choice": "prod_yoga_mats_084",
+    "reasoning": "It has a perfect balance of firmness for balancing poses and softness for floor work."
+  },
+  {
+    "offer_set_id": "yoga_mats_134",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_025",
+      "prod_yoga_mats_047",
+      "prod_yoga_mats_069",
+      "prod_yoga_mats_091"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "All the options seemed to have a strong chemical smell based on multiple recent customer reviews."
+  },
+  {
+    "offer_set_id": "yoga_mats_135",
+    "consideration_set": [
+      "prod_yoga_mats_047",
+      "prod_yoga_mats_014",
+      "prod_yoga_mats_038",
+      "prod_yoga_mats_055",
+      "prod_yoga_mats_077"
+    ],
+    "final_choice": "prod_yoga_mats_047",
+    "reasoning": "The lifetime warranty offered by the manufacturer makes this a risk-free investment."
+  },
+  {
+    "offer_set_id": "yoga_mats_136",
+    "consideration_set": [
+      "prod_yoga_mats_029",
+      "prod_yoga_mats_018",
+      "prod_yoga_mats_042",
+      "prod_yoga_mats_061",
+      "prod_yoga_mats_088"
+    ],
+    "final_choice": "prod_yoga_mats_029",
+    "reasoning": "I appreciate the extra thickness which is absolutely necessary for practicing on hard tile floors."
+  },
+  {
+    "offer_set_id": "yoga_mats_137",
+    "consideration_set": [
+      "prod_yoga_mats_002",
+      "prod_yoga_mats_023",
+      "prod_yoga_mats_045",
+      "prod_yoga_mats_063",
+      "prod_yoga_mats_085"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top positions were occupied by weak options lacking sufficient review volume to inspire confidence."
+  },
+  {
+    "offer_set_id": "yoga_mats_138",
+    "consideration_set": [
+      "prod_yoga_mats_093",
+      "prod_yoga_mats_031",
+      "prod_yoga_mats_052",
+      "prod_yoga_mats_075",
+      "prod_yoga_mats_096"
+    ],
+    "final_choice": "prod_yoga_mats_093",
+    "reasoning": "It features a very grippy surface that helps hold challenging poses without slipping."
+  },
+  {
+    "offer_set_id": "yoga_mats_139",
+    "consideration_set": [
+      "prod_yoga_mats_058",
+      "prod_yoga_mats_011",
+      "prod_yoga_mats_033",
+      "prod_yoga_mats_068",
+      "prod_yoga_mats_081"
+    ],
+    "final_choice": "prod_yoga_mats_058",
+    "reasoning": "The included accessories like the high-quality carrying bag and strap provide excellent added value."
+  },
+  {
+    "offer_set_id": "yoga_mats_140",
+    "consideration_set": [
+      "prod_yoga_mats_019",
+      "prod_yoga_mats_037",
+      "prod_yoga_mats_056",
+      "prod_yoga_mats_078",
+      "prod_yoga_mats_100"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "There were no compelling options that matched my strict criteria for both extra size and eco-friendliness."
+  },
+  {
+    "offer_set_id": "yoga_mats_141",
+    "consideration_set": [
+      "prod_yoga_mats_107",
+      "prod_yoga_mats_026",
+      "prod_yoga_mats_044",
+      "prod_yoga_mats_062",
+      "prod_yoga_mats_089"
+    ],
+    "final_choice": "prod_yoga_mats_107",
+    "reasoning": "The bright color and simple, highly durable construction make it an easy choice."
+  },
+  {
+    "offer_set_id": "yoga_mats_142",
+    "consideration_set": [
+      "prod_yoga_mats_021",
+      "prod_yoga_mats_013",
+      "prod_yoga_mats_039",
+      "prod_yoga_mats_057",
+      "prod_yoga_mats_083"
+    ],
+    "final_choice": "prod_yoga_mats_021",
+    "reasoning": "The lightweight foam is perfect for comfortably carrying to and from classes every single day."
+  },
+  {
+    "offer_set_id": "yoga_mats_143",
+    "consideration_set": [
+      "prod_yoga_mats_009",
+      "prod_yoga_mats_034",
+      "prod_yoga_mats_053",
+      "prod_yoga_mats_072",
+      "prod_yoga_mats_092"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "A borderline set where nothing clearly stood out as superior to a basic mat I could grab locally."
+  },
+  {
+    "offer_set_id": "yoga_mats_144",
+    "consideration_set": [
+      "prod_yoga_mats_076",
+      "prod_yoga_mats_028",
+      "prod_yoga_mats_051",
+      "prod_yoga_mats_067",
+      "prod_yoga_mats_097"
+    ],
+    "final_choice": "prod_yoga_mats_076",
+    "reasoning": "The dual non-slip texture ensures the mat stays put on the floor while securely holding my grip."
+  },
+  {
+    "offer_set_id": "yoga_mats_145",
+    "consideration_set": [
+      "prod_yoga_mats_012",
+      "prod_yoga_mats_036",
+      "prod_yoga_mats_059",
+      "prod_yoga_mats_080",
+      "prod_yoga_mats_103"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Most products in this set had multiple complaints about the material shedding and wearing out quickly."
+  },
+  {
+    "offer_set_id": "yoga_mats_146",
+    "consideration_set": [
+      "prod_yoga_mats_039",
+      "prod_yoga_mats_016",
+      "prod_yoga_mats_043",
+      "prod_yoga_mats_065",
+      "prod_yoga_mats_086"
+    ],
+    "final_choice": "prod_yoga_mats_039",
+    "reasoning": "It's an incredibly sticky mat that provides immense safety and confidence during advanced balancing poses."
+  },
+  {
+    "offer_set_id": "yoga_mats_147",
+    "consideration_set": [
+      "prod_yoga_mats_082",
+      "prod_yoga_mats_024",
+      "prod_yoga_mats_049",
+      "prod_yoga_mats_071",
+      "prod_yoga_mats_095"
+    ],
+    "final_choice": "prod_yoga_mats_082",
+    "reasoning": "The extra-long dimensions make it much more comfortable for taller individuals who usually feel cramped."
+  },
+  {
+    "offer_set_id": "yoga_mats_148",
+    "consideration_set": [
+      "prod_yoga_mats_005",
+      "prod_yoga_mats_032",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_074",
+      "prod_yoga_mats_099"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Prices were noticeably too high for the perceived quality, and the available budget options lacked adequate cushioning."
+  },
+  {
+    "offer_set_id": "yoga_mats_149",
+    "consideration_set": [
+      "prod_yoga_mats_061",
+      "prod_yoga_mats_017",
+      "prod_yoga_mats_041",
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_085"
+    ],
+    "final_choice": "prod_yoga_mats_061",
+    "reasoning": "The high density of the foam provides excellent joint support without being overly thick or bulky."
+  },
+  {
+    "offer_set_id": "yoga_mats_150",
+    "consideration_set": [
+      "prod_yoga_mats_190",
+      "prod_yoga_mats_105",
+      "prod_yoga_mats_025",
+      "prod_yoga_mats_048",
+      "prod_yoga_mats_079"
+    ],
+    "final_choice": "prod_yoga_mats_105",
+    "reasoning": "This thicker 6mm option offers great value and superior cushioning compared to expensive alternatives, despite being a fold-and-roll design."
+  }
+]

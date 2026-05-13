@@ -25,7 +25,7 @@ Usage:
         --provider claude-opus-4-7 \\
         --model claude-opus-4-7 \\
         --offer-sets-dir data/offer_sets \\
-        --output data/results/architecture2/
+        --output data/architecture2/results/
 """
 
 import argparse
@@ -190,8 +190,8 @@ def main():
     parser.add_argument("--model",          default="",
                         help="Model ID string (e.g. claude-opus-4-7)")
     parser.add_argument("--offer-sets-dir", default="data/offer_sets")
-    parser.add_argument("--output",         default="data/results/architecture2",
-                        help="Output directory for result files (default: data/results/architecture2)")
+    parser.add_argument("--output",         default="data/architecture2/results",
+                        help="Output directory for result files (default: data/architecture2/results)")
     parser.add_argument("--export-dir",     default="data/architecture2",
                         help="Directory for inspection Excel (default: data/architecture2)")
     parser.add_argument("--no-export",      action="store_true",

@@ -1,1 +1,602 @@
-[]
+[
+  {
+    "offer_set_id": "yoga_mats_051",
+    "consideration_set": [
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_026",
+      "prod_yoga_mats_056",
+      "prod_yoga_mats_165",
+      "prod_yoga_mats_116"
+    ],
+    "final_choice": "prod_yoga_mats_056",
+    "reasoning": "The Hugger Mugger Earth Elements mat provides a premium, dry-grip texture that stands out among the options."
+  },
+  {
+    "offer_set_id": "yoga_mats_052",
+    "consideration_set": [
+      "prod_yoga_mats_003",
+      "prod_yoga_mats_140",
+      "prod_yoga_mats_189",
+      "prod_yoga_mats_082",
+      "prod_yoga_mats_069"
+    ],
+    "final_choice": "prod_yoga_mats_069",
+    "reasoning": "The B YOGA Everyday Mat provides exceptionally grippy and durable texture suitable for all floor exercises."
+  },
+  {
+    "offer_set_id": "yoga_mats_053",
+    "consideration_set": [
+      "prod_yoga_mats_045",
+      "prod_yoga_mats_151",
+      "prod_yoga_mats_014",
+      "prod_yoga_mats_162",
+      "prod_yoga_mats_110"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The available products are either too thin or lack the premium supportive features needed for regular practice."
+  },
+  {
+    "offer_set_id": "yoga_mats_054",
+    "consideration_set": [
+      "prod_yoga_mats_079",
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_032",
+      "prod_yoga_mats_125",
+      "prod_yoga_mats_055"
+    ],
+    "final_choice": "prod_yoga_mats_146",
+    "reasoning": "This eco-friendly fitness mat with a carrying sling offers an optimal balance of cushioning and portability."
+  },
+  {
+    "offer_set_id": "yoga_mats_055",
+    "consideration_set": [
+      "prod_yoga_mats_125",
+      "prod_yoga_mats_004",
+      "prod_yoga_mats_097",
+      "prod_yoga_mats_161",
+      "prod_yoga_mats_193"
+    ],
+    "final_choice": "prod_yoga_mats_193",
+    "reasoning": "The B YOGA Workout Mat is extremely highly rated for its stickiness and thickness compared to typical brands."
+  },
+  {
+    "offer_set_id": "yoga_mats_056",
+    "consideration_set": [
+      "prod_yoga_mats_109",
+      "prod_yoga_mats_113",
+      "prod_yoga_mats_118",
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_137"
+    ],
+    "final_choice": "prod_yoga_mats_137",
+    "reasoning": "The B Mat Strong is a highly supportive 6mm mat that vastly outperforms standard alternatives."
+  },
+  {
+    "offer_set_id": "yoga_mats_057",
+    "consideration_set": [
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_111",
+      "prod_yoga_mats_187",
+      "prod_yoga_mats_151",
+      "prod_yoga_mats_069"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of the mats in this set clearly distinguish themselves from basic, cheaper big-box store alternatives."
+  },
+  {
+    "offer_set_id": "yoga_mats_058",
+    "consideration_set": [
+      "prod_yoga_mats_103",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_029"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Most of these mats report significant slippage issues or lack sufficient cushioning for rigorous use."
+  },
+  {
+    "offer_set_id": "yoga_mats_059",
+    "consideration_set": [
+      "prod_yoga_mats_079",
+      "prod_yoga_mats_069",
+      "prod_yoga_mats_165",
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_054"
+    ],
+    "final_choice": "prod_yoga_mats_054",
+    "reasoning": "The ProsourceFit Extra Thick Mat offers phenomenal 1/2-inch density which is ideal for protecting joints."
+  },
+  {
+    "offer_set_id": "yoga_mats_060",
+    "consideration_set": [
+      "prod_yoga_mats_048",
+      "prod_yoga_mats_014",
+      "prod_yoga_mats_125",
+      "prod_yoga_mats_177",
+      "prod_yoga_mats_062"
+    ],
+    "final_choice": "prod_yoga_mats_048",
+    "reasoning": "The AIMERDAY premium print mat is an eco-friendly lightweight option that combines a nice design with practical grip."
+  },
+  {
+    "offer_set_id": "yoga_mats_061",
+    "consideration_set": [
+      "prod_yoga_mats_150",
+      "prod_yoga_mats_172",
+      "prod_yoga_mats_062",
+      "prod_yoga_mats_140",
+      "prod_yoga_mats_165"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top options suffer from strong rubber odors or lack long-term durability in user reviews."
+  },
+  {
+    "offer_set_id": "yoga_mats_062",
+    "consideration_set": [
+      "prod_yoga_mats_130",
+      "prod_yoga_mats_151",
+      "prod_yoga_mats_162",
+      "prod_yoga_mats_043",
+      "prod_yoga_mats_003"
+    ],
+    "final_choice": "prod_yoga_mats_130",
+    "reasoning": "Wai Lana offers an extra thick option with reliable traction and a distinctive stylish print."
+  },
+  {
+    "offer_set_id": "yoga_mats_063",
+    "consideration_set": [
+      "prod_yoga_mats_199",
+      "prod_yoga_mats_035",
+      "prod_yoga_mats_113",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_026"
+    ],
+    "final_choice": "prod_yoga_mats_199",
+    "reasoning": "COOLMOON's double-sided TPE mat features superb eco-friendly traction and reliable cushioning."
+  },
+  {
+    "offer_set_id": "yoga_mats_064",
+    "consideration_set": [
+      "prod_yoga_mats_165",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_178",
+      "prod_yoga_mats_068",
+      "prod_yoga_mats_085"
+    ],
+    "final_choice": "prod_yoga_mats_165",
+    "reasoning": "The Ekomx premium mat is uniquely wide, providing much-needed extra space for barefoot yoga and stretches."
+  },
+  {
+    "offer_set_id": "yoga_mats_065",
+    "consideration_set": [
+      "prod_yoga_mats_079",
+      "prod_yoga_mats_172",
+      "prod_yoga_mats_177",
+      "prod_yoga_mats_064",
+      "prod_yoga_mats_111"
+    ],
+    "final_choice": "prod_yoga_mats_079",
+    "reasoning": "FOILLER's luxury cork mat provides a fantastic natural surface with superb grip that improves when you sweat."
+  },
+  {
+    "offer_set_id": "yoga_mats_066",
+    "consideration_set": [
+      "prod_yoga_mats_113",
+      "prod_yoga_mats_178",
+      "prod_yoga_mats_068",
+      "prod_yoga_mats_151",
+      "prod_yoga_mats_043"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "These mats are generally either too slippery for hot yoga or overly thin and uncomfortable."
+  },
+  {
+    "offer_set_id": "yoga_mats_067",
+    "consideration_set": [
+      "prod_yoga_mats_003",
+      "prod_yoga_mats_140",
+      "prod_yoga_mats_189",
+      "prod_yoga_mats_082",
+      "prod_yoga_mats_129"
+    ],
+    "final_choice": "prod_yoga_mats_003",
+    "reasoning": "The LERYG round oversize mat provides a uniquely spacious suede rubber surface perfect for meditation."
+  },
+  {
+    "offer_set_id": "yoga_mats_068",
+    "consideration_set": [
+      "prod_yoga_mats_045",
+      "prod_yoga_mats_151",
+      "prod_yoga_mats_014",
+      "prod_yoga_mats_162",
+      "prod_yoga_mats_110"
+    ],
+    "final_choice": "prod_yoga_mats_045",
+    "reasoning": "This TPE mat offers the exact right amount of compression for individuals with sensitive knees."
+  },
+  {
+    "offer_set_id": "yoga_mats_069",
+    "consideration_set": [
+      "prod_yoga_mats_073",
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_032",
+      "prod_yoga_mats_125",
+      "prod_yoga_mats_055"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The available products feel too flimsy and lack clear advantages over a standard baseline mat."
+  },
+  {
+    "offer_set_id": "yoga_mats_070",
+    "consideration_set": [
+      "prod_yoga_mats_130",
+      "prod_yoga_mats_004",
+      "prod_yoga_mats_097",
+      "prod_yoga_mats_161",
+      "prod_yoga_mats_155"
+    ],
+    "final_choice": "prod_yoga_mats_130",
+    "reasoning": "Wai Lana's extra thick non-slip design is visually appealing while securely holding traction."
+  },
+  {
+    "offer_set_id": "yoga_mats_071",
+    "consideration_set": [
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_113",
+      "prod_yoga_mats_118",
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_200"
+    ],
+    "final_choice": "prod_yoga_mats_095",
+    "reasoning": "BalanceFrom's all-purpose mat includes a knee pad which provides a massive advantage for joint protection."
+  },
+  {
+    "offer_set_id": "yoga_mats_072",
+    "consideration_set": [
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_111",
+      "prod_yoga_mats_187",
+      "prod_yoga_mats_151",
+      "prod_yoga_mats_069"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Prices feel high for the generic quality provided in the top positions here."
+  },
+  {
+    "offer_set_id": "yoga_mats_073",
+    "consideration_set": [
+      "prod_yoga_mats_103",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_029"
+    ],
+    "final_choice": "prod_yoga_mats_103",
+    "reasoning": "This extra-large SGS-certified TPE mat has an alignment line to help maintain centered positions."
+  },
+  {
+    "offer_set_id": "yoga_mats_074",
+    "consideration_set": [
+      "prod_yoga_mats_172",
+      "prod_yoga_mats_069",
+      "prod_yoga_mats_165",
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_170"
+    ],
+    "final_choice": "prod_yoga_mats_172",
+    "reasoning": "Manduka's eKO Yoga Mat uses superior natural rubber that provides an outstanding non-slip grip."
+  },
+  {
+    "offer_set_id": "yoga_mats_075",
+    "consideration_set": [
+      "prod_yoga_mats_011",
+      "prod_yoga_mats_014",
+      "prod_yoga_mats_125",
+      "prod_yoga_mats_177",
+      "prod_yoga_mats_062"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The highly ranked travel options in this set are described as overly thin and lacking basic cushioning."
+  },
+  {
+    "offer_set_id": "yoga_mats_076",
+    "consideration_set": [
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_172",
+      "prod_yoga_mats_062",
+      "prod_yoga_mats_140",
+      "prod_yoga_mats_165"
+    ],
+    "final_choice": "prod_yoga_mats_095",
+    "reasoning": "The included knee pad with the BalanceFrom mat makes it exceptionally valuable for sensitive joints."
+  },
+  {
+    "offer_set_id": "yoga_mats_077",
+    "consideration_set": [
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_151",
+      "prod_yoga_mats_162",
+      "prod_yoga_mats_043",
+      "prod_yoga_mats_003"
+    ],
+    "final_choice": "prod_yoga_mats_151",
+    "reasoning": "YogaAccessories offers a classic, lightweight exercise pad that is extremely affordable and perfectly functional."
+  },
+  {
+    "offer_set_id": "yoga_mats_078",
+    "consideration_set": [
+      "prod_yoga_mats_090",
+      "prod_yoga_mats_035",
+      "prod_yoga_mats_113",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_026"
+    ],
+    "final_choice": "prod_yoga_mats_090",
+    "reasoning": "Gaiam's Sol Dry-Grip mat is renowned for keeping stability even when fully drenched during hot yoga."
+  },
+  {
+    "offer_set_id": "yoga_mats_079",
+    "consideration_set": [
+      "prod_yoga_mats_105",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_178",
+      "prod_yoga_mats_068",
+      "prod_yoga_mats_085"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "These specific mats offer no clear differentiating features to justify a purchase today."
+  },
+  {
+    "offer_set_id": "yoga_mats_080",
+    "consideration_set": [
+      "prod_yoga_mats_113",
+      "prod_yoga_mats_172",
+      "prod_yoga_mats_177",
+      "prod_yoga_mats_064",
+      "prod_yoga_mats_111"
+    ],
+    "final_choice": "prod_yoga_mats_113",
+    "reasoning": "The Reetual hot yoga mat beautifully absorbs sweat and eliminates the need for an extra towel."
+  },
+  {
+    "offer_set_id": "yoga_mats_081",
+    "consideration_set": [
+      "prod_yoga_mats_020",
+      "prod_yoga_mats_178",
+      "prod_yoga_mats_068",
+      "prod_yoga_mats_151",
+      "prod_yoga_mats_043"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The options in this offer set feel mediocre and don't provide a compelling reason to commit to buying."
+  },
+  {
+    "offer_set_id": "yoga_mats_082",
+    "consideration_set": [
+      "prod_yoga_mats_190",
+      "prod_yoga_mats_140",
+      "prod_yoga_mats_189",
+      "prod_yoga_mats_082",
+      "prod_yoga_mats_129"
+    ],
+    "final_choice": "prod_yoga_mats_190",
+    "reasoning": "The Hugger Mugger Gallery Ultra mat features excellent cushioning and a stunning print that stands out."
+  },
+  {
+    "offer_set_id": "yoga_mats_083",
+    "consideration_set": [
+      "prod_yoga_mats_200",
+      "prod_yoga_mats_151",
+      "prod_yoga_mats_014",
+      "prod_yoga_mats_162",
+      "prod_yoga_mats_110"
+    ],
+    "final_choice": "prod_yoga_mats_200",
+    "reasoning": "Ekomx provides an extra-wide footprint which is fantastic for giving larger users more space."
+  },
+  {
+    "offer_set_id": "yoga_mats_084",
+    "consideration_set": [
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_021",
+      "prod_yoga_mats_032",
+      "prod_yoga_mats_125",
+      "prod_yoga_mats_055"
+    ],
+    "final_choice": "prod_yoga_mats_066",
+    "reasoning": "Gaiam's premium 5mm print mat removes the hard edge of the floor beautifully while providing great styling."
+  },
+  {
+    "offer_set_id": "yoga_mats_085",
+    "consideration_set": [
+      "prod_yoga_mats_125",
+      "prod_yoga_mats_004",
+      "prod_yoga_mats_097",
+      "prod_yoga_mats_161",
+      "prod_yoga_mats_155"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Too many of the top products in this set have peeling or slipping issues based on reviews."
+  },
+  {
+    "offer_set_id": "yoga_mats_086",
+    "consideration_set": [
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_053",
+      "prod_yoga_mats_157",
+      "prod_yoga_mats_024",
+      "prod_yoga_mats_079"
+    ],
+    "final_choice": "prod_yoga_mats_163",
+    "reasoning": "Heathyoga's built-in body alignment system uniquely helps beginners correct their posture dynamically."
+  },
+  {
+    "offer_set_id": "yoga_mats_087",
+    "consideration_set": [
+      "prod_yoga_mats_053",
+      "prod_yoga_mats_111",
+      "prod_yoga_mats_187",
+      "prod_yoga_mats_151",
+      "prod_yoga_mats_069"
+    ],
+    "final_choice": "prod_yoga_mats_053",
+    "reasoning": "The STOTT PILATES mat offers excellent shock absorption specifically tailored for both Pilates and yoga."
+  },
+  {
+    "offer_set_id": "yoga_mats_088",
+    "consideration_set": [
+      "prod_yoga_mats_103",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_029"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Nothing in this selection is compelling enough to warrant buying over a generic big-box alternative."
+  },
+  {
+    "offer_set_id": "yoga_mats_089",
+    "consideration_set": [
+      "prod_yoga_mats_199",
+      "prod_yoga_mats_069",
+      "prod_yoga_mats_165",
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_170"
+    ],
+    "final_choice": "prod_yoga_mats_199",
+    "reasoning": "COOLMOON's double-sided non-slip texture offers versatile traction for complex poses on slick floors."
+  },
+  {
+    "offer_set_id": "yoga_mats_090",
+    "consideration_set": [
+      "prod_yoga_mats_191",
+      "prod_yoga_mats_021",
+      "prod_yoga_mats_125",
+      "prod_yoga_mats_177",
+      "prod_yoga_mats_062"
+    ],
+    "final_choice": "prod_yoga_mats_191",
+    "reasoning": "The OGOGO double-sided thick pro mat provides superb knee comfort and high-density material."
+  },
+  {
+    "offer_set_id": "yoga_mats_091",
+    "consideration_set": [
+      "prod_yoga_mats_080",
+      "prod_yoga_mats_172",
+      "prod_yoga_mats_062",
+      "prod_yoga_mats_140",
+      "prod_yoga_mats_165"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The available products either suffer from heavy chemical odors or lack enough cushioning for daily use."
+  },
+  {
+    "offer_set_id": "yoga_mats_092",
+    "consideration_set": [
+      "prod_yoga_mats_161",
+      "prod_yoga_mats_113",
+      "prod_yoga_mats_172",
+      "prod_yoga_mats_188",
+      "prod_yoga_mats_003"
+    ],
+    "final_choice": "prod_yoga_mats_161",
+    "reasoning": "The Seeka Yoga 2-in-1 integrates a microfiber towel directly into a high-grip rubber bottom for sweaty sessions."
+  },
+  {
+    "offer_set_id": "yoga_mats_093",
+    "consideration_set": [
+      "prod_yoga_mats_188",
+      "prod_yoga_mats_035",
+      "prod_yoga_mats_113",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_026"
+    ],
+    "final_choice": "prod_yoga_mats_188",
+    "reasoning": "Lottus Life's natural jute material gives amazing sustainable traction while remaining highly durable."
+  },
+  {
+    "offer_set_id": "yoga_mats_094",
+    "consideration_set": [
+      "prod_yoga_mats_122",
+      "prod_yoga_mats_080",
+      "prod_yoga_mats_178",
+      "prod_yoga_mats_068",
+      "prod_yoga_mats_085"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "There is a noticeable lack of premium or highly differentiated products in this specific offer set."
+  },
+  {
+    "offer_set_id": "yoga_mats_095",
+    "consideration_set": [
+      "prod_yoga_mats_118",
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_048",
+      "prod_yoga_mats_064",
+      "prod_yoga_mats_111"
+    ],
+    "final_choice": "prod_yoga_mats_118",
+    "reasoning": "ODODOS provides fantastic eco-friendly material that guarantees a truly non-slip experience even with socks."
+  },
+  {
+    "offer_set_id": "yoga_mats_096",
+    "consideration_set": [
+      "prod_yoga_mats_048",
+      "prod_yoga_mats_178",
+      "prod_yoga_mats_068",
+      "prod_yoga_mats_151",
+      "prod_yoga_mats_043"
+    ],
+    "final_choice": "prod_yoga_mats_048",
+    "reasoning": "AIMERDAY's mat strikes the ideal balance between thickness, lightweight portability, and a beautiful premium print."
+  },
+  {
+    "offer_set_id": "yoga_mats_097",
+    "consideration_set": [
+      "prod_yoga_mats_193",
+      "prod_yoga_mats_140",
+      "prod_yoga_mats_189",
+      "prod_yoga_mats_082",
+      "prod_yoga_mats_129"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of these options stand out as superior to standard mats found easily at local fitness stores."
+  },
+  {
+    "offer_set_id": "yoga_mats_098",
+    "consideration_set": [
+      "prod_yoga_mats_122",
+      "prod_yoga_mats_151",
+      "prod_yoga_mats_014",
+      "prod_yoga_mats_162",
+      "prod_yoga_mats_110"
+    ],
+    "final_choice": "prod_yoga_mats_122",
+    "reasoning": "Mersuii's TPE material is exceptional for headstands and balances at an incredibly reasonable price point."
+  },
+  {
+    "offer_set_id": "yoga_mats_099",
+    "consideration_set": [
+      "prod_yoga_mats_110",
+      "prod_yoga_mats_081",
+      "prod_yoga_mats_032",
+      "prod_yoga_mats_125",
+      "prod_yoga_mats_055"
+    ],
+    "final_choice": "prod_yoga_mats_110",
+    "reasoning": "Manduka's EKO Lite uses a proprietary closed-cell rubber offering unmatched durability and sea-grass texture."
+  },
+  {
+    "offer_set_id": "yoga_mats_100",
+    "consideration_set": [
+      "prod_yoga_mats_080",
+      "prod_yoga_mats_004",
+      "prod_yoga_mats_097",
+      "prod_yoga_mats_161",
+      "prod_yoga_mats_155"
+    ],
+    "final_choice": "prod_yoga_mats_080",
+    "reasoning": "Tone Fitness provides an extra thick density mat that stays remarkably intact and slip-free on slick floors."
+  }
+]

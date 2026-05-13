@@ -23,7 +23,7 @@ import pandas as pd
 
 
 def load_results_to_dataframe(
-    results_dir="data/results",
+    results_dir="data/architecture1/results",
     experiments_dir="data/offer_sets",
     include_ablation=True,
 ):

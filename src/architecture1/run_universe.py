@@ -8,7 +8,7 @@ Usage:
     # Main experiment (full prompt)
     python src/run_universe.py --category-dir data/offer_sets/running_shoes --model groq
 
-    # Ablation study (reduced prompt variants, saved to data/results/ablation/)
+    # Ablation study (reduced prompt variants, saved to data/architecture1/results/ablation/)
     python src/run_universe.py --category-dir data/offer_sets/running_shoes --model groq --variant minimal
     python src/run_universe.py --category-dir data/offer_sets/running_shoes --model groq --variant no_reviews
     python src/run_universe.py --category-dir data/offer_sets/running_shoes --model groq --variant extended
@@ -24,7 +24,7 @@ Prompt variants (ablation study):
 
 Modeling note: "full" is the baseline used for main experiments. The ablation
 variants test whether token reduction meaningfully changes model choices.
-Results from non-full variants go to data/results/ablation/ to keep them
+Results from non-full variants go to data/architecture1/results/ablation/ to keep them
 separate from the primary dataset.
 """
 
@@ -188,7 +188,7 @@ def run_universe(category_dir, model, k=5, results_dir=None, limit=None, variant
 
     # Ablation results go to a separate directory to keep primary data clean
     if results_dir is None:
-        results_dir = "data/results/ablation" if variant != "full" else "data/results"
+        results_dir = "data/architecture1/results/ablation" if variant != "full" else "data/architecture1/results"
 
     n_total = len(offer_set_files)
     results_path = Path(results_dir)

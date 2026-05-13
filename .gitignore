@@ -41,8 +41,8 @@ data/architecture2/deprecated/
 data/architecture2/Initial Run/
 
 # Local-only legacy results (gemini-frontend old runs, pre-A2 gemini runs)
-data/results/deprecated/
-data/results/old_results/
+data/architecture1/results/deprecated/
+data/architecture1/results/old_results/
 
 # IDE state
 .claude/

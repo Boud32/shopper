@@ -28,10 +28,9 @@ src/architecture1/                    src/architecture2/
   + providers.py                        [paste into chat frontend by hand]
   (stateless API loop)                  parse_frontend_output.py
         │                              │
+        │                              │
+        ▼ data/architecture1/results/   ▼ data/architecture2/results/
         └──────────────┬───────────────┘
-                       ▼
-              data/results/*.json
-                       │
                        ▼
               src/mnl.py  +  comparison.ipynb / analysis.ipynb
 ```
@@ -42,7 +41,7 @@ src/architecture1/                    src/architecture2/
 - `src/analysis_helper.py` — `load_results_to_dataframe()` turns the result JSONs into a long-format DataFrame.
 - `comparison.ipynb` — side-by-side v2/Gemini vs.\ v3/Claude fits.
 - `analysis.ipynb` — exploratory: tag influence, position distributions, ablation tables.
-- `build_joined_excel.py` — joins per-category Excel exports into one workbook per provider.
+- `src/architecture2/build_joined_excel.py` — joins per-category Excel exports into one workbook per provider.
 - `notes/progress_report.tex` — the report.
 
 ## Architectures

@@ -255,7 +255,7 @@ if __name__ == "__main__":
     parser.add_argument("--variant",         default="full")
     parser.add_argument("--no-outside-good", action="store_true")
     parser.add_argument("--all-categories",  action="store_true")
-    parser.add_argument("--results-dir",     default="data/results/architecture2")
+    parser.add_argument("--results-dir",     default="data/architecture2/results")
     args = parser.parse_args()
 
     outside_good = not args.no_outside_good

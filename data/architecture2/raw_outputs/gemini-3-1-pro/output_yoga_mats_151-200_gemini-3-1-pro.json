@@ -1,1 +1,602 @@
-[]
+[
+  {
+    "offer_set_id": "yoga_mats_151",
+    "consideration_set": [
+      "prod_yoga_mats_082",
+      "prod_yoga_mats_069",
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_095"
+    ],
+    "final_choice": "prod_yoga_mats_006",
+    "reasoning": "It combines an extremely high rating with an incredible number of reviews and comes from a reputable brand."
+  },
+  {
+    "offer_set_id": "yoga_mats_152",
+    "consideration_set": [
+      "prod_yoga_mats_120",
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_119",
+      "prod_yoga_mats_055"
+    ],
+    "final_choice": "prod_yoga_mats_120",
+    "reasoning": "The BalanceFrom mat has over 40,000 reviews and a 4.5 rating at a very affordable price."
+  },
+  {
+    "offer_set_id": "yoga_mats_153",
+    "consideration_set": [
+      "prod_yoga_mats_187",
+      "prod_yoga_mats_149",
+      "prod_yoga_mats_199",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_066"
+    ],
+    "final_choice": "prod_yoga_mats_066",
+    "reasoning": "The Gaiam 5mm print mat offers an excellent 4.7 rating and is very reasonably priced."
+  },
+  {
+    "offer_set_id": "yoga_mats_154",
+    "consideration_set": [
+      "prod_yoga_mats_188",
+      "prod_yoga_mats_135",
+      "prod_yoga_mats_187",
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_006"
+    ],
+    "final_choice": "prod_yoga_mats_095",
+    "reasoning": "BalanceFrom 1/2 inch extra thick mat has a high rating and provides exceptional value with an included knee pad."
+  },
+  {
+    "offer_set_id": "yoga_mats_155",
+    "consideration_set": [
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_135",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_119",
+      "prod_yoga_mats_120"
+    ],
+    "final_choice": "prod_yoga_mats_180",
+    "reasoning": "The Amazon Basics mat offers a half-inch thickness and incredible reliability as shown by its huge review count."
+  },
+  {
+    "offer_set_id": "yoga_mats_156",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_135",
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_066"
+    ],
+    "final_choice": "prod_yoga_mats_163",
+    "reasoning": "The Heathyoga mat includes body alignment lines and a non-slip surface, standing out for functional practice."
+  },
+  {
+    "offer_set_id": "yoga_mats_157",
+    "consideration_set": [
+      "prod_yoga_mats_149",
+      "prod_yoga_mats_112",
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_095"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of the highly-rated mats in this set perfectly match my current requirement for a specialized hot yoga mat."
+  },
+  {
+    "offer_set_id": "yoga_mats_158",
+    "consideration_set": [
+      "prod_yoga_mats_188",
+      "prod_yoga_mats_082",
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_014",
+      "prod_yoga_mats_106"
+    ],
+    "final_choice": "prod_yoga_mats_188",
+    "reasoning": "This Lottus Life natural jute mat offers 8mm of extra thickness and strong traction with eco-friendly materials."
+  },
+  {
+    "offer_set_id": "yoga_mats_159",
+    "consideration_set": [
+      "prod_yoga_mats_045",
+      "prod_yoga_mats_161",
+      "prod_yoga_mats_135",
+      "prod_yoga_mats_128",
+      "prod_yoga_mats_155"
+    ],
+    "final_choice": "prod_yoga_mats_128",
+    "reasoning": "This mat provides alignment lines, a 2/5 inch thickness, and a 4.5 rating, making it great for guided stretching."
+  },
+  {
+    "offer_set_id": "yoga_mats_160",
+    "consideration_set": [
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_191",
+      "prod_yoga_mats_011",
+      "prod_yoga_mats_151",
+      "prod_yoga_mats_119"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Many standard options are presented, but none offer the unique aesthetic and premium feel I am looking for today."
+  },
+  {
+    "offer_set_id": "yoga_mats_161",
+    "consideration_set": [
+      "prod_yoga_mats_035",
+      "prod_yoga_mats_004",
+      "prod_yoga_mats_069",
+      "prod_yoga_mats_135",
+      "prod_yoga_mats_140"
+    ],
+    "final_choice": "prod_yoga_mats_069",
+    "reasoning": "The B YOGA Everyday Mat is renowned for its incredible grip and durability despite the higher price."
+  },
+  {
+    "offer_set_id": "yoga_mats_162",
+    "consideration_set": [
+      "prod_yoga_mats_026",
+      "prod_yoga_mats_085",
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_118",
+      "prod_yoga_mats_162"
+    ],
+    "final_choice": "prod_yoga_mats_118",
+    "reasoning": "The ODODOS yoga mat is highly rated for its thickness options and strong non-slip performance."
+  },
+  {
+    "offer_set_id": "yoga_mats_163",
+    "consideration_set": [
+      "prod_yoga_mats_177",
+      "prod_yoga_mats_106",
+      "prod_yoga_mats_120",
+      "prod_yoga_mats_165",
+      "prod_yoga_mats_158"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The prices feel a bit too high for the standard thickness mats presented in this set."
+  },
+  {
+    "offer_set_id": "yoga_mats_164",
+    "consideration_set": [
+      "prod_yoga_mats_090",
+      "prod_yoga_mats_137",
+      "prod_yoga_mats_189",
+      "prod_yoga_mats_199",
+      "prod_yoga_mats_123"
+    ],
+    "final_choice": "prod_yoga_mats_137",
+    "reasoning": "B YOGA's B Mat Strong offers unparalleled stickiness and 6mm thickness, perfect for an intense practice."
+  },
+  {
+    "offer_set_id": "yoga_mats_165",
+    "consideration_set": [
+      "prod_yoga_mats_192",
+      "prod_yoga_mats_048",
+      "prod_yoga_mats_105",
+      "prod_yoga_mats_073",
+      "prod_yoga_mats_155"
+    ],
+    "final_choice": "prod_yoga_mats_192",
+    "reasoning": "JadeYoga's Limited Edition Two-Toned Harmony mat offers exceptional natural rubber grip and a unique aesthetic."
+  },
+  {
+    "offer_set_id": "yoga_mats_166",
+    "consideration_set": [
+      "prod_yoga_mats_101",
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_161",
+      "prod_yoga_mats_178",
+      "prod_yoga_mats_130"
+    ],
+    "final_choice": "prod_yoga_mats_101",
+    "reasoning": "The Yoga Design Lab Combo Mat integrates a towel directly into the mat, solving slippage issues during hot yoga."
+  },
+  {
+    "offer_set_id": "yoga_mats_167",
+    "consideration_set": [
+      "prod_yoga_mats_024",
+      "prod_yoga_mats_068",
+      "prod_yoga_mats_125",
+      "prod_yoga_mats_190",
+      "prod_yoga_mats_064"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "This is a borderline set where top positions are dominated by generic options without distinguishing features."
+  },
+  {
+    "offer_set_id": "yoga_mats_168",
+    "consideration_set": [
+      "prod_yoga_mats_155",
+      "prod_yoga_mats_128",
+      "prod_yoga_mats_043",
+      "prod_yoga_mats_172",
+      "prod_yoga_mats_113"
+    ],
+    "final_choice": "prod_yoga_mats_155",
+    "reasoning": "The Plyopic All-In-One offers beautiful prints and a premium sweat-grip surface ideal for varied workouts."
+  },
+  {
+    "offer_set_id": "yoga_mats_169",
+    "consideration_set": [
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_149",
+      "prod_yoga_mats_162",
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_123"
+    ],
+    "final_choice": "prod_yoga_mats_084",
+    "reasoning": "Retrospec Zuma provides excellent versatility for both indoor and outdoor activities at a great price."
+  },
+  {
+    "offer_set_id": "yoga_mats_170",
+    "consideration_set": [
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_170",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_021"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "I am looking for a premium cork mat and none of these options clearly justify their price points for my needs."
+  },
+  {
+    "offer_set_id": "yoga_mats_171",
+    "consideration_set": [
+      "prod_yoga_mats_090",
+      "prod_yoga_mats_149",
+      "prod_yoga_mats_134",
+      "prod_yoga_mats_044",
+      "prod_yoga_mats_165"
+    ],
+    "final_choice": "prod_yoga_mats_090",
+    "reasoning": "Gaiam Sol Dry-Grip effectively solves the problem of a slipping practice in heated environments."
+  },
+  {
+    "offer_set_id": "yoga_mats_172",
+    "consideration_set": [
+      "prod_yoga_mats_055",
+      "prod_yoga_mats_011",
+      "prod_yoga_mats_187",
+      "prod_yoga_mats_135",
+      "prod_yoga_mats_069"
+    ],
+    "final_choice": "prod_yoga_mats_055",
+    "reasoning": "The CAMBIVO Extra Wide mat is perfect for providing more space during home workouts without touching the floor."
+  },
+  {
+    "offer_set_id": "yoga_mats_173",
+    "consideration_set": [
+      "prod_yoga_mats_085",
+      "prod_yoga_mats_199",
+      "prod_yoga_mats_105",
+      "prod_yoga_mats_155",
+      "prod_yoga_mats_045"
+    ],
+    "final_choice": "prod_yoga_mats_085",
+    "reasoning": "A premium vegan cork mat that offers natural grip when sweaty and contributes to planting a tree."
+  },
+  {
+    "offer_set_id": "yoga_mats_174",
+    "consideration_set": [
+      "prod_yoga_mats_130",
+      "prod_yoga_mats_157",
+      "prod_yoga_mats_053",
+      "prod_yoga_mats_177",
+      "prod_yoga_mats_035"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The selection is mediocre and lacks the extra-thick, high-density options that I need for my sensitive knees."
+  },
+  {
+    "offer_set_id": "yoga_mats_175",
+    "consideration_set": [
+      "prod_yoga_mats_172",
+      "prod_yoga_mats_129",
+      "prod_yoga_mats_071",
+      "prod_yoga_mats_081",
+      "prod_yoga_mats_120"
+    ],
+    "final_choice": "prod_yoga_mats_172",
+    "reasoning": "Manduka eKO is an incredibly durable, natural rubber option that offers a strong, non-slip grip."
+  },
+  {
+    "offer_set_id": "yoga_mats_176",
+    "consideration_set": [
+      "prod_yoga_mats_064",
+      "prod_yoga_mats_044",
+      "prod_yoga_mats_106",
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_189"
+    ],
+    "final_choice": "prod_yoga_mats_044",
+    "reasoning": "June & Juniper provides an exceptionally lightweight and foldable travel option without compromising on grip."
+  },
+  {
+    "offer_set_id": "yoga_mats_177",
+    "consideration_set": [
+      "prod_yoga_mats_053",
+      "prod_yoga_mats_134",
+      "prod_yoga_mats_123",
+      "prod_yoga_mats_151",
+      "prod_yoga_mats_165"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Most highly-rated options in this set are too thin for a comfortable daily practice on hard floors."
+  },
+  {
+    "offer_set_id": "yoga_mats_178",
+    "consideration_set": [
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_170",
+      "prod_yoga_mats_161",
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_137"
+    ],
+    "final_choice": "prod_yoga_mats_161",
+    "reasoning": "The Seeka Yoga 2-in-1 combo uniquely integrates a suede microfiber top for excellent wet grip during sweaty sessions."
+  },
+  {
+    "offer_set_id": "yoga_mats_179",
+    "consideration_set": [
+      "prod_yoga_mats_048",
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_119",
+      "prod_yoga_mats_006"
+    ],
+    "final_choice": "prod_yoga_mats_048",
+    "reasoning": "AIMERDAY provides an eco-friendly TPE mat with premium prints and dependable non-slip performance."
+  },
+  {
+    "offer_set_id": "yoga_mats_180",
+    "consideration_set": [
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_112",
+      "prod_yoga_mats_101",
+      "prod_yoga_mats_192"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top results are dominated by highly expensive mats that do not provide enough value compared to standard alternatives."
+  },
+  {
+    "offer_set_id": "yoga_mats_181",
+    "consideration_set": [
+      "prod_yoga_mats_175",
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_085",
+      "prod_yoga_mats_068",
+      "prod_yoga_mats_128"
+    ],
+    "final_choice": "prod_yoga_mats_175",
+    "reasoning": "JadeYoga Voyager is a phenomenal ultra-lightweight travel mat made from natural rubber."
+  },
+  {
+    "offer_set_id": "yoga_mats_182",
+    "consideration_set": [
+      "prod_yoga_mats_078",
+      "prod_yoga_mats_123",
+      "prod_yoga_mats_199",
+      "prod_yoga_mats_187",
+      "prod_yoga_mats_149"
+    ],
+    "final_choice": "prod_yoga_mats_123",
+    "reasoning": "FrenzyBird's 6x4 feet extra-large mat provides the expansive space needed for a full home gym floor workout."
+  },
+  {
+    "offer_set_id": "yoga_mats_183",
+    "consideration_set": [
+      "prod_yoga_mats_189",
+      "prod_yoga_mats_120",
+      "prod_yoga_mats_055",
+      "prod_yoga_mats_135",
+      "prod_yoga_mats_006"
+    ],
+    "final_choice": "prod_yoga_mats_189",
+    "reasoning": "This 8mm thick TPE mat offers superior eco-friendly cushioning for intensive home pilates and floor exercises."
+  },
+  {
+    "offer_set_id": "yoga_mats_184",
+    "consideration_set": [
+      "prod_yoga_mats_174",
+      "prod_yoga_mats_150",
+      "prod_yoga_mats_033",
+      "prod_yoga_mats_125",
+      "prod_yoga_mats_079"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "A very generic set of mats with unconvincing reviews regarding durability and overall stickiness."
+  },
+  {
+    "offer_set_id": "yoga_mats_185",
+    "consideration_set": [
+      "prod_yoga_mats_090",
+      "prod_yoga_mats_199",
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_043"
+    ],
+    "final_choice": "prod_yoga_mats_199",
+    "reasoning": "COOLMOON's double-sided TPE mat is highly rated for its reliable non-slip texture and generous sizing."
+  },
+  {
+    "offer_set_id": "yoga_mats_186",
+    "consideration_set": [
+      "prod_yoga_mats_113",
+      "prod_yoga_mats_177",
+      "prod_yoga_mats_188",
+      "prod_yoga_mats_109",
+      "prod_yoga_mats_191"
+    ],
+    "final_choice": "prod_yoga_mats_113",
+    "reasoning": "Reetual's premium combo mat is explicitly designed to handle heavy sweat, making it ideal for hot yoga sessions."
+  },
+  {
+    "offer_set_id": "yoga_mats_187",
+    "consideration_set": [
+      "prod_yoga_mats_020",
+      "prod_yoga_mats_070",
+      "prod_yoga_mats_122",
+      "prod_yoga_mats_140",
+      "prod_yoga_mats_151"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "I cannot find a specific reason why any of these are better than typical alternatives found in a different search."
+  },
+  {
+    "offer_set_id": "yoga_mats_188",
+    "consideration_set": [
+      "prod_yoga_mats_097",
+      "prod_yoga_mats_068",
+      "prod_yoga_mats_081",
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_095"
+    ],
+    "final_choice": "prod_yoga_mats_068",
+    "reasoning": "CorkTec's mat utilizes organic cork and natural rubber, offering a premium, non-toxic surface with great traction."
+  },
+  {
+    "offer_set_id": "yoga_mats_189",
+    "consideration_set": [
+      "prod_yoga_mats_021",
+      "prod_yoga_mats_172",
+      "prod_yoga_mats_137",
+      "prod_yoga_mats_192",
+      "prod_yoga_mats_069"
+    ],
+    "final_choice": "prod_yoga_mats_021",
+    "reasoning": "The Manduka PROlite offers a high-performance grip and incredible durability backed by a lifetime warranty."
+  },
+  {
+    "offer_set_id": "yoga_mats_190",
+    "consideration_set": [
+      "prod_yoga_mats_130",
+      "prod_yoga_mats_064",
+      "prod_yoga_mats_035",
+      "prod_yoga_mats_162",
+      "prod_yoga_mats_004"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "This is a borderline selection where prices feel unjustified for the overall quality and features presented."
+  },
+  {
+    "offer_set_id": "yoga_mats_191",
+    "consideration_set": [
+      "prod_yoga_mats_193",
+      "prod_yoga_mats_188",
+      "prod_yoga_mats_055",
+      "prod_yoga_mats_120",
+      "prod_yoga_mats_095"
+    ],
+    "final_choice": "prod_yoga_mats_193",
+    "reasoning": "The B YOGA 2mm mat provides unmatched stickiness in a thinner profile perfect for balance-intensive practice."
+  },
+  {
+    "offer_set_id": "yoga_mats_192",
+    "consideration_set": [
+      "prod_yoga_mats_045",
+      "prod_yoga_mats_119",
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_135"
+    ],
+    "final_choice": "prod_yoga_mats_045",
+    "reasoning": "This TPE mat offers a solid balance of eco-friendly materials, good thickness, and an included carrying strap."
+  },
+  {
+    "offer_set_id": "yoga_mats_193",
+    "consideration_set": [
+      "prod_yoga_mats_081",
+      "prod_yoga_mats_161",
+      "prod_yoga_mats_178",
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_128"
+    ],
+    "final_choice": "prod_yoga_mats_081",
+    "reasoning": "The EveryMile classic mat is a highly affordable, anti-tear TPE option with dependable slip resistance."
+  },
+  {
+    "offer_set_id": "yoga_mats_194",
+    "consideration_set": [
+      "prod_yoga_mats_053",
+      "prod_yoga_mats_170",
+      "prod_yoga_mats_151",
+      "prod_yoga_mats_125",
+      "prod_yoga_mats_033"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Nothing clearly stands out as a high-performance mat capable of handling intensive hot yoga sessions."
+  },
+  {
+    "offer_set_id": "yoga_mats_195",
+    "consideration_set": [
+      "prod_yoga_mats_190",
+      "prod_yoga_mats_105",
+      "prod_yoga_mats_073",
+      "prod_yoga_mats_048",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_190",
+    "reasoning": "Hugger Mugger's Gallery Ultra mat features a beautiful print while delivering exceptional cushioning and durability."
+  },
+  {
+    "offer_set_id": "yoga_mats_196",
+    "consideration_set": [
+      "prod_yoga_mats_178",
+      "prod_yoga_mats_090",
+      "prod_yoga_mats_101",
+      "prod_yoga_mats_134",
+      "prod_yoga_mats_175"
+    ],
+    "final_choice": "prod_yoga_mats_178",
+    "reasoning": "The Hugger Mugger Tapas Original is a time-tested, highly economical sticky mat made in the USA."
+  },
+  {
+    "offer_set_id": "yoga_mats_197",
+    "consideration_set": [
+      "prod_yoga_mats_080",
+      "prod_yoga_mats_053",
+      "prod_yoga_mats_024",
+      "prod_yoga_mats_071",
+      "prod_yoga_mats_001"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top positions contain weak options and I prefer to wait for better, more reliable alternatives."
+  },
+  {
+    "offer_set_id": "yoga_mats_198",
+    "consideration_set": [
+      "prod_yoga_mats_097",
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_187",
+      "prod_yoga_mats_149",
+      "prod_yoga_mats_199"
+    ],
+    "final_choice": "prod_yoga_mats_158",
+    "reasoning": "Retrospec Solana provides a full 1/2 inch of thick support, effectively alleviating stress on joints during floor work."
+  },
+  {
+    "offer_set_id": "yoga_mats_199",
+    "consideration_set": [
+      "prod_yoga_mats_119",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_120",
+      "prod_yoga_mats_006"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Nothing in this set feels compelling enough to replace my currently functioning daily exercise mat."
+  },
+  {
+    "offer_set_id": "yoga_mats_200",
+    "consideration_set": [
+      "prod_yoga_mats_082",
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_135",
+      "prod_yoga_mats_079"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Prices are high for the perceived quality and nothing distinctly catches my attention as a superior upgrade."
+  }
+]

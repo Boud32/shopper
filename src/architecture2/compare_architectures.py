@@ -7,10 +7,10 @@ as the model processes more offer sets in a single session?
 
 Usage:
     python src/compare_architectures.py \\
-        --api-results     data/results/ \\
-        --frontend-results data/results/frontend/ \\
-        --category        "Mechanical Keyboards" \\
-        --api-provider    groq \\
+        --api-results      data/architecture1/results \\
+        --frontend-results data/architecture2/results \\
+        --category         "Mechanical Keyboards" \\
+        --api-provider     groq \\
         --frontend-provider gemini-frontend
 """
 
@@ -127,8 +127,8 @@ def print_summary(results):
 
 def main():
     parser = argparse.ArgumentParser(description="Compare API vs. frontend architecture results")
-    parser.add_argument("--api-results",       default="data/results")
-    parser.add_argument("--frontend-results",  default="data/results/frontend")
+    parser.add_argument("--api-results",       default="data/architecture1/results")
+    parser.add_argument("--frontend-results",  default="data/architecture2/results")
     parser.add_argument("--category",          required=True)
     parser.add_argument("--api-provider",      default="groq")
     parser.add_argument("--frontend-provider", default="gemini-frontend")
