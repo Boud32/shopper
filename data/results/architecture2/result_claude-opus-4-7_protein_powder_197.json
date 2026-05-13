@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 47,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_197.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_063",
+      "prod_protein_powder_088",
+      "prod_protein_powder_134",
+      "prod_protein_powder_191"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by low-review items (Respect 46 reviews, Authentic Vegan 170 reviews) and the strong options are buried \u2014 nothing clearly beats alternatives from a different search."
+  }
+}

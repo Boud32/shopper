@@ -1,0 +1,602 @@
+[
+  {
+    "offer_set_id": "conditioner_051",
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_023",
+      "prod_conditioner_027",
+      "prod_conditioner_040",
+      "prod_conditioner_199"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Garnier Whole Blends offers the best mainstream value at $15.98 with 4.7 stars across 8,445 reviews \u2014 a proven mass-market performer."
+  },
+  {
+    "offer_set_id": "conditioner_052",
+    "consideration_set": [
+      "prod_conditioner_196",
+      "prod_conditioner_005",
+      "prod_conditioner_097",
+      "prod_conditioner_140",
+      "prod_conditioner_286"
+    ],
+    "final_choice": "prod_conditioner_196",
+    "reasoning": "Maui Moisture at $8 with 4.5 stars/3,255 reviews is the clear value winner for a general shopper in a set where stronger options are niche."
+  },
+  {
+    "offer_set_id": "conditioner_053",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_241",
+      "prod_conditioner_023",
+      "prod_conditioner_255",
+      "prod_conditioner_176"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle at $17.99 with 4.7/5,134 reviews is a drugstore-classic standout with mass appeal."
+  },
+  {
+    "offer_set_id": "conditioner_054",
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_023",
+      "prod_conditioner_170",
+      "prod_conditioner_024",
+      "prod_conditioner_219"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Despite weak top positions, Garnier Whole Blends remains present and is the clearest mainstream value pick in the set."
+  },
+  {
+    "offer_set_id": "conditioner_055",
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_280",
+      "prod_conditioner_027",
+      "prod_conditioner_214",
+      "prod_conditioner_184"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Garnier Whole Blends is still the strongest overall pick (4.7/8,445) despite being buried at position 19."
+  },
+  {
+    "offer_set_id": "conditioner_056",
+    "consideration_set": [
+      "prod_conditioner_110",
+      "prod_conditioner_016",
+      "prod_conditioner_169",
+      "prod_conditioner_245",
+      "prod_conditioner_011"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by niche, pricey, or thin-review products and no mainstream option clearly stands out as better than alternatives elsewhere."
+  },
+  {
+    "offer_set_id": "conditioner_057",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_023",
+      "prod_conditioner_196",
+      "prod_conditioner_199",
+      "prod_conditioner_027"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle at $17.99 with 4.7/5,134 reviews is the strongest general pick at a great price."
+  },
+  {
+    "offer_set_id": "conditioner_058",
+    "consideration_set": [
+      "prod_conditioner_078",
+      "prod_conditioner_170",
+      "prod_conditioner_027",
+      "prod_conditioner_040",
+      "prod_conditioner_140"
+    ],
+    "final_choice": "prod_conditioner_078",
+    "reasoning": "It's A 10 Miracle Deep Conditioner is a well-known quality salon product at $16.05 with 4.6/2,426 reviews, well-positioned."
+  },
+  {
+    "offer_set_id": "conditioner_059",
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_023",
+      "prod_conditioner_170",
+      "prod_conditioner_110",
+      "prod_conditioner_218"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Garnier Whole Blends is the best value mainstream option with exceptional review base (4.7/8,445)."
+  },
+  {
+    "offer_set_id": "conditioner_060",
+    "consideration_set": [
+      "prod_conditioner_241",
+      "prod_conditioner_110",
+      "prod_conditioner_040",
+      "prod_conditioner_119",
+      "prod_conditioner_280"
+    ],
+    "final_choice": "prod_conditioner_241",
+    "reasoning": "Mixed Chicks at $13.99 with 4.7/1,586 reviews offers exceptional value and broad appeal among the top-ranked options."
+  },
+  {
+    "offer_set_id": "conditioner_061",
+    "consideration_set": [
+      "prod_conditioner_241",
+      "prod_conditioner_218",
+      "prod_conditioner_040",
+      "prod_conditioner_070",
+      "prod_conditioner_168"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The strong options are buried at the bottom while top positions are stuffed with niche/low-review products \u2014 nothing compelling enough given how weak the visible set is."
+  },
+  {
+    "offer_set_id": "conditioner_062",
+    "consideration_set": [
+      "prod_conditioner_040",
+      "prod_conditioner_026",
+      "prod_conditioner_245",
+      "prod_conditioner_005",
+      "prod_conditioner_015"
+    ],
+    "final_choice": "prod_conditioner_040",
+    "reasoning": "Alfaparf Milano leave-in at $22 with 4.6/2,624 reviews is a well-positioned premium product at a reasonable price."
+  },
+  {
+    "offer_set_id": "conditioner_063",
+    "consideration_set": [
+      "prod_conditioner_040",
+      "prod_conditioner_194",
+      "prod_conditioner_245",
+      "prod_conditioner_027",
+      "prod_conditioner_184"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by niche thinning-hair products and thin-review items \u2014 nothing at the top has clear mainstream value."
+  },
+  {
+    "offer_set_id": "conditioner_064",
+    "consideration_set": [
+      "prod_conditioner_078",
+      "prod_conditioner_016",
+      "prod_conditioner_280",
+      "prod_conditioner_140",
+      "prod_conditioner_023"
+    ],
+    "final_choice": "prod_conditioner_078",
+    "reasoning": "It's A 10 Miracle Deep at position 5 is a well-known high-quality salon product at a reasonable price with strong reviews."
+  },
+  {
+    "offer_set_id": "conditioner_065",
+    "consideration_set": [
+      "prod_conditioner_196",
+      "prod_conditioner_199",
+      "prod_conditioner_245",
+      "prod_conditioner_039",
+      "prod_conditioner_066"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions dominated by pricey niche and purple-toning products; nothing mainstream-appealing surfaces at a prominent position."
+  },
+  {
+    "offer_set_id": "conditioner_066",
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_027",
+      "prod_conditioner_119",
+      "prod_conditioner_097",
+      "prod_conditioner_026"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (men's hair loss, niche bars, chemo-patient product); the strong options all sit deep at positions 16+."
+  },
+  {
+    "offer_set_id": "conditioner_067",
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_097",
+      "prod_conditioner_290",
+      "prod_conditioner_024",
+      "prod_conditioner_027"
+    ],
+    "final_choice": "prod_conditioner_170",
+    "reasoning": "Dove Nutritive Intensive Repair at $23.95 with 4.7/1,192 reviews is well-positioned and offers trusted mainstream quality."
+  },
+  {
+    "offer_set_id": "conditioner_068",
+    "consideration_set": [
+      "prod_conditioner_196",
+      "prod_conditioner_218",
+      "prod_conditioner_170",
+      "prod_conditioner_027",
+      "prod_conditioner_171"
+    ],
+    "final_choice": "prod_conditioner_196",
+    "reasoning": "Maui Moisture at $8 with 4.5/3,255 reviews is unbeatable value and is well-positioned at the top of page 1."
+  },
+  {
+    "offer_set_id": "conditioner_069",
+    "consideration_set": [
+      "prod_conditioner_119",
+      "prod_conditioner_066",
+      "prod_conditioner_169",
+      "prod_conditioner_256",
+      "prod_conditioner_071"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are unusually weak (3.4 rating Clear Scalp, men's products, niche options); strong alternatives exist but none clearly dominates for a general shopper."
+  },
+  {
+    "offer_set_id": "conditioner_070",
+    "consideration_set": [
+      "prod_conditioner_078",
+      "prod_conditioner_119",
+      "prod_conditioner_196",
+      "prod_conditioner_245",
+      "prod_conditioner_097"
+    ],
+    "final_choice": "prod_conditioner_078",
+    "reasoning": "It's A 10 Miracle Deep is well-positioned at pos 4 with strong reviews (4.6/2,426) and good price \u2014 clearly better than most alternatives."
+  },
+  {
+    "offer_set_id": "conditioner_071",
+    "consideration_set": [
+      "prod_conditioner_016",
+      "prod_conditioner_066",
+      "prod_conditioner_169",
+      "prod_conditioner_196",
+      "prod_conditioner_097"
+    ],
+    "final_choice": "prod_conditioner_016",
+    "reasoning": "L'Oreal Elvive Hyaluron Plump at $8.48 with 4.6/344 reviews and 26.5oz offers excellent value and is well-positioned."
+  },
+  {
+    "offer_set_id": "conditioner_072",
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_024",
+      "prod_conditioner_026",
+      "prod_conditioner_014",
+      "prod_conditioner_016"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Garnier Whole Blends at position 10 with 4.7/8,445 reviews remains the best combination of reviews, quality, and price."
+  },
+  {
+    "offer_set_id": "conditioner_073",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_040",
+      "prod_conditioner_027",
+      "prod_conditioner_245",
+      "prod_conditioner_176"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle at $17.99 with 4.7/5,134 is the clear mainstream winner at a visible position."
+  },
+  {
+    "offer_set_id": "conditioner_074",
+    "consideration_set": [
+      "prod_conditioner_003",
+      "prod_conditioner_016",
+      "prod_conditioner_196",
+      "prod_conditioner_097",
+      "prod_conditioner_241"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top of page is weak with niche, low-review, and men-specific products; strong options are buried and nothing at the top justifies a purchase."
+  },
+  {
+    "offer_set_id": "conditioner_075",
+    "consideration_set": [
+      "prod_conditioner_011",
+      "prod_conditioner_286",
+      "prod_conditioner_016",
+      "prod_conditioner_140",
+      "prod_conditioner_114"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Visible top positions are weak (pricey Hempz, 12-review VO5, niche bars) and nothing mainstream-strong is prominently placed."
+  },
+  {
+    "offer_set_id": "conditioner_076",
+    "consideration_set": [
+      "prod_conditioner_169",
+      "prod_conditioner_040",
+      "prod_conditioner_097",
+      "prod_conditioner_024",
+      "prod_conditioner_005"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top is crowded with low-review niche products; the strong items sit at position 15+ and nothing compelling surfaces early."
+  },
+  {
+    "offer_set_id": "conditioner_077",
+    "consideration_set": [
+      "prod_conditioner_176",
+      "prod_conditioner_026",
+      "prod_conditioner_088",
+      "prod_conditioner_245",
+      "prod_conditioner_076"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top of page dominated by niche bars and weak items; nothing at the top is strong enough to beat what another search could easily yield."
+  },
+  {
+    "offer_set_id": "conditioner_078",
+    "consideration_set": [
+      "prod_conditioner_097",
+      "prod_conditioner_066",
+      "prod_conditioner_241",
+      "prod_conditioner_023",
+      "prod_conditioner_027"
+    ],
+    "final_choice": "prod_conditioner_097",
+    "reasoning": "It's A 10 Silk Express at $15.48 with 4.7/763 reviews is well-positioned and a trusted salon brand at good value."
+  },
+  {
+    "offer_set_id": "conditioner_079",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_009",
+      "prod_conditioner_140",
+      "prod_conditioner_031",
+      "prod_conditioner_190"
+    ],
+    "final_choice": "prod_conditioner_023",
+    "reasoning": "Redken Acidic Bonding at pos 7 with 4.5/7,938 reviews is a trusted damage-repair option with exceptional social proof."
+  },
+  {
+    "offer_set_id": "conditioner_080",
+    "consideration_set": [
+      "prod_conditioner_070",
+      "prod_conditioner_194",
+      "prod_conditioner_026",
+      "prod_conditioner_196",
+      "prod_conditioner_097"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions consist of niche/pricey/low-review products; the strong options are all at position 15+ and nothing clearly dominates for a general shopper."
+  },
+  {
+    "offer_set_id": "conditioner_081",
+    "consideration_set": [
+      "prod_conditioner_011",
+      "prod_conditioner_002",
+      "prod_conditioner_026",
+      "prod_conditioner_176",
+      "prod_conditioner_023"
+    ],
+    "final_choice": "prod_conditioner_011",
+    "reasoning": "Hempz at position 1 with Best Seller badge, 4.6/564 reviews and 33.8oz bottle delivers quality and good value per ounce."
+  },
+  {
+    "offer_set_id": "conditioner_082",
+    "consideration_set": [
+      "prod_conditioner_130",
+      "prod_conditioner_005",
+      "prod_conditioner_011",
+      "prod_conditioner_024",
+      "prod_conditioner_015"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top is weak (bulk gallon refills, thin-review options); nothing at the top is a clearly compelling mainstream pick."
+  },
+  {
+    "offer_set_id": "conditioner_083",
+    "consideration_set": [
+      "prod_conditioner_097",
+      "prod_conditioner_070",
+      "prod_conditioner_196",
+      "prod_conditioner_241",
+      "prod_conditioner_183"
+    ],
+    "final_choice": "prod_conditioner_097",
+    "reasoning": "It's A 10 Silk Express at pos 10 offers strong reviews (4.7/763) and good price among an otherwise mediocre top-page selection."
+  },
+  {
+    "offer_set_id": "conditioner_084",
+    "consideration_set": [
+      "prod_conditioner_241",
+      "prod_conditioner_040",
+      "prod_conditioner_023",
+      "prod_conditioner_110",
+      "prod_conditioner_169"
+    ],
+    "final_choice": "prod_conditioner_241",
+    "reasoning": "Mixed Chicks at $13.99 with 4.7/1,586 reviews is well-positioned at pos 6 and represents the best blend of reviews, price, and quality."
+  },
+  {
+    "offer_set_id": "conditioner_085",
+    "consideration_set": [
+      "prod_conditioner_024",
+      "prod_conditioner_009",
+      "prod_conditioner_097",
+      "prod_conditioner_176",
+      "prod_conditioner_199"
+    ],
+    "final_choice": "prod_conditioner_024",
+    "reasoning": "Argan Magic at $16.95 for 32oz with 4.5/443 reviews is a strong value pick, well-positioned at pos 4."
+  },
+  {
+    "offer_set_id": "conditioner_086",
+    "consideration_set": [
+      "prod_conditioner_027",
+      "prod_conditioner_097",
+      "prod_conditioner_016",
+      "prod_conditioner_125",
+      "prod_conditioner_074"
+    ],
+    "final_choice": "prod_conditioner_027",
+    "reasoning": "L'Oreal Elvive Color Vibrancy at pos 1 offers strong reviews (4.6/2,586) at a reasonable price \u2014 the clear pole-position winner."
+  },
+  {
+    "offer_set_id": "conditioner_087",
+    "consideration_set": [
+      "prod_conditioner_218",
+      "prod_conditioner_027",
+      "prod_conditioner_194",
+      "prod_conditioner_183",
+      "prod_conditioner_286"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by niche, thin-review, and specialty products; strong options buried deep and nothing clearly stands out at the visible top."
+  },
+  {
+    "offer_set_id": "conditioner_088",
+    "consideration_set": [
+      "prod_conditioner_005",
+      "prod_conditioner_074",
+      "prod_conditioner_241",
+      "prod_conditioner_110",
+      "prod_conditioner_026"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top-of-page selection is weak (Hask pack at high price, blonde toner, men's hair loss, chemo product, niche items); no strong mainstream pick at the top."
+  },
+  {
+    "offer_set_id": "conditioner_089",
+    "consideration_set": [
+      "prod_conditioner_218",
+      "prod_conditioner_119",
+      "prod_conditioner_023",
+      "prod_conditioner_196",
+      "prod_conditioner_024"
+    ],
+    "final_choice": "prod_conditioner_218",
+    "reasoning": "Carol's Daughter at pos 4 with $13.99, 4.4/2,932 reviews is well-positioned with strong social proof and good value."
+  },
+  {
+    "offer_set_id": "conditioner_090",
+    "consideration_set": [
+      "prod_conditioner_009",
+      "prod_conditioner_177",
+      "prod_conditioner_078",
+      "prod_conditioner_125",
+      "prod_conditioner_024"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (niche/sponsored/thin-review); It's A 10 is buried at pos 21 and nothing at top is clearly compelling."
+  },
+  {
+    "offer_set_id": "conditioner_091",
+    "consideration_set": [
+      "prod_conditioner_078",
+      "prod_conditioner_241",
+      "prod_conditioner_199",
+      "prod_conditioner_256",
+      "prod_conditioner_170"
+    ],
+    "final_choice": "prod_conditioner_078",
+    "reasoning": "It's A 10 Miracle Deep at pos 5 with 4.6/2,426 reviews and $16.05 is a strong well-known pick at a prominent position."
+  },
+  {
+    "offer_set_id": "conditioner_092",
+    "consideration_set": [
+      "prod_conditioner_168",
+      "prod_conditioner_027",
+      "prod_conditioner_119",
+      "prod_conditioner_196",
+      "prod_conditioner_026"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top-page dominated by kids products, pricey Harklinikken and Shu Uemura, weak-review niche items; nothing compelling at the top."
+  },
+  {
+    "offer_set_id": "conditioner_093",
+    "consideration_set": [
+      "prod_conditioner_078",
+      "prod_conditioner_194",
+      "prod_conditioner_003",
+      "prod_conditioner_092",
+      "prod_conditioner_112"
+    ],
+    "final_choice": "prod_conditioner_078",
+    "reasoning": "It's A 10 Miracle Deep at pos 5 with 4.6/2,426 reviews is the clear quality pick in a generally weak top-page selection."
+  },
+  {
+    "offer_set_id": "conditioner_094",
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_199",
+      "prod_conditioner_088",
+      "prod_conditioner_287",
+      "prod_conditioner_219"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Garnier Whole Blends at pos 1 with 4.7/8,445 reviews is the strongest overall pick \u2014 best combination of price, reviews, and mainstream appeal."
+  },
+  {
+    "offer_set_id": "conditioner_095",
+    "consideration_set": [
+      "prod_conditioner_009",
+      "prod_conditioner_003",
+      "prod_conditioner_039",
+      "prod_conditioner_127",
+      "prod_conditioner_174"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions uniformly weak (niche Curl Keeper, sponsored Only4Hair, men's growth, kid brands); no strong mainstream option at the top."
+  },
+  {
+    "offer_set_id": "conditioner_096",
+    "consideration_set": [
+      "prod_conditioner_243",
+      "prod_conditioner_219",
+      "prod_conditioner_287",
+      "prod_conditioner_142",
+      "prod_conditioner_147"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top of page stuffed with niche and mediocre products; Biotin Conditioner at pos 1 has lukewarm reviews and nothing compelling stands out."
+  },
+  {
+    "offer_set_id": "conditioner_097",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_176",
+      "prod_conditioner_183",
+      "prod_conditioner_198",
+      "prod_conditioner_190"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle at pos 7 with 4.7/5,134 reviews is the clear proven mainstream pick at a reasonable price."
+  },
+  {
+    "offer_set_id": "conditioner_098",
+    "consideration_set": [
+      "prod_conditioner_005",
+      "prod_conditioner_176",
+      "prod_conditioner_024",
+      "prod_conditioner_014",
+      "prod_conditioner_298"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions weak (men's product, niche Plum, sample-sized Sol de Janeiro); no clearly strong mainstream option in visible top."
+  },
+  {
+    "offer_set_id": "conditioner_099",
+    "consideration_set": [
+      "prod_conditioner_199",
+      "prod_conditioner_002",
+      "prod_conditioner_009",
+      "prod_conditioner_003",
+      "prod_conditioner_171"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions dominated by sponsored, niche, and low-review options; nothing clearly dominant enough to prefer over a different search."
+  },
+  {
+    "offer_set_id": "conditioner_100",
+    "consideration_set": [
+      "prod_conditioner_078",
+      "prod_conditioner_218",
+      "prod_conditioner_110",
+      "prod_conditioner_024",
+      "prod_conditioner_011"
+    ],
+    "final_choice": "prod_conditioner_078",
+    "reasoning": "It's A 10 Miracle Deep at pos 6 with 4.6/2,426 reviews is well-positioned and represents trusted salon-brand quality at good price."
+  }
+]

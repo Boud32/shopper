@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 47,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_147.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_241",
+      "prod_conditioner_040",
+      "prod_conditioner_002",
+      "prod_conditioner_024",
+      "prod_conditioner_027"
+    ],
+    "final_choice": "prod_conditioner_241",
+    "reasoning": "Mixed Chicks Detangling Deep Conditioner at $13.99 with 4.7/1586 reviews at visible position 9 is a strong well-reviewed pick."
+  }
+}

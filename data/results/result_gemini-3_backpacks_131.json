@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_session_25",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_128",
+      "prod_backpacks_164",
+      "prod_backpacks_137",
+      "prod_backpacks_159",
+      "prod_backpacks_099"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was looking for a durable, mid-range backpack for regular use or hiking. I evaluated the adidas Mesh Backpack (prod_backpacks_128), but it is too specialized for my needs. The larger hiking rucksacks like the Mardingtop 70L (prod_backpacks_137) and W WINTMING 45L (prod_backpacks_164) had concerning reviews regarding build quality, specifically issues with buckles breaking and 'cheap' manufacturing. The Granite Gear pack (prod_backpacks_041), which I also considered briefly, had reports of straps tearing on the first trip. The ZOMAKE (prod_backpacks_099) is a packable bag that lacks the structure I require for a primary bag. Because the technical bags in this set have questionable durability ratings from verified users, I have decided to wait and look for a more robust option."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_131.json",
+    "offer_set_id": "backpacks_131",
+    "timestamp": 1775593330,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

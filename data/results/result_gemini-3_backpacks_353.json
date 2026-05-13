@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_sim_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_006",
+      "prod_backpacks_078",
+      "prod_backpacks_150",
+      "prod_backpacks_095",
+      "prod_backpacks_186"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The search for a standard, versatile backpack was met with a selection that was either too specialized or too lightweight. While the HIKPRO (prod_backpacks_006) is highly rated, it is a packable daypack lacking structure for daily heavy use. The other options in the consideration set are strictly niche: hydration-focused (prod_backpacks_078, prod_backpacks_150), hunting-specific (prod_backpacks_095), or designed for ski boots (prod_backpacks_186). The only standard canvas backpack available (prod_backpacks_031) is overpriced and poorly rated. Without a high-quality, structured daily-use or travel backpack, I am opting for no purchase in this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_353.json",
+    "offer_set_id": "backpacks_353",
+    "timestamp": 1775597510,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

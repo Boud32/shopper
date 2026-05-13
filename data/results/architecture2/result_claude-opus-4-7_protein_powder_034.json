@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "",
+    "architecture": "frontend",
+    "session_position": 34,
+    "timestamp": 1776377218,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_034.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_109",
+      "prod_protein_powder_065",
+      "prod_protein_powder_076",
+      "prod_protein_powder_135",
+      "prod_protein_powder_173"
+    ],
+    "final_choice": "prod_protein_powder_109",
+    "reasoning": "BSN SYNTHA-6 at $60.40 with 4.7 stars from 26,000+ reviews remains the top-quality pick whenever it appears."
+  }
+}

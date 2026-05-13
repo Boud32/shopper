@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_toothbrushes",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_126",
+      "prod_toothbrushes_110",
+      "prod_toothbrushes_153",
+      "prod_toothbrushes_156",
+      "prod_toothbrushes_065"
+    ],
+    "final_choice": "prod_toothbrushes_156",
+    "reasoning_trace": "The final choice, 'prod_toothbrushes_156' (Oral-B iO Series 4 Electric Toothbrush), is selected due to its high rating of 4.6 and numerous positive reviews praising its effectiveness in plaque removal and gum health. Although it's one of the more expensive options, its advanced features such as personalized coaching and real-time brushing report via an accompanying app justify the cost for those seeking a high-quality electric toothbrush. The consideration set includes a variety of electric toothbrushes and replacement heads, focusing on products with high ratings and positive reviews, ensuring a good balance between quality and price."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_215.json",
+    "offer_set_id": "toothbrushes_215",
+    "timestamp": 1772654648,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

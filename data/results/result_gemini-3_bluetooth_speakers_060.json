@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_131",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_061",
+      "prod_bluetooth_speakers_183"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "After reviewing the available options, I found the product feed to be cluttered with a high percentage of accessories like carrying cases, replacement batteries, and AC adapters rather than actual speakers. While reputable brands like Bose and JBL are present, the Pulse 4 is priced quite high at $249, and many of the mid-range speakers have reviews citing quality control issues, such as the Altec Lansing filling with water or the DOSS speaker developing sound cracks after light use. I prefer to wait for a wider selection of standalone speakers with more consistent reliability ratings before committing to a purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_060.json",
+    "offer_set_id": "bluetooth_speakers_060",
+    "timestamp": 1775591721,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

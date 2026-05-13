@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_sim_1",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_107",
+      "prod_backpacks_173",
+      "prod_backpacks_102",
+      "prod_backpacks_174",
+      "prod_backpacks_005"
+    ],
+    "final_choice": "prod_backpacks_107",
+    "reasoning_trace": "The search for backpacks yielded a significant number of irrelevant items like camping chairs, sleeping bags, and towels. Within the actual backpack category, the Seibertron Falcon (prod_backpacks_107) offered the best balance of features, capacity (37L), and durability for hiking at a reasonable price of $59.99. The ZOMAKE (prod_backpacks_173) was a budget-friendly packable option but lacked the structure for a primary pack. The IDRYBAG (prod_backpacks_174) was too specialized as a dry bag, and the USGI Military Alice Pack (prod_backpacks_005) was prohibitively expensive at $339.99. The Seibertron had consistently high ratings and specific reviews highlighting its utility for outdoor activities."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_319.json",
+    "offer_set_id": "backpacks_319",
+    "timestamp": 1775596980,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

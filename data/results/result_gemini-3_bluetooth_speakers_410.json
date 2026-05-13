@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_168",
+      "prod_bluetooth_speakers_072"
+    ],
+    "final_choice": "prod_bluetooth_speakers_120",
+    "reasoning_trace": "I filtered out several accessories that were not standalone speakers (cables, cases, and battery bases). For my consideration set, I prioritized products with strong brand reputation and high ratings. The JBL Charge 5 and Sony SRS-XB43 represent the top-tier performance options, while the JBL Go 3 offers brand-name quality in a smaller form factor. The NOTABRICK and HyperGear speakers were included for their high value-to-performance ratio. I ultimately chose the JBL Charge 5 because its 4.8 rating over 16,000+ reviews is an industry-leading indicator of reliability and sound quality, which justifies the premium price for a long-term audio solution."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_410.json",
+    "offer_set_id": "bluetooth_speakers_410",
+    "timestamp": 1775603915,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

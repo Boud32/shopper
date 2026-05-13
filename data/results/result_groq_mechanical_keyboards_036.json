@@ -1,0 +1,23 @@
+{
+  "experiment_id": "mechanical_keyboards",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_049",
+      "prod_mechanical_keyboards_083",
+      "prod_mechanical_keyboards_097",
+      "prod_mechanical_keyboards_151",
+      "prod_mechanical_keyboards_195"
+    ],
+    "final_choice": "prod_mechanical_keyboards_195",
+    "reasoning_trace": "The final choice is based on the high rating (4.4) and large number of reviews (91) for the nuphy Air60 Portable Wireless Keyboard, indicating a well-regarded product. The consideration set includes a mix of highly-rated keycap sets and keyboards, such as the Akko Keycaps and the SteelSeries Apex Pro Mini Mechanical Gaming Keyboard, which suggests that the customer is looking for high-quality products. The YMDK ANSI ISO PBT Doubleshot Shine Through Pudding Keycaps and the dagaladoo XVX 131 Keys Double Shot Keycaps are also included in the consideration set, which indicates that the customer may be looking for customizable keycap options."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_036.json",
+    "offer_set_id": "mechanical_keyboards_036",
+    "timestamp": 1772654107,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

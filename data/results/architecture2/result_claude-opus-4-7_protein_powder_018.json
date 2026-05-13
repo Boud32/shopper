@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "",
+    "architecture": "frontend",
+    "session_position": 18,
+    "timestamp": 1776377218,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_018.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_135",
+      "prod_protein_powder_060",
+      "prod_protein_powder_195",
+      "prod_protein_powder_014",
+      "prod_protein_powder_027"
+    ],
+    "final_choice": "prod_protein_powder_135",
+    "reasoning": "Quattro at $44.99 with 4.6 stars from 1,327 reviews offers lactose-free protein with solid ratings at a fair price."
+  }
+}

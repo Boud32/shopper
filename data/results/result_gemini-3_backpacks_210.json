@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_074",
+      "prod_backpacks_023",
+      "prod_backpacks_128",
+      "prod_backpacks_182",
+      "prod_backpacks_072"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The product feed offers a variety of specialized bags, but lacks a high-quality, general-purpose daily backpack. The consideration set includes products for specific niches: the Transpack (skates), Rawlings (baseball), and the adidas bag (mesh material). The Fox Outdoor NATO rucksack fits a traditional aesthetic but has concerning reviews regarding buckle quality, and the USGI Alice Pack is prohibitively expensive at $339 for surplus gear that may arrive in poor condition. Because most options are either too task-specific or have significant quality/price trade-offs, I have decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_210.json",
+    "offer_set_id": "backpacks_210",
+    "timestamp": 1775594462,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

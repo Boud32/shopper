@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_171",
+      "prod_backpacks_023",
+      "prod_backpacks_125",
+      "prod_backpacks_168",
+      "prod_backpacks_184"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I am looking for a reliable, high-quality backpack for general use or hiking. The consideration set included a tactical pack (Explorer), a military-style rucksack (Fox Outdoor), a premium waterproof pack (USWE), a small sling bag (MOSISO), and a budget laptop bag (KAUKKO). However, the search results were heavily cluttered with unrelated camping items like astronaut food, water bottles, and tent stakes. Among the actual backpacks, the budget-friendly options (KAUKKO and Fox Outdoor) had concerning reviews regarding durability, specifically broken straps and poor buckle quality. The USWE pack was far beyond my expected price range at over $200. Because none of the options provided a good balance of quality, reliability, and value, I decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_021.json",
+    "offer_set_id": "backpacks_021",
+    "timestamp": 1774978616,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

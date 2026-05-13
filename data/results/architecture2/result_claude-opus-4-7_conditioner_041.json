@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 41,
+    "timestamp": 1776689265,
+    "source_batch": "data/offer_sets/conditioner/conditioner_041.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_169",
+      "prod_conditioner_097",
+      "prod_conditioner_014",
+      "prod_conditioner_110"
+    ],
+    "final_choice": "prod_conditioner_023",
+    "reasoning": "Redken Acidic Bonding Concentrate at position 1 with 4.5 stars and 7938 reviews is the clear winner."
+  }
+}

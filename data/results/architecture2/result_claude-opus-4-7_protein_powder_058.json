@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 8,
+    "timestamp": 1776640082,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_058.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_057",
+      "prod_protein_powder_024",
+      "prod_protein_powder_016",
+      "prod_protein_powder_049",
+      "prod_protein_powder_173"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top-of-page is dominated by mass gainers, collagens, and niche products; nothing in the standard whey category stands out prominently enough."
+  }
+}

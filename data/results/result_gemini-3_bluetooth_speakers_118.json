@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_05",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_083",
+      "prod_bluetooth_speakers_158",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_088"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was browsing for a high-fidelity Bluetooth speaker suitable for home use, but found the selection during this session to be unbalanced. My consideration set included premium options like the Audio Pro Addon C10 and the JBL Pulse 4, as well as the more aesthetic INSMY Retro. However, I found that the high-end options were either prohibitively expensive (the Audio Pro at $405) or used outdated technology (the Bose SoundDock is a 30-pin dock for legacy iPhones). The rest of the feed was heavily saturated with accessories like carrying cases and charging cables, or very small, budget-oriented portable speakers like the JBL Go 3. Because there was a lack of a solid, modern, mid-range home audio speaker that balanced performance and price, I have decided to forgo a purchase at this time."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_118.json",
+    "offer_set_id": "bluetooth_speakers_118",
+    "timestamp": 1775595231,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

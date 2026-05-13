@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_083"
+    ],
+    "final_choice": "prod_bluetooth_speakers_153",
+    "reasoning_trace": "The product feed included several items that were actually protective cases rather than speakers, which I excluded immediately. I narrowed my search to the best-reviewed speakers across various price points. My consideration set includes a premium Bose speaker, a flashy JBL model, and three highly-rated value options. I ultimately selected the Raymate speaker (prod_bluetooth_speakers_153) because it offers an impressive balance of features\u201430W output, IPX7 waterproofing, and a 4.6-star rating\u2014at a very reasonable price compared to the high-end brands. The customer reviews highlighted it as a 'powerhouse' and an 'excellent value,' making it the most pragmatic choice for a high-quality portable audio experience."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_492.json",
+    "offer_set_id": "bluetooth_speakers_492",
+    "timestamp": 1775605180,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

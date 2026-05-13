@@ -1,0 +1,23 @@
+{
+  "experiment_id": "mechanical_keyboards",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_195",
+      "prod_mechanical_keyboards_174",
+      "prod_mechanical_keyboards_075",
+      "prod_mechanical_keyboards_010",
+      "prod_mechanical_keyboards_075"
+    ],
+    "final_choice": "prod_mechanical_keyboards_195",
+    "reasoning_trace": "Based on the product feed, I selected a consideration set of 5 products that best meet the customer's needs for a mechanical keyboard. The final choice, 'prod_mechanical_keyboards_195', is the nuphy Air60 Portable Wireless Keyboard, which has a high rating of 4.4, supports Bluetooth 5.0, 2.4G, and wired connection, and is compatible with Windows and Mac OS systems. The other products in the consideration set, including the SteelSeries Apex Pro Mini Mechanical Gaming Keyboard, the ASUS ROG Falchion Wireless 65% Mechanical Gaming Keyboard, the Hyekit Custom Gaming Keyboard, and the AKKO CS Switch, were also highly rated and offered various features such as adjustable actuation, compact form factor, and customizable keycaps."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_306.json",
+    "offer_set_id": "mechanical_keyboards_306",
+    "timestamp": 1772655259,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

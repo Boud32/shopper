@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_192"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated a mix of premium and budget-friendly Bluetooth speakers. The Sony SRS-XB43 and Bose SoundLink Color II represent the high-end tier with excellent ratings, but they are significantly more expensive than I intended to spend today. On the budget side, the EWA and BOGASING models are appealing for their price, but some reviews mentioned potential issues with charging longevity or limited bass response. The JBL Clip 3 is a great mid-range contender, but it might be too small for my primary needs. Given the trade-offs between price and reported durability, I've decided to hold off on a purchase for now."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_080.json",
+    "offer_set_id": "bluetooth_speakers_080",
+    "timestamp": 1775592030,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 40,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_090.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_009",
+      "prod_conditioner_177",
+      "prod_conditioner_078",
+      "prod_conditioner_125"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (niche/sponsored/thin-review); It's A 10 is buried at pos 21 and nothing at top is clearly compelling."
+  }
+}

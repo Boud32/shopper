@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_002",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_097",
+      "prod_bluetooth_speakers_150"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was looking for a high-quality portable speaker, ideally from a premium brand like Bose or JBL. However, many of the search results for those brands turned out to be accessories, such as carrying cases, batteries, and covers, rather than the speakers themselves. While I considered several well-rated budget options like the DOSS SoundBox Pro+ and the BOGASING M4, I noticed multiple critical reviews mentioning charging and longevity issues. The Monster Rocker 270 also received feedback indicating it was underpowered and smaller than advertised for its price point. Given the high proportion of accessories in the feed and the lack of reliable modern premium hardware, I have decided not to make a purchase at this time."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_365.json",
+    "offer_set_id": "bluetooth_speakers_365",
+    "timestamp": 1775597917,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

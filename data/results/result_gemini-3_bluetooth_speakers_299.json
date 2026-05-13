@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_151",
+      "prod_bluetooth_speakers_150"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The browsing session was cluttered with a high frequency of accessories such as hard cases and charging cables, which made the search for a primary speaker less efficient. While the JBL Charge 5 (prod_bluetooth_speakers_120) is a high-quality option, its $149.95 price point is significant. The JBL Charge 4 (prod_bluetooth_speakers_013) is more affordable but is a renewed product, which carries some risk. The budget-friendly options in the consideration set, such as the INSMY and MusiBaby, have mixed reviews regarding sound depth and durability. Because the high-end options are expensive and the budget options have quality concerns, I have decided not to make a purchase at this time."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_299.json",
+    "offer_set_id": "bluetooth_speakers_299",
+    "timestamp": 1775596664,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 20,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_070.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_078",
+      "prod_conditioner_119",
+      "prod_conditioner_196",
+      "prod_conditioner_245",
+      "prod_conditioner_097"
+    ],
+    "final_choice": "prod_conditioner_078",
+    "reasoning": "It's A 10 Miracle Deep is well-positioned at pos 4 with strong reviews (4.6/2,426) and good price \u2014 clearly better than most alternatives."
+  }
+}

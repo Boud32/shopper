@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 10,
+    "timestamp": 1776650226,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_160.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_225",
+      "prod_laundry_detergent_116",
+      "prod_laundry_detergent_195",
+      "prod_laundry_detergent_269"
+    ],
+    "final_choice": "prod_laundry_detergent_101",
+    "reasoning": "Tide Hygienic Clean Free Pods at $16.99 with 12k+ 4.8\u2605 reviews is an excellent fragrance-free option for sensitive skin."
+  }
+}

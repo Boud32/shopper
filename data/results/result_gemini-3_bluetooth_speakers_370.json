@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_177",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_001"
+    ],
+    "final_choice": "prod_bluetooth_speakers_173",
+    "reasoning_trace": "In this shopping session, I prioritized speakers with a balance of high power output (30W) and portability for outdoor use. My consideration set included the TENMIYA 30W and the Comiso 30W for their impressive specs at a lower price point. I also evaluated the JBL Charge 4 and Flip 5 renewed models; while JBL is a premium brand, the 'renewed' status and associated reviews regarding battery longevity caused some hesitation. The INSMY Retro was considered for its unique aesthetic and high quality reviews. Ultimately, I chose the Comiso 30W because it offers a 4.5-star rating, IPX7 waterproofing, and high-wattage sound for under $40, representing the best value for performance."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_370.json",
+    "offer_set_id": "bluetooth_speakers_370",
+    "timestamp": 1775597991,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

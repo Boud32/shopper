@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_bt_speakers",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_037",
+      "prod_bluetooth_speakers_045",
+      "prod_bluetooth_speakers_030",
+      "prod_bluetooth_speakers_103"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated a diverse set of speakers ranging from ultra-portable budget options like the Altec Lansing Mini H2O to premium home setups like the Edifier S350DB and Sonos sets. While the Bose SoundLink Color II is a well-known standard for portable audio, multiple reviews across the high-end options mentioned longevity issues or frustrating software/connectivity barriers (especially with Sonos and Ortizan). Additionally, a significant portion of the search results were protective cases and accessories rather than actual speakers, which limited the variety of high-quality hardware available in this session. Given the reliability concerns for the higher-priced units, I have decided not to make a purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_066.json",
+    "offer_set_id": "bluetooth_speakers_066",
+    "timestamp": 1775591795,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

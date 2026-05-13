@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 36,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_186.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_065",
+      "prod_protein_powder_162",
+      "prod_protein_powder_135",
+      "prod_protein_powder_134",
+      "prod_protein_powder_132"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by niche items (Brewers Yeast, Norcal organic 784 reviews, Amazing Muscle 4.0) and the stronger options are buried \u2014 nothing clearly beats alternatives from a different search."
+  }
+}

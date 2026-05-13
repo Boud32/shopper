@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 285,
+    "timestamp": 1776098609,
+    "source_batch": "data/offer_sets/backpacks/backpacks_285.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_059",
+      "prod_backpacks_006",
+      "prod_backpacks_091",
+      "prod_backpacks_032",
+      "prod_backpacks_107"
+    ],
+    "final_choice": "prod_backpacks_059",
+    "reasoning": "The Savior Equipment American Classic Tactical Double  stands out for its high rating and balanced price-to-feature ratio."
+  }
+}

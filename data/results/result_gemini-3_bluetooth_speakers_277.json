@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_03",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_131",
+      "prod_bluetooth_speakers_040"
+    ],
+    "final_choice": "prod_bluetooth_speakers_116",
+    "reasoning_trace": "The evaluation focused on finding a high-quality portable speaker with strong audio performance. The Harman Kardon Onyx Studio 6 (prod_bluetooth_speakers_116) was selected as the final choice due to its reputation for superior bass and clear sound quality at a competitive premium price point. The consideration set included the DOSS SoundBox Pro+ (prod_bluetooth_speakers_008) for its excellent mid-range value and high review count, the Raymate (prod_bluetooth_speakers_153) for its impressive 30W output at a budget price, the JBL Pulse 4 (prod_bluetooth_speakers_131) for its premium lighting effects, and the Altec Lansing HydraMotion (prod_bluetooth_speakers_040) as a highly-rated, compact 'Everything Proof' option. Accessories and obsolete dock systems like the 30-pin Bose dock were excluded from serious consideration."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_277.json",
+    "offer_set_id": "bluetooth_speakers_277",
+    "timestamp": 1775596336,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

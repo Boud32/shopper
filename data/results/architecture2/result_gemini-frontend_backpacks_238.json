@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 238,
+    "timestamp": 1776098609,
+    "source_batch": "data/offer_sets/backpacks/backpacks_238.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_085",
+      "prod_backpacks_173",
+      "prod_backpacks_126",
+      "prod_backpacks_154",
+      "prod_backpacks_183"
+    ],
+    "final_choice": "prod_backpacks_085",
+    "reasoning": "The Fellowship of The Ring Morale Patch. Perfect for Y stands out for its high rating and balanced price-to-feature ratio."
+  }
+}

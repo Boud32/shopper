@@ -1,0 +1,23 @@
+{
+  "experiment_id": "mech_keyboard_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_168",
+      "prod_mechanical_keyboards_119",
+      "prod_mechanical_keyboards_113",
+      "prod_mechanical_keyboards_099",
+      "prod_mechanical_keyboards_103"
+    ],
+    "final_choice": "prod_mechanical_keyboards_168",
+    "reasoning_trace": "The customer is looking to buy a mechanical keyboard. The consideration set includes a variety of options such as the Hexgears Impulse, which is a hot-swap mechanical keyboard, TECWARE Phantom 87, a full-size RGB keyboard, Hkfos PBT Keycaps for DIY keyboards, FINEDAY Keyboard 2.0 with a retro design, and 141 Keys Botanical Keycaps for customizing mechanical gaming keyboards. The final choice, Hexgears Impulse, is selected due to its positive reviews, durable PBT keycaps, and hot-swappable switches, making it an excellent option for those seeking a high-quality mechanical keyboard with customization possibilities."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_225.json",
+    "offer_set_id": "mechanical_keyboards_225",
+    "timestamp": 1772655009,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

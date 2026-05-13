@@ -1,0 +1,23 @@
+{
+  "experiment_id": "mechanical_keyboards_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_192",
+      "prod_mechanical_keyboards_162",
+      "prod_mechanical_keyboards_149",
+      "prod_mechanical_keyboards_098",
+      "prod_mechanical_keyboards_177"
+    ],
+    "final_choice": "prod_mechanical_keyboards_192",
+    "reasoning_trace": "Selected products based on high ratings, positive reviews, and relevance to mechanical keyboards. Prioritized products with Cherry MX compatibility, custom keycap options, and wireless/wired functionality."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_348.json",
+    "offer_set_id": "mechanical_keyboards_348",
+    "timestamp": 1772655364,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 246,
+    "timestamp": 1776098609,
+    "source_batch": "data/offer_sets/backpacks/backpacks_246.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_008",
+      "prod_backpacks_132",
+      "prod_backpacks_050",
+      "prod_backpacks_174",
+      "prod_backpacks_137"
+    ],
+    "final_choice": "prod_backpacks_008",
+    "reasoning": "The HEETA Waterproof Dry Bag for Women Men, 5L/10L/20L stands out for its high rating and balanced price-to-feature ratio."
+  }
+}

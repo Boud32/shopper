@@ -1,0 +1,23 @@
+{
+  "experiment_id": "toothbrush_purchase",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_055",
+      "prod_toothbrushes_018",
+      "prod_toothbrushes_019",
+      "prod_toothbrushes_187",
+      "prod_toothbrushes_059"
+    ],
+    "final_choice": "prod_toothbrushes_055",
+    "reasoning_trace": "The final choice is based on a balance of high customer ratings, affordable prices, and features that align with typical customer needs for a toothbrush, such as effectiveness in cleaning, durability, and ease of use. The Initio Sonic Electric Toothbrush for Adults stands out for its 5 modes with a smart timer, rechargeability, and inclusion of 8 brush heads, making it a comprehensive and cost-effective option for oral care."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_346.json",
+    "offer_set_id": "toothbrushes_346",
+    "timestamp": 1772825328,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

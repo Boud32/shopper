@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 36,
+    "timestamp": 1776650224,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_036.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_225",
+      "prod_laundry_detergent_275",
+      "prod_laundry_detergent_116",
+      "prod_laundry_detergent_045",
+      "prod_laundry_detergent_185"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by expensive Kirkland, niche Charlie's, and pricey Gain Flings; the few strong options are deeply buried."
+  }
+}

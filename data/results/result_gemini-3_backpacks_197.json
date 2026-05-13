@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_041",
+      "prod_backpacks_007",
+      "prod_backpacks_154",
+      "prod_backpacks_073",
+      "prod_backpacks_004"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated the available backpacks based on capacity, purpose, and durability. The Granite Gear 52L pack (prod_backpacks_041) is the only full-sized technical backpack in the set, but multiple reviews mentioning shoulder straps tearing or coming apart on the first trip are a significant deterrent. The other options are highly specialized: the FITNATE is a dry bag, the TOURIT is a cooler, and the TOMSHOO and TULYKA models are small-capacity packs for cycling or hydration. Since the primary choice for a high-capacity backpack has serious quality concerns and the others do not meet the criteria for a versatile general-use bag, I have decided not to make a purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_197.json",
+    "offer_set_id": "backpacks_197",
+    "timestamp": 1775594286,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

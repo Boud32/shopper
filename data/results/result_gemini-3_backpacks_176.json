@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_132",
+      "prod_backpacks_051",
+      "prod_backpacks_068",
+      "prod_backpacks_184",
+      "prod_backpacks_099"
+    ],
+    "final_choice": "prod_backpacks_132",
+    "reasoning_trace": "I evaluated a mix of hydration packs, slings, professional hiking backpacks, and casual school bags. The Mubasel Gear Insulated Hydration Backpack (prod_backpacks_132) stood out as the strongest choice due to its exceptional social proof (over 10,000 reviews at a 4.6 rating) and specific functionality. While the High Sierra 70L (prod_backpacks_068) is a premium option, its higher price point and mixed reviews regarding back support made it less appealing than the highly-rated, affordable hydration pack. The MOSISO sling (prod_backpacks_051) was also a strong contender for casual use, but the hydration pack offered more utility for general outdoor activities."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_176.json",
+    "offer_set_id": "backpacks_176",
+    "timestamp": 1775593971,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "realistic_backpack_session_23",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_057",
+      "prod_backpacks_164",
+      "prod_backpacks_002",
+      "prod_backpacks_182",
+      "prod_backpacks_126"
+    ],
+    "final_choice": "prod_backpacks_057",
+    "reasoning_trace": "I evaluated the feed for traditional carrying backpacks, as a large percentage of the results were camping gear like stoves, pillows, and chairs. My consideration set focused on the most functional options: two 45L tactical packs (057, 164), an insulated cooler backpack (002), a high-rated sling bag (182), and a hydration pack (126). I ultimately chose the QT&QY 45L Military Tactical Backpack (prod_backpacks_057). It represents the best value and quality in the list, with an impressive 4.7-star rating from over 6,000 reviews. At $39.99, it is more affordable and better reviewed than the similar 45L pack from W WINTMING (164). While the feed was cluttered with irrelevant items, this specific product was high-quality enough to secure a purchase rather than a no-purchase decision."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_112.json",
+    "offer_set_id": "backpacks_112",
+    "timestamp": 1775592101,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

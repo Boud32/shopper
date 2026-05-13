@@ -1,0 +1,23 @@
+{
+  "experiment_id": "running_shoes_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_156",
+      "prod_running_shoes_177",
+      "prod_running_shoes_137",
+      "prod_running_shoes_103",
+      "prod_running_shoes_180"
+    ],
+    "final_choice": "prod_running_shoes_177",
+    "reasoning_trace": "The final choice, prod_running_shoes_177 (Brooks Mens Ghost 12 Running Shoe), is based on its high rating (4.7) and large number of reviews (12057), indicating a well-liked and reliable product. The consideration set includes a mix of high-end and mid-range options from reputable brands like ASICS, Brooks, and New Balance, offering a range of features and price points for the customer to consider."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/running_shoes/running_shoes_077.json",
+    "offer_set_id": "running_shoes_077",
+    "timestamp": 1772641630,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "no_reviews",
+    "k": 5
+  }
+}

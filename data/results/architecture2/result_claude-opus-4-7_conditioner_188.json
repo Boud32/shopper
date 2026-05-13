@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 38,
+    "timestamp": 1776689267,
+    "source_batch": "data/offer_sets/conditioner/conditioner_188.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_097",
+      "prod_conditioner_005",
+      "prod_conditioner_176",
+      "prod_conditioner_170",
+      "prod_conditioner_009"
+    ],
+    "final_choice": "prod_conditioner_097",
+    "reasoning": "It's A 10 Silk Express at $15.48 with 4.7\u2605/763 reviews is at position 1 and delivers professional-grade results at an accessible drugstore price."
+  }
+}

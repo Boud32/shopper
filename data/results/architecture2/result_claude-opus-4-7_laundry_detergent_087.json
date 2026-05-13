@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 37,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_087.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_265",
+      "prod_laundry_detergent_062",
+      "prod_laundry_detergent_269",
+      "prod_laundry_detergent_042"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Tide PODS at $35.38 feels pricey and the rest of the set is a scattered mix of niche/obscure powders and sheets \u2014 nothing is a clear standout."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 38,
+    "timestamp": 1776640082,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_088.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_006",
+      "prod_protein_powder_169",
+      "prod_protein_powder_144",
+      "prod_protein_powder_172",
+      "prod_protein_powder_181"
+    ],
+    "final_choice": "prod_protein_powder_006",
+    "reasoning": "Ghost Whey at p3 with 5,800 reviews at 4.5 stars for $44.95 is a clear clean whey pick in a set otherwise loaded with collagen and niche products."
+  }
+}

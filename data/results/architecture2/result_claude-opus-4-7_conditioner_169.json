@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 19,
+    "timestamp": 1776689267,
+    "source_batch": "data/offer_sets/conditioner/conditioner_169.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_005",
+      "prod_conditioner_196",
+      "prod_conditioner_241",
+      "prod_conditioner_110",
+      "prod_conditioner_183"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions feature mediocre or niche products (Kanyon mist, Tricovit growth, Mega Growth, Earth Science fragrance-free) and the standout Redken/Aussie are absent entirely."
+  }
+}

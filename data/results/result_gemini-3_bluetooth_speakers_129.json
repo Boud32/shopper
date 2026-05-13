@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_shopping_session_25",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_107"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several high-rated options from JBL and Sony, as well as some budget and novelty alternatives. The JBL Charge 5 is highly rated but some reviews mentioned pairing issues with previous generations, and the Sony XB43, while powerful, felt a bit bulky for the price. The Dosmix cat speaker is adorable but clearly lacks the audio fidelity I want. Given that the feed was cluttered with several carrying cases and replacement batteries rather than more actual speaker options, I didn't find a product that perfectly matched my requirements for portability and sound quality today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_129.json",
+    "offer_set_id": "bluetooth_speakers_129",
+    "timestamp": 1775593829,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

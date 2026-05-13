@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 448,
+    "timestamp": 1776096127,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_448.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_125",
+      "prod_bluetooth_speakers_151",
+      "prod_bluetooth_speakers_015",
+      "prod_bluetooth_speakers_150",
+      "prod_bluetooth_speakers_119"
+    ],
+    "final_choice": "prod_bluetooth_speakers_125",
+    "reasoning": "The FLYSH Small Bluetooth Speakers Portable Wireless S... offers the best balance of high customer ratings, significant review volume, and competitive pricing."
+  }
+}

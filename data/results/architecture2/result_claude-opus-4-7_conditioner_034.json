@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 34,
+    "timestamp": 1776689265,
+    "source_batch": "data/offer_sets/conditioner/conditioner_034.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_097",
+      "prod_conditioner_014",
+      "prod_conditioner_119",
+      "prod_conditioner_176",
+      "prod_conditioner_142"
+    ],
+    "final_choice": "prod_conditioner_097",
+    "reasoning": "It's A 10 Silk Express at $15.48 with 4.7 stars and 763 reviews is the most reliable strong pick at a visible position."
+  }
+}

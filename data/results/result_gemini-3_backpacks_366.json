@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_038",
+      "prod_backpacks_150",
+      "prod_backpacks_199",
+      "prod_backpacks_154",
+      "prod_backpacks_156"
+    ],
+    "final_choice": "prod_backpacks_038",
+    "reasoning_trace": "The search for a backpack was complicated by many non-backpack items in the feed, such as camping chairs and pillows. I filtered my consideration set down to five distinct types of packs: high-durability EDC, hydration, waterproof dry bag, cooler, and lightweight foldable. The Maxpedition Prepared Citizen Classic (prod_backpacks_038) was selected as the final choice because of its high rating (4.7) and reviews highlighting its durability and nondescript design, which makes it a more reliable investment than the hydration packs or cooler bags that had reported issues with leaks or zipper failures."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_366.json",
+    "offer_set_id": "backpacks_366",
+    "timestamp": 1775597719,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

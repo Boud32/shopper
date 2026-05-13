@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_smartwatch_recommendation",
+  "decision": {
+    "consideration_set": [
+      "prod_smartwatches_155",
+      "prod_smartwatches_040",
+      "prod_smartwatches_173",
+      "prod_smartwatches_061",
+      "prod_smartwatches_079"
+    ],
+    "final_choice": "prod_smartwatches_155",
+    "reasoning_trace": "Based on the product feed, the top consideration set was chosen by filtering out products that are not actual smartwatches (e.g., bands, batteries) and then selecting the ones with the highest overall rating. The final choice, 'prod_smartwatches_155', was selected due to its high rating of 4.2, its description as a 'Military Smart Watch' which implies durability, and its affordable price of $69.89."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/smartwatches/smartwatches_173.json",
+    "offer_set_id": "smartwatches_173",
+    "timestamp": 1772654890,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

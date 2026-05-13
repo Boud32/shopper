@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 21,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_171.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_097",
+      "prod_protein_powder_088",
+      "prod_protein_powder_071",
+      "prod_protein_powder_006",
+      "prod_protein_powder_065"
+    ],
+    "final_choice": "prod_protein_powder_097",
+    "reasoning": "Truvani at position 2 with 4.4 stars and 15,388 reviews at $44.99 is a standout organic plant-based option with strong brand trust and excellent positioning."
+  }
+}

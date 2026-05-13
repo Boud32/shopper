@@ -1,0 +1,23 @@
+{
+  "experiment_id": "backpack_sim_shopping_session_025",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_078",
+      "prod_backpacks_050",
+      "prod_backpacks_125",
+      "prod_backpacks_055",
+      "prod_backpacks_075"
+    ],
+    "final_choice": "prod_backpacks_078",
+    "reasoning_trace": "Out of the 25 items provided, many were camping accessories (tents, pads, pillows) rather than traditional backpacks. I narrowed my consideration set down to the five most relevant backpack-style products: a hydration pack, a tactical pack, a high-end winter pack, a specialized disc golf bag, and a team-branded sports bag. I chose the Gelindo 18L Hiking Hydration Backpack (prod_backpacks_078) as the final purchase because it offers the highest rating (4.7) and best value for money at $31.49, with reviews confirming its utility for both outdoor activities and events."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_346.json",
+    "offer_set_id": "backpacks_346",
+    "timestamp": 1775597402,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 377,
+    "timestamp": 1776098609,
+    "source_batch": "data/offer_sets/backpacks/backpacks_377.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_119",
+      "prod_backpacks_175",
+      "prod_backpacks_186",
+      "prod_backpacks_102",
+      "prod_backpacks_140"
+    ],
+    "final_choice": "prod_backpacks_119",
+    "reasoning": "The WoneNice Camping Hammock - Portable Lightweight Do stands out for its high rating and balanced price-to-feature ratio."
+  }
+}

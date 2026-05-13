@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_043",
+      "prod_backpacks_078",
+      "prod_backpacks_199",
+      "prod_backpacks_072",
+      "prod_backpacks_125"
+    ],
+    "final_choice": "prod_backpacks_078",
+    "reasoning_trace": "I evaluated several backpack types, ranging from specialized hiking and winter gear to sport-specific bags. The USWE Hajker 30L was technically impressive but significantly more expensive than I intended to spend. The KAILAS 28L offered good value for a framed pack, but the Gelindo 18L stood out as the most balanced option. It has a high rating (4.7) from a large number of reviewers (over 1,500), includes a hydration bladder, and is priced very competitively at $31.49. While one review mentioned potential durability issues with the pack itself, the overall sentiment regarding its storage capacity and comfort made it the most attractive choice for a general-purpose outdoor daypack."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_023.json",
+    "offer_set_id": "backpacks_023",
+    "timestamp": 1774978642,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

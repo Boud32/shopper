@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_1",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_096",
+      "prod_backpacks_006",
+      "prod_backpacks_043",
+      "prod_backpacks_050",
+      "prod_backpacks_137"
+    ],
+    "final_choice": "prod_backpacks_043",
+    "reasoning_trace": "I am looking for a functional hiking daypack that offers good support without breaking the bank. The Maxpedition is a premium product but the $171 price point is higher than I want to spend for casual use. The HIKPRO is a great value for travel but lacks the structure needed for a proper hike. Between the remaining options, the KAILAS 28L (prod_backpacks_043) stands out because of the positive feedback regarding its internal frame and build quality, with one reviewer specifically noting it as a high-quality 'dupe' for more expensive brands like Osprey. While the G4Free and Mardingtop models offer more capacity, they had more concerning reviews regarding long-term durability and material quality. The KAILAS pack provides the best balance of technical features and value."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_387.json",
+    "offer_set_id": "backpacks_387",
+    "timestamp": 1775598063,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

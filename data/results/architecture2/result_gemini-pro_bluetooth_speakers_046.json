@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "frontend",
+    "session_position": 46,
+    "timestamp": 1776109656,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_046.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_131"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The Bose SoundLink Color II excels in producing balanced, rich sound despite its compact size."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "running_shoes",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_136",
+      "prod_running_shoes_179",
+      "prod_running_shoes_146",
+      "prod_running_shoes_128",
+      "prod_running_shoes_124"
+    ],
+    "final_choice": "prod_running_shoes_136",
+    "reasoning_trace": "I have selected the top 5 running shoes based on their ratings, reviews, and price. The final choice is the Adidas Women's Response Super 2.0 Running Shoe, which has a high rating of 4.2 and a reasonable price of $49.21. This shoe also has a good number of reviews, indicating its popularity among customers. The other shoes in the consideration set are also high-quality options, but the Adidas shoe stands out for its balance of price, quality, and customer satisfaction."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/running_shoes/running_shoes_008.json",
+    "offer_set_id": "running_shoes_008",
+    "timestamp": 1772641531,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "no_reviews",
+    "k": 5
+  }
+}

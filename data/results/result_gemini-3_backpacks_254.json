@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_050",
+      "prod_backpacks_160",
+      "prod_backpacks_002",
+      "prod_backpacks_064",
+      "prod_backpacks_069"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The product feed for backpacks was heavily diluted with unrelated outdoor gear such as camping tents, sleeping pads, hand warmers, and even astronaut ice cream. Among the actual backpacks, the selection was limited to highly specialized categories like fishing-specific bags, cooler bags, and tactical rucksacks. While the G4Free Tactical Backpack (prod_backpacks_050) offered good value, reviews for other consideration set items mentioned significant drawbacks, such as the fishing backpack being much smaller than advertised and hydration packs having leak issues. Given the lack of a high-quality, general-purpose daily backpack and the mixed quality of the specialized options, I have decided not to make a purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_254.json",
+    "offer_set_id": "backpacks_254",
+    "timestamp": 1775595900,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

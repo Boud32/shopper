@@ -1,0 +1,23 @@
+{
+  "experiment_id": "bt_speaker_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_048",
+      "prod_bluetooth_speakers_126"
+    ],
+    "final_choice": "prod_bluetooth_speakers_129",
+    "reasoning_trace": "I initially filtered out several products in the feed that were accessories like carrying cases, battery bases, or power adapters rather than actual speakers. From the remaining actual speakers, I selected a consideration set of five that offered a mix of brand reliability, high power output, and portable features. The JBL Go 3 (prod_bluetooth_speakers_129) became the final choice due to its excellent 4.7 rating, compact waterproof design, and the strong reputation of JBL for sound quality in small form factors. While the BOGASING (prod_bluetooth_speakers_174) offered higher wattage, the JBL Go 3's high review count and verified positive feedback on portability made it the most attractive option for general use."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_125.json",
+    "offer_set_id": "bluetooth_speakers_125",
+    "timestamp": 1775593774,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

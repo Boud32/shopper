@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_25",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_164",
+      "prod_backpacks_111",
+      "prod_backpacks_038",
+      "prod_backpacks_008",
+      "prod_backpacks_027"
+    ],
+    "final_choice": null,
+    "reasoning_trace": "The search for a versatile, general-purpose backpack resulted in a mix of highly specialized items. I considered the W WINTMING and Maxpedition for their durability, but both are very tactical in design. The HEETA and ROCKRAIN are excellent for water sports or cycling but lack the capacity and organization needed for a daily driver. The SHENHU 40L offered the best value, but reviews indicating it is sized better for smaller individuals and is only 'mostly' waterproof made me hesitant. Overall, the feed was heavily weighted toward accessories like tinder, tent stakes, and food rather than providing a broad selection of standard everyday or travel backpacks."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_408.json",
+    "offer_set_id": "backpacks_408",
+    "timestamp": 1775598428,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

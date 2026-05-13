@@ -1,0 +1,23 @@
+{
+  "experiment_id": "toothbrush_product_feed",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_095",
+      "prod_toothbrushes_076",
+      "prod_toothbrushes_152",
+      "prod_toothbrushes_064",
+      "prod_toothbrushes_180"
+    ],
+    "final_choice": "prod_toothbrushes_095",
+    "reasoning_trace": "Selected products based on high rating, relevance to toothbrush category, and customer reviews. Prioritized products with high review counts and positive reviews. Chose prod_toothbrushes_095 as the final choice due to its high rating of 4.5, positive customer reviews, and relevance to the toothbrush category."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_226.json",
+    "offer_set_id": "toothbrushes_226",
+    "timestamp": 1772654678,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

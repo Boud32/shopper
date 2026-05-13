@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "",
+    "architecture": "frontend",
+    "session_position": 35,
+    "timestamp": 1776377218,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_035.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_109",
+      "prod_protein_powder_063",
+      "prod_protein_powder_076",
+      "prod_protein_powder_059",
+      "prod_protein_powder_155"
+    ],
+    "final_choice": "prod_protein_powder_109",
+    "reasoning": "BSN SYNTHA-6 remains unmatched with 4.7 stars and over 26,000 reviews \u2014 the most trusted option whenever available."
+  }
+}

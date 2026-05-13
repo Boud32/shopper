@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_1",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_186",
+      "prod_backpacks_043",
+      "prod_backpacks_132",
+      "prod_backpacks_168",
+      "prod_backpacks_069"
+    ],
+    "final_choice": "prod_backpacks_132",
+    "reasoning_trace": "The browsing session was challenging as the feed contained several mis-categorized items like air mattresses, dog shirts, and patches. I focused on actual functional backpacks. In my consideration set, I included a specialized boot bag (prod_backpacks_186), a technical hiking daypack (prod_backpacks_043), two hydration packs (prod_backpacks_132, prod_backpacks_069), and a sling bag (prod_backpacks_168). I eventually chose prod_backpacks_132 because it has a massive volume of positive reviews (over 10,000) and a high rating of 4.6, suggesting it is a reliable and well-tested hydration backpack. The price point is competitive, and the insulation feature is highly praised in the reviews."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_386.json",
+    "offer_set_id": "backpacks_386",
+    "timestamp": 1775598048,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

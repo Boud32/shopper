@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_111",
+      "prod_backpacks_078",
+      "prod_backpacks_128",
+      "prod_backpacks_154",
+      "prod_backpacks_122"
+    ],
+    "final_choice": "prod_backpacks_111",
+    "reasoning_trace": "I began by filtering the feed for actual full-sized backpacks rather than accessories, tents, or camping food that appeared in the search results. I selected the SHENHU 40L, Gelindo 18L, adidas mesh, TOURIT cooler, and DeMarini baseball bags for serious consideration as they represent the most functional carrying options. Among these, the SHENHU 40L (prod_backpacks_111) is the strongest choice due to its high capacity, waterproof features, and specialized support straps for a very low price point of $26.99. While the adidas bag is reputable, its mesh design is less versatile for varied weather. The SHENHU bag offers the best overall utility for travel and hiking."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_001.json",
+    "offer_set_id": "backpacks_001",
+    "timestamp": 1774977613,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

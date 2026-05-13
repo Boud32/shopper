@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "",
+    "architecture": "frontend",
+    "session_position": 33,
+    "timestamp": 1776377218,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_033.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_088",
+      "prod_protein_powder_155",
+      "prod_protein_powder_148",
+      "prod_protein_powder_014",
+      "prod_protein_powder_134"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Nothing in this set has the combination of trusted brand, strong rating, and sensible price that would make me confident in pulling the trigger."
+  }
+}

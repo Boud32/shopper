@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_189",
+      "prod_bluetooth_speakers_192",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_131"
+    ],
+    "final_choice": "prod_bluetooth_speakers_008",
+    "reasoning_trace": "I focused on actual Bluetooth speakers, filtering out the many chargers, carrying cases, and accessories in the feed. My consideration set included a mix of entry-level (EWA), professional (Jabra), mid-range (DOSS, JBL Renewed), and premium (JBL Pulse) options. I ultimately selected the DOSS SoundBox Pro+ because it offers a high rating of 4.6 with a substantial review count, providing confidence in its performance. It hits a sweet spot for features\u201424W sound, IPX6 waterproofing, and LED lights\u2014at a reasonable price of $89.99, making it a better value than the overpriced Libratone or the refurbished JBL Flip 5 which had some reported battery issues."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_127.json",
+    "offer_set_id": "bluetooth_speakers_127",
+    "timestamp": 1775593798,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_001",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_020",
+      "prod_bluetooth_speakers_002",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_192"
+    ],
+    "final_choice": "prod_bluetooth_speakers_013",
+    "reasoning_trace": "I started by filtering out accessories like cases, straps, and batteries, focusing only on actual speakers. My consideration set included the top-rated JBL models (Clip 3 and Charge 4) despite being renewed, as they offer premium sound. I also included highly-reviewed budget options like the EWA mini speaker, the INSMY waterproof speaker, and the comiso shower speaker. I decided to purchase the JBL Charge 4 (Renewed) because, at $89.95, it provides a significant upgrade in sound power and battery life compared to the ultra-portable mini speakers while still being a great value from a trusted brand."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_168.json",
+    "offer_set_id": "bluetooth_speakers_168",
+    "timestamp": 1775594399,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus",
+    "model": "claude-opus-4-6",
+    "architecture": "frontend",
+    "session_position": 49,
+    "timestamp": 1776109205,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_049.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_151",
+      "prod_bluetooth_speakers_150",
+      "prod_bluetooth_speakers_072",
+      "prod_bluetooth_speakers_039"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The set is filled with mediocre or niche products \u2014 no standout brand-name speaker at a compelling price, and the better options feel overpriced or poorly rated."
+  }
+}

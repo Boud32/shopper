@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 28,
+    "timestamp": 1776650226,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_178.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_102",
+      "prod_laundry_detergent_116",
+      "prod_laundry_detergent_132",
+      "prod_laundry_detergent_107",
+      "prod_laundry_detergent_242"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (Love Home small size, 3.5\u2605 sheets, WIN Activewear) and the BEST/PICK badges sit on items with low reviews or a mediocre 3.6\u2605 rating."
+  }
+}

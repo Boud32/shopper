@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_037",
+      "prod_bluetooth_speakers_003",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_192"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several Bluetooth speakers across different price points and use cases. My primary goal was to find a versatile, high-fidelity speaker that could serve both as a home unit and a portable option. The Edifier S350DB (prod_bluetooth_speakers_037) provides excellent sound quality for the home but is quite expensive at $399.99 and not portable. On the portable end, the Sony SRS-XB43 (prod_bluetooth_speakers_181) is highly rated but emphasizes 'Extra Bass' which doesn't align with the balanced sound profile I'm seeking. The Ultimate Ears Megablast (prod_bluetooth_speakers_003) is also premium-priced but has concerning reviews regarding its Alexa integration and overall value. The budget-friendly options like the BOGASING M4 or the EWA mini speaker are great for their price but likely won't provide the audio depth I'm looking for in a primary device. Given the trade-offs between portability, audio quality, and price among the current selection, I've decided to hold off on a purchase for now."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_274.json",
+    "offer_set_id": "bluetooth_speakers_274",
+    "timestamp": 1775596274,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

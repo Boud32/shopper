@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 15,
+    "timestamp": 1776689267,
+    "source_batch": "data/offer_sets/conditioner/conditioner_165.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_016",
+      "prod_conditioner_241",
+      "prod_conditioner_218",
+      "prod_conditioner_009"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are filled with mediocre/irrelevant products (Nubian mask, Morava bar, kids conditioner, 3.4\u2605 dandruff conditioner) and genuinely good options are buried."
+  }
+}

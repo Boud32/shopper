@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 16,
+    "timestamp": 1776691124,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_066.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_040",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_101",
+      "prod_yoga_mats_097"
+    ],
+    "final_choice": "prod_yoga_mats_066",
+    "reasoning": "Gaiam Premium 5mm Print at $24.34 with 4.7\u2b50 and 3,751 reviews offers the best value/quality combination."
+  }
+}

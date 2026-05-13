@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_006",
+      "prod_backpacks_096",
+      "prod_backpacks_102",
+      "prod_backpacks_064",
+      "prod_backpacks_184"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was looking for a versatile 30L-40L travel backpack. The selection presented was highly fragmented, containing many unrelated items such as camping stoves, cookware, and hats. Within the actual backpack category, the choices were polarized: either very small/packable daypacks like the HIKPRO, extremely tactical/rugged military rucksacks like the Maxpedition, or specialized bags like cooler and fishing packs. I did not find a standard, mid-range travel or commuter backpack that met my specific size and style requirements."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_220.json",
+    "offer_set_id": "backpacks_220",
+    "timestamp": 1775595342,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

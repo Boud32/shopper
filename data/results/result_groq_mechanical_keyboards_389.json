@@ -1,0 +1,23 @@
+{
+  "experiment_id": "mechanical_keyboards",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_053",
+      "prod_mechanical_keyboards_036",
+      "prod_mechanical_keyboards_057",
+      "prod_mechanical_keyboards_194",
+      "prod_mechanical_keyboards_088"
+    ],
+    "final_choice": "prod_mechanical_keyboards_053",
+    "reasoning_trace": "I selected the Doohoeek Updated Retro Typewriter Keyboard as the final choice because of its high rating of 4.5 and the positive reviews from customers. The consideration set included a variety of keyboards with high ratings, including the PWNAGE Ultra Custom Gaming Keyboard, the Ganss ALT 71 Wireless/Wired Mechanical Keyboard, the KINESIS USB-A Freestyle Pro Quiet Ergonomic Split Mechanical Keyboard, and the Akko Keycaps Top Printed Shine-Through. I chose the Doohoeek keyboard because it stood out for its unique retro design, satisfying typing experience, and good value for the price."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_389.json",
+    "offer_set_id": "mechanical_keyboards_389",
+    "timestamp": 1772655522,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

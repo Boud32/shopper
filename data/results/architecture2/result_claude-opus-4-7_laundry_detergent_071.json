@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 21,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_071.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_251",
+      "prod_laundry_detergent_117",
+      "prod_laundry_detergent_256",
+      "prod_laundry_detergent_032",
+      "prod_laundry_detergent_162"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are very weak (Russian laundry soap, niche Tyler Candle, low-rated Frey, poorly-rated SENBOYA) and strong options are all buried past position 7."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_131"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several high-rated options including the JBL Clip 3, the Bose SoundLink Color II, and the premium JBL Pulse 4. While these products generally have strong reputations, the specific models available in this feed did not meet my aesthetic and durability requirements. The JBL Clip 3 is only available in Dusty Pink, and the Bose SoundLink had concerning reviews regarding unit failure after one year. Other mid-range options like the BOGASING and DOSS are interesting but I found enough reports of charging port failures in the user reviews to make me hesitant. Given that I am looking for a long-term investment in sound quality and reliability, I will pass on these specific options for now."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_204.json",
+    "offer_set_id": "bluetooth_speakers_204",
+    "timestamp": 1775594984,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

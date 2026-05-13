@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 30,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_080.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_070",
+      "prod_conditioner_194",
+      "prod_conditioner_026",
+      "prod_conditioner_196",
+      "prod_conditioner_097"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions consist of niche/pricey/low-review products; the strong options are all at position 15+ and nothing clearly dominates for a general shopper."
+  }
+}

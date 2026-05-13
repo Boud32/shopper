@@ -1,0 +1,23 @@
+{
+  "experiment_id": "mechanical_keyboards",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_057",
+      "prod_mechanical_keyboards_080",
+      "prod_mechanical_keyboards_144",
+      "prod_mechanical_keyboards_149",
+      "prod_mechanical_keyboards_053"
+    ],
+    "final_choice": "prod_mechanical_keyboards_057",
+    "reasoning_trace": "The customer is looking for a mechanical keyboard. Considering the options, a full-size keyboard with a unique design like the Ganss ALT 71 or a customizable keyboard with nice keycaps such as Akko Pink Keycaps Set could be a good fit. However, after analyzing customer reviews, product descriptions and features such as wireless connectivity, Cherry MX Switches, and compatibility with various systems, the Ganss ALT 71 Wireless/Wired 2.4G + USB Mechanical Keyboard stands out for its compact design, Cherry MX Clear Switches, and the ability to customize to a 68-key layout, making it the top choice."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_163.json",
+    "offer_set_id": "mechanical_keyboards_163",
+    "timestamp": 1772654791,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

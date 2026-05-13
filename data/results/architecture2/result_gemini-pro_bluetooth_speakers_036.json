@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "provider": "gemini-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "frontend",
+    "session_position": 36,
+    "timestamp": 1776109656,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_036.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [],
+    "final_choice": "no_purchase",
+    "reasoning": "JBL FLIP 5 has stellar customer feedback for a reason, providing loud sound in an indestructible shell."
+  }
+}

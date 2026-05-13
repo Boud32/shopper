@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 37,
+    "timestamp": 1776691125,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_137.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_055",
+      "prod_yoga_mats_140",
+      "prod_yoga_mats_090"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top of the list is dominated by obscure brands (RORU with 11 reviews, Tone Fitness, pploong) while all the reliable mats are pushed to the middle and bottom \u2014 not worth buying here."
+  }
+}

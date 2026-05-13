@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_057",
+      "prod_backpacks_184",
+      "prod_backpacks_182",
+      "prod_backpacks_041",
+      "prod_backpacks_059"
+    ],
+    "final_choice": "prod_backpacks_057",
+    "reasoning_trace": "I evaluated several types of backpacks including tactical, laptop, sling, and technical hiking packs. The QT&QY Military Tactical Backpack (prod_backpacks_057) stood out due to its high rating (4.7), large capacity (45L), and positive reviews regarding its durability and design. In contrast, the Granite Gear (prod_backpacks_041) had significant negative feedback regarding shoulder strap failure, and the KAUKKO (prod_backpacks_184) also had some durability complaints despite its low price. The QT&QY offers the best balance of features, positive customer sentiment, and price."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_412.json",
+    "offer_set_id": "backpacks_412",
+    "timestamp": 1775598499,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

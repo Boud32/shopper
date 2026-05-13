@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 16,
+    "timestamp": 1776640082,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_066.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_065",
+      "prod_protein_powder_070",
+      "prod_protein_powder_064",
+      "prod_protein_powder_182",
+      "prod_protein_powder_059"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are filled with niche products (kids shake, plant, collagen, low-rated); no standout whey with strong placement and reviews to justify."
+  }
+}

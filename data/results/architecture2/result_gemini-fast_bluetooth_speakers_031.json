@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-fast",
+    "model": "gemini-3-fast",
+    "architecture": "frontend",
+    "session_position": 31,
+    "timestamp": 1776109944,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_031.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Bose's reputation for sound clarity makes the SoundLink Color II a top contender in this set."
+  }
+}

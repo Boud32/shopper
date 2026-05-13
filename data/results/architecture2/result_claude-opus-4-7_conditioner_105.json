@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 5,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_105.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_241",
+      "prod_conditioner_016",
+      "prod_conditioner_109",
+      "prod_conditioner_255",
+      "prod_conditioner_147"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak or niche (hair growth, men's-specific, low-review) and no broadly compelling mainstream conditioner stands out."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 41,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_141.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_027",
+      "prod_protein_powder_181",
+      "prod_protein_powder_028",
+      "prod_protein_powder_135",
+      "prod_protein_powder_016"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are sponsored listings with modest review counts and no product clearly dominates on both visibility and value."
+  }
+}

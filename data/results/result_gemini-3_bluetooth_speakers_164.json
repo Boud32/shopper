@@ -1,0 +1,23 @@
+{
+  "experiment_id": "realistic_shopping_session_bluetooth_speakers",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_003",
+      "prod_bluetooth_speakers_044",
+      "prod_bluetooth_speakers_126",
+      "prod_bluetooth_speakers_034",
+      "prod_bluetooth_speakers_181"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was specifically looking for a high-quality portable speaker with integrated Alexa support. After evaluating the options, I found that the Audio Pro C5A had concerning 'dead on arrival' reviews, and the Ultimate Ears Megablast was described as having poor Alexa integration with recurring technical loops. The iHome model was also limited in its smart features. While the Sony SRS-XB43 offered great sound, it lacked the voice assistant functionality I required, and the Sonos options were only available in expensive multi-unit bundles. Given these compromises, I decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_164.json",
+    "offer_set_id": "bluetooth_speakers_164",
+    "timestamp": 1775594347,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

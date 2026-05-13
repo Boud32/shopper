@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_v1",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_183",
+      "prod_bluetooth_speakers_072",
+      "prod_bluetooth_speakers_150"
+    ],
+    "final_choice": null,
+    "reasoning_trace": "I am looking for a reliable, portable Bluetooth speaker for travel. The Bang & Olufsen (prod_bluetooth_speakers_195) is very high-quality but expensive for my current budget. The DOSS SoundBox Pro+ (prod_bluetooth_speakers_008) is highly rated but several reviews mentioned it is heavier and larger than expected for a 'portable' speaker. The HyperGear (prod_bluetooth_speakers_072) had reports of weaker bass, and the XENEO (prod_bluetooth_speakers_150) has a difficult-to-use FM interface. Furthermore, the search results were cluttered with many non-speaker items like cases and power adapters, and higher-end smart speakers like Sonos and Audio Pro had concerning reports of DOA units and setup issues. Consequently, I have decided not to make a purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_053.json",
+    "offer_set_id": "bluetooth_speakers_053",
+    "timestamp": 1775591395,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

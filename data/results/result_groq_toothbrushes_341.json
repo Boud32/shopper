@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_toothbrushes",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_059",
+      "prod_toothbrushes_018",
+      "prod_toothbrushes_071",
+      "prod_toothbrushes_055",
+      "prod_toothbrushes_085"
+    ],
+    "final_choice": "prod_toothbrushes_059",
+    "reasoning_trace": "The consideration set consists of electric toothbrushes with high ratings and multiple features such as timer, rechargeable battery, and different modes. The final choice, 'prod_toothbrushes_059', is a Sonic Electric Toothbrush with 6 brush heads, 5 modes, and a long battery life, making it a well-rounded option for customers looking for a reliable and efficient toothbrush."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_341.json",
+    "offer_set_id": "toothbrushes_341",
+    "timestamp": 1772825120,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

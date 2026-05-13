@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_20",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_140",
+      "prod_backpacks_101",
+      "prod_backpacks_156",
+      "prod_backpacks_153",
+      "prod_backpacks_074"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The browsing session revealed a product feed heavily saturated with accessories (rain covers, hand warmers, fire starters) and highly specialized gear (ice skate bags, snorkel bags, cooler backpacks) rather than standard versatile backpacks. In the consideration set, the NICGID sling was well-rated but too small for general use. The Hebetag hiking backpack had concerning reviews about straps tearing within a week. The vimapo foldable pack was described as disappointing for daily school use. The Scothen cooler backpack had reviews indicating the liner tore easily. Given the durability concerns of the general-use items and the overly specialized nature of the high-quality items, I decided not to make a purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_278.json",
+    "offer_set_id": "backpacks_278",
+    "timestamp": 1775596296,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

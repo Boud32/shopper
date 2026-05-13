@@ -1,0 +1,23 @@
+{
+  "experiment_id": "smartwatch_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_smartwatches_017",
+      "prod_smartwatches_103",
+      "prod_smartwatches_013",
+      "prod_smartwatches_023",
+      "prod_smartwatches_015"
+    ],
+    "final_choice": "prod_smartwatches_017",
+    "reasoning_trace": "The selected smartwatch has a high rating of 4.0, a large number of reviews (1823), and a low price of $59.99, making it a well-rounded and affordable option for customers. The consideration set includes a variety of smartwatches with different features, prices, and ratings, but the final choice is based on the best balance of these factors."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/smartwatches/smartwatches_392.json",
+    "offer_set_id": "smartwatches_392",
+    "timestamp": 1772826011,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

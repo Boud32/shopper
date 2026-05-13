@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 10,
+    "timestamp": 1776650224,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_010.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_293",
+      "prod_laundry_detergent_062",
+      "prod_laundry_detergent_127",
+      "prod_laundry_detergent_116",
+      "prod_laundry_detergent_265"
+    ],
+    "final_choice": "prod_laundry_detergent_062",
+    "reasoning": "Tide Original HE Turbo Powder at $14.47 with 4.6 stars and 2125 reviews is a reliable Tide powder at a low price."
+  }
+}

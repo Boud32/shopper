@@ -1,0 +1,23 @@
+{
+  "experiment_id": "session_backpacks_25_sim",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_173",
+      "prod_backpacks_038",
+      "prod_backpacks_132",
+      "prod_backpacks_096",
+      "prod_backpacks_023"
+    ],
+    "final_choice": "prod_backpacks_173",
+    "reasoning_trace": "After filtering out non-backpack items such as towels, camping chairs, and food, I selected a consideration set that covers different styles: packable lightweight, hydration-focused, tactical/EDC, and traditional canvas. The ZOMAKE Ultra Lightweight Hiking Backpack (prod_backpacks_173) was selected as the final choice because it offers incredible value with a high rating and a massive number of positive reviews, making it a low-risk and highly functional purchase for general day-hiking or travel needs."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_228.json",
+    "offer_set_id": "backpacks_228",
+    "timestamp": 1775595460,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

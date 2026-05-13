@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_030"
+    ],
+    "final_choice": "prod_bluetooth_speakers_181",
+    "reasoning_trace": "I evaluated the options based on sound quality reputation, durability (waterproofing), and battery life. My consideration set included a range from budget-friendly (INSMY) to high-end home audio (Sonos) and premium portable brands (Bose, B&O, Sony). I ultimately selected the Sony SRS-XB43 because it offers a superior 24-hour battery life and an IP67 waterproof/dustproof rating at a mid-range price point of $156.34, providing a better balance of performance and ruggedness than the similarly priced Bose or more expensive Bang & Olufsen."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_465.json",
+    "offer_set_id": "bluetooth_speakers_465",
+    "timestamp": 1775604766,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

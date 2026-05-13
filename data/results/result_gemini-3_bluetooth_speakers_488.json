@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_session",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_189",
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_049"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated a wide range of Bluetooth speakers, from portable clips to high-end home units and office conference speakers. The JBL Clip 3 (prod_bluetooth_speakers_147) is a trusted product but the specific 'Dusty Pink' color didn't fit my aesthetic. The Sony RA3000 (prod_bluetooth_speakers_144) is promising for room-filling sound, but at $198, the negative feedback regarding its app and connectivity is a significant deterrent. The budget options like INSMY (prod_bluetooth_speakers_128) and comiso offered good value, but several reviews across these brands noted issues with long-term durability or DOA units. A large portion of the feed also consisted of accessories like charging cables, cases, and replacement batteries rather than the speakers themselves. Because the premium options have software flaws and the budget options have reliability concerns, I have decided to postpone my purchase until I can find a better balance of brand reliability and features in a preferred color."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_488.json",
+    "offer_set_id": "bluetooth_speakers_488",
+    "timestamp": 1775605101,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

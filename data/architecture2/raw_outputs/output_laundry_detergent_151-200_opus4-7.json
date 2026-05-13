@@ -1,0 +1,602 @@
+[
+  {
+    "offer_set_id": "laundry_detergent_151",
+    "consideration_set": [
+      "prod_laundry_detergent_162",
+      "prod_laundry_detergent_185",
+      "prod_laundry_detergent_254",
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_107"
+    ],
+    "final_choice": "prod_laundry_detergent_162",
+    "reasoning": "Tide Plus Febreze at $59.97 has an overwhelming 36,566 reviews at 4.7\u2605 and is a trusted mainstream brand in a high-visibility position."
+  },
+  {
+    "offer_set_id": "laundry_detergent_152",
+    "consideration_set": [
+      "prod_laundry_detergent_189",
+      "prod_laundry_detergent_045",
+      "prod_laundry_detergent_293",
+      "prod_laundry_detergent_195",
+      "prod_laundry_detergent_107"
+    ],
+    "final_choice": "prod_laundry_detergent_189",
+    "reasoning": "Tide PODS Free & Gentle at $49.49 for 96 count offers the best combo of reviews (4.8\u2605, 24k), price per pod, and hypoallergenic utility."
+  },
+  {
+    "offer_set_id": "laundry_detergent_153",
+    "consideration_set": [
+      "prod_laundry_detergent_039",
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_275",
+      "prod_laundry_detergent_045"
+    ],
+    "final_choice": "prod_laundry_detergent_039",
+    "reasoning": "Tide Powder Mountain Spring at $20.97 for 143oz is iconic with 12k+ 4.8\u2605 reviews \u2014 exceptional value at a high-visibility position."
+  },
+  {
+    "offer_set_id": "laundry_detergent_154",
+    "consideration_set": [
+      "prod_laundry_detergent_225",
+      "prod_laundry_detergent_166",
+      "prod_laundry_detergent_062",
+      "prod_laundry_detergent_132",
+      "prod_laundry_detergent_197"
+    ],
+    "final_choice": "prod_laundry_detergent_225",
+    "reasoning": "Mrs. Meyer's at $16.98 with 16k+ 4.7\u2605 reviews in position 2 is a top-tier brand at a fair price."
+  },
+  {
+    "offer_set_id": "laundry_detergent_155",
+    "consideration_set": [
+      "prod_laundry_detergent_102",
+      "prod_laundry_detergent_242",
+      "prod_laundry_detergent_020",
+      "prod_laundry_detergent_007",
+      "prod_laundry_detergent_256"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions dominated by weak or niche options (3.6\u2605 YouClean, soap nuts, Tyler candle, hunting detergent); mainstream options are buried."
+  },
+  {
+    "offer_set_id": "laundry_detergent_156",
+    "consideration_set": [
+      "prod_laundry_detergent_145",
+      "prod_laundry_detergent_251",
+      "prod_laundry_detergent_116",
+      "prod_laundry_detergent_293",
+      "prod_laundry_detergent_242"
+    ],
+    "final_choice": "prod_laundry_detergent_145",
+    "reasoning": "Persil ProClean at $15.99 for 100oz/64 loads with 25k 4.8\u2605 reviews in position 2 is outstanding value and quality."
+  },
+  {
+    "offer_set_id": "laundry_detergent_157",
+    "consideration_set": [
+      "prod_laundry_detergent_251",
+      "prod_laundry_detergent_162",
+      "prod_laundry_detergent_117",
+      "prod_laundry_detergent_269",
+      "prod_laundry_detergent_185"
+    ],
+    "final_choice": "prod_laundry_detergent_251",
+    "reasoning": "Tide Plus Febreze Sport at $16.49 with 35k+ 4.7\u2605 reviews at position 3 is a standout value."
+  },
+  {
+    "offer_set_id": "laundry_detergent_158",
+    "consideration_set": [
+      "prod_laundry_detergent_021",
+      "prod_laundry_detergent_102",
+      "prod_laundry_detergent_283",
+      "prod_laundry_detergent_127",
+      "prod_laundry_detergent_008"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions dominated by niche/weak options (soap nuts, Tyler candles, unknown sheets); nothing stands out as clearly better than alternatives I could find elsewhere."
+  },
+  {
+    "offer_set_id": "laundry_detergent_159",
+    "consideration_set": [
+      "prod_laundry_detergent_117",
+      "prod_laundry_detergent_180",
+      "prod_laundry_detergent_251",
+      "prod_laundry_detergent_062",
+      "prod_laundry_detergent_127"
+    ],
+    "final_choice": "prod_laundry_detergent_117",
+    "reasoning": "Tide with Downy at $12.97 with 8k+ 4.8\u2605 reviews combines two trusted brands at an exceptional price."
+  },
+  {
+    "offer_set_id": "laundry_detergent_160",
+    "consideration_set": [
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_225",
+      "prod_laundry_detergent_116",
+      "prod_laundry_detergent_195",
+      "prod_laundry_detergent_269"
+    ],
+    "final_choice": "prod_laundry_detergent_101",
+    "reasoning": "Tide Hygienic Clean Free Pods at $16.99 with 12k+ 4.8\u2605 reviews is an excellent fragrance-free option for sensitive skin."
+  },
+  {
+    "offer_set_id": "laundry_detergent_161",
+    "consideration_set": [
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_034",
+      "prod_laundry_detergent_185",
+      "prod_laundry_detergent_045",
+      "prod_laundry_detergent_242"
+    ],
+    "final_choice": "prod_laundry_detergent_101",
+    "reasoning": "Tide Pods Free at top position ($16.99, 4.8\u2605, 12k+ reviews) delivers trusted quality at an attractive price."
+  },
+  {
+    "offer_set_id": "laundry_detergent_162",
+    "consideration_set": [
+      "prod_laundry_detergent_039",
+      "prod_laundry_detergent_180",
+      "prod_laundry_detergent_034",
+      "prod_laundry_detergent_102",
+      "prod_laundry_detergent_205"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are poor quality (SinkSuds travel, 2.2\u2605 Gain, $170 Gain, 2.9\u2605 baby detergent); strong options buried in middle don't justify scrolling past the weak top."
+  },
+  {
+    "offer_set_id": "laundry_detergent_163",
+    "consideration_set": [
+      "prod_laundry_detergent_180",
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_275",
+      "prod_laundry_detergent_045",
+      "prod_laundry_detergent_257"
+    ],
+    "final_choice": "prod_laundry_detergent_180",
+    "reasoning": "Persil Liquid at $25.99 with 15k+ 4.8\u2605 reviews is the strongest mainstream option with odor-elimination technology."
+  },
+  {
+    "offer_set_id": "laundry_detergent_164",
+    "consideration_set": [
+      "prod_laundry_detergent_180",
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_132",
+      "prod_laundry_detergent_296",
+      "prod_laundry_detergent_030"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions filled with expensive, weakly-rated, or niche products; the shopper would need to scroll past many low-signal items to reach good options."
+  },
+  {
+    "offer_set_id": "laundry_detergent_165",
+    "consideration_set": [
+      "prod_laundry_detergent_039",
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_045",
+      "prod_laundry_detergent_030",
+      "prod_laundry_detergent_185"
+    ],
+    "final_choice": "prod_laundry_detergent_039",
+    "reasoning": "Tide Powder Mountain Spring at $20.97 with 12k+ 4.8\u2605 reviews is an iconic product offering exceptional value per load."
+  },
+  {
+    "offer_set_id": "laundry_detergent_166",
+    "consideration_set": [
+      "prod_laundry_detergent_102",
+      "prod_laundry_detergent_287",
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_185",
+      "prod_laundry_detergent_024"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (sheets, travel soap, overpriced specialty) and only middle positions have mainstream brands \u2014 not compelling enough."
+  },
+  {
+    "offer_set_id": "laundry_detergent_167",
+    "consideration_set": [
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_042",
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_086"
+    ],
+    "final_choice": "prod_laundry_detergent_284",
+    "reasoning": "Puracy at $19.99 with 6k+ 4.6\u2605 reviews is a hypoallergenic, plant-based option positioned prominently near the top."
+  },
+  {
+    "offer_set_id": "laundry_detergent_168",
+    "consideration_set": [
+      "prod_laundry_detergent_145",
+      "prod_laundry_detergent_030",
+      "prod_laundry_detergent_275",
+      "prod_laundry_detergent_034",
+      "prod_laundry_detergent_060"
+    ],
+    "final_choice": "prod_laundry_detergent_145",
+    "reasoning": "Persil ProClean at $15.99 with 25k+ 4.8\u2605 reviews in position 2 is outstanding value from a top-tier brand."
+  },
+  {
+    "offer_set_id": "laundry_detergent_169",
+    "consideration_set": [
+      "prod_laundry_detergent_030",
+      "prod_laundry_detergent_117",
+      "prod_laundry_detergent_248",
+      "prod_laundry_detergent_265",
+      "prod_laundry_detergent_166"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by LaundraPet, 5-gallon Xtra, and weak-rated sheets; genuinely strong options are buried at the bottom of the page."
+  },
+  {
+    "offer_set_id": "laundry_detergent_170",
+    "consideration_set": [
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_042",
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_269",
+      "prod_laundry_detergent_021"
+    ],
+    "final_choice": "prod_laundry_detergent_060",
+    "reasoning": "Tide Hygienic Clean Pods at position 8 with both BEST and PICK badges, 4.8\u2605/7k+ reviews, is a strong signal for a quality choice."
+  },
+  {
+    "offer_set_id": "laundry_detergent_171",
+    "consideration_set": [
+      "prod_laundry_detergent_127",
+      "prod_laundry_detergent_166",
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_162",
+      "prod_laundry_detergent_185"
+    ],
+    "final_choice": "prod_laundry_detergent_127",
+    "reasoning": "Rockin' Green at $19.99 with 20k+ 4.6\u2605 reviews is a well-established plant-based option at a fair price in a visible position."
+  },
+  {
+    "offer_set_id": "laundry_detergent_172",
+    "consideration_set": [
+      "prod_laundry_detergent_189",
+      "prod_laundry_detergent_251",
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_215",
+      "prod_laundry_detergent_022"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top three positions are Kirkland pacs, luxury Tyler candle, and expensive Charlie's Soap \u2014 strong mainstream options are all buried in the middle."
+  },
+  {
+    "offer_set_id": "laundry_detergent_173",
+    "consideration_set": [
+      "prod_laundry_detergent_116",
+      "prod_laundry_detergent_039",
+      "prod_laundry_detergent_044",
+      "prod_laundry_detergent_086",
+      "prod_laundry_detergent_021"
+    ],
+    "final_choice": "prod_laundry_detergent_116",
+    "reasoning": "Arm & Hammer Plus OxiClean carries a BEST badge with 6.6k 4.7\u2605 reviews at $24.98 \u2014 a strong mainstream odor-fighting option."
+  },
+  {
+    "offer_set_id": "laundry_detergent_174",
+    "consideration_set": [
+      "prod_laundry_detergent_257",
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_019",
+      "prod_laundry_detergent_250",
+      "prod_laundry_detergent_028"
+    ],
+    "final_choice": "prod_laundry_detergent_257",
+    "reasoning": "Arm & Hammer Clean & Simple at $11.97 with 3.9k 4.6\u2605 reviews for 75 loads is excellent value per load."
+  },
+  {
+    "offer_set_id": "laundry_detergent_175",
+    "consideration_set": [
+      "prod_laundry_detergent_127",
+      "prod_laundry_detergent_022",
+      "prod_laundry_detergent_034",
+      "prod_laundry_detergent_145",
+      "prod_laundry_detergent_189"
+    ],
+    "final_choice": "prod_laundry_detergent_127",
+    "reasoning": "Rockin' Green at position 1 with $19.99 and 20k+ 4.6\u2605 reviews is a well-reviewed plant-based option at a good price."
+  },
+  {
+    "offer_set_id": "laundry_detergent_176",
+    "consideration_set": [
+      "prod_laundry_detergent_251",
+      "prod_laundry_detergent_189",
+      "prod_laundry_detergent_022",
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_257"
+    ],
+    "final_choice": "prod_laundry_detergent_251",
+    "reasoning": "Tide Plus Febreze Sport at top position with 35k+ 4.7\u2605 reviews and a $16.49 price is a standout \u2014 dominant brand, top placement, and value."
+  },
+  {
+    "offer_set_id": "laundry_detergent_177",
+    "consideration_set": [
+      "prod_laundry_detergent_166",
+      "prod_laundry_detergent_045",
+      "prod_laundry_detergent_127",
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_034"
+    ],
+    "final_choice": "prod_laundry_detergent_166",
+    "reasoning": "Tide with Febreze carries a PICK badge at position 4 with 4.7\u2605 ratings and a large 150oz size \u2014 a mainstream, solid choice."
+  },
+  {
+    "offer_set_id": "laundry_detergent_178",
+    "consideration_set": [
+      "prod_laundry_detergent_102",
+      "prod_laundry_detergent_116",
+      "prod_laundry_detergent_132",
+      "prod_laundry_detergent_107",
+      "prod_laundry_detergent_242"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (Love Home small size, 3.5\u2605 sheets, WIN Activewear) and the BEST/PICK badges sit on items with low reviews or a mediocre 3.6\u2605 rating."
+  },
+  {
+    "offer_set_id": "laundry_detergent_179",
+    "consideration_set": [
+      "prod_laundry_detergent_030",
+      "prod_laundry_detergent_189",
+      "prod_laundry_detergent_039",
+      "prod_laundry_detergent_045",
+      "prod_laundry_detergent_042"
+    ],
+    "final_choice": "prod_laundry_detergent_030",
+    "reasoning": "Seventh Generation Free & Clear at $14.99 with 9.5k 4.6\u2605 reviews is a well-regarded hypoallergenic option at a fair price."
+  },
+  {
+    "offer_set_id": "laundry_detergent_180",
+    "consideration_set": [
+      "prod_laundry_detergent_116",
+      "prod_laundry_detergent_045",
+      "prod_laundry_detergent_034",
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_283"
+    ],
+    "final_choice": "prod_laundry_detergent_116",
+    "reasoning": "Arm & Hammer Plus OxiClean at $24.98 with 6.6k 4.7\u2605 reviews in position 5 is a strong odor-eliminating mainstream choice."
+  },
+  {
+    "offer_set_id": "laundry_detergent_181",
+    "consideration_set": [
+      "prod_laundry_detergent_189",
+      "prod_laundry_detergent_180",
+      "prod_laundry_detergent_275",
+      "prod_laundry_detergent_269",
+      "prod_laundry_detergent_086"
+    ],
+    "final_choice": "prod_laundry_detergent_189",
+    "reasoning": "Tide Pods Free & Gentle at $49.49 for 96 count with 24k+ 4.8\u2605 reviews is an excellent hypoallergenic bulk option at position 5."
+  },
+  {
+    "offer_set_id": "laundry_detergent_182",
+    "consideration_set": [
+      "prod_laundry_detergent_225",
+      "prod_laundry_detergent_045",
+      "prod_laundry_detergent_189",
+      "prod_laundry_detergent_269",
+      "prod_laundry_detergent_030"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top-of-page has a 3.6\u2605 AspenClean PICK and a 3.6\u2605 YouClean sheets \u2014 the visibility-weighted pool is too weak to buy confidently."
+  },
+  {
+    "offer_set_id": "laundry_detergent_183",
+    "consideration_set": [
+      "prod_laundry_detergent_269",
+      "prod_laundry_detergent_145",
+      "prod_laundry_detergent_117",
+      "prod_laundry_detergent_225",
+      "prod_laundry_detergent_005"
+    ],
+    "final_choice": "prod_laundry_detergent_269",
+    "reasoning": "Arm & Hammer Plus OxiClean Power Paks at $9.48 with 6.9k 4.7\u2605 reviews in top position is exceptional value per load."
+  },
+  {
+    "offer_set_id": "laundry_detergent_184",
+    "consideration_set": [
+      "prod_laundry_detergent_185",
+      "prod_laundry_detergent_225",
+      "prod_laundry_detergent_022",
+      "prod_laundry_detergent_189",
+      "prod_laundry_detergent_242"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are Ecover, LG sheets, Heritage Park, 4.1\u2605 GreenShield, 4.1\u2605 Rebel Green BEST \u2014 visibility-weighted quality is low."
+  },
+  {
+    "offer_set_id": "laundry_detergent_185",
+    "consideration_set": [
+      "prod_laundry_detergent_242",
+      "prod_laundry_detergent_116",
+      "prod_laundry_detergent_034",
+      "prod_laundry_detergent_117",
+      "prod_laundry_detergent_012"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top five positions are all mediocre (sheets with ~700 reviews, Soulink small, Boulder 6 reviews, soap nuts, 4.2\u2605 Code Blue); strong options are buried at position 9+."
+  },
+  {
+    "offer_set_id": "laundry_detergent_186",
+    "consideration_set": [
+      "prod_laundry_detergent_162",
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_242",
+      "prod_laundry_detergent_269"
+    ],
+    "final_choice": "prod_laundry_detergent_162",
+    "reasoning": "Tide Plus Febreze at position 2 with 36k+ 4.7\u2605 reviews is the dominant trusted option despite higher price."
+  },
+  {
+    "offer_set_id": "laundry_detergent_187",
+    "consideration_set": [
+      "prod_laundry_detergent_225",
+      "prod_laundry_detergent_062",
+      "prod_laundry_detergent_024",
+      "prod_laundry_detergent_275",
+      "prod_laundry_detergent_116"
+    ],
+    "final_choice": "prod_laundry_detergent_225",
+    "reasoning": "Mrs. Meyer's at $16.98 with 16k+ 4.7\u2605 reviews in position 2 is a top-tier brand at an attractive price."
+  },
+  {
+    "offer_set_id": "laundry_detergent_188",
+    "consideration_set": [
+      "prod_laundry_detergent_251",
+      "prod_laundry_detergent_162",
+      "prod_laundry_detergent_293",
+      "prod_laundry_detergent_215",
+      "prod_laundry_detergent_166"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top five positions are LG sheets, Zum, Zote flakes, 4.1\u2605 Rebel Green, Kirkland pacs \u2014 no compelling mainstream option visible at the top."
+  },
+  {
+    "offer_set_id": "laundry_detergent_189",
+    "consideration_set": [
+      "prod_laundry_detergent_162",
+      "prod_laundry_detergent_242",
+      "prod_laundry_detergent_269",
+      "prod_laundry_detergent_185",
+      "prod_laundry_detergent_127"
+    ],
+    "final_choice": "prod_laundry_detergent_162",
+    "reasoning": "Tide Plus Febreze Sport at position 7 with 36k+ 4.7\u2605 reviews remains the mainstream best-in-class option here."
+  },
+  {
+    "offer_set_id": "laundry_detergent_190",
+    "consideration_set": [
+      "prod_laundry_detergent_034",
+      "prod_laundry_detergent_195",
+      "prod_laundry_detergent_166",
+      "prod_laundry_detergent_287",
+      "prod_laundry_detergent_298"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top five positions are filled with sheets and small-brand options; mainstream detergents are buried below position 12."
+  },
+  {
+    "offer_set_id": "laundry_detergent_191",
+    "consideration_set": [
+      "prod_laundry_detergent_039",
+      "prod_laundry_detergent_145",
+      "prod_laundry_detergent_045",
+      "prod_laundry_detergent_180",
+      "prod_laundry_detergent_117"
+    ],
+    "final_choice": "prod_laundry_detergent_039",
+    "reasoning": "Tide Powder Mountain Spring carries a BEST badge at position 2 with 12k+ 4.8\u2605 reviews and $20.97 for 143oz \u2014 an unbeatable value signal."
+  },
+  {
+    "offer_set_id": "laundry_detergent_192",
+    "consideration_set": [
+      "prod_laundry_detergent_185",
+      "prod_laundry_detergent_275",
+      "prod_laundry_detergent_048",
+      "prod_laundry_detergent_197",
+      "prod_laundry_detergent_298"
+    ],
+    "final_choice": "prod_laundry_detergent_185",
+    "reasoning": "Gain Flings at position 2 with 4.8\u2605/3.8k reviews is the strongest mainstream option visible near the top."
+  },
+  {
+    "offer_set_id": "laundry_detergent_193",
+    "consideration_set": [
+      "prod_laundry_detergent_145",
+      "prod_laundry_detergent_039",
+      "prod_laundry_detergent_185",
+      "prod_laundry_detergent_045",
+      "prod_laundry_detergent_062"
+    ],
+    "final_choice": "prod_laundry_detergent_145",
+    "reasoning": "Persil ProClean at position 2 with 25k+ 4.8\u2605 reviews and $15.99 is an extraordinary combination of price, reviews, and placement."
+  },
+  {
+    "offer_set_id": "laundry_detergent_194",
+    "consideration_set": [
+      "prod_laundry_detergent_045",
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_189",
+      "prod_laundry_detergent_022",
+      "prod_laundry_detergent_269"
+    ],
+    "final_choice": "prod_laundry_detergent_045",
+    "reasoning": "Tide PODS 4-in-1 Sport at top position with 4.9\u2605 and 8k reviews is the strongest combination of placement and quality signal."
+  },
+  {
+    "offer_set_id": "laundry_detergent_195",
+    "consideration_set": [
+      "prod_laundry_detergent_034",
+      "prod_laundry_detergent_225",
+      "prod_laundry_detergent_116",
+      "prod_laundry_detergent_257",
+      "prod_laundry_detergent_195"
+    ],
+    "final_choice": "prod_laundry_detergent_034",
+    "reasoning": "Tru Earth sheets at position 2 with 22k+ 4.5\u2605 reviews at $14 is a well-established eco option at an attractive price."
+  },
+  {
+    "offer_set_id": "laundry_detergent_196",
+    "consideration_set": [
+      "prod_laundry_detergent_275",
+      "prod_laundry_detergent_102",
+      "prod_laundry_detergent_145",
+      "prod_laundry_detergent_117",
+      "prod_laundry_detergent_039"
+    ],
+    "final_choice": "prod_laundry_detergent_275",
+    "reasoning": "Persil Discs at position 2 with 4.8\u2605 and 1.3k reviews at $17.99 for 38 count is compelling top-of-page value."
+  },
+  {
+    "offer_set_id": "laundry_detergent_197",
+    "consideration_set": [
+      "prod_laundry_detergent_215",
+      "prod_laundry_detergent_045",
+      "prod_laundry_detergent_145",
+      "prod_laundry_detergent_127",
+      "prod_laundry_detergent_117"
+    ],
+    "final_choice": "prod_laundry_detergent_215",
+    "reasoning": "Kirkland Ultra Clean Pacs at position 1 with a BEST badge, 4.6\u2605, and $37.75 for 120 pacs is excellent value per load."
+  },
+  {
+    "offer_set_id": "laundry_detergent_198",
+    "consideration_set": [
+      "prod_laundry_detergent_048",
+      "prod_laundry_detergent_195",
+      "prod_laundry_detergent_283",
+      "prod_laundry_detergent_287",
+      "prod_laundry_detergent_166"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top five positions are WIN Activewear, small Meliora, $170 Gain with 1 review, Kind Laundry sheets, and Tyler \u2014 no compelling mainstream option high on the page."
+  },
+  {
+    "offer_set_id": "laundry_detergent_199",
+    "consideration_set": [
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_189",
+      "prod_laundry_detergent_127",
+      "prod_laundry_detergent_275",
+      "prod_laundry_detergent_030"
+    ],
+    "final_choice": "prod_laundry_detergent_060",
+    "reasoning": "Tide Hygienic Clean Pods at top position with 4.8\u2605 and 7.6k reviews at $35.38 for 41 count is a strong mainstream choice."
+  },
+  {
+    "offer_set_id": "laundry_detergent_200",
+    "consideration_set": [
+      "prod_laundry_detergent_180",
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_275",
+      "prod_laundry_detergent_257",
+      "prod_laundry_detergent_265"
+    ],
+    "final_choice": "prod_laundry_detergent_180",
+    "reasoning": "Persil Liquid at position 3 with 15k+ 4.8\u2605 reviews at $25.99 is a top-tier mainstream odor-fighting choice."
+  }
+]

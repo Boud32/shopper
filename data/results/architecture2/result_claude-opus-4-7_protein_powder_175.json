@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 25,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_175.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_060",
+      "prod_protein_powder_088",
+      "prod_protein_powder_027",
+      "prod_protein_powder_076",
+      "prod_protein_powder_187"
+    ],
+    "final_choice": "prod_protein_powder_060",
+    "reasoning": "Pro JYM is a premium multi-source blend (egg, milk, whey, casein) at 4.7 stars with 4,865 reviews at $60 for 45 servings \u2014 highly respected by athletes for formulation quality."
+  }
+}

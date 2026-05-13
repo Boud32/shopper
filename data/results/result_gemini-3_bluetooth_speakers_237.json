@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_evaluation",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_135"
+    ],
+    "final_choice": null,
+    "reasoning_trace": "In this session, I was looking for a high-quality, mid-range portable speaker. My consideration set included reputable options from Sony, JBL, and Bose, as well as a unique wooden Rerii speaker. The Sony SRS-XB43 (prod_181) provides excellent sound but is quite large and expensive for my needs. The JBL Go 3 (prod_129) is very portable but lacks the depth of sound I am seeking. I was most interested in the JBL Flip 5 (prod_001), but it is listed as 'Renewed,' and I prefer to purchase audio equipment new for battery longevity reasons. The Bose SoundLink (prod_137) is a solid choice, but feels dated compared to current market offerings at the same price point. Additionally, the product feed was heavily cluttered with accessories such as wall shelves, charging cables, and carrying cases (nearly 30% of the results), which made the browsing experience less satisfying. I have decided to defer my purchase until I can find a new-condition JBL Flip 6 or a more modern Bose equivalent."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_237.json",
+    "offer_set_id": "bluetooth_speakers_237",
+    "timestamp": 1775595660,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

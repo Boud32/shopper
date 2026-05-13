@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_006",
+      "prod_backpacks_132",
+      "prod_backpacks_038",
+      "prod_backpacks_184",
+      "prod_backpacks_023"
+    ],
+    "final_choice": "prod_backpacks_006",
+    "reasoning_trace": "I evaluated the feed for genuine backpacks, filtering out the irrelevant camping gear like tents and air mattresses. My consideration set includes a high-rated packable daypack (HIKPRO), an insulated hydration pack (Mubasel), a durable EDC bag (Maxpedition), an affordable laptop bag (KAUKKO), and a rugged canvas rucksack (Fox Outdoor). I chose the HIKPRO 20L because it has an exceptional rating of 4.7 with a high review count, offering the best balance of portability, durability, and value for a general-purpose daypack."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_283.json",
+    "offer_set_id": "backpacks_283",
+    "timestamp": 1775596379,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

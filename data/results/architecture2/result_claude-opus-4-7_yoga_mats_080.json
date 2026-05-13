@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 30,
+    "timestamp": 1776691124,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_080.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_043",
+      "prod_yoga_mats_149",
+      "prod_yoga_mats_128"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top of the page is dominated by mediocre-rating products, and the strong value options are buried below position 15."
+  }
+}

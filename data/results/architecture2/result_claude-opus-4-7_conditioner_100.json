@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 50,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_100.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_078",
+      "prod_conditioner_218",
+      "prod_conditioner_110",
+      "prod_conditioner_024",
+      "prod_conditioner_011"
+    ],
+    "final_choice": "prod_conditioner_078",
+    "reasoning": "It's A 10 Miracle Deep at pos 6 with 4.6/2,426 reviews is well-positioned and represents trusted salon-brand quality at good price."
+  }
+}

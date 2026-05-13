@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_sim_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_131",
+      "prod_bluetooth_speakers_192",
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_193",
+      "prod_bluetooth_speakers_177"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several high-quality speakers including the JBL Pulse 4 and the Sony SRS-RA3000, as well as highly-rated budget options like the EWA A106 Pro. However, I decided on no_purchase for several reasons. The premium speakers (JBL and Sony) are priced quite high, with one reviewer noting a significant price jump for the JBL. The Sony speaker has several complaints regarding its companion app and connectivity. While the EWA and comiso models are well-rated for their size, they are 'mini' speakers that likely sacrifice sound depth for portability. Furthermore, a significant portion of the product feed was cluttered with accessories like cables and cases, which reduced the overall variety of competitive, mid-range standard speakers available to compare."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_140.json",
+    "offer_set_id": "bluetooth_speakers_140",
+    "timestamp": 1775593971,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

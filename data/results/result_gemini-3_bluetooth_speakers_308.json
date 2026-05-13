@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_168",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_072"
+    ],
+    "final_choice": "prod_bluetooth_speakers_181",
+    "reasoning_trace": "I narrowed my selection to a mix of high-performance and mid-range speakers based on rating stability and feature sets. The Sony SRS-XB43 emerged as the best option because of its exceptional 4.7 rating and nearly 5,600 reviews, indicating high consumer satisfaction and reliability. While the B&O Beosound A1 offers premium audio, its significantly higher price makes it less of a value choice than the Sony. The NOTABRICK and HyperGear speakers were strong mid-tier contenders for outdoor use, but for a long-term purchase, the build quality and 'Extra Bass' performance of the Sony justified the investment."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_308.json",
+    "offer_set_id": "bluetooth_speakers_308",
+    "timestamp": 1775596825,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

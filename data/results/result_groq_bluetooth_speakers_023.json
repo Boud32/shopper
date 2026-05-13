@@ -1,0 +1,23 @@
+{
+  "experiment_id": "bluetooth_speakers_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_090",
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_192"
+    ],
+    "final_choice": "prod_bluetooth_speakers_166",
+    "reasoning_trace": "Selected a diverse set of products from different brands, with varying prices, features, and customer reviews to consider. Chose JBL FLIP 5 for its high rating, waterproof design, and long battery life, making it suitable for both indoor and outdoor use."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_023.json",
+    "offer_set_id": "bluetooth_speakers_023",
+    "timestamp": 1774973668,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

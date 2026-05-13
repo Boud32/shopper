@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_132",
+      "prod_backpacks_159",
+      "prod_backpacks_038",
+      "prod_backpacks_043",
+      "prod_backpacks_167"
+    ],
+    "final_choice": "prod_backpacks_132",
+    "reasoning_trace": "I filtered the list for actual backpacks, excluding several irrelevant items like camping stoves, sleeping pads, and towels that were incorrectly categorized. My consideration set includes a mix of specialized hydration packs, tactical slings, and technical hiking backpacks. I prioritized products with high ratings and substantial review counts to ensure reliability. The Mubasel Gear hydration pack (prod_backpacks_132) is exceptionally well-reviewed with over 10,000 ratings and a 4.6 average, making it a reliable and low-risk purchase for outdoor activities compared to the more expensive or less-reviewed alternatives like the KAILAS or Maxpedition bags."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_217.json",
+    "offer_set_id": "backpacks_217",
+    "timestamp": 1775594567,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

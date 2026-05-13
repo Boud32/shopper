@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_02",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_064",
+      "prod_backpacks_122",
+      "prod_backpacks_088",
+      "prod_backpacks_067",
+      "prod_backpacks_121"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The search results were cluttered with many non-backpack items such as towels, camping stoves, tents, and sleeping pads. Among the actual backpacks, most were highly specialized (baseball equipment bags, a snorkeling bag, or a cooler bag) rather than standard daypacks or travel backpacks. The tactical option (prod_backpacks_064) looked decent but had a very low review count, and the military Alice pack (prod_backpacks_005) was prohibitively expensive at $339.99. Given the lack of high-quality, general-purpose options, I decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_123.json",
+    "offer_set_id": "backpacks_123",
+    "timestamp": 1775605352,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

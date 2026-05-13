@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_shopping_25",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_047",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_131"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated 25 products and narrowed my consideration set to five diverse options: the high-performance JBL Flip 5 and Pulse 4, the premium Bose SoundLink Color, the high-wattage comiso, and the budget-leading LENRUE. While the JBL Flip 5 and Bose SoundLink Color are both highly-rated, I am finding it difficult to choose between the two at the $90-$100 price point. Some reviews for the JBL Pulse 4 and the comiso mention power and charging failures after a few months, which makes me cautious about the durability of these portable units. Because I'm looking for a long-term investment and the most promising models are so closely matched, I've decided to hold off on a purchase to conduct more research into their specific battery life and warranty coverage."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_115.json",
+    "offer_set_id": "bluetooth_speakers_115",
+    "timestamp": 1775593628,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "backpack_browsing",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_137",
+      "prod_backpacks_043",
+      "prod_backpacks_050",
+      "prod_backpacks_027",
+      "prod_backpacks_073"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The customer browsed through 25 products but decided not to make a purchase. The consideration set included the Mardingtop 70L/65L/65+10L Molle Hiking Internal Frame Backpacks, KAILAS 28L Water Resistant Hiking Backpack, G4Free Tactical Shoulder Backpack, ROCKRAIN Hydration Backpack, and TOMSHOO Cycling Backpack. However, after evaluating these options, the customer chose not to purchase any of them, likely due to factors such as price, features, or personal preferences."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_025.json",
+    "offer_set_id": "backpacks_025",
+    "timestamp": 1774974351,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

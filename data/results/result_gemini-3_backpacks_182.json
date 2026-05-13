@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_112",
+      "prod_backpacks_186",
+      "prod_backpacks_069",
+      "prod_backpacks_067",
+      "prod_backpacks_007"
+    ],
+    "final_choice": "prod_backpacks_112",
+    "reasoning_trace": "I am looking for a versatile and durable backpack for general use. The FOCO NFL Team Logo Action Backpack (prod_backpacks_112) stands out as the most practical option for daily activities or school, featuring cushioned straps and positive reviews for durability. While the OutdoorMaster Boot Bag (prod_backpacks_186) is an 'Overall Pick' and highly rated, it is specifically designed for bulky ski gear, making it less ideal for everyday use. The hydration pack (prod_backpacks_069) and cooler backpack (prod_backpacks_067) are too specialized for my current needs, and the dry bag (prod_backpacks_007) is a bit small at 15L for a primary backpack. Therefore, the FOCO backpack is the most suitable choice."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_182.json",
+    "offer_set_id": "backpacks_182",
+    "timestamp": 1775594049,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

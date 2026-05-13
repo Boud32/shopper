@@ -1,0 +1,23 @@
+{
+  "experiment_id": "toothbrush_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_141",
+      "prod_toothbrushes_165",
+      "prod_toothbrushes_024",
+      "prod_toothbrushes_197",
+      "prod_toothbrushes_061"
+    ],
+    "final_choice": "prod_toothbrushes_165",
+    "reasoning_trace": "The final choice is based on a combination of factors including product rating, review count, and price. The Oral-B Pro-Health Cross Action Advanced Toothbrush has a high rating of 4.5 and a large number of reviews (480), indicating a high level of customer satisfaction. Additionally, it is a well-known brand in the oral care industry, which adds to its credibility. The price of $15.99 is also reasonable compared to other products in the list. The other products in the consideration set, such as the Bamboo Toothbrushes and the DentistRx Intelisonic Brush Heads, also have good ratings and reviews, but the Oral-B toothbrush stands out due to its brand reputation and overall customer feedback."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_303.json",
+    "offer_set_id": "toothbrushes_303",
+    "timestamp": 1772655450,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 13,
+    "timestamp": 1776691124,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_013.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_149",
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_155",
+      "prod_yoga_mats_113"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions dominated by niche hot-yoga combos and travel mats with low review counts or quality concerns; no strong general-purpose mat leads."
+  }
+}

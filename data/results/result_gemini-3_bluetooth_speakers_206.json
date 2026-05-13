@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_sim_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_190",
+      "prod_bluetooth_speakers_047",
+      "prod_bluetooth_speakers_183"
+    ],
+    "final_choice": "prod_bluetooth_speakers_166",
+    "reasoning_trace": "I evaluated the product feed for high-quality Bluetooth speakers with strong user sentiment and reliable brand reputations. My consideration set includes the JBL Flip 5 (prod_166) for its industry-leading ratings and durability, the INSMY (prod_128) for value-conscious waterproofing, the MIFA (prod_190) for outdoor versatility with its lantern feature, the LENRUE (prod_047) as a high-volume budget choice, and the Monster Boomerang (prod_183) for its unique wearable form factor. Ultimately, I chose the JBL Flip 5 (prod_166). Despite being priced higher than the budget entries at $89.95, its 4.8 rating across nearly 70,000 reviews and its proven reputation for sound quality make it the most reliable and satisfying purchase in this selection."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_206.json",
+    "offer_set_id": "bluetooth_speakers_206",
+    "timestamp": 1775595017,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

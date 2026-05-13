@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_browsing_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_073",
+      "prod_backpacks_064",
+      "prod_backpacks_099",
+      "prod_backpacks_003",
+      "prod_backpacks_012"
+    ],
+    "final_choice": "prod_backpacks_099",
+    "reasoning_trace": "I evaluated a mix of backpack styles including technical trekking (Osprey), tactical (Warriors, FAMI), cycling-specific (TOMSHOO), and lightweight packable options (ZOMAKE). The Osprey Exos is a high-quality piece but carries a premium price tag that is hard to justify without a specific ultralight expedition in mind. The tactical bags offer durability, but the FAMI is actually a small sling. The ZOMAKE packable backpack emerged as the winner due to its extremely positive customer sentiment across a large number of reviews, its versatility for both travel and daily use, and its highly competitive price point."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_158.json",
+    "offer_set_id": "backpacks_158",
+    "timestamp": 1775593735,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

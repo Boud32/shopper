@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_151",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_040",
+      "prod_bluetooth_speakers_013"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several popular portable speakers like the MusiBaby and INSMY, which offer high ratings at a budget price, but the user feedback regarding insufficient volume for outdoor use makes me hesitant. I also considered the JBL Flip 5 and Charge 4 renewed models, but the reviews specifically for the refurbished units mentioned recurring issues with battery life and charging failure within six months. Since I am looking for a durable, loud, and reliable speaker, I've decided not to make a purchase today and instead save for a brand-new high-end model or wait for a better sale."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_411.json",
+    "offer_set_id": "bluetooth_speakers_411",
+    "timestamp": 1775603927,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

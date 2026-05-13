@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_selection_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_173",
+      "prod_backpacks_038",
+      "prod_backpacks_096",
+      "prod_backpacks_128",
+      "prod_backpacks_082"
+    ],
+    "final_choice": "prod_backpacks_038",
+    "reasoning_trace": "I am looking for a durable everyday carry backpack that is built to last but doesn't look overly military or 'tactical' for urban environments. The ZOMAKE (prod_backpacks_173) is a great value but too lightweight for heavy daily use. The Maxpedition Falcon-III (prod_backpacks_096) has excellent reviews for durability but is both expensive and has a very aggressive tactical aesthetic. The adidas mesh bag (prod_backpacks_128) is functional but the mesh construction is too niche for my needs. The BASSDASH (prod_backpacks_082) is specifically for fishing. The Maxpedition Prepared Citizen Classic v2.0 (prod_backpacks_038) is the perfect compromise: it offers Maxpedition's renowned build quality and CCW capability while looking like a generic lifestyle bag, making it ideal for discreet daily use."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_350.json",
+    "offer_set_id": "backpacks_350",
+    "timestamp": 1775597462,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

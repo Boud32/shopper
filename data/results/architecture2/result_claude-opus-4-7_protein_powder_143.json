@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 43,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_143.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_156",
+      "prod_protein_powder_060",
+      "prod_protein_powder_172",
+      "prod_protein_powder_173",
+      "prod_protein_powder_187"
+    ],
+    "final_choice": "prod_protein_powder_156",
+    "reasoning": "BSN Syntha-6 Edge at $42.99 with 4.7\u2605 and 8,950 reviews offers the best quality-to-price in this set despite its deeper position."
+  }
+}

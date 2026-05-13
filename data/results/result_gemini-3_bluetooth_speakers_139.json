@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_001",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_158",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_072",
+      "prod_bluetooth_speakers_177"
+    ],
+    "final_choice": null,
+    "reasoning_trace": "I was searching for a Bluetooth speaker that offers a balance of high-fidelity sound and reliable construction for both home and outdoor use. I evaluated the premium JBL Charge 5, but its lack of backward compatibility with older JBL generations is a deal-breaker for my existing ecosystem. The Audio Pro C10 MKII is a high-end option, but its $405 price point combined with reviews mentioning frustrating connectivity issues makes it a risky investment. On the budget end, while the comiso and TENMIYA speakers claim high wattage, several user reviews regarding 'dead on arrival' units or lack of bass clarity suggest inconsistent quality control. Given that the selection is polarized between expensive units with specific flaws and budget units with durability concerns, I have decided not to make a purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_139.json",
+    "offer_set_id": "bluetooth_speakers_139",
+    "timestamp": 1775593958,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

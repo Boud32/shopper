@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_session_04",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_050",
+      "prod_backpacks_078",
+      "prod_backpacks_128",
+      "prod_backpacks_125",
+      "prod_backpacks_153"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was looking for a versatile, general-purpose backpack for daily commuting and light hiking. Within my consideration set, the USWE 30L is a high-quality technical pack but far exceeds my budget. The G4Free tactical pack offers good volume and price but its aesthetic is too military for my needs. The adidas bag is made of mesh, which doesn't provide enough security or weather protection. The Gelindo is specifically a hydration pack and the Scothen is a cooler, both of which are too specialized for a primary daily bag. Since none of the options perfectly balance versatility, style, and value, I've decided not to make a purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_173.json",
+    "offer_set_id": "backpacks_173",
+    "timestamp": 1775593936,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

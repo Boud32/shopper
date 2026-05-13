@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "",
+    "architecture": "frontend",
+    "session_position": 17,
+    "timestamp": 1776377218,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_017.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_053",
+      "prod_protein_powder_006",
+      "prod_protein_powder_124",
+      "prod_protein_powder_195",
+      "prod_protein_powder_014"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The selection is dominated by specialty/niche products, weight gainers, and pricey options without a compelling mainstream whey at great value."
+  }
+}

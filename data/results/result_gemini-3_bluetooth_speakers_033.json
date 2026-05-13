@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_037",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_131"
+    ],
+    "final_choice": "prod_bluetooth_speakers_166",
+    "reasoning_trace": "I evaluated several Bluetooth speakers ranging from budget to premium home audio systems. The JBL Flip 5 (prod_bluetooth_speakers_166) stood out as the most balanced option for a general-purpose portable speaker. With a 4.8 rating over 68,000 reviews, it demonstrates exceptional reliability and sound quality. While the Edifier S350DB offers a superior home experience, its high price and lack of portability made it less versatile for my current needs. The Bose SoundLink Color was a strong contender, but the Flip 5's rugged waterproof design and massive positive user base made it the most confident purchase decision."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_033.json",
+    "offer_set_id": "bluetooth_speakers_033",
+    "timestamp": 1775591054,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_v1",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_131",
+      "prod_bluetooth_speakers_144"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated a mix of high-end speakers from Sony and JBL alongside top-selling budget options like the EDUPLINK. The premium models, including the Sony SRS-XB43 ($156.34) and JBL Pulse 4 ($249.90), are well-rated but exceed my budget for a portable speaker. The EDUPLINK offered impressive specs for under $30, but recent reviews cited disappointing sound quality and concerns about durability. I also considered a renewed JBL Charge 4, but I am hesitant to purchase refurbished electronics where battery life is a critical factor. Much of the product feed consisted of accessories like wall shelves and carrying cases rather than the speakers themselves, which limited the selection of brand-new, mid-priced options. Consequently, I decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_346.json",
+    "offer_set_id": "bluetooth_speakers_346",
+    "timestamp": 1775597609,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

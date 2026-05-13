@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_151",
+      "prod_bluetooth_speakers_144"
+    ],
+    "final_choice": "prod_bluetooth_speakers_174",
+    "reasoning_trace": "After reviewing the available products, I narrowed my consideration set to speakers with strong ratings and established brands or high review counts. The Bose SoundLink Color II and Sony SRS-RA3000 were strong contenders for high-end sound quality, but the Bose is slightly dated and the Sony is significantly more expensive. The BOGASING M4 offers the best value with 40W of stereo sound, a high review count (over 1,400), and a robust IPX7 waterproof rating for under $70, making it more powerful than the INSMY retro model and more reliable than the budget MusiBaby option."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_004.json",
+    "offer_set_id": "bluetooth_speakers_004",
+    "timestamp": 1775590597,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

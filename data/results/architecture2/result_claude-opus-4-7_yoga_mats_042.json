@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 42,
+    "timestamp": 1776691124,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_042.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_149",
+      "prod_yoga_mats_140"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top 5 is genuinely weak (nuveti 4.3 stars, June & Juniper $70 with 174 reviews, STOTT 4.2 stars, generic 8mm, Kulae $78); no well-validated general-purpose mat leads."
+  }
+}

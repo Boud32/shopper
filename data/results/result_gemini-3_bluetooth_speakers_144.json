@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_v1",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_002",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_062"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The browsing session was cluttered with a high percentage of irrelevant items, including carrying cases (Zaracle, Aenllosi, FitSand), charging cables (Draw a dragon, Olort), and mounting shelves. Among the actual Bluetooth speakers, the selection was polarized between very small, underpowered novelty units (Bitty Boomers, Fashionit) and niche or outdated technology, such as the Bose SoundDock with an obsolete 30-pin connector. While the JBL and INSMY portable speakers are reputable, the lack of variety in high-quality mid-to-upper-range home speakers and the presence of several products with non-verified or mediocre sound reviews (Creative, Sylvania, Coby) led to a decision to forego a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_144.json",
+    "offer_set_id": "bluetooth_speakers_144",
+    "timestamp": 1775594037,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

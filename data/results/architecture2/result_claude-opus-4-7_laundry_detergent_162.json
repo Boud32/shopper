@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 12,
+    "timestamp": 1776650226,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_162.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_039",
+      "prod_laundry_detergent_180",
+      "prod_laundry_detergent_034",
+      "prod_laundry_detergent_102",
+      "prod_laundry_detergent_205"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are poor quality (SinkSuds travel, 2.2\u2605 Gain, $170 Gain, 2.9\u2605 baby detergent); strong options buried in middle don't justify scrolling past the weak top."
+  }
+}

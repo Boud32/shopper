@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 475,
+    "timestamp": 1776097305,
+    "source_batch": "data/offer_sets/coffee_makers/coffee_makers_475.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_coffee_makers_197",
+      "prod_coffee_makers_113",
+      "prod_coffee_makers_179",
+      "prod_coffee_makers_071",
+      "prod_coffee_makers_199"
+    ],
+    "final_choice": "prod_coffee_makers_197",
+    "reasoning": "I chose this model due to its exceptional 4.8 rating and high volume of positive feedback compared to its competitors."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "running_shoes_exp",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_146",
+      "prod_running_shoes_078",
+      "prod_running_shoes_072",
+      "prod_running_shoes_149",
+      "prod_running_shoes_129"
+    ],
+    "final_choice": "prod_running_shoes_146",
+    "reasoning_trace": "The customer is looking for running shoes. The consideration set includes a mix of high-rated and affordable options from well-known brands such as ASICS, adidas, and Saucony. The final choice, prod_running_shoes_146 (ASICS Women's Gel-Cumulus 24 Running Shoes), is a high-rated (4.6/5) and relatively affordable option ($70.96) that provides a versatile everyday trainer for various runners covering different distances."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/running_shoes/running_shoes_032.json",
+    "offer_set_id": "running_shoes_032",
+    "timestamp": 1772641568,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "no_reviews",
+    "k": 5
+  }
+}

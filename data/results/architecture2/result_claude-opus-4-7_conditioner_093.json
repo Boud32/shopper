@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 43,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_093.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_078",
+      "prod_conditioner_194",
+      "prod_conditioner_003",
+      "prod_conditioner_092",
+      "prod_conditioner_112"
+    ],
+    "final_choice": "prod_conditioner_078",
+    "reasoning": "It's A 10 Miracle Deep at pos 5 with 4.6/2,426 reviews is the clear quality pick in a generally weak top-page selection."
+  }
+}

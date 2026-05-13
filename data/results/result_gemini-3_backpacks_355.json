@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_25",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_102",
+      "prod_backpacks_099",
+      "prod_backpacks_112",
+      "prod_backpacks_194",
+      "prod_backpacks_164"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The product feed for backpacks was highly inconsistent, featuring many items that are not actually backpacks, such as sleeping pads, tents, and freeze-dried food. Among the actual backpacks, many were specialized niche items: the TUDEQU is a sling bag, the ZOMAKE is a lightweight packable daypack with potentially thin material, and the FORICH is an insulated cooler. The more traditional school backpacks from FOCO had several reviews mentioning broken zippers and poor durability. The W WINTMING tactical backpack appeared sturdy but is aesthetically very specific. Without a high-quality, durable, general-purpose daily backpack in the selection, I decided not to make a purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_355.json",
+    "offer_set_id": "backpacks_355",
+    "timestamp": 1775597537,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

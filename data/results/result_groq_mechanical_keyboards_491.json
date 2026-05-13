@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_mechanical_keyboards",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_081",
+      "prod_mechanical_keyboards_111",
+      "prod_mechanical_keyboards_092",
+      "prod_mechanical_keyboards_126",
+      "prod_mechanical_keyboards_119"
+    ],
+    "final_choice": "prod_mechanical_keyboards_081",
+    "reasoning_trace": "Based on the provided product feed, a consideration set of 5 products that best meet the customer's needs for a mechanical keyboard is selected. The key factors for selection include product ratings, reviews, and compatibility with various switches and keyboard layouts. The final choice, 'prod_mechanical_keyboards_081', YMDK GH60 GK61 RGB Hot Swap Independent Driver Tyce-C ANSI Mechanical Keyboard DIY kit, stands out due to its high rating of 4.4, numerous positive reviews highlighting its customizability and build quality, and its compatibility with Cherry MX switches. This product seems to offer a good balance of quality, customizability, and value, making it a suitable choice for someone looking for a mechanical keyboard."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_491.json",
+    "offer_set_id": "mechanical_keyboards_491",
+    "timestamp": 1772825396,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

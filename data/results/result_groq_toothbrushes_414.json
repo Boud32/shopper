@@ -1,0 +1,23 @@
+{
+  "experiment_id": "toothbrush_purchase",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_110",
+      "prod_toothbrushes_165",
+      "prod_toothbrushes_049",
+      "prod_toothbrushes_018",
+      "prod_toothbrushes_062"
+    ],
+    "final_choice": "prod_toothbrushes_165",
+    "reasoning_trace": "Based on the product feed, I considered toothbrushes with high ratings, good reviews, and reasonable prices. The final choice, 'Oral-B Pro-Health Cross Action Advanced Toothbrush', stands out due to its high rating of 4.5, numerous positive reviews, and a price of $15.99, which seems reasonable for an 8-pack of toothbrushes from a well-known brand like Oral-B."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_414.json",
+    "offer_set_id": "toothbrushes_414",
+    "timestamp": 1772825545,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

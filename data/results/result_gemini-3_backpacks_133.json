@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_137",
+      "prod_backpacks_050",
+      "prod_backpacks_128",
+      "prod_backpacks_196",
+      "prod_backpacks_140"
+    ],
+    "final_choice": "prod_backpacks_128",
+    "reasoning_trace": "I filtered the feed to focus on actual backpacks, as several items (chairs, coffee pots, hammocks) were miscategorized. My consideration set includes a high-capacity hiking pack (Mardingtop), a mid-sized tactical bag (G4Free), a branded mesh pack (adidas), a hydration pack (Lunidry), and a sling bag (NICGID). I decided on the adidas Hermosa Mesh Backpack because it has the highest overall rating (4.7) and specific positive feedback regarding its long-term durability (lasting 2-3 years for a high school student), whereas several other options had reviews complaining about broken zippers or straps after only a few months of use."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_133.json",
+    "offer_set_id": "backpacks_133",
+    "timestamp": 1775593354,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "toothbrush_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_041",
+      "prod_toothbrushes_018",
+      "prod_toothbrushes_065",
+      "prod_toothbrushes_142",
+      "prod_toothbrushes_104"
+    ],
+    "final_choice": "prod_toothbrushes_041",
+    "reasoning_trace": "The products in the consideration set were chosen based on their high ratings, low prices, and relevance to the average customer's needs. The GuruNanda Mentadent Manual Toothbrush was chosen as the final product due to its excellent reviews, low price point of $5.99, and soft bristles, making it suitable for both adults and children."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_485.json",
+    "offer_set_id": "toothbrushes_485",
+    "timestamp": 1772825775,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

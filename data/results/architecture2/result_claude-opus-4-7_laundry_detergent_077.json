@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 27,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_077.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_120",
+      "prod_laundry_detergent_046",
+      "prod_laundry_detergent_225",
+      "prod_laundry_detergent_007",
+      "prod_laundry_detergent_143"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are very weak (low-rated YouClean, Russian soap, niche soap nuts) and nothing clearly outshines what I could find in a different search."
+  }
+}

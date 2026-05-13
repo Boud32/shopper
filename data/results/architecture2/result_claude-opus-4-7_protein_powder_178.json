@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 28,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_178.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_063",
+      "prod_protein_powder_076",
+      "prod_protein_powder_071",
+      "prod_protein_powder_172",
+      "prod_protein_powder_102"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top of page is dominated by weak options (Purus Labs with 34 reviews, Obvi 3.9 stars, Garden of Life mid-tier), and the credible whey options sit at positions 8+ \u2014 nothing commands attention enough to buy."
+  }
+}

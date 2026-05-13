@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 44,
+    "timestamp": 1776650224,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_044.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_039",
+      "prod_laundry_detergent_021",
+      "prod_laundry_detergent_045",
+      "prod_laundry_detergent_250"
+    ],
+    "final_choice": "prod_laundry_detergent_284",
+    "reasoning": "Puracy at $19.99 with 4.6 stars and 6276 reviews is a visible, well-rated plant-based hypoallergenic detergent at a reasonable price."
+  }
+}

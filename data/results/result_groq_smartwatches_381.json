@@ -1,0 +1,23 @@
+{
+  "experiment_id": "smartwatch_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_smartwatches_052",
+      "prod_smartwatches_038",
+      "prod_smartwatches_026",
+      "prod_smartwatches_165",
+      "prod_smartwatches_094"
+    ],
+    "final_choice": "prod_smartwatches_052",
+    "reasoning_trace": "Selected Apple Watch SE due to its high rating (4.3), large number of reviews (137), and competitive price ($178.99) compared to other options like the Google Pixel Watch ($399.99). The consideration set includes a mix of high-end and budget-friendly options with various features such as heart rate monitoring, waterproofing, and GPS."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/smartwatches/smartwatches_381.json",
+    "offer_set_id": "smartwatches_381",
+    "timestamp": 1772825987,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

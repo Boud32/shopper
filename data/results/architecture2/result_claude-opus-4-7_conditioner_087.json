@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 37,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_087.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_218",
+      "prod_conditioner_027",
+      "prod_conditioner_194",
+      "prod_conditioner_183",
+      "prod_conditioner_286"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by niche, thin-review, and specialty products; strong options buried deep and nothing clearly stands out at the visible top."
+  }
+}

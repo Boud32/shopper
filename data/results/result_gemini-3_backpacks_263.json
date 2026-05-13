@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_10",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_132",
+      "prod_backpacks_111",
+      "prod_backpacks_173",
+      "prod_backpacks_050",
+      "prod_backpacks_171"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The search results were cluttered with many irrelevant items like drill bits, umbrellas, and lamp poles, which made the browsing experience frustrating. While I considered several budget-friendly backpacks such as the Mubasel hydration pack and the SHENHU 40L bag, reviews for the tactical options like the G4Free raised concerns about durability, specifically involving zippers and straps breaking. Since I am looking for a reliable, high-quality daypack for long-term use and nothing in this selection stood out as particularly durable or of premium build quality, I decided to wait and look elsewhere."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_263.json",
+    "offer_set_id": "backpacks_263",
+    "timestamp": 1775596057,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

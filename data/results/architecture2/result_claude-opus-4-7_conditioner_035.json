@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 35,
+    "timestamp": 1776689265,
+    "source_batch": "data/offer_sets/conditioner/conditioner_035.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_169",
+      "prod_conditioner_027",
+      "prod_conditioner_040",
+      "prod_conditioner_170",
+      "prod_conditioner_066"
+    ],
+    "final_choice": "prod_conditioner_169",
+    "reasoning": "L'Oreal EverPure at pos 2 with 4.5 stars, 988 reviews, $10.99 is a strong mainstream option at high visibility."
+  }
+}

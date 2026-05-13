@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 16,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_066.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_048",
+      "prod_laundry_detergent_132",
+      "prod_laundry_detergent_039",
+      "prod_laundry_detergent_086",
+      "prod_laundry_detergent_101"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top three positions are low-quality (low-rated sponsored baby option, niche small-size, obscure brand), and strong options are buried."
+  }
+}

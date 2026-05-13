@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "",
+    "architecture": "frontend",
+    "session_position": 4,
+    "timestamp": 1776377218,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_004.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_109",
+      "prod_protein_powder_156",
+      "prod_protein_powder_097",
+      "prod_protein_powder_027",
+      "prod_protein_powder_014"
+    ],
+    "final_choice": "prod_protein_powder_109",
+    "reasoning": "BSN SYNTHA-6 has best-in-class 4.7 stars across over 26,000 reviews, a top-tier blend of whey and casein at $60.40 that's widely recognized as excellent."
+  }
+}

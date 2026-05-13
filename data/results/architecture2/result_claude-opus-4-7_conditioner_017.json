@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 17,
+    "timestamp": 1776689265,
+    "source_batch": "data/offer_sets/conditioner/conditioner_017.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_097",
+      "prod_conditioner_005",
+      "prod_conditioner_199",
+      "prod_conditioner_213",
+      "prod_conditioner_237"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top-ranked products are sponsored low-volume or niche (kids, men's, growth) with no broadly strong pick visible."
+  }
+}

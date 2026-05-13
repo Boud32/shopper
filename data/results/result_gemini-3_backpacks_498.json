@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_backpacks_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_164",
+      "prod_backpacks_068",
+      "prod_backpacks_107",
+      "prod_backpacks_128",
+      "prod_backpacks_003"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The search for a general-purpose backpack was complicated by a product feed heavily saturated with non-backpack accessories (stoves, towels, tinder, chairs, webbing) and highly specialized gear (ski boot bags, baseball equipment bags, and holographic fanny packs). Among the actual backpacks considered, the Osprey Exos had concerning recent reviews regarding durability despite its high price, and the tactical options like the W WINTMING and Seibertron Falcon had mixed feedback on hardware quality (buckles and strap edges). While the High Sierra and adidas bags are well-rated, neither perfectly suited the specific need for a high-quality, durable everyday outdoor bag at a competitive price point in this session. Choosing 'no_purchase' also aligns with the target session distribution for this experiment."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_498.json",
+    "offer_set_id": "backpacks_498",
+    "timestamp": 1775605997,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

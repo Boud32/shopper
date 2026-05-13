@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_107",
+      "prod_backpacks_038",
+      "prod_backpacks_159",
+      "prod_backpacks_126",
+      "prod_backpacks_154"
+    ],
+    "final_choice": "prod_backpacks_107",
+    "reasoning_trace": "I am looking for a versatile, durable backpack for hiking and outdoor activities. Among the options, the Seibertron Falcon (prod_backpacks_107) offers the best combination of capacity (37L), functional features like the molle system, and high ratings for comfort and durability at a reasonable price point. The Maxpedition was a strong contender for its discreet look and high build quality, but the Seibertron's specific design for hiking and its positive reviews from fellow outdoor enthusiasts make it the preferred choice for this session. The hydration pack and cooler backpack were considered for their specialized functions, but weren't as versatile as a standard tactical hiking bag."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_224.json",
+    "offer_set_id": "backpacks_224",
+    "timestamp": 1775595397,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

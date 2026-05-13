@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 11,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_111.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_071",
+      "prod_protein_powder_097",
+      "prod_protein_powder_191",
+      "prod_protein_powder_181",
+      "prod_protein_powder_115"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by weakly-rated products and sponsored listings, and the strong options are scattered without a clear dominant buy."
+  }
+}

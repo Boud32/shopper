@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_122",
+      "prod_backpacks_099",
+      "prod_backpacks_168",
+      "prod_backpacks_082",
+      "prod_backpacks_112"
+    ],
+    "final_choice": "prod_backpacks_099",
+    "reasoning_trace": "I evaluated several specialized and general-purpose backpacks. The DeMarini (baseball) and BASSDASH (fishing) bags were high-quality but too niche for a general-purpose need. The FOCO NFL bag had some concerns regarding zipper durability in similar models. The MOSISO sling was a good compact option, but the ZOMAKE 30/35/45L packable backpack stood out as the best overall value. One reviewer mentioned it was their 13th purchase from the brand, which is a strong signal of reliability and customer loyalty. For under $17, its versatility for travel and hiking makes it the most practical choice."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_071.json",
+    "offer_set_id": "backpacks_071",
+    "timestamp": 1775590827,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

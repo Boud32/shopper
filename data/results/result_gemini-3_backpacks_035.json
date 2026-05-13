@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_1",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_171",
+      "prod_backpacks_050",
+      "prod_backpacks_140",
+      "prod_backpacks_156",
+      "prod_backpacks_048"
+    ],
+    "final_choice": "prod_backpacks_050",
+    "reasoning_trace": "Out of the 25 products, I narrowed my focus to dedicated backpacks and packs. Within my consideration set, the G4Free Tactical Shoulder Backpack (prod_backpacks_050) offered the best combination of capacity (35L), positive customer feedback (4.6 stars), and price ($28.99). The Explorer Day Pack (prod_backpacks_171) was a strong contender but significantly more expensive at $42.12. The specialized packs like the SUNLUG Cooler Backpack (prod_backpacks_048) and the NICGID Sling (prod_backpacks_140) were interesting but less versatile than the G4Free, which received high praise for its durability and roominess."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_035.json",
+    "offer_set_id": "backpacks_035",
+    "timestamp": 1774979178,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

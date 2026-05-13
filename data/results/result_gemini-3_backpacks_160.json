@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_purchase_sim",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_196",
+      "prod_backpacks_125",
+      "prod_backpacks_132",
+      "prod_backpacks_171",
+      "prod_backpacks_054"
+    ],
+    "final_choice": "prod_backpacks_132",
+    "reasoning_trace": "After reviewing the feed, I focused on products that actually functioned as backpacks rather than the various camping accessories provided. The Mubasel Gear hydration pack (prod_backpacks_132) was the strongest candidate due to its exceptional social proof, with over 10,000 reviews and a high rating of 4.6. While the USWE Hajker (prod_backpacks_125) offered high-end technical features, its price point was significantly higher. The Lunidry pack (prod_backpacks_196) was a close competitor but had recent reviews mentioning durability and leaking issues. I also considered the Explorer tactical bag (prod_backpacks_171) and the BullCaptain leather sling (prod_backpacks_054) for style variety, but the Mubasel Gear pack offered the best combination of proven utility and value."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_160.json",
+    "offer_set_id": "backpacks_160",
+    "timestamp": 1775593764,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

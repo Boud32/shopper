@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus",
+    "model": "claude-opus-4-6",
+    "architecture": "frontend",
+    "session_position": 33,
+    "timestamp": 1776109205,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_033.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_131",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_190"
+    ],
+    "final_choice": "prod_bluetooth_speakers_071",
+    "reasoning": "The Bose SoundLink Color at $99.99 with 4.6 stars and 9,632 reviews is a well-priced Bose option with strong review volume and reliable quality."
+  }
+}

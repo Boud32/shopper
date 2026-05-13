@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_selection_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_107",
+      "prod_backpacks_164",
+      "prod_backpacks_057",
+      "prod_backpacks_050",
+      "prod_backpacks_122"
+    ],
+    "final_choice": "prod_backpacks_057",
+    "reasoning_trace": "I evaluated the product feed specifically for versatile high-capacity backpacks. While the feed contains many camping accessories (tents, stoves), I focused on actual packs. The consideration set includes tactical-style bags and a specialized sports bag (DeMarini). Among these, the QT&QY 45L Military Tactical Backpack (prod_backpacks_057) represents the best value proposition. It has a high 4.7 rating backed by a significant volume of reviews (over 6,000), indicating a very high level of customer satisfaction and product reliability at a very competitive price point of $39.99."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_216.json",
+    "offer_set_id": "backpacks_216",
+    "timestamp": 1775594549,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 24,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_124.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_169",
+      "prod_conditioner_119",
+      "prod_conditioner_066",
+      "prod_conditioner_114",
+      "prod_conditioner_241"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Visible positions are diffuse with no dominant generic-use winner; top is AFTER ALL! at position 1 with only 174 reviews."
+  }
+}

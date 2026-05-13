@@ -1,0 +1,23 @@
+{
+  "experiment_id": "smartwatch_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_smartwatches_188",
+      "prod_smartwatches_154",
+      "prod_smartwatches_066",
+      "prod_smartwatches_139",
+      "prod_smartwatches_165"
+    ],
+    "final_choice": "prod_smartwatches_188",
+    "reasoning_trace": "Considering the high ratings, advanced features such as GPS, heart rate monitoring, and long battery life, the top 5 smartwatches were selected for the consideration set. Among these, Garmin Forerunner 955 Solar stood out due to its premium features, including solar charging, tailored training advice, and a long-lasting battery, making it the final choice for customers seeking a high-quality smartwatch experience."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/smartwatches/smartwatches_155.json",
+    "offer_set_id": "smartwatches_155",
+    "timestamp": 1772654512,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

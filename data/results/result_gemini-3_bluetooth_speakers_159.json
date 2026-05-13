@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping_03",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_002",
+      "prod_bluetooth_speakers_131",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_177"
+    ],
+    "final_choice": "prod_bluetooth_speakers_195",
+    "reasoning_trace": "I evaluated several well-known brands like JBL and high-end options like Bang & Olufsen. I filtered out the many accessories in the feed, such as cases and wall shelves, to focus on the actual speakers. While the JBL Pulse 4 is visually impressive, the Bang & Olufsen Beosound A1 2nd Gen received exceptional praise for its audiophile sound quality and its dual-use as a high-quality WFH speakerphone. Given its solid 4.5-star rating across nearly 3,000 reviews and the specific mention of its performance during calls, I decided the premium price is worth it for a more versatile and superior audio experience."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_159.json",
+    "offer_set_id": "bluetooth_speakers_159",
+    "timestamp": 1775594244,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_026",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_006",
+      "prod_backpacks_096",
+      "prod_backpacks_132",
+      "prod_backpacks_068",
+      "prod_backpacks_051"
+    ],
+    "final_choice": "prod_backpacks_006",
+    "reasoning_trace": "In this shopping session, I evaluated a range of backpacks from small sling bags to large internal frame hiking packs. The consideration set includes the MOSISO Sling for compact needs, the Mubasel Gear for hydration, the Maxpedition Falcon-III for high-end tactical use, and the High Sierra 70L for long-distance hiking. Ultimately, I selected the HIKPRO 20L Packable Backpack because it has an exceptional rating of 4.7 stars with a high review count, offering incredible value and versatility for a daypack at a very competitive price of $17.99."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_484.json",
+    "offer_set_id": "backpacks_484",
+    "timestamp": 1775605763,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

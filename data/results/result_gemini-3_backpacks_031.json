@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_simulation_1",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_006",
+      "prod_backpacks_050",
+      "prod_backpacks_137",
+      "prod_backpacks_115",
+      "prod_backpacks_007"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The product feed for 'Backpacks' was heavily cluttered with irrelevant camping gear (tents, blankets, lanterns) and apparel. Among the actual backpacks, the choices were either highly specialized (ski boot bags, baseball bags, disc golf bags) or had questionable durability and material quality according to reviews (e.g., Mardingtop and G4Free). While the HIKPRO packable bag is highly rated, it is too small for my current needs, leading to a decision of no purchase this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_031.json",
+    "offer_set_id": "backpacks_031",
+    "timestamp": 1774978879,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

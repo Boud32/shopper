@@ -1,0 +1,23 @@
+{
+  "experiment_id": "running_shoes_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_147",
+      "prod_running_shoes_094",
+      "prod_running_shoes_162",
+      "prod_running_shoes_114",
+      "prod_running_shoes_103"
+    ],
+    "final_choice": "prod_running_shoes_147",
+    "reasoning_trace": "The selected products are all highly rated running shoes from reputable brands, with 'prod_running_shoes_147' being the final choice due to its high rating of 4.1 with 15891 reviews, and a competitive price of $35.11. The consideration set offers a range of options to cater to different preferences and priorities, such as the Brooks Ghost 14 for those prioritizing cushioning, or the ASICS Gel-Nimbus for support."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/running_shoes/running_shoes_013.json",
+    "offer_set_id": "running_shoes_013",
+    "timestamp": 1772641554,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "extended",
+    "k": 5
+  }
+}

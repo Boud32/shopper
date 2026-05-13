@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_backpacks",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_137",
+      "prod_backpacks_068",
+      "prod_backpacks_043",
+      "prod_backpacks_132",
+      "prod_backpacks_128"
+    ],
+    "final_choice": "prod_backpacks_068",
+    "reasoning_trace": "I am looking for a reliable, large-capacity backpack suitable for hiking or long-distance travel. The product feed contained many irrelevant items such as towels, cooking pots, and camping chairs, so I filtered those out to focus on actual backpacks. Within my consideration set, I compared high-capacity hiking packs (Mardingtop and High Sierra) with daypacks (KAILAS and Mubasel). The High Sierra Pathway 70L (prod_backpacks_068) stands out due to its high 4.7 rating and a very detailed review indicating it is a serious tool for backcountry excursions. Although the Mardingtop is similar in price and capacity, its reviews mentioned quality control issues. The High Sierra offers the best balance of capacity, brand reputation, and positive user feedback for a primary backpacking bag."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_084.json",
+    "offer_set_id": "backpacks_084",
+    "timestamp": 1775591664,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

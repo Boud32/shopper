@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_184",
+      "prod_backpacks_006",
+      "prod_backpacks_074",
+      "prod_backpacks_069",
+      "prod_backpacks_088"
+    ],
+    "final_choice": "prod_backpacks_006",
+    "reasoning_trace": "I filtered the product list for actual backpacks, narrowing it down to a laptop bag, a packable daypack, a specialized skate bag, a hydration pack, and a sling bag. I ultimately selected the HIKPRO 20L Packable Backpack (prod_backpacks_006) because of its exceptional rating of 4.7 stars across nearly 3,000 reviews, indicating high consumer trust and reliability at an affordable price point. The KAUKKO laptop bag was a close contender, but a recent negative review about strap durability led me to favor the HIKPRO for a long-term purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_395.json",
+    "offer_set_id": "backpacks_395",
+    "timestamp": 1775598199,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

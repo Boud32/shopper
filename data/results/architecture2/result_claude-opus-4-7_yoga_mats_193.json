@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 43,
+    "timestamp": 1776691125,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_193.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_111",
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_043"
+    ],
+    "final_choice": "prod_yoga_mats_111",
+    "reasoning": "Gaiam Solid at position 3 with a BEST badge, $28.75, 4.5 stars, and 2,147 reviews is a trustworthy brand pick at a prominent position."
+  }
+}

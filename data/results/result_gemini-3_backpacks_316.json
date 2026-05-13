@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_purchase_sim",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_057",
+      "prod_backpacks_038",
+      "prod_backpacks_111",
+      "prod_backpacks_167",
+      "prod_backpacks_125"
+    ],
+    "final_choice": "prod_backpacks_057",
+    "reasoning_trace": "I evaluated the products based on their primary function as backpacks, filtering out accessories like pillows, stoves, and tents that were mixed into the feed. My consideration set includes a range of styles: a high-capacity tactical pack (QT&QY), a high-quality EDC pack (Maxpedition), a budget-friendly hiking pack (SHENHU), a compact sling (GZ XINXING), and a premium technical winter pack (USWE). I chose the QT&QY 45L Military Tactical Backpack because it offers exceptional value for money, backed by over 6,000 highly positive reviews, and provides the versatility needed for travel, hiking, or daily use at a very competitive price point."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_316.json",
+    "offer_set_id": "backpacks_316",
+    "timestamp": 1775596922,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

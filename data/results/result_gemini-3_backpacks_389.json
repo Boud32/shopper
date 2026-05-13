@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_025",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_043",
+      "prod_backpacks_068",
+      "prod_backpacks_041",
+      "prod_backpacks_055",
+      "prod_backpacks_112"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The browsing session for backpacks was heavily cluttered with non-backpack items like tents, cookware, and accessories, which made it difficult to find a relevant product. Within the consideration set, the Granite Gear 52L had concerning reviews regarding shoulder straps breaking on the first trip, and the High Sierra 70L was too large for general day-hiking or commuting. The KAILAS 28L appeared to be a decent option but lacked sufficient review data to build trust at its $69.99 price point. Other options were too niche, such as the disc golf or tactical bags. Ultimately, no single product met the requirements for a reliable, well-reviewed, mid-sized hiking backpack."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_389.json",
+    "offer_set_id": "backpacks_389",
+    "timestamp": 1775598103,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

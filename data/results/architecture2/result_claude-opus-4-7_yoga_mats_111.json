@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 11,
+    "timestamp": 1776691125,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_111.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_021",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_097",
+      "prod_yoga_mats_149",
+      "prod_yoga_mats_120"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top positions are generic or obscure brands and the strongest mainstream options are pushed into the middle and bottom of the list \u2014 nothing is compelling enough at the top."
+  }
+}

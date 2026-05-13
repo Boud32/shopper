@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_purchase",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_168",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_002"
+    ],
+    "final_choice": "prod_bluetooth_speakers_129",
+    "reasoning_trace": "I evaluated several portable and home speakers based on ratings, features, and brand reputation. The Sony SRS-XB43 and JBL Go 3 both stand out with excellent 4.7 ratings. While the Sony offers more power and features, the JBL Go 3 is highly rated, extremely portable, and well-priced for a standard wireless speaker. I also included the INSMY Retro and NOTABRICK models for their unique aesthetics and lighting features, and the JBL Clip 3 as a solid renewed option. Ultimately, I chose the JBL Go 3 for its balance of performance, brand reliability, and value."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_285.json",
+    "offer_set_id": "bluetooth_speakers_285",
+    "timestamp": 1775596456,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

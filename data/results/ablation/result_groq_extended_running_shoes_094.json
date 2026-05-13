@@ -1,0 +1,23 @@
+{
+  "experiment_id": "running_shoes",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_135",
+      "prod_running_shoes_101",
+      "prod_running_shoes_157",
+      "prod_running_shoes_069",
+      "prod_running_shoes_179"
+    ],
+    "final_choice": "prod_running_shoes_157",
+    "reasoning_trace": "The final choice is based on a balance of high ratings, price, and brand reputation.Nike Women's Flex 2016 Rn Running Shoes have a 4.5 rating and a relatively affordable price of $64.0. Although Brooks Men\u2019s Launch 9 Neutral Running Shoe has a high rating of 4.5, its price of $69.95 is slightly higher. ASICS Women's Gel-Contend 6 Running Shoes have a high rating of 4.6, but the price of $54.95 is a better value. ASICS Men's Gel-Kayano 26 Running Shoes have a high rating of 4.7, but the price of $159.95 is significantly higher. Mizuno Women's Wave Horizon 2 Running Shoe has a high rating of 4.5, but the price of $159.99 is the highest among the consideration set."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/running_shoes/running_shoes_094.json",
+    "offer_set_id": "running_shoes_094",
+    "timestamp": 1772641823,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "extended",
+    "k": 5
+  }
+}

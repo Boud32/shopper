@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 20,
+    "timestamp": 1776691124,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_070.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_120",
+      "prod_yoga_mats_135",
+      "prod_yoga_mats_055"
+    ],
+    "final_choice": "prod_yoga_mats_006",
+    "reasoning": "Gaiam Premium 6mm Reversible at $39.98 with 4.7\u2b50 and 13,691 reviews is the best-rated established-brand option in the set."
+  }
+}

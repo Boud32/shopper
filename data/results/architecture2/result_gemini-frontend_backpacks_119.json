@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 119,
+    "timestamp": 1776098609,
+    "source_batch": "data/offer_sets/backpacks/backpacks_119.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_016",
+      "prod_backpacks_154",
+      "prod_backpacks_137",
+      "prod_backpacks_175",
+      "prod_backpacks_071"
+    ],
+    "final_choice": "prod_backpacks_016",
+    "reasoning": "The Athletico Youth Baseball Bag - Bat Backpack for Ba stands out for its high rating and balanced price-to-feature ratio."
+  }
+}

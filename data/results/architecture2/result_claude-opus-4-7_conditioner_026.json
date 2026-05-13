@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 26,
+    "timestamp": 1776689265,
+    "source_batch": "data/offer_sets/conditioner/conditioner_026.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_078",
+      "prod_conditioner_170",
+      "prod_conditioner_027",
+      "prod_conditioner_218",
+      "prod_conditioner_241"
+    ],
+    "final_choice": "prod_conditioner_078",
+    "reasoning": "It's A 10 Haircare Miracle at 4.6 stars, 2426 reviews, $16.05 is the most reliable broadly-appealing option visible."
+  }
+}

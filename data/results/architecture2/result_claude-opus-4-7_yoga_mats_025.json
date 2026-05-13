@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 25,
+    "timestamp": 1776691124,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_025.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_040",
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_120",
+      "prod_yoga_mats_054"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top 5 is weak (Hugger Mugger 91 reviews, Limm Cork 24, SPRI, B YOGA $114, pploong 3.8 stars); strong options begin at position 7 or later, not a compelling leading page."
+  }
+}

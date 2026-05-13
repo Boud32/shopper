@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_browsing_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_043",
+      "prod_backpacks_102",
+      "prod_backpacks_041",
+      "prod_backpacks_182",
+      "prod_backpacks_153"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The product feed for 'Backpacks' is heavily populated with camping accessories (towels, lanterns, sleeping pads) rather than actual backpacks. Among the actual backpacks available, there are significant quality concerns: the Granite Gear Virga 2 (prod_backpacks_041) has multiple reviews citing broken shoulder straps on first use, and the Lywencom (prod_backpacks_136) reports broken zippers. While the KAILAS (prod_backpacks_043) daypack appears well-made, it has a very low review count to justify the $69.99 price point. The sling bags (prod_backpacks_102 and prod_backpacks_182) are highly rated but do not provide the capacity required for a full-sized hiking or travel pack. Given the quality issues and the clutter of unrelated items, I have decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_487.json",
+    "offer_set_id": "backpacks_487",
+    "timestamp": 1775605797,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping_25",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_168",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_135",
+      "prod_bluetooth_speakers_021"
+    ],
+    "final_choice": "prod_bluetooth_speakers_181",
+    "reasoning_trace": "I filtered through a product feed heavily cluttered with accessories like replacement batteries, cables, and cases. For actual speakers, I narrowed my search to products with high ratings and substantial review counts. The Sony SRS-XB43 was the most compelling option; while it is at a higher price point ($156.34), its 4.7 rating across over 5,000 reviews and reputable brand name make it a more reliable investment than the budget alternatives. I also considered the INSMY and NOTABRICK for their high value-to-price ratios, but ultimately decided on the Sony for its superior sound and build quality."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_179.json",
+    "offer_set_id": "bluetooth_speakers_179",
+    "timestamp": 1775594589,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_173"
+    ],
+    "final_choice": "prod_bluetooth_speakers_166",
+    "reasoning_trace": "After reviewing the product feed, I filtered out non-speaker items like replacement batteries and cases. I focused on highly-rated speakers with significant social proof. The JBL Flip 5 stood out due to its exceptional 4.8 rating and over 68,000 reviews, representing a reliable and well-regarded choice in the mid-price tier. The Bang & Olufsen Beosound A1 was a strong premium contender, and the JBL Charge 4 (Renewed) offered great value, but the Flip 5's massive volume of positive feedback makes it the most confident purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_469.json",
+    "offer_set_id": "bluetooth_speakers_469",
+    "timestamp": 1775604813,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

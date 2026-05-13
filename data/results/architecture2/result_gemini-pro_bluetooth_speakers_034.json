@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "frontend",
+    "session_position": 34,
+    "timestamp": 1776109656,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_034.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_150",
+      "prod_bluetooth_speakers_117",
+      "prod_bluetooth_speakers_177",
+      "prod_bluetooth_speakers_179"
+    ],
+    "final_choice": "prod_bluetooth_speakers_001",
+    "reasoning": "The JBL FLIP 5 renewed gives the best bang for the buck with rich bass and a high waterproof rating."
+  }
+}

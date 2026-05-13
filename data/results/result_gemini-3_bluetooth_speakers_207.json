@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_browse",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_003",
+      "prod_bluetooth_speakers_062",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_135"
+    ],
+    "final_choice": "prod_bluetooth_speakers_166",
+    "reasoning_trace": "During the shopping session, I noticed a high number of accessories like cases (prod_bluetooth_speakers_053, 096, 091) and charging cables (prod_bluetooth_speakers_065), which were excluded from my speaker consideration set. Within the speakers, the Sonos One SL was disqualified because reviews highlighted it is Wi-Fi only, not Bluetooth. The JBL Flip 5 stood out as the most reliable choice with a high 4.8 rating and massive review count, offering better value and brand trust than the more expensive Ultimate Ears Megablast (which had Alexa connectivity issues) or the budget-oriented MAWODE and Oraolo speakers. The Raymate and EDUPLINK were strong contenders for their specs, but the JBL's proven track record for outdoor durability led to the final purchase decision."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_207.json",
+    "offer_set_id": "bluetooth_speakers_207",
+    "timestamp": 1775595034,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

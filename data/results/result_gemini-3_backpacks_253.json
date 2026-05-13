@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_057",
+      "prod_backpacks_132",
+      "prod_backpacks_051",
+      "prod_backpacks_167",
+      "prod_backpacks_082"
+    ],
+    "final_choice": "prod_backpacks_057",
+    "reasoning_trace": "I am looking for a durable, high-capacity backpack suitable for various activities. The QT&QY 45L Tactical Backpack (prod_backpacks_057) stands out with an exceptional 4.7 rating from over 6,000 reviews and offers great value at $39.99 for its size and features. I also considered specialized options like the Mubasel hydration pack (prod_backpacks_132) and the Bassdash fishing bag (prod_backpacks_082), as well as smaller sling options from MOSISO and GZ XINXING. However, the versatility and positive feedback regarding the construction of the QT&QY tactical pack make it the most logical choice for a long-term gear investment."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_253.json",
+    "offer_set_id": "backpacks_253",
+    "timestamp": 1775595878,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_25",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_051",
+      "prod_backpacks_050",
+      "prod_backpacks_067",
+      "prod_backpacks_171",
+      "prod_backpacks_153"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated five of the most promising backpacks from the selection, focusing on capacity and utility. This included the MOSISO sling for light travel, the G4Free and Explorer tactical packs for larger capacity, and the TACTICISM and Scothen cooler backpacks for specialized outings. While the G4Free 35L initially seemed like a strong contender due to its volume and price point, reviews across the available tactical packs frequently highlighted durability concerns with zippers and stitching after moderate use. The cooler backpacks were well-rated but too specific for my general-purpose needs. Given that a large portion of the feed was cluttered with unrelated items like beach chairs, towels, and camping pillows, I did not find a standard, high-quality backpack that I felt confident would last, leading to a no_purchase decision."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_483.json",
+    "offer_set_id": "backpacks_483",
+    "timestamp": 1775605750,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

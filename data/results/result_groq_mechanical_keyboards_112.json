@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_mechanical_keyboards",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_103",
+      "prod_mechanical_keyboards_186",
+      "prod_mechanical_keyboards_102",
+      "prod_mechanical_keyboards_150",
+      "prod_mechanical_keyboards_126"
+    ],
+    "final_choice": "prod_mechanical_keyboards_103",
+    "reasoning_trace": "The customer is looking for a mechanical keyboard, and the consideration set includes a variety of keycap sets and keyboards. The final choice, prod_mechanical_keyboards_103, is a 141-key botanical keycap set with a high rating and many reviews, indicating its popularity and quality. The other products in the consideration set are also highly rated, but the final choice stands out for its unique design and high number of reviews."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_112.json",
+    "offer_set_id": "mechanical_keyboards_112",
+    "timestamp": 1772654409,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

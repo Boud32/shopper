@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_sim_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_177",
+      "prod_bluetooth_speakers_062",
+      "prod_bluetooth_speakers_190"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I am looking for a reliable, high-quality portable speaker with good bass performance. My consideration set included the premium JBL Charge 5, which has the best reputation but is priced quite high at $149.95. I also looked at mid-range options like the Bogasing (40W), Tenmiya (30W), and Eduplink, but user reviews for these 'off-brand' models mentioned specific hardware concerns like faulty charging ports and inconsistent battery life. Additionally, the browsing experience was cluttered with irrelevant items such as carrying cases and charging cables, which made me less confident in the search results. Given the high cost of the top-tier model and the reliability concerns of the budget models, I have decided to hold off on a purchase for now."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_214.json",
+    "offer_set_id": "bluetooth_speakers_214",
+    "timestamp": 1775595278,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

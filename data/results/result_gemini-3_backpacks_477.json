@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_171",
+      "prod_backpacks_182",
+      "prod_backpacks_194",
+      "prod_backpacks_082",
+      "prod_backpacks_050"
+    ],
+    "final_choice": "prod_backpacks_050",
+    "reasoning_trace": "I filtered through the search results to find actual backpacks as opposed to the many camping accessories (tents, sleeping bags, water bottles) included in the feed. My consideration set includes a diverse range of styles: a standard day pack (Explorer), a lightweight sling (N NEVO RHINO), a specialized cooler bag (FORICH), a feature-rich tackle bag (BASSDASH), and a high-capacity tactical pack (G4Free). I ultimately chose the G4Free Tactical Backpack (prod_backpacks_050) because it offers a significant 35L capacity and a high 4.6 rating at a very competitive sub-$30 price point, representing the best balance of utility and value for general outdoor or everyday use."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_477.json",
+    "offer_set_id": "backpacks_477",
+    "timestamp": 1775605638,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

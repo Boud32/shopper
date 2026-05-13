@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 21,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_071.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_016",
+      "prod_conditioner_066",
+      "prod_conditioner_169",
+      "prod_conditioner_196",
+      "prod_conditioner_097"
+    ],
+    "final_choice": "prod_conditioner_016",
+    "reasoning": "L'Oreal Elvive Hyaluron Plump at $8.48 with 4.6/344 reviews and 26.5oz offers excellent value and is well-positioned."
+  }
+}

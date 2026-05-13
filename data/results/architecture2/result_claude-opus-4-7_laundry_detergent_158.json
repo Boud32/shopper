@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 8,
+    "timestamp": 1776650226,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_158.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_021",
+      "prod_laundry_detergent_102",
+      "prod_laundry_detergent_283",
+      "prod_laundry_detergent_127",
+      "prod_laundry_detergent_008"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions dominated by niche/weak options (soap nuts, Tyler candles, unknown sheets); nothing stands out as clearly better than alternatives I could find elsewhere."
+  }
+}

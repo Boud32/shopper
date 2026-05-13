@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_045",
+      "prod_bluetooth_speakers_019",
+      "prod_bluetooth_speakers_150"
+    ],
+    "final_choice": "prod_bluetooth_speakers_128",
+    "reasoning_trace": "I filtered out several items in the feed that were accessories (cases, cables, and chargers) rather than actual speakers. My consideration set focused on highly-rated portable speakers with waterproof ratings and good customer feedback. The INSMY speaker (prod_bluetooth_speakers_128) stood out as the best value proposition, featuring 20W power, an IPX7 waterproof rating, and a 4.6-star rating with over 6,500 reviews, while maintaining a competitive $29.99 price point. While the JBL Charge 4 (prod_bluetooth_speakers_013) is a strong competitor from a premium brand, the INSMY being a new unit with similar specs at a third of the price made it the most logical choice for this shopping session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_364.json",
+    "offer_set_id": "bluetooth_speakers_364",
+    "timestamp": 1775597894,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

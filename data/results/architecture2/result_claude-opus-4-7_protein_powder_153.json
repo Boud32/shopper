@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 3,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_153.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_028",
+      "prod_protein_powder_065",
+      "prod_protein_powder_014",
+      "prod_protein_powder_076",
+      "prod_protein_powder_130"
+    ],
+    "final_choice": "prod_protein_powder_028",
+    "reasoning": "Isopure is a category-benchmark whey isolate with 4.5 stars and 30,402 reviews \u2014 a well-known, trusted product backed by overwhelming review volume."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 41,
+    "timestamp": 1776691124,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_041.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_055",
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_140",
+      "prod_yoga_mats_128"
+    ],
+    "final_choice": "prod_yoga_mats_055",
+    "reasoning": "CAMBIVO Extra Wide at position 2 with 1,804 reviews at 4.6 stars for $44.99 is the strongest well-placed option."
+  }
+}

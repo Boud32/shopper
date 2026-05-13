@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping_v1",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_111",
+      "prod_backpacks_078",
+      "prod_backpacks_128",
+      "prod_backpacks_096",
+      "prod_backpacks_055"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was looking for a high-quality, general-purpose backpack for commuting or light travel. Within the consideration set, the SHENHU 40L (prod_backpacks_111) was a strong value candidate, but reviews suggested it was better suited for smaller individuals and wasn't fully waterproof. The Maxpedition (prod_backpacks_096) is highly durable but far exceeds my intended budget at $171.67. Other options like the mesh adidas bag or the disc golf-specific pack were too specialized. The overall product feed was cluttered with unrelated items like chairs, towels, and survival kits, making the search for a specific, high-quality standard backpack feel unproductive. I decided to pass on a purchase today to look for more varied commuter-style options."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_150.json",
+    "offer_set_id": "backpacks_150",
+    "timestamp": 1775593614,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

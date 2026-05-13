@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_154",
+      "prod_backpacks_099",
+      "prod_backpacks_128",
+      "prod_backpacks_164",
+      "prod_backpacks_095"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The product feed for this session was heavily diluted with irrelevant items such as camping cots, travel towels, and paddle boards, making it difficult to find a standard backpack. Within the actual backpack options, several had significant quality concerns; for example, the TOURIT cooler backpack and Sojourner hydration pack had multiple reports of leaking, and the W WINTMING tactical pack had reviews mentioning broken buckles. The ZOMAKE and adidas options were a bit too specialized (packable/mesh) for a primary daily-use backpack. Given the mixed quality reviews on the more functional packs and the clutter of the feed, I have decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_145.json",
+    "offer_set_id": "backpacks_145",
+    "timestamp": 1775593530,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

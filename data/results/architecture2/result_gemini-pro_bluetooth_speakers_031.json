@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "frontend",
+    "session_position": 31,
+    "timestamp": 1776109656,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_031.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The JBL Charge 5 provides unmatched durability and volume, easily beating the other standard options."
+  }
+}

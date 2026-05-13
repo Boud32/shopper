@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_107",
+      "prod_backpacks_068",
+      "prod_backpacks_041",
+      "prod_backpacks_171",
+      "prod_backpacks_168"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was looking for a reliable, mid-sized hiking backpack. My consideration set included a range of tactical and technical packs. The High Sierra 70L (prod_backpacks_068) is a bit larger than I need for short trips, while the Seibertron (prod_backpacks_107) and Explorer (prod_backpacks_171) are a bit too 'tactical' for my personal preference. I seriously considered the Granite Gear Virga 2 (prod_backpacks_041) because of its lightweight design, but several reviews mentioning shoulder straps breaking on the first use made me hesitant to invest $90 in it. The rest of the product feed was heavily cluttered with non-backpack items like titanium pots, hammocks, and beach chairs, making the overall selection for actual backpacks feel limited."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_057.json",
+    "offer_set_id": "backpacks_057",
+    "timestamp": 1774979845,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_session_1",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_009"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "During this shopping session, I prioritized finding a balance between high audio quality and reasonable pricing. I looked closely at the Bang & Olufsen Beosound A1, which has excellent reviews but a very high price point ($279) for a portable speaker. The Bose SoundLink was a strong contender at $99.99, but its design felt somewhat dated compared to newer releases. I also considered the JBL Charge 4, but its 'Renewed' status made me cautious about battery life. The BOGASING M4 offered impressive 40W specs for the price, but as a less established brand, I wasn't ready to commit. Finally, the JBL Go 3 bundle seemed slightly overpriced due to the added case. Because I couldn't find a brand-new, high-power speaker from a top-tier brand that fit my budget perfectly today, I decided not to make a purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_357.json",
+    "offer_set_id": "bluetooth_speakers_357",
+    "timestamp": 1775597779,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

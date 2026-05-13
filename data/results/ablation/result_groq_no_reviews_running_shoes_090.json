@@ -1,0 +1,23 @@
+{
+  "experiment_id": "running_shoes_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_094",
+      "prod_running_shoes_195",
+      "prod_running_shoes_193",
+      "prod_running_shoes_100",
+      "prod_running_shoes_158"
+    ],
+    "final_choice": "prod_running_shoes_094",
+    "reasoning_trace": "The final choice is based on a balance of high ratings, affordable price, and relevance to the category of running shoes. 'prod_running_shoes_094' (ASICS Men's Gel-Contend 6 Running Shoes) has a high rating of 4.6, a large number of reviews (6897), and a price of $63.99, making it an attractive option for runners seeking quality and value. The consideration set includes other highly rated and popular running shoes from reputable brands like New Balance, ASICS, and adidas, but 'prod_running_shoes_094' offers a strong combination of performance, comfort, and price."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/running_shoes/running_shoes_090.json",
+    "offer_set_id": "running_shoes_090",
+    "timestamp": 1772641648,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "no_reviews",
+    "k": 5
+  }
+}

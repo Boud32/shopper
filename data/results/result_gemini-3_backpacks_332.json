@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_107",
+      "prod_backpacks_137",
+      "prod_backpacks_073",
+      "prod_backpacks_101",
+      "prod_backpacks_153"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I am specifically looking for a high-quality, durable backpack for outdoor or daily use. While the Seibertron Falcon (prod_backpacks_107) has strong ratings and a high review count, it appears very tactical-focused. The larger Mardingtop (prod_backpacks_137) and the Hebetag (prod_backpacks_101) both have reviews highlighting quality control issues, such as tearing straps and thin materials. Furthermore, over 60% of the products presented in this feed are irrelevant items like camping stoves, lights, and water bags rather than backpacks. Given the limited selection of high-end, reliable backpack options and the worrying durability reviews on the available budget models, I have decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_332.json",
+    "offer_set_id": "backpacks_332",
+    "timestamp": 1775597172,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

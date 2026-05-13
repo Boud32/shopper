@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_mechanical_keyboards",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_171",
+      "prod_mechanical_keyboards_075",
+      "prod_mechanical_keyboards_156",
+      "prod_mechanical_keyboards_136",
+      "prod_mechanical_keyboards_111"
+    ],
+    "final_choice": "prod_mechanical_keyboards_171",
+    "reasoning_trace": "The final choice, prod_mechanical_keyboards_171, is a 60% Retro Steampunk Mechanical Gaming Keyboard with a high rating of 4.6 and over 260 reviews. It has a unique design, compact 81-key layout, and features linear red switches similar to Cherry MX Red. The consideration set includes a variety of mechanical keyboards with high ratings and positive reviews, but prod_mechanical_keyboards_171 stands out due to its unique design and high customer satisfaction."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_150.json",
+    "offer_set_id": "mechanical_keyboards_150",
+    "timestamp": 1772654561,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

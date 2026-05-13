@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_168",
+      "prod_bluetooth_speakers_009",
+      "prod_bluetooth_speakers_040",
+      "prod_bluetooth_speakers_061",
+      "prod_bluetooth_speakers_019"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The search results were heavily cluttered with non-speaker items such as replacement batteries, carrying cases, wall shelves, and chargers, which comprised more than half of the list. Of the actual speakers evaluated in the consideration set, the JBL Go 3 bundle was attractive but had a concerning review regarding delivery issues. The DOSS Traveler had multiple reports of failure within two months, and the Altec Lansing was noted for having low volume. Given the high ratio of irrelevant results and the mixed reliability of the available models, I decided that none of the products were worth a purchase in this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_425.json",
+    "offer_set_id": "bluetooth_speakers_425",
+    "timestamp": 1775604141,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

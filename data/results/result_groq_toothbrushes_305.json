@@ -1,0 +1,23 @@
+{
+  "experiment_id": "toothbrush_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_020",
+      "prod_toothbrushes_128",
+      "prod_toothbrushes_188",
+      "prod_toothbrushes_137",
+      "prod_toothbrushes_197"
+    ],
+    "final_choice": "prod_toothbrushes_128",
+    "reasoning_trace": "The customer is looking for toothbrushes, and the consideration set includes a mix of manual and electric toothbrushes with various features. The final choice, 'prod_toothbrushes_128', is a bamboo aesthetic toothbrush with ultra-soft bristles and a charcoal-infused option, which suggests a focus on oral health and sustainability. This choice is likely due to its high rating (4.3), relatively low price ($9.99), and eco-friendly features, making it an attractive option for customers prioritizing both effectiveness and environmental considerations."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_305.json",
+    "offer_set_id": "toothbrushes_305",
+    "timestamp": 1772655454,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

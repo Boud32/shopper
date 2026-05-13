@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 22,
+    "timestamp": 1776650226,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_172.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_189",
+      "prod_laundry_detergent_251",
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_215",
+      "prod_laundry_detergent_022"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top three positions are Kirkland pacs, luxury Tyler candle, and expensive Charlie's Soap \u2014 strong mainstream options are all buried in the middle."
+  }
+}

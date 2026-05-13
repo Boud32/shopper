@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_29",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_083",
+      "prod_bluetooth_speakers_003",
+      "prod_bluetooth_speakers_179"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several Bluetooth speakers, focusing on reputable brands and products with high ratings. My consideration set included portable options from JBL and Sony, as well as higher-end models from Ultimate Ears. While the JBL Clip 3 and Sony XB43 are highly rated and durable, they are only offered in Dusty Pink and Blue respectively, which do not meet my preference for a neutral aesthetic. The JBL Pulse 4 is available in black but carries a high price premium for its light show feature, which is not a priority for me. The Ultimate Ears Megablast in Graphite is a more suitable color, but its reviews highlight significant software stability issues and poor integration with Alexa. Without a high-quality, reliable, and neutrally-colored portable speaker in the $50-$100 range, I have decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_031.json",
+    "offer_set_id": "bluetooth_speakers_031",
+    "timestamp": 1775591028,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_168",
+      "prod_bluetooth_speakers_150",
+      "prod_bluetooth_speakers_019"
+    ],
+    "final_choice": "prod_bluetooth_speakers_051",
+    "reasoning_trace": "During my shopping session, I noticed several items in the feed were actually carrying cases or battery accessories rather than speakers, so I excluded those first. I looked at a variety of speakers ranging from the premium Bang & Olufsen Beosound A1 to budget-friendly models. I ultimately selected the EDUPLINK Waterproof Portable Bluetooth Speaker (prod_bluetooth_speakers_051) for my purchase. It offers excellent value at $27.74 with a solid 4.5 rating from over 9,000 reviews. Compared to the NOTABRICK and XENEO models in my consideration set, the EDUPLINK provided similar features like IPX7 waterproofing and 20W output at a more competitive price point. While the B&O speaker is clearly superior in brand prestige, the price difference was too steep for my current needs."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_067.json",
+    "offer_set_id": "bluetooth_speakers_067",
+    "timestamp": 1775591805,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 31,
+    "timestamp": 1776689265,
+    "source_batch": "data/offer_sets/conditioner/conditioner_031.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_110",
+      "prod_conditioner_097",
+      "prod_conditioner_170",
+      "prod_conditioner_027",
+      "prod_conditioner_147"
+    ],
+    "final_choice": "prod_conditioner_110",
+    "reasoning": "HASK Coconut Monoi at pos 2 with 4.7 stars is the strongest broadly-appealing option in a sponsored-heavy set."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_171",
+      "prod_backpacks_164",
+      "prod_backpacks_006",
+      "prod_backpacks_096",
+      "prod_backpacks_064"
+    ],
+    "final_choice": "prod_backpacks_006",
+    "reasoning_trace": "I filtered the list for actual backpacks, excluding accessories like towels, chairs, and sleeping bags. Within the backpack category, I selected a range of tactical daypacks and lightweight foldable options for my consideration set. I ultimately chose the HIKPRO 20L Packable Backpack (prod_backpacks_006) because of its exceptional 4.7 rating across nearly 3,000 reviews. At $17.99, it offers the best combination of durability, weight, and value, making it a highly reliable purchase compared to the more expensive or less reviewed tactical options."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_225.json",
+    "offer_set_id": "backpacks_225",
+    "timestamp": 1775595408,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

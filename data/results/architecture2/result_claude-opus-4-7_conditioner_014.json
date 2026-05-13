@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 14,
+    "timestamp": 1776689265,
+    "source_batch": "data/offer_sets/conditioner/conditioner_014.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_076",
+      "prod_conditioner_016",
+      "prod_conditioner_097",
+      "prod_conditioner_199",
+      "prod_conditioner_024"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The overall pick is a niche baby-set with weak volume and the strong options like Garnier are not available in visible positions."
+  }
+}

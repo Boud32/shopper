@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_168",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_144"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several speakers across different price points. The Harman Kardon Onyx Studio 6 (prod_bluetooth_speakers_116) has exceptional ratings but is physically larger and heavier than I wanted for portability. The Bose SoundLink Color (prod_bluetooth_speakers_071) is a strong brand, but reviews suggest the audio quality isn't significantly better than smaller, cheaper units. The budget options like NOTABRICK (prod_bluetooth_speakers_168) and comiso (prod_bluetooth_speakers_173) are well-rated for their price, but I am hesitant due to some reports of reliability issues and dead-on-arrival units. The Sony SRS-RA3000 is a stationary home unit, and I am specifically looking for a portable solution today. Since nothing perfectly matches my requirement for a high-fidelity, highly portable, and reliable speaker, I have decided to postpone my purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_126.json",
+    "offer_set_id": "bluetooth_speakers_126",
+    "timestamp": 1775593786,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

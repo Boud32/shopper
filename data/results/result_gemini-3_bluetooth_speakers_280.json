@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_192"
+    ],
+    "final_choice": "prod_bluetooth_speakers_181",
+    "reasoning_trace": "I evaluated the options focusing on sound quality, durability (IP67 rating), and brand reputation. The JBL Charge 5 and Sony SRS-XB43 are the most robust performers in this list with exceptionally high ratings and review counts. While the Bang & Olufsen is a high-end luxury pick, the Sony SRS-XB43 offers a better balance of performance features like 'Extra Bass' and party lights at a more competitive price point. The budget options like EDUPLINK and EWA are impressive for their value but don't match the sonic depth I am looking for in a primary portable speaker. I chose the Sony XB43 for its superior 4.7 rating and proven reliability as a best seller."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_280.json",
+    "offer_set_id": "bluetooth_speakers_280",
+    "timestamp": 1775596365,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 29,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_129.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_062",
+      "prod_laundry_detergent_162",
+      "prod_laundry_detergent_039",
+      "prod_laundry_detergent_287",
+      "prod_laundry_detergent_046"
+    ],
+    "final_choice": "prod_laundry_detergent_062",
+    "reasoning": "Tide Original Powder at position 4 at $14.47 with 4.6\u2605 and 2k reviews is a highly visible, classic mainstream value pick."
+  }
+}

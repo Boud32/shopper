@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 500,
+    "timestamp": 1776096127,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_500.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_045",
+      "prod_bluetooth_speakers_002",
+      "prod_bluetooth_speakers_119",
+      "prod_bluetooth_speakers_040",
+      "prod_bluetooth_speakers_168"
+    ],
+    "final_choice": "prod_bluetooth_speakers_045",
+    "reasoning": "The Altec Lansing Mini H2O - Waterproof Bluetooth Spea... offers the best balance of high customer ratings, significant review volume, and competitive pricing."
+  }
+}

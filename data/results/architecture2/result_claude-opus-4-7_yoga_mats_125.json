@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 25,
+    "timestamp": 1776691125,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_125.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_175",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_040",
+      "prod_yoga_mats_055",
+      "prod_yoga_mats_140"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "JadeYoga at the top is a decent travel mat but not clearly better than cheaper options, and the strongest mainstream picks (Gaiam, Amazon Basics) are buried \u2014 nothing decisively compelling."
+  }
+}

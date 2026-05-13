@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 45,
+    "timestamp": 1776691125,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_145.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_172",
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_055",
+      "prod_yoga_mats_149",
+      "prod_yoga_mats_158"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top-of-page is OGOGO, STOTT Pilates, and a cheap foam mat \u2014 weak visible options, and while Manduka and Gaiam Reversible sit in the middle and bottom, nothing is clearly dominant."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 6,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_056.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_110",
+      "prod_conditioner_016",
+      "prod_conditioner_169",
+      "prod_conditioner_245",
+      "prod_conditioner_011"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by niche, pricey, or thin-review products and no mainstream option clearly stands out as better than alternatives elsewhere."
+  }
+}

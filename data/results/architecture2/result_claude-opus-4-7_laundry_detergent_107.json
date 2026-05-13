@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 7,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_107.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_030",
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_034",
+      "prod_laundry_detergent_022",
+      "prod_laundry_detergent_062"
+    ],
+    "final_choice": "prod_laundry_detergent_030",
+    "reasoning": "Seventh Generation Free & Clear with Best Seller badge at $14.99, 4.6\u2605 and 9.5k reviews is a standout trusted eco option at a fair price."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_192"
+    ],
+    "final_choice": "prod_bluetooth_speakers_147",
+    "reasoning_trace": "During my search, I encountered many products that were actually accessories like travel cases or power adapters rather than actual speakers. From the actual speakers available, I narrowed my choices down to those with high ratings and reliable feedback. The JBL Clip 3 (prod_bluetooth_speakers_147) immediately stood out due to its incredible social proof (over 68,000 reviews) and 4.7-star rating. While the BOGASING M4 offered more power (40W) and the EWA speaker was a great budget option, the portability and proven durability of the JBL Clip 3 for outdoor use made it the most convincing choice at its price point. The renewed JBL Flip 5 was also considered, but the risk associated with refurbished battery life mentioned in some reviews led me to prefer the brand-new Clip 3."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_243.json",
+    "offer_set_id": "bluetooth_speakers_243",
+    "timestamp": 1775595740,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

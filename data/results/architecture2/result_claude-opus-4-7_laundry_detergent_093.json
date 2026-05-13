@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 43,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_093.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_287",
+      "prod_laundry_detergent_195",
+      "prod_laundry_detergent_296",
+      "prod_laundry_detergent_185",
+      "prod_laundry_detergent_074"
+    ],
+    "final_choice": "prod_laundry_detergent_296",
+    "reasoning": "Tide Free & Gentle Unscented with Overall Pick badge at $32.70, 4.6/575 reviews \u2014 explicitly endorsed trusted mainstream sensitive-skin option."
+  }
+}

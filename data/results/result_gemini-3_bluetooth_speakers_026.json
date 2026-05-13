@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_040",
+      "prod_bluetooth_speakers_177"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several reputable options including the JBL Flip 5 and Clip 3, both of which have excellent reviews but are priced at a premium. I also considered the DOSS SoundBox Pro+ and the TENMIYA double subwoofer model for their higher power output. However, upon closer inspection, several items in the feed were actually accessories (cases and power adapters) or had concerning reviews regarding long-term durability or volume limitations (like the Altec Lansing). Since I am looking for a high-quality, long-lasting primary speaker and nothing in this specific selection perfectly matched my price-to-performance requirements today, I have decided not to make a purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_026.json",
+    "offer_set_id": "bluetooth_speakers_026",
+    "timestamp": 1775590941,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

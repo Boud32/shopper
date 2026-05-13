@@ -1,0 +1,23 @@
+{
+  "experiment_id": "running_shoes_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_194",
+      "prod_running_shoes_075",
+      "prod_running_shoes_077",
+      "prod_running_shoes_146",
+      "prod_running_shoes_086"
+    ],
+    "final_choice": "prod_running_shoes_194",
+    "reasoning_trace": "Selected the top 5 running shoes based on high ratings and review counts. The final choice, ASICS Men's Gel-Nimbus 23 Lite-Show Running Shoe, has a high rating of 4.6 and a significant number of reviews (94), indicating a reliable and well-performing product. Additionally, it is designed for runners who want a responsive standing experience while running, suggesting it meets the customer's needs for running shoes."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/running_shoes/running_shoes_027.json",
+    "offer_set_id": "running_shoes_027",
+    "timestamp": 1772641562,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "no_reviews",
+    "k": 5
+  }
+}

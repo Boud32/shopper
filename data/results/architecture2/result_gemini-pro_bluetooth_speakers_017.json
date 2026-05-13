@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "frontend",
+    "session_position": 17,
+    "timestamp": 1776109656,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_017.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_144"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The JBL Go 3's modern fabric design and punchy sound make it a fantastic everyday carry option."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 20,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_120.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_030",
+      "prod_laundry_detergent_034",
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_257"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top 10 positions dominated by expensive Tyler products and niche items; compelling Tide Hygienic and 7th Gen are buried at positions 18-19."
+  }
+}

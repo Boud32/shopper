@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 187,
+    "timestamp": 1776097305,
+    "source_batch": "data/offer_sets/coffee_makers/coffee_makers_187.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_coffee_makers_018",
+      "prod_coffee_makers_153",
+      "prod_coffee_makers_053",
+      "prod_coffee_makers_111",
+      "prod_coffee_makers_118"
+    ],
+    "final_choice": "prod_coffee_makers_018",
+    "reasoning": "The BAYKA French Press Coffee Maker, Glass Classic Cop... is a top-rated bestseller with 11370 reviews, offering the best value for its price of $27.99."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "bt_speaker_shopping_001",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_150"
+    ],
+    "final_choice": "prod_bluetooth_speakers_120",
+    "reasoning_trace": "I filtered out several accessories like cases and charging cables to focus on actual Bluetooth speakers. My consideration set includes a range of products from budget to premium. The JBL Charge 5 (prod_bluetooth_speakers_120) is the clear standout due to its 4.8 rating and massive review count, suggesting it is a highly reliable and high-performing speaker. While the DOSS (prod_bluetooth_speakers_008) and Raymate (prod_bluetooth_speakers_153) offer great value, the JBL's superior build quality and recognized brand reputation for 'Pro Sound' make it the most attractive purchase for a long-term investment."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_358.json",
+    "offer_set_id": "bluetooth_speakers_358",
+    "timestamp": 1775597790,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

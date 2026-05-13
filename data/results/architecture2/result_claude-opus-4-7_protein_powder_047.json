@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "",
+    "architecture": "frontend",
+    "session_position": 47,
+    "timestamp": 1776377218,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_047.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_027",
+      "prod_protein_powder_017",
+      "prod_protein_powder_046",
+      "prod_protein_powder_135",
+      "prod_protein_powder_099"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Set is full of pricey options ($65-99) or niche products without a flagship whey at compelling value \u2014 better to wait for a stronger page."
+  }
+}

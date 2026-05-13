@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 131,
+    "timestamp": 1776096127,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_131.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_086",
+      "prod_bluetooth_speakers_093",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_040",
+      "prod_bluetooth_speakers_002"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of the products met my criteria for high ratings and sufficient user feedback at an acceptable price point."
+  }
+}

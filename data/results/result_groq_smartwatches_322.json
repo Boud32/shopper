@@ -1,0 +1,23 @@
+{
+  "experiment_id": "smartwatch_purchase",
+  "decision": {
+    "consideration_set": [
+      "prod_smartwatches_118",
+      "prod_smartwatches_052",
+      "prod_smartwatches_188",
+      "prod_smartwatches_147",
+      "prod_smartwatches_162"
+    ],
+    "final_choice": "prod_smartwatches_188",
+    "reasoning_trace": "The final choice of smartwatch is based on a balance of features, price, and customer reviews. prod_smartwatches_188, the Garmin Forerunner 955 Solar, offers advanced running and triathlon features, long battery life, and a high rating from a large number of reviewers, making it a strong choice for serious athletes. prod_smartwatches_118 and prod_smartwatches_147 offer more basic smartwatch features at lower prices, while prod_smartwatches_052 is a more expensive option with a wide range of features. prod_smartwatches_162 is another affordable option with a range of features, but its lower rating and fewer reviews make it a less appealing choice compared to the others in the consideration set."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/smartwatches/smartwatches_322.json",
+    "offer_set_id": "smartwatches_322",
+    "timestamp": 1772825892,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_purchase_sim",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_006",
+      "prod_backpacks_125",
+      "prod_backpacks_051",
+      "prod_backpacks_168",
+      "prod_backpacks_002"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was looking for a standard, ergonomic backpack suitable for daily use or commuting with a laptop. After reviewing the product feed, I found that most items listed were either highly specialized gear\u2014such as the SEEHONOR cooler backpack, the USWE technical winter pack, or Transpack skate bags\u2014or small form-factor sling bags like the MOSISO options. While the HIKPRO packable backpack is a great value, its thin material lacks the structure and protection I require for electronics. The USWE Hajker is a high-quality bag but is priced much higher than my intended budget. Since there were no standard mid-sized daily backpacks with adequate padding and organization in this selection, I decided not to make a purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_247.json",
+    "offer_set_id": "backpacks_247",
+    "timestamp": 1775595777,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

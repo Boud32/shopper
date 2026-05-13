@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_057",
+      "prod_backpacks_096",
+      "prod_backpacks_111",
+      "prod_backpacks_112",
+      "prod_backpacks_184"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "After reviewing the feed, I found it significantly cluttered with items that are not backpacks, including tents, coffee pots, sun hats, and towels. Within the actual backpack category, the selection was polarized between very specific tactical gear (QT&QY, Maxpedition) and budget school bags with noted durability concerns in the reviews (KAUKKO). As I was looking for a reliable, general-purpose daily backpack, I found the tactical options too specialized for my needs and the budget options too risky regarding build quality. Given the irrelevant search results and the lack of a balanced middle-ground option, I decided to decline a purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_148.json",
+    "offer_set_id": "backpacks_148",
+    "timestamp": 1775593588,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

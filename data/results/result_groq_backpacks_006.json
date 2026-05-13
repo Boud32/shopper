@@ -1,0 +1,23 @@
+{
+  "experiment_id": "Backpacks",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_182",
+      "prod_backpacks_008",
+      "prod_backpacks_156",
+      "prod_backpacks_197",
+      "prod_backpacks_184"
+    ],
+    "final_choice": "prod_backpacks_182",
+    "reasoning_trace": "The final choice was made based on a combination of factors including price, customer reviews, and product features. The N NEVO RHINO Casual Crossbody Bag Sling Backpack was selected due to its high rating of 4.6, low price of $24.99, and positive customer reviews. The consideration set included a variety of products such as the HEETA Waterproof Dry Bag, vimapo Lightweight Nylon Foldable Backpack, MARITTON Baseball Bag, and Borogo Compression Stuff Sack."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_006.json",
+    "offer_set_id": "backpacks_006",
+    "timestamp": 1774974308,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

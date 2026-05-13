@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 4,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_154.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_135",
+      "prod_protein_powder_046",
+      "prod_protein_powder_158",
+      "prod_protein_powder_189",
+      "prod_protein_powder_092"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by weak or sponsored items, and no option stands out with a clearly compelling quality/price/trust combination worth pulling the trigger on."
+  }
+}

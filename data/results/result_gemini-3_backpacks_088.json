@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_006",
+      "prod_backpacks_057",
+      "prod_backpacks_184",
+      "prod_backpacks_074",
+      "prod_backpacks_008"
+    ],
+    "final_choice": "prod_backpacks_057",
+    "reasoning_trace": "The search results contained several items that were not backpacks (drill bits, sleeping pads, towels), so I filtered the selection down to actual bags. Within the consideration set, the HIKPRO 20L (prod_backpacks_006) and the QT&QY Military Tactical Backpack (prod_backpacks_057) were the strongest contenders due to high ratings and positive reviews. I ultimately chose the QT&QY (prod_backpacks_057) because its 4.7-star rating across over 6,000 reviews indicates a high level of consumer satisfaction and durability for a multi-purpose bag. It offers excellent value and versatility compared to the more specialized skate or dry bags."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_088.json",
+    "offer_set_id": "backpacks_088",
+    "timestamp": 1775591728,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_072",
+      "prod_bluetooth_speakers_047"
+    ],
+    "final_choice": "prod_bluetooth_speakers_166",
+    "reasoning_trace": "During my evaluation, I prioritized sound quality and brand reliability. I looked at the Sony SRS-XB43 for its high-end performance and the JBL Clip 3 for portability, along with two budget-friendly models (HyperGear and LENRUE) for comparison. Ultimately, the JBL Flip 5 was the most compelling choice because it holds an impressive 4.8-star rating from over 68,000 reviews. At $89.95, it provides the ideal balance of proven durability, sound quality, and compact design for general portable use compared to the much bulkier and more expensive Sony or the cheaper budget models which might lack audio depth."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_133.json",
+    "offer_set_id": "bluetooth_speakers_133",
+    "timestamp": 1775593883,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

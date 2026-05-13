@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 17,
+    "timestamp": 1776691124,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_067.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_128",
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_055"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The strongest top option is a generic-brand sponsored listing; no item stands out as distinctively better than options a refined search would yield."
+  }
+}

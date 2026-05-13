@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_045",
+      "prod_bluetooth_speakers_002",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_037"
+    ],
+    "final_choice": "prod_bluetooth_speakers_166",
+    "reasoning_trace": "I am looking for a reliable, high-quality portable speaker for outdoor use. The JBL Flip 5 (prod_bluetooth_speakers_166) stands out with an exceptional 4.8 rating and over 68,000 reviews, which gives me high confidence in its performance and durability compared to the budget brands. While the Altec Lansing Mini and EDUPLINK are much cheaper, their lower price points often reflect limitations in sound depth and longevity. I also considered the Edifier system for home use, but ultimately decided on the versatility of the JBL Flip 5 for its waterproof rating and portable design."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_134.json",
+    "offer_set_id": "bluetooth_speakers_134",
+    "timestamp": 1775593893,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

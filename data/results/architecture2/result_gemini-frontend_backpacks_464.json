@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 464,
+    "timestamp": 1776098609,
+    "source_batch": "data/offer_sets/backpacks/backpacks_464.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_055",
+      "prod_backpacks_074",
+      "prod_backpacks_160",
+      "prod_backpacks_007",
+      "prod_backpacks_008"
+    ],
+    "final_choice": "prod_backpacks_055",
+    "reasoning": "The Dynamic Discs Paratrooper Disc Golf Bag | Frisbee  stands out for its high rating and balanced price-to-feature ratio."
+  }
+}

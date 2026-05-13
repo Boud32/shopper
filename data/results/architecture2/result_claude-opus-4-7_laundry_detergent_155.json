@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 5,
+    "timestamp": 1776650226,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_155.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_102",
+      "prod_laundry_detergent_242",
+      "prod_laundry_detergent_020",
+      "prod_laundry_detergent_007",
+      "prod_laundry_detergent_256"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions dominated by weak or niche options (3.6\u2605 YouClean, soap nuts, Tyler candle, hunting detergent); mainstream options are buried."
+  }
+}

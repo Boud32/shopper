@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_1",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_122",
+      "prod_backpacks_184",
+      "prod_backpacks_173",
+      "prod_backpacks_128",
+      "prod_backpacks_199"
+    ],
+    "final_choice": "prod_backpacks_173",
+    "reasoning_trace": "After reviewing the feed, I narrowed my focus to products that are actually backpacks rather than the various camping accessories provided. My consideration set included a specialized baseball bag (prod_backpacks_122), a budget-friendly laptop bag (prod_backpacks_184), a highly-rated lightweight hiking bag (prod_backpacks_173), a branded mesh bag (prod_backpacks_128), and a waterproof dry bag (prod_backpacks_199). I ultimately chose the ZOMAKE Ultra Lightweight Hiking Backpack (prod_backpacks_173). Its extremely high review count (nearly 15,000) and consistently high rating combined with a very accessible price point of $13.99 make it a reliable and low-risk purchase for general travel and day-hiking use."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_233.json",
+    "offer_set_id": "backpacks_233",
+    "timestamp": 1775595529,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_135"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several high-quality options including the Sony SRS-XB43 and the Harman Kardon Onyx 6. While the Harman Kardon is available in black, it is a bit bulkier and heavier than I would like for my specific travel needs. The Sony speaker has the performance and features I am looking for, but it is only available in blue in this feed, and the JBL Clip is an older generation model (Clip 3) in a dusty pink color that does not match my preference. The Rerii retro speaker and DOSS Soundbox are interesting mid-tier options but do not quite meet my requirements for a primary audio device. Given these specific color, model generation, and portability tradeoffs, I have decided to wait for a restock of different colorways or the latest models."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_255.json",
+    "offer_set_id": "bluetooth_speakers_255",
+    "timestamp": 1775595956,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

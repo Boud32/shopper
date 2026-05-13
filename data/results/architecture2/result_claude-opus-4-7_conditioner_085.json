@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 35,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_085.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_024",
+      "prod_conditioner_009",
+      "prod_conditioner_097",
+      "prod_conditioner_176",
+      "prod_conditioner_199"
+    ],
+    "final_choice": "prod_conditioner_024",
+    "reasoning": "Argan Magic at $16.95 for 32oz with 4.5/443 reviews is a strong value pick, well-positioned at pos 4."
+  }
+}

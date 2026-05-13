@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 7,
+    "timestamp": 1776689267,
+    "source_batch": "data/offer_sets/conditioner/conditioner_157.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_218",
+      "prod_conditioner_009",
+      "prod_conditioner_243",
+      "prod_conditioner_256",
+      "prod_conditioner_184"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by weak/niche options (Biotin volumizing, zero-waste bar, low-rated Evo, expensive Shu Uemura) and nothing mainstream-strong is prominently placed."
+  }
+}

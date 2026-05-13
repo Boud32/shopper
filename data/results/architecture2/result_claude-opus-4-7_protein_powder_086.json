@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 36,
+    "timestamp": 1776640082,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_086.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_158",
+      "prod_protein_powder_181",
+      "prod_protein_powder_076",
+      "prod_protein_powder_124",
+      "prod_protein_powder_169"
+    ],
+    "final_choice": "prod_protein_powder_158",
+    "reasoning": "NutraBio Classic Whey at p4 with 4.5 stars/820 reviews at $39.99 is a clean, no-filler whey at a very fair price."
+  }
+}

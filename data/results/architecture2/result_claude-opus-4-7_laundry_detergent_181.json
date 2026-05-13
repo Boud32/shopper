@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 31,
+    "timestamp": 1776650226,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_181.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_189",
+      "prod_laundry_detergent_180",
+      "prod_laundry_detergent_275",
+      "prod_laundry_detergent_269",
+      "prod_laundry_detergent_086"
+    ],
+    "final_choice": "prod_laundry_detergent_189",
+    "reasoning": "Tide Pods Free & Gentle at $49.49 for 96 count with 24k+ 4.8\u2605 reviews is an excellent hypoallergenic bulk option at position 5."
+  }
+}

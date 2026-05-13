@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_177"
+    ],
+    "final_choice": "prod_bluetooth_speakers_116",
+    "reasoning_trace": "The evaluation focused on balancing sound performance with brand reliability. The Harman Kardon Onyx Studio 6 was selected for its superior sound quality and high rating of 4.7, with reviews specifically praising its 'crisp clear music' and 'thump'. The JBL Flip 5 (Renewed) and Sony SRS-RA3000 were strong contenders for brand reputation, but concerns over renewal battery life and app issues respectively made them secondary. The Raymate and TENMIYA were considered for their high wattage (30W) at lower price points, but the Harman Kardon's premium audio profile was the deciding factor for a serious listening experience."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_399.json",
+    "offer_set_id": "bluetooth_speakers_399",
+    "timestamp": 1775598447,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

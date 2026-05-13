@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 42,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_092.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_168",
+      "prod_conditioner_027",
+      "prod_conditioner_119",
+      "prod_conditioner_196",
+      "prod_conditioner_026"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top-page dominated by kids products, pricey Harklinikken and Shu Uemura, weak-review niche items; nothing compelling at the top."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 356,
+    "timestamp": 1776098609,
+    "source_batch": "data/offer_sets/backpacks/backpacks_356.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_038",
+      "prod_backpacks_132",
+      "prod_backpacks_126",
+      "prod_backpacks_182",
+      "prod_backpacks_153"
+    ],
+    "final_choice": "prod_backpacks_038",
+    "reasoning": "The Maxpedition Prepared Citizen Classic v2.0 (Dark Bl stands out for its high rating and balanced price-to-feature ratio."
+  }
+}

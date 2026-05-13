@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_001",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_069",
+      "prod_backpacks_096",
+      "prod_backpacks_078",
+      "prod_backpacks_164",
+      "prod_backpacks_068"
+    ],
+    "final_choice": "prod_backpacks_078",
+    "reasoning_trace": "I evaluated several backpacks ranging from small hydration packs to large internal frame expedition bags. The Maxpedition Falcon-III is clearly high quality but carries a steep price tag. The High Sierra 70L is impressive for long hauls but might be overkill for my needs. Between the hydration-focused daypacks, the Gelindo 18L stands out due to its high 4.7 rating, large review count, and the specific convenience of the front-strap pocket for a phone, which several reviewers highlighted as a key feature. It represents a better value-to-quality ratio than the ultra-budget UDIHEDA model."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_175.json",
+    "offer_set_id": "backpacks_175",
+    "timestamp": 1775593962,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

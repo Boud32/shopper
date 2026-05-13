@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_session",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_192"
+    ],
+    "final_choice": "prod_bluetooth_speakers_181",
+    "reasoning_trace": "I filtered the list for high-performing speakers from reputable brands with ratings above 4.5. My consideration set includes top-tier options from Sony, Bose, and Harman Kardon, along with a high-value renewed JBL and a budget-friendly EWA mini speaker. I ultimately selected the Sony SRS-XB43 because it offers the best combination of features for my needs: a 24-hour battery life, IP67 waterproof rating for outdoor durability, and consistently high reviews regarding its EXTRA BASS sound quality, making it a more versatile long-term investment compared to the others."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_019.json",
+    "offer_set_id": "bluetooth_speakers_019",
+    "timestamp": 1775590849,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

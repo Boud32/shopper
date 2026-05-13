@@ -1,0 +1,23 @@
+{
+  "experiment_id": "backpack_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_137",
+      "prod_backpacks_006",
+      "prod_backpacks_070",
+      "prod_backpacks_182",
+      "prod_backpacks_023"
+    ],
+    "final_choice": "prod_backpacks_006",
+    "reasoning_trace": "The customer is looking for a backpack, so products like 'HOEAAS 2 Pack Microfiber Camping Towels' and 'GSI Outdoors Percolator Coffee Pot' are not relevant. Based on the high rating, numerous positive reviews, and relevant features like water resistance and multiple pockets, the HIKPRO 20L backpack is the most appealing choice. The consideration set includes this product, as well as other backpacks with positive reviews, such as Mardingtop 70L, DSLEAF Baseball Backpack, N NEVO RHINO Casual Crossbody Bag, and Fox Outdoor Products NATO Style Rucksack. Given the target of ~30% no_purchase overall and the current experiment statistics, a purchase decision is made."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_003.json",
+    "offer_set_id": "backpacks_003",
+    "timestamp": 1774974302,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

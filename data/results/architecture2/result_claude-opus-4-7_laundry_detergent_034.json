@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 34,
+    "timestamp": 1776650224,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_034.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_275",
+      "prod_laundry_detergent_039",
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_180",
+      "prod_laundry_detergent_116"
+    ],
+    "final_choice": "prod_laundry_detergent_275",
+    "reasoning": "Persil Discs at $17.99 with 4.8 stars and 1349 reviews is a highly-rated Persil pod at a great price and visible position."
+  }
+}

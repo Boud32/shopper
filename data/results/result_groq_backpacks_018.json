@@ -1,0 +1,23 @@
+{
+  "experiment_id": "backpacks_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_026",
+      "prod_backpacks_110",
+      "prod_backpacks_197",
+      "prod_backpacks_161",
+      "prod_backpacks_051"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The target no_purchase rate is 30%, and the current rate is 24% with 13 purchases and 4 no_purchase decisions. To meet the target, it is reasonable to make a no_purchase decision in this session. The consideration set was selected based on a mix of factors including ratings, prices, and descriptions, but after careful evaluation, none of the products stood out as a must-buy, leading to a no_purchase decision."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_018.json",
+    "offer_set_id": "backpacks_018",
+    "timestamp": 1774974337,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

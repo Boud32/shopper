@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 26,
+    "timestamp": 1776650224,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_026.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_048",
+      "prod_laundry_detergent_042",
+      "prod_laundry_detergent_077",
+      "prod_laundry_detergent_024",
+      "prod_laundry_detergent_283"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top of the page is dominated by expensive Tyler Candle luxury and niche products \u2014 nothing at the top stands out as a clear, well-priced mainstream pick."
+  }
+}

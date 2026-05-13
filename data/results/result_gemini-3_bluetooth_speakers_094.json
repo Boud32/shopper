@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_047",
+      "prod_bluetooth_speakers_020"
+    ],
+    "final_choice": "prod_bluetooth_speakers_120",
+    "reasoning_trace": "The product feed was cluttered with accessories like cases and charging cables, but I managed to isolate a strong consideration set covering different price points and use cases. I evaluated the budget-friendly LENRUE and comiso speakers, the mid-range DOSS SoundBox Pro+, and the premium Bang & Olufsen and JBL models. I ultimately chose the JBL Charge 5 because of its exceptional 4.8 rating across over 16,000 reviews, its IP67 waterproof rating, and its 20-hour battery life, which makes it the most reliable all-around choice for a portable Bluetooth speaker."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_094.json",
+    "offer_set_id": "bluetooth_speakers_094",
+    "timestamp": 1775592245,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

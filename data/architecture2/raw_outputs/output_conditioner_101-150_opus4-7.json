@@ -1,0 +1,602 @@
+[
+  {
+    "offer_set_id": "conditioner_101",
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_023",
+      "prod_conditioner_040",
+      "prod_conditioner_119",
+      "prod_conditioner_194"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Garnier Whole Blends with 4.7 rating and 8445 reviews at $15.98 for a 2-count is the standout value and social proof in this set."
+  },
+  {
+    "offer_set_id": "conditioner_102",
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_011",
+      "prod_conditioner_023",
+      "prod_conditioner_298",
+      "prod_conditioner_074"
+    ],
+    "final_choice": "prod_conditioner_170",
+    "reasoning": "Dove Nutritive Solutions 4-count at $23.95 with 4.7/1192 reviews is a trusted brand offering excellent per-bottle value."
+  },
+  {
+    "offer_set_id": "conditioner_103",
+    "consideration_set": [
+      "prod_conditioner_078",
+      "prod_conditioner_027",
+      "prod_conditioner_241",
+      "prod_conditioner_009",
+      "prod_conditioner_142"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by obscure brands with weak reviews and the standouts are niche (purple toner, kids); nothing generically compelling at visible positions."
+  },
+  {
+    "offer_set_id": "conditioner_104",
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_280",
+      "prod_conditioner_016",
+      "prod_conditioner_199",
+      "prod_conditioner_039"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Garnier Whole Blends 2-count at $15.98 with 4.7/8445 reviews offers unmatched social proof and value in a visible position."
+  },
+  {
+    "offer_set_id": "conditioner_105",
+    "consideration_set": [
+      "prod_conditioner_241",
+      "prod_conditioner_016",
+      "prod_conditioner_109",
+      "prod_conditioner_255",
+      "prod_conditioner_147"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak or niche (hair growth, men's-specific, low-review) and no broadly compelling mainstream conditioner stands out."
+  },
+  {
+    "offer_set_id": "conditioner_106",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_066",
+      "prod_conditioner_026",
+      "prod_conditioner_011",
+      "prod_conditioner_040"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle bundle at $17.99 with 4.7/5134 reviews offers shampoo, conditioner, and deep treatment from a trusted mass brand."
+  },
+  {
+    "offer_set_id": "conditioner_107",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_119",
+      "prod_conditioner_014",
+      "prod_conditioner_066",
+      "prod_conditioner_097"
+    ],
+    "final_choice": "prod_conditioner_023",
+    "reasoning": "Redken Acidic Bonding Concentrate at $32 with 4.5/7938 reviews is a widely trusted salon-grade option visible at position 2."
+  },
+  {
+    "offer_set_id": "conditioner_108",
+    "consideration_set": [
+      "prod_conditioner_241",
+      "prod_conditioner_097",
+      "prod_conditioner_040",
+      "prod_conditioner_023",
+      "prod_conditioner_014"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top position is a niche purple toner and the rest of the visible set is fragmented across specialty products; no standout general-use pick."
+  },
+  {
+    "offer_set_id": "conditioner_109",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_027",
+      "prod_conditioner_110",
+      "prod_conditioner_026",
+      "prod_conditioner_213"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle bundle at $17.99 with 4.7/5134 reviews is the most proven value option available in this set."
+  },
+  {
+    "offer_set_id": "conditioner_110",
+    "consideration_set": [
+      "prod_conditioner_027",
+      "prod_conditioner_023",
+      "prod_conditioner_040",
+      "prod_conditioner_009",
+      "prod_conditioner_005"
+    ],
+    "final_choice": "prod_conditioner_027",
+    "reasoning": "L'Oreal Elvive Color Vibrancy at $17.87 with 4.6/2586 reviews is broadly useful, affordable, and from a trusted mass brand."
+  },
+  {
+    "offer_set_id": "conditioner_111",
+    "consideration_set": [
+      "prod_conditioner_078",
+      "prod_conditioner_196",
+      "prod_conditioner_256",
+      "prod_conditioner_211",
+      "prod_conditioner_168"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (4.1 ratings) and the best values are buried mid/late page; no compelling reason to buy over waiting for a better search."
+  },
+  {
+    "offer_set_id": "conditioner_112",
+    "consideration_set": [
+      "prod_conditioner_078",
+      "prod_conditioner_014",
+      "prod_conditioner_218",
+      "prod_conditioner_147",
+      "prod_conditioner_168"
+    ],
+    "final_choice": "prod_conditioner_078",
+    "reasoning": "It's A 10 Miracle Deep Conditioner Plus Keratin at $16.05 with 4.6/2426 reviews is a well-known efficacy brand at visible position 5."
+  },
+  {
+    "offer_set_id": "conditioner_113",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_066",
+      "prod_conditioner_170",
+      "prod_conditioner_295",
+      "prod_conditioner_009"
+    ],
+    "final_choice": "prod_conditioner_023",
+    "reasoning": "Redken Acidic Bonding Concentrate with 4.5/7938 reviews at $32 is the most reliable salon-grade choice in a strong visible position."
+  },
+  {
+    "offer_set_id": "conditioner_114",
+    "consideration_set": [
+      "prod_conditioner_110",
+      "prod_conditioner_241",
+      "prod_conditioner_011",
+      "prod_conditioner_147",
+      "prod_conditioner_003"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top two positions are weak (3.7 rating, niche HASK), and the strong options (Mixed Chicks, Fairy Tales) are buried or niche."
+  },
+  {
+    "offer_set_id": "conditioner_115",
+    "consideration_set": [
+      "prod_conditioner_027",
+      "prod_conditioner_097",
+      "prod_conditioner_023",
+      "prod_conditioner_241",
+      "prod_conditioner_218"
+    ],
+    "final_choice": "prod_conditioner_027",
+    "reasoning": "L'Oreal Elvive Color Vibrancy at $17.87 with 4.6/2586 reviews is a broadly useful mass-brand option with proven value."
+  },
+  {
+    "offer_set_id": "conditioner_116",
+    "consideration_set": [
+      "prod_conditioner_016",
+      "prod_conditioner_026",
+      "prod_conditioner_014",
+      "prod_conditioner_027",
+      "prod_conditioner_002"
+    ],
+    "final_choice": "prod_conditioner_016",
+    "reasoning": "L'Oreal Elvive Hyaluron Plump at $8.48 with 4.6/344 reviews is the affordable top-position pick with solid ratings and trusted brand."
+  },
+  {
+    "offer_set_id": "conditioner_117",
+    "consideration_set": [
+      "prod_conditioner_092",
+      "prod_conditioner_066",
+      "prod_conditioner_119",
+      "prod_conditioner_147",
+      "prod_conditioner_011"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by kids/niche products, and nothing broadly compelling stands out at visible positions."
+  },
+  {
+    "offer_set_id": "conditioner_118",
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_241",
+      "prod_conditioner_014",
+      "prod_conditioner_194",
+      "prod_conditioner_169"
+    ],
+    "final_choice": "prod_conditioner_170",
+    "reasoning": "Dove Nutritive Solutions 4-count at $23.95 with 4.7/1192 reviews offers excellent per-bottle value from a trusted brand."
+  },
+  {
+    "offer_set_id": "conditioner_119",
+    "consideration_set": [
+      "prod_conditioner_015",
+      "prod_conditioner_014",
+      "prod_conditioner_196",
+      "prod_conditioner_194",
+      "prod_conditioner_011"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top of page is travel-size, kids, and niche products; strong options like Maui Moisture are buried far down."
+  },
+  {
+    "offer_set_id": "conditioner_120",
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_014",
+      "prod_conditioner_218",
+      "prod_conditioner_016",
+      "prod_conditioner_009"
+    ],
+    "final_choice": "prod_conditioner_170",
+    "reasoning": "Dove Nutritive Solutions 4-count at $23.95 with 4.7/1192 reviews at visible position 4 is the best value-brand combo."
+  },
+  {
+    "offer_set_id": "conditioner_121",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_290",
+      "prod_conditioner_110",
+      "prod_conditioner_040",
+      "prod_conditioner_218"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle bundle at top position with 4.7/5134 reviews and $17.99 price is an excellent all-in-one value."
+  },
+  {
+    "offer_set_id": "conditioner_122",
+    "consideration_set": [
+      "prod_conditioner_027",
+      "prod_conditioner_119",
+      "prod_conditioner_066",
+      "prod_conditioner_241",
+      "prod_conditioner_097"
+    ],
+    "final_choice": "prod_conditioner_027",
+    "reasoning": "L'Oreal Elvive Color Vibrancy at $17.87 with 4.6/2586 reviews is the broadly useful standout in a set of niche products."
+  },
+  {
+    "offer_set_id": "conditioner_123",
+    "consideration_set": [
+      "prod_conditioner_005",
+      "prod_conditioner_169",
+      "prod_conditioner_016",
+      "prod_conditioner_071",
+      "prod_conditioner_255"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top position is a 5-star/2-review product (worthless signal), and the rest of visible products are either niche or mediocre."
+  },
+  {
+    "offer_set_id": "conditioner_124",
+    "consideration_set": [
+      "prod_conditioner_169",
+      "prod_conditioner_119",
+      "prod_conditioner_066",
+      "prod_conditioner_114",
+      "prod_conditioner_241"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Visible positions are diffuse with no dominant generic-use winner; top is AFTER ALL! at position 1 with only 174 reviews."
+  },
+  {
+    "offer_set_id": "conditioner_125",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_027",
+      "prod_conditioner_241",
+      "prod_conditioner_023",
+      "prod_conditioner_245"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle bundle at $17.99 with 4.7/5134 reviews offers the best proven mainstream value in this set."
+  },
+  {
+    "offer_set_id": "conditioner_126",
+    "consideration_set": [
+      "prod_conditioner_027",
+      "prod_conditioner_169",
+      "prod_conditioner_066",
+      "prod_conditioner_119",
+      "prod_conditioner_298"
+    ],
+    "final_choice": "prod_conditioner_027",
+    "reasoning": "L'Oreal Elvive Color Vibrancy at $17.87 with 4.6/2586 reviews at visible position 4 is the strongest mass-brand value here."
+  },
+  {
+    "offer_set_id": "conditioner_127",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_002",
+      "prod_conditioner_245",
+      "prod_conditioner_199",
+      "prod_conditioner_254"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle bundle at visible position 4 with 4.7/5134 reviews and $17.99 price is the proven value standout."
+  },
+  {
+    "offer_set_id": "conditioner_128",
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_097",
+      "prod_conditioner_170",
+      "prod_conditioner_023",
+      "prod_conditioner_119"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Garnier Whole Blends 2-count at $15.98 with 4.7/8445 reviews is the best mass-brand value with exceptional social proof."
+  },
+  {
+    "offer_set_id": "conditioner_129",
+    "consideration_set": [
+      "prod_conditioner_040",
+      "prod_conditioner_119",
+      "prod_conditioner_194",
+      "prod_conditioner_255",
+      "prod_conditioner_071"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak or niche (purple toners, obscure brands, dandruff scalp) and no proven mainstream product is visible early."
+  },
+  {
+    "offer_set_id": "conditioner_130",
+    "consideration_set": [
+      "prod_conditioner_066",
+      "prod_conditioner_290",
+      "prod_conditioner_241",
+      "prod_conditioner_110",
+      "prod_conditioner_014"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions dominated by men's-specific, hair-growth, and niche products; solid options are buried mid or late page."
+  },
+  {
+    "offer_set_id": "conditioner_131",
+    "consideration_set": [
+      "prod_conditioner_196",
+      "prod_conditioner_241",
+      "prod_conditioner_290",
+      "prod_conditioner_256",
+      "prod_conditioner_002"
+    ],
+    "final_choice": "prod_conditioner_196",
+    "reasoning": "Maui Moisture Coconut Milk at $8 with 4.5/3255 reviews is a strongly reviewed mass-brand value at a visible position."
+  },
+  {
+    "offer_set_id": "conditioner_132",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_023",
+      "prod_conditioner_016",
+      "prod_conditioner_196",
+      "prod_conditioner_026"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle bundle at $17.99 with 4.7/5134 reviews at position 6 offers the best all-in-one value in a strong lineup."
+  },
+  {
+    "offer_set_id": "conditioner_133",
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_014",
+      "prod_conditioner_066",
+      "prod_conditioner_218",
+      "prod_conditioner_169"
+    ],
+    "final_choice": "prod_conditioner_170",
+    "reasoning": "Dove Nutritive Solutions 4-count at $23.95 with 4.7/1192 reviews is the most trusted mass-brand value in visible positions."
+  },
+  {
+    "offer_set_id": "conditioner_134",
+    "consideration_set": [
+      "prod_conditioner_027",
+      "prod_conditioner_110",
+      "prod_conditioner_280",
+      "prod_conditioner_078",
+      "prod_conditioner_119"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (low reviews, 3.9 ratings, small review counts), and the strong picks are buried mid-to-late page."
+  },
+  {
+    "offer_set_id": "conditioner_135",
+    "consideration_set": [
+      "prod_conditioner_066",
+      "prod_conditioner_097",
+      "prod_conditioner_023",
+      "prod_conditioner_110",
+      "prod_conditioner_218"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top of page is weak (4.0 LATINOIL, small-review House of Dear, 3.7 kids) and nothing visible stands out clearly for general use."
+  },
+  {
+    "offer_set_id": "conditioner_136",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_027",
+      "prod_conditioner_170",
+      "prod_conditioner_147",
+      "prod_conditioner_237"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle bundle at $17.99 with 4.7/5134 reviews is the most proven value option at a visible position 3."
+  },
+  {
+    "offer_set_id": "conditioner_137",
+    "consideration_set": [
+      "prod_conditioner_014",
+      "prod_conditioner_169",
+      "prod_conditioner_097",
+      "prod_conditioner_016",
+      "prod_conditioner_183"
+    ],
+    "final_choice": "prod_conditioner_014",
+    "reasoning": "Truss Ultra Hydration Conditioner at top position with 4.7/547 reviews is a strong salon-quality choice at $32.95."
+  },
+  {
+    "offer_set_id": "conditioner_138",
+    "consideration_set": [
+      "prod_conditioner_078",
+      "prod_conditioner_196",
+      "prod_conditioner_170",
+      "prod_conditioner_027",
+      "prod_conditioner_040"
+    ],
+    "final_choice": "prod_conditioner_078",
+    "reasoning": "It's A 10 Miracle Deep Conditioner Plus Keratin at $16.05 with 4.6/2426 reviews at position 4 is the standout trusted-brand value."
+  },
+  {
+    "offer_set_id": "conditioner_139",
+    "consideration_set": [
+      "prod_conditioner_066",
+      "prod_conditioner_280",
+      "prod_conditioner_290",
+      "prod_conditioner_016",
+      "prod_conditioner_026"
+    ],
+    "final_choice": "prod_conditioner_066",
+    "reasoning": "TRUSS Infusion at position 4 with 4.7/624 reviews and $32.94 is a strong salon-grade pick visible above many solid alternatives."
+  },
+  {
+    "offer_set_id": "conditioner_140",
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_110",
+      "prod_conditioner_023",
+      "prod_conditioner_218",
+      "prod_conditioner_009"
+    ],
+    "final_choice": "prod_conditioner_170",
+    "reasoning": "Dove Nutritive Solutions 4-count at $23.95 with 4.7/1192 reviews at visible position 7 is the best trusted-brand value."
+  },
+  {
+    "offer_set_id": "conditioner_141",
+    "consideration_set": [
+      "prod_conditioner_097",
+      "prod_conditioner_110",
+      "prod_conditioner_290",
+      "prod_conditioner_023",
+      "prod_conditioner_026"
+    ],
+    "final_choice": "prod_conditioner_097",
+    "reasoning": "It's A 10 Silk Express at $15.48 with 4.7/763 reviews is a well-reviewed trusted brand at a visible position."
+  },
+  {
+    "offer_set_id": "conditioner_142",
+    "consideration_set": [
+      "prod_conditioner_040",
+      "prod_conditioner_218",
+      "prod_conditioner_110",
+      "prod_conditioner_002",
+      "prod_conditioner_199"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (hair-growth niche, obscure brands, low reviews) and strong choices like Alfaparf and Carol's Daughter are buried."
+  },
+  {
+    "offer_set_id": "conditioner_143",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_027",
+      "prod_conditioner_097",
+      "prod_conditioner_078",
+      "prod_conditioner_194"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle bundle at position 3 with 4.7/5134 reviews and $17.99 is a proven mass-brand value at a highly visible position."
+  },
+  {
+    "offer_set_id": "conditioner_144",
+    "consideration_set": [
+      "prod_conditioner_026",
+      "prod_conditioner_211",
+      "prod_conditioner_280",
+      "prod_conditioner_147",
+      "prod_conditioner_002"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Visible top is mediocre (Hairfinity niche, Ultimate Radiance pricey, Petal Fresh obscure) and Aussie is buried at position 23."
+  },
+  {
+    "offer_set_id": "conditioner_145",
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_241",
+      "prod_conditioner_169",
+      "prod_conditioner_194",
+      "prod_conditioner_009"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Garnier Whole Blends 2-count at $15.98 with 4.7/8445 reviews is the strongest mass-brand value, worth scrolling past the weak top."
+  },
+  {
+    "offer_set_id": "conditioner_146",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_218",
+      "prod_conditioner_078",
+      "prod_conditioner_097",
+      "prod_conditioner_027"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle bundle at $17.99 with 4.7/5134 reviews at visible position 7 is the best proven value among visible options."
+  },
+  {
+    "offer_set_id": "conditioner_147",
+    "consideration_set": [
+      "prod_conditioner_241",
+      "prod_conditioner_040",
+      "prod_conditioner_002",
+      "prod_conditioner_024",
+      "prod_conditioner_027"
+    ],
+    "final_choice": "prod_conditioner_241",
+    "reasoning": "Mixed Chicks Detangling Deep Conditioner at $13.99 with 4.7/1586 reviews at visible position 9 is a strong well-reviewed pick."
+  },
+  {
+    "offer_set_id": "conditioner_148",
+    "consideration_set": [
+      "prod_conditioner_194",
+      "prod_conditioner_176",
+      "prod_conditioner_218",
+      "prod_conditioner_016",
+      "prod_conditioner_110"
+    ],
+    "final_choice": "prod_conditioner_194",
+    "reasoning": "Love Beauty and Planet Smooth & Serene at $8.69 with 4.6/570 reviews at position 2 is a clean, affordable, well-reviewed pick."
+  },
+  {
+    "offer_set_id": "conditioner_149",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_170",
+      "prod_conditioner_014",
+      "prod_conditioner_027",
+      "prod_conditioner_040"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle bundle at position 2 with 4.7/5134 reviews and $17.99 is a top-visible proven mainstream value."
+  },
+  {
+    "offer_set_id": "conditioner_150",
+    "consideration_set": [
+      "prod_conditioner_078",
+      "prod_conditioner_097",
+      "prod_conditioner_023",
+      "prod_conditioner_298",
+      "prod_conditioner_071"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top of page has weak social proof (Sol de Janeiro 78 reviews, Nature Nut mediocre, Nativa obscure) and strong alternatives are buried."
+  }
+]

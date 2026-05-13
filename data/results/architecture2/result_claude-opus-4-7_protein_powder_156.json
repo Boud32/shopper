@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 6,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_156.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_156",
+      "prod_protein_powder_172",
+      "prod_protein_powder_063",
+      "prod_protein_powder_017",
+      "prod_protein_powder_076"
+    ],
+    "final_choice": "prod_protein_powder_156",
+    "reasoning": "BSN SYNTHA-6 Edge is a top-tier established protein blend with 4.7 stars and 8,950 reviews at $42.99 \u2014 the strongest overall quality signal combined with fair pricing."
+  }
+}

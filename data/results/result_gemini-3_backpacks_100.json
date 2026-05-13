@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_078",
+      "prod_backpacks_164",
+      "prod_backpacks_068",
+      "prod_backpacks_194",
+      "prod_backpacks_160"
+    ],
+    "final_choice": "prod_backpacks_078",
+    "reasoning_trace": "During my search for a backpack, I filtered out several items that were incorrectly categorized (towels, sleeping bags, and patches). I focused on five highly-rated backpacks with varied use cases: hydration, tactical, long-distance hiking, cooler functionality, and fishing. The Gelindo 18L (prod_backpacks_078) stands out as the best choice due to its high 4.7 rating, large volume of positive reviews, and the inclusion of a hydration bladder at a very reasonable price point, making it a versatile option for day hikes and outdoor events."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_100.json",
+    "offer_set_id": "backpacks_100",
+    "timestamp": 1775591894,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 8,
+    "timestamp": 1776691124,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_008.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_140",
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_110",
+      "prod_yoga_mats_097"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Leading positions are dominated by niche or expensive options (round pilates, jute mat, travel mat, Harbinger); strongest general-purpose option Amazon Basics is buried at position 13."
+  }
+}

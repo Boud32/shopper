@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_backpacks_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_006",
+      "prod_backpacks_051",
+      "prod_backpacks_099",
+      "prod_backpacks_003",
+      "prod_backpacks_004"
+    ],
+    "final_choice": "prod_backpacks_006",
+    "reasoning_trace": "Out of the backpacks presented, the HIKPRO 20L Packable Daypack (prod_backpacks_006) stands out with the highest overall rating (4.7) and consistently positive reviews regarding its durability and lightweight design. While the Osprey Exos 58 is a premium technical pack, recent reviews suggest concerns about its suspension system relative to its high price. The MOSISO sling is well-regarded but perhaps too small for general use. The HIKPRO offers the best balance of price, performance, and user satisfaction for a general-purpose or travel backpack."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_485.json",
+    "offer_set_id": "backpacks_485",
+    "timestamp": 1775605772,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

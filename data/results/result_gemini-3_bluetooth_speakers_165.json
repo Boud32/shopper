@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_131",
+      "prod_bluetooth_speakers_072",
+      "prod_bluetooth_speakers_020",
+      "prod_bluetooth_speakers_037"
+    ],
+    "final_choice": "prod_bluetooth_speakers_181",
+    "reasoning_trace": "I evaluated a consideration set that covered the main segments of the Bluetooth speaker market: high-end portable (Sony and JBL), mid-range rugged (HyperGear), budget portable (comiso), and premium home audio (Edifier). The Sony SRS-XB43 (prod_bluetooth_speakers_181) is the superior choice for a purchase because of its exceptional rating (4.7) from over 5,000 users, indicating high reliability and performance. It offers a more versatile feature set (IP67 waterproof rating, 24-hour battery life, and USB-C) at a better price point ($156) than the aesthetically focused JBL Pulse 4 or the high-priced Edifier system, while being far more capable than the budget entries from comiso and HyperGear."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_165.json",
+    "offer_set_id": "bluetooth_speakers_165",
+    "timestamp": 1775594366,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

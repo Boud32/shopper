@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_173",
+      "prod_backpacks_167",
+      "prod_backpacks_068",
+      "prod_backpacks_150",
+      "prod_backpacks_051"
+    ],
+    "final_choice": "prod_backpacks_173",
+    "reasoning_trace": "I evaluated the feed for diverse backpack options including daily use, hydration, and serious hiking packs. I narrowed my consideration set to the ZOMAKE packable daypack (popular/affordable), the GZ XINXING tactical sling (high value/rugged), the High Sierra 70L (high capacity/internal frame), the N NEVO RHINO (hydration specific), and the MOSISO sling (very popular crossbody). I decided to purchase the ZOMAKE Ultra Lightweight Hiking Backpack because of its exceptional review count (nearly 15,000), high rating (4.6), and extreme portability as a packable daypack at a very low price point ($13.99), making it a low-risk, high-utility choice."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_379.json",
+    "offer_set_id": "backpacks_379",
+    "timestamp": 1775597927,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

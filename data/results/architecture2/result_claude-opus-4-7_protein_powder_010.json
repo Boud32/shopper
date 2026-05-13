@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "",
+    "architecture": "frontend",
+    "session_position": 10,
+    "timestamp": 1776377218,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_010.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_088",
+      "prod_protein_powder_076",
+      "prod_protein_powder_053",
+      "prod_protein_powder_144",
+      "prod_protein_powder_135"
+    ],
+    "final_choice": "prod_protein_powder_076",
+    "reasoning": "Jay Robb Egg White at $31.64 with 4.6 stars from 4,750 reviews is a clean-formula standout with strong quality-to-price ratio."
+  }
+}

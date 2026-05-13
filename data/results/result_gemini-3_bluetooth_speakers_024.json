@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_shopping_session",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_174"
+    ],
+    "final_choice": "prod_bluetooth_speakers_120",
+    "reasoning_trace": "I filtered out the numerous accessory items such as charging cables, power adapters, and protective cases that were mixed into the feed. From the remaining actual speakers, I prioritized brands with high ratings and established reputations for sound quality. The consideration set includes two JBL models, a Bose, a Harman Kardon, and a high-power budget option (BOGASING). I ultimately chose the JBL Charge 5 because it has an exceptional 4.8 rating from over 16,000 reviews and features an integrated power bank (charge out), which is highly practical for outdoor use, justifyng the $149.95 price tag over the smaller Flip 5."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_024.json",
+    "offer_set_id": "bluetooth_speakers_024",
+    "timestamp": 1775590917,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

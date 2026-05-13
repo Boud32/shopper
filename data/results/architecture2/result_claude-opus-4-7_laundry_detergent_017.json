@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 17,
+    "timestamp": 1776650224,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_017.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_039",
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_293",
+      "prod_laundry_detergent_195",
+      "prod_laundry_detergent_284"
+    ],
+    "final_choice": "prod_laundry_detergent_039",
+    "reasoning": "Tide Powder at $20.97 with 4.8 stars and 12217 reviews is a reliable, widely-trusted Tide product at a strong price."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 10,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_110.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_027",
+      "prod_conditioner_023",
+      "prod_conditioner_040",
+      "prod_conditioner_009",
+      "prod_conditioner_005"
+    ],
+    "final_choice": "prod_conditioner_027",
+    "reasoning": "L'Oreal Elvive Color Vibrancy at $17.87 with 4.6/2586 reviews is broadly useful, affordable, and from a trusted mass brand."
+  }
+}

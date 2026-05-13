@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_placeholder",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_129",
+      "prod_mechanical_keyboards_111",
+      "prod_mechanical_keyboards_171",
+      "prod_mechanical_keyboards_127",
+      "prod_mechanical_keyboards_177"
+    ],
+    "final_choice": "prod_mechanical_keyboards_111",
+    "reasoning_trace": "The final choice, prod_mechanical_keyboards_111, is a Mechanical Keyboard with a high rating of 4.4 and 55 reviews. It is a 65% RGB Mechanical Keyboard with Hot Swap capability, making it highly customizable. The consideration set includes a range of products with high ratings, including keycap sets and keyboard cables. However, the final choice is a complete keyboard that meets the customer's needs for a Mechanical Keyboard."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_451.json",
+    "offer_set_id": "mechanical_keyboards_451",
+    "timestamp": 1772825177,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

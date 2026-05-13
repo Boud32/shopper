@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_search_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_173",
+      "prod_backpacks_111",
+      "prod_backpacks_128",
+      "prod_backpacks_051",
+      "prod_backpacks_004"
+    ],
+    "final_choice": null,
+    "reasoning_trace": "I evaluated several types of backpacks including the ultra-lightweight ZOMAKE daypack, the SHENHU 40L hiking pack, and the adidas Hermosa mesh backpack. While the ZOMAKE is highly rated, its packable nature makes it too thin for my primary needs. The SHENHU 40L seemed like a strong contender for a hiking pack, but reviews suggest it is sized smaller than expected and may be better suited for children or smaller frames. The adidas mesh pack and the MOSISO sling are too specialized for general use. Furthermore, the search results were cluttered with many irrelevant items like camping stoves, hammocks, and even dog clothing, which made the selection process difficult. Given the durability concerns about zippers mentioned in several other products in this feed, I've decided to wait and look for a more robust, high-quality daily backpack elsewhere."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_500.json",
+    "offer_set_id": "backpacks_500",
+    "timestamp": 1775606027,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

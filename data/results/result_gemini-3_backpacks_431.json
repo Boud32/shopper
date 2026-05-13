@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_096",
+      "prod_backpacks_128",
+      "prod_backpacks_132",
+      "prod_backpacks_041",
+      "prod_backpacks_073"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "My evaluation focused on finding a reliable backpack for general use or light hiking. I considered the Maxpedition Falcon-III (prod_backpacks_096) for its high quality, but at $171.67, it was more than I wanted to spend today. The adidas mesh bag (prod_backpacks_128) is too specific for gym/school use. The Mubasel hydration pack (prod_backpacks_132) is highly rated but restricted in storage capacity. I was particularly interested in the Granite Gear Virga 2 (prod_backpacks_041) for its capacity, but multiple reviews mentioning straps breaking on the first use were a dealbreaker. Additionally, the overall search feed was heavily cluttered with non-backpack accessories like umbrellas, tent stakes, and cookware, making the browsing experience frustrating. I will continue my search elsewhere for a more standard, durable daypack."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_431.json",
+    "offer_set_id": "backpacks_431",
+    "timestamp": 1775598769,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

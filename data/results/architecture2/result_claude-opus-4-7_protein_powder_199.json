@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 49,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_199.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_028",
+      "prod_protein_powder_088",
+      "prod_protein_powder_076",
+      "prod_protein_powder_017",
+      "prod_protein_powder_046"
+    ],
+    "final_choice": "prod_protein_powder_028",
+    "reasoning": "Isopure at position 9 with 4.5 stars, 30,402 reviews at $71.20 is the category-benchmark whey isolate with overwhelming validation \u2014 the anchor quality pick in the set."
+  }
+}

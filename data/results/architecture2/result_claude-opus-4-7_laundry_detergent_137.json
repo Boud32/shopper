@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 37,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_137.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_022",
+      "prod_laundry_detergent_257",
+      "prod_laundry_detergent_030",
+      "prod_laundry_detergent_268",
+      "prod_laundry_detergent_024"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top 6 positions are dominated by weak items (3.9\u2605 CLEACE, low-review sheets, expensive Tyler); strong products buried at positions 7+."
+  }
+}

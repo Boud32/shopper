@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_192"
+    ],
+    "final_choice": "prod_bluetooth_speakers_153",
+    "reasoning_trace": "After reviewing the product feed, I filtered out non-speaker items like cases and cables. I selected a consideration set that represents different market segments: high-end (Bang & Olufsen), reliable mid-range brands (JBL), aesthetic/retro styles (INSMY), high-value performers (Raymate), and ultra-portables (EWA). I chose the Raymate Bluetooth Speaker (prod_bluetooth_speakers_153) as the final purchase because it offers impressive specifications for its price, including 30W output and IPX7 waterproofing, backed by strong user reviews that highlight its powerful sound quality and durability compared to more expensive or smaller alternatives."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_413.json",
+    "offer_set_id": "bluetooth_speakers_413",
+    "timestamp": 1775603958,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

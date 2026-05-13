@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_009",
+      "prod_bluetooth_speakers_143",
+      "prod_bluetooth_speakers_049"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "After reviewing the available selection, I have decided not to make a purchase. The premium options from Bose are either an older model (SoundLink Color) or use obsolete technology (the 30-pin SoundDock). The JBL Go 3 bundle is overpriced for that specific speaker model. While the INSMY portable speaker (prod_128) has excellent reviews for its price, I was hoping for a more recent release from a primary audio brand with more robust features. The Altec Lansing Mix 2.0 also has concerning reviews regarding its durability near water, which makes the $149 price tag difficult to justify. None of the products perfectly matched my requirements for a modern, high-performance speaker."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_262.json",
+    "offer_set_id": "bluetooth_speakers_262",
+    "timestamp": 1775596067,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping_session_25",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_164",
+      "prod_backpacks_073",
+      "prod_backpacks_137",
+      "prod_backpacks_003",
+      "prod_backpacks_159"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated a mix of tactical, hiking, and daily-use packs. While the Osprey Exos 58 is a high-end option, the reviews mentioning a flimsy suspension system at a $241 price point made me hesitant. The Mardingtop 70L and the W WINTMING tactical backpack offered the capacity I need, but I found the reviews concerning regarding buckle durability and overall material quality. The NICGID sling and TOMSHOO cycling bags were well-rated but ultimately too small for my current requirements. Given the concerns over long-term durability in the larger packs that fit my budget, I decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_124.json",
+    "offer_set_id": "backpacks_124",
+    "timestamp": 1775593217,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

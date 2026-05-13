@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 12,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_112.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_097",
+      "prod_protein_powder_191",
+      "prod_protein_powder_128",
+      "prod_protein_powder_159",
+      "prod_protein_powder_130"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The leading positions are occupied by niche or mid-tier products and the strong options don't offer clearly better value than what a different search would yield."
+  }
+}

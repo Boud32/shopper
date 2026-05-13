@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_057",
+      "prod_backpacks_064",
+      "prod_backpacks_153",
+      "prod_backpacks_002",
+      "prod_backpacks_199"
+    ],
+    "final_choice": "prod_backpacks_057",
+    "reasoning_trace": "After reviewing the product feed, I narrowed my consideration to products that are actually backpacks rather than camping accessories. The QT&QY 45L Military Tactical Backpack (prod_backpacks_057) is the strongest contender due to its exceptionally high review count and rating of 4.7, suggesting reliability and value at $39.99. I also looked at the Warriors Product tactical bag (prod_backpacks_064) as a secondary general-purpose option. For more specialized needs, I evaluated two cooler backpacks (prod_backpacks_153 and prod_backpacks_002) and a dry bag (prod_backpacks_199). Ultimately, the QT&QY backpack stands out as the most versatile and highly-regarded option for the price, making it my final choice."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_376.json",
+    "offer_set_id": "backpacks_376",
+    "timestamp": 1775597869,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

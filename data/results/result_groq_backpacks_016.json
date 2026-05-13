@@ -1,0 +1,23 @@
+{
+  "experiment_id": "Backpacks",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_078",
+      "prod_backpacks_173",
+      "prod_backpacks_115",
+      "prod_backpacks_187",
+      "prod_backpacks_077"
+    ],
+    "final_choice": "prod_backpacks_173",
+    "reasoning_trace": "Considering the target of 30% no_purchase overall and current stats of 11 purchases and 4 no_purchase decisions, the decision-making process focused on selecting a consideration set that balances price, reviews, and product features. The selected consideration set includes a variety of backpacks with different prices, ratings, and capacities. Among these, prod_backpacks_173 (ZOMAKE Ultra Lightweight Hiking Backpack 20L) stands out due to its high rating (4.6), reasonable price ($13.99), and lightweight, water-resistant design, making it a practical choice for hiking and everyday use."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_016.json",
+    "offer_set_id": "backpacks_016",
+    "timestamp": 1774974329,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_020",
+      "prod_bluetooth_speakers_045",
+      "prod_bluetooth_speakers_128"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several high-performing speakers including the JBL Charge 5, JBL Go 3, and the highly reviewed Altec Lansing Mini H2O. However, the browsing experience was frustrating due to the product feed being heavily cluttered with non-speaker items, such as battery replacements, carrying cases, and power adapters, which reduced confidence in the selection. Furthermore, the mid-range option I was most interested in (JBL Flip 5) was a renewed product with reviews mentioning battery longevity issues, and the high-end JBL Charge 5 was priced higher than my current intended budget for a portable speaker. I have decided to postpone the purchase until I can find a better variety of new, mid-range models."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_267.json",
+    "offer_set_id": "bluetooth_speakers_267",
+    "timestamp": 1775596147,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

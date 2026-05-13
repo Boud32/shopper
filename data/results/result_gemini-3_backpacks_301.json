@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_purchase_sim",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_043",
+      "prod_backpacks_128",
+      "prod_backpacks_082",
+      "prod_backpacks_140",
+      "prod_backpacks_069"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was searching for a reliable, high-quality backpack, but the provided product feed is heavily diluted with non-backpack items like camping stoves, shooting rests, and hammocks. Among the actual bags, most are either highly specialized (fishing tackle bags, disc golf bags, ski boot bags) or specialized niche items (mesh backpacks, sling bags) that do not suit a general use case. The KAILAS 28L is the only technical hiking backpack that caught my eye, but with only 8 reviews, I am hesitant to spend $70 on an unfamiliar brand. Because the selection of standard daypacks and durable hiking gear is so limited, I have decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_301.json",
+    "offer_set_id": "backpacks_301",
+    "timestamp": 1775596687,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

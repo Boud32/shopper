@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 50,
+    "timestamp": 1776691124,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_100.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_155",
+      "prod_yoga_mats_078",
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_180"
+    ],
+    "final_choice": "prod_yoga_mats_084",
+    "reasoning": "Retrospec Zuma at position 2 with $27.99, 4.6\u2b50 and 2,249 reviews is a trusted brand at a great price with high visibility."
+  }
+}

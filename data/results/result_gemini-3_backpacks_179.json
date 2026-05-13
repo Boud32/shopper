@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_11",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_068",
+      "prod_backpacks_064",
+      "prod_backpacks_099",
+      "prod_backpacks_184",
+      "prod_backpacks_168"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was browsing for a new backpack, but the feed was heavily cluttered with items that aren't actually backpacks, such as camping stools, beach chairs, dog clothes, and cookware. While the High Sierra 70L pack was a high-quality contender and the ZOMAKE was a great value option, the overwhelming presence of non-relevant accessories and niche sport bags (like the skate and baseball packs) made the selection feel limited and the shopping experience frustrating. I decided to hold off on a purchase to look for a retailer with a more focused inventory."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_179.json",
+    "offer_set_id": "backpacks_179",
+    "timestamp": 1775594014,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

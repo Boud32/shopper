@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_043",
+      "prod_backpacks_138",
+      "prod_backpacks_157",
+      "prod_backpacks_199",
+      "prod_backpacks_091"
+    ],
+    "final_choice": "prod_backpacks_043",
+    "reasoning_trace": "Selected a consideration set of exactly 5 products that are highly rated and relevant to backpacking. The final choice, prod_backpacks_043, is a KAILAS 28L Water Resistant Hiking Backpack, which has a high rating of 4.3 and is specifically designed for hiking and backpacking, making it a suitable choice for this category."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_040.json",
+    "offer_set_id": "backpacks_040",
+    "timestamp": 1774974382,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

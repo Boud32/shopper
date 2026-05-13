@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_140",
+      "prod_backpacks_038",
+      "prod_backpacks_125",
+      "prod_backpacks_164",
+      "prod_backpacks_197"
+    ],
+    "final_choice": "prod_backpacks_038",
+    "reasoning_trace": "In evaluating the product feed, I narrowed my consideration set to a mix of daily-use sling bags, high-end technical packs, tactical gear, and specialized sports bags. The USWE Hajker 30L is a high-performance pack but carries a premium price tag that is hard to justify for general use. The NICGID sling bag and MARITTON baseball bag are excellent value options but are quite specialized in their capacity and use case. The W WINTMING tactical pack offers great volume but has some concerns regarding component durability (waist buckle). I ultimately chose the Maxpedition Prepared Citizen Classic v2.0 because it combines high-quality construction and durability with a discrete, non-tactical appearance, making it versatile for both work and outdoor activity. Its high rating of 4.7 and positive feedback regarding material quality make it a reliable purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_476.json",
+    "offer_set_id": "backpacks_476",
+    "timestamp": 1775605620,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

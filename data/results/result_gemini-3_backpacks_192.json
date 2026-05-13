@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_005",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_096",
+      "prod_backpacks_107",
+      "prod_backpacks_199",
+      "prod_backpacks_072",
+      "prod_backpacks_102"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several types of backpacks including tactical (Maxpedition, Seibertron), sports-specific (Rawlings), waterproof (Piscifun), and sling (TUDEQU) styles. While the Maxpedition Falcon-III is highly rated, its $171 price point is quite high for a general-purpose purchase. The mid-range Seibertron had concerns regarding strap finishing and durability. The Piscifun dry bag was noted as being heavy due to its thick material, and the Rawlings bag is too specialized for baseball. The TUDEQU sling bag, despite being well-reviewed, appeared too small for a primary backpack. Given that none of the options perfectly met the criteria for a durable, reasonably priced, all-purpose backpack without significant trade-offs, I decided not to make a purchase in this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_192.json",
+    "offer_set_id": "backpacks_192",
+    "timestamp": 1775594187,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

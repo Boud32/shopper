@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 434,
+    "timestamp": 1776097305,
+    "source_batch": "data/offer_sets/coffee_makers/coffee_makers_434.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_coffee_makers_053",
+      "prod_coffee_makers_005",
+      "prod_coffee_makers_130",
+      "prod_coffee_makers_161",
+      "prod_coffee_makers_177"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of the products offered a convincing combination of price, high ratings, and positive feature sets for my needs."
+  }
+}

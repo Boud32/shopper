@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_1",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_173",
+      "prod_backpacks_043",
+      "prod_backpacks_137",
+      "prod_backpacks_102",
+      "prod_backpacks_002"
+    ],
+    "final_choice": "prod_backpacks_043",
+    "reasoning_trace": "I filtered the list to focus specifically on backpacks rather than accessories, camping tools, or clothing. My consideration set includes a range of options from lightweight daypacks (ZOMAKE) to large expedition packs (Mardingtop) and specialized cooler packs (SEEHONOR). I chose the KAILAS 28L Hiking Backpack as my final purchase because it offers a great balance of technical features, including a lightweight internal frame and ventilated suspension, which reviews compare favorably to high-end brands like Osprey, making it a high-value choice for serious hiking at a $69.99 price point."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_385.json",
+    "offer_set_id": "backpacks_385",
+    "timestamp": 1775598037,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

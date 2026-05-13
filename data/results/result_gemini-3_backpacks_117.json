@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_26",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_006",
+      "prod_backpacks_107",
+      "prod_backpacks_111",
+      "prod_backpacks_137",
+      "prod_backpacks_089"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I am looking for a reliable, high-capacity backpack for an upcoming wilderness trek. While the feed offered several options, they were inconsistent for my specific needs. The Mardingtop 70L is the right size but has concerning reviews regarding material quality and the seller's refund policy. The SHENHU 40L was noted by reviewers as being only 'almost' waterproof, which is a major concern for outdoor gear. The HIKPRO and MOSISO options are highly rated but are either ultra-light packables or small slings, neither of which are suitable for a multi-day trip. Given that a large portion of the feed was cluttered with unrelated items like camping chairs, towels, and freeze-dried food, I didn't feel confident that I'd found the best quality backpack available in this selection and decided to keep looking."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_117.json",
+    "offer_set_id": "backpacks_117",
+    "timestamp": 1775592183,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

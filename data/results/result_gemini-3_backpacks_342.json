@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_068",
+      "prod_backpacks_111",
+      "prod_backpacks_107",
+      "prod_backpacks_050",
+      "prod_backpacks_156"
+    ],
+    "final_choice": "prod_backpacks_107",
+    "reasoning_trace": "I evaluated several types of backpacks, from lightweight packable options (vimapo) to heavy-duty internal frame packs for long treks (High Sierra). The Seibertron Falcon stood out as the most versatile mid-range choice. It features a robust 37L capacity and military-grade durability, supported by a large volume of positive reviews (nearly 3,000). While the High Sierra is a high-quality internal frame pack, it is specialized for long-distance hiking and comes at a higher price. The Seibertron offers a better balance of utility for both hiking and rugged daily use. I excluded the hydration-specific packs from consideration due to multiple critical reviews regarding bladder leaks."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_342.json",
+    "offer_set_id": "backpacks_342",
+    "timestamp": 1775597335,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

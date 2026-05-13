@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speakers_sony_choice",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_085",
+      "prod_bluetooth_speakers_168"
+    ],
+    "final_choice": "prod_bluetooth_speakers_144",
+    "reasoning_trace": "I evaluated several Bluetooth speakers across different price points and use cases. My consideration set included high-end home speakers, rugged outdoor options, and popular budget choices. The Sony SRS-RA3000 stood out because it offers 360 Reality Audio and Wi-Fi connectivity in addition to Bluetooth, making it much more versatile for high-quality home listening than the cheaper, portable-focused options. While the EDUPLINK and comiso models are well-rated for their price, the Sony brand reputation and unique spatial audio technology justified the premium cost for a stationary home speaker setup."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_209.json",
+    "offer_set_id": "bluetooth_speakers_209",
+    "timestamp": 1775595059,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

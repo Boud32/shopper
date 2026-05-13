@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_bt_speakers_v1",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_128"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The consumer evaluated a selection of reputable JBL speakers alongside highly-rated budget alternatives. The JBL Charge 5 and Clip 3 offered strong performance metrics, while the INSMY and BOGASING models provided high value. However, several factors led to a no-purchase decision. The top-tier JBL Charge 5 was noted in reviews to have compatibility issues when pairing with older JBL devices, which was a specific requirement for the user. The more affordable JBL Flip 5 was a renewed unit with concerning reviews regarding long-term battery retention, and the budget models had inconsistent feedback regarding charging port durability. Furthermore, the product feed was heavily cluttered with silicone covers and carrying cases (e.g., prod_109, prod_076, prod_025), which reduced the effective variety of speakers to compare. Given these constraints and the potential reliability risks of the available units, the consumer decided to wait for more diverse hardware options."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_221.json",
+    "offer_set_id": "bluetooth_speakers_221",
+    "timestamp": 1775595418,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

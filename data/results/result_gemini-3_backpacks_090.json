@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_068",
+      "prod_backpacks_150",
+      "prod_backpacks_140",
+      "prod_backpacks_153",
+      "prod_backpacks_007"
+    ],
+    "final_choice": "prod_backpacks_068",
+    "reasoning_trace": "I am looking for a high-capacity, durable backpack suitable for multi-day trips. The High Sierra Pathway 70L (prod_backpacks_068) stands out for its internal frame, high rating of 4.7, and positive in-depth reviews regarding its value and storage capabilities. While I considered the N NEVO RHINO hydration pack (prod_backpacks_150) and the Scothen cooler backpack (prod_backpacks_153), they are specialized items rather than versatile gear for trekking. The NICGID sling bag (prod_backpacks_140) is well-rated for travel but insufficient for major hikes. The High Sierra offers the best balance of quality and utility for a serious outdoor enthusiast."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_090.json",
+    "offer_set_id": "backpacks_090",
+    "timestamp": 1775591759,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

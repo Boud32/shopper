@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_selection_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_111",
+      "prod_backpacks_050",
+      "prod_backpacks_078",
+      "prod_backpacks_199",
+      "prod_backpacks_154"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was looking for a versatile, durable outdoor backpack. My consideration set focused on general-purpose hiking and tactical packs like the SHENHU 40L, G4Free 35L, and specialized options like the Piscifun dry bag and TOURIT cooler backpack. However, I decided on no_purchase because the reviews for the most promising budget models raised significant concerns. Specifically, the SHENHU bag's reviews suggested sizing issues (fitting more like a child's pack), and the G4Free and Gelindo bags had reports of zippers and straps failing within a few months of use. Given the high volume of non-backpack items in the feed (sleeping pads, stakes, ice cream), the quality of actual backpacks felt insufficient for a reliable purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_296.json",
+    "offer_set_id": "backpacks_296",
+    "timestamp": 1775596611,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 46,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_096.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_243",
+      "prod_conditioner_219",
+      "prod_conditioner_287",
+      "prod_conditioner_142",
+      "prod_conditioner_147"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top of page stuffed with niche and mediocre products; Biotin Conditioner at pos 1 has lukewarm reviews and nothing compelling stands out."
+  }
+}

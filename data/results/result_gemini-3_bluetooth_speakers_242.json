@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_021",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_153"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated a range of speakers from premium brands like JBL to budget-friendly options like INSMY and Raymate. While the JBL Charge 5 is highly regarded with a 4.8 rating, the price is significant. Several of the mid-range and budget speakers (Altec Lansing, Comiso) had concerning reviews regarding their waterproof claims and reliability, with some customers reporting units being dead on arrival or leaking. I am specifically looking for a durable, waterproof outdoor speaker, and the conflicting reports on build quality among the affordable options, combined with the high price of the top-tier model, lead me to defer my purchase until I can find a better balance of value and verified durability."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_242.json",
+    "offer_set_id": "bluetooth_speakers_242",
+    "timestamp": 1775595729,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

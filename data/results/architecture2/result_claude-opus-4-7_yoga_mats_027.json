@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 27,
+    "timestamp": 1776691124,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_027.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_120",
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_048"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top 5 is very weak (Wai Lana 13 reviews, Soul Mover 3.5 stars, mid-tier AIMERDAY, Retrospec Solana, Lottus Life); best items buried at positions 21-23."
+  }
+}

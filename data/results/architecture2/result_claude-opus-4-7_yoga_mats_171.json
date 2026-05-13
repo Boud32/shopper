@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 21,
+    "timestamp": 1776691125,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_171.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_120"
+    ],
+    "final_choice": "prod_yoga_mats_158",
+    "reasoning": "Retrospec Solana at position 1 with $24.99, 4.5 stars, and 2,178 reviews is a strong top-ranked pick."
+  }
+}

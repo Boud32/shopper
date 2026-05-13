@@ -1,0 +1,23 @@
+{
+  "experiment_id": "mechanical_keyboards",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_156",
+      "prod_mechanical_keyboards_129",
+      "prod_mechanical_keyboards_084",
+      "prod_mechanical_keyboards_025",
+      "prod_mechanical_keyboards_156"
+    ],
+    "final_choice": "prod_mechanical_keyboards_156",
+    "reasoning_trace": "The consideration set includes the G.SKILL KM360 tenkeyless mechanical keyboard, MELETRIX WS Grey Tactile Mechanical Keyboard, dagaladoo XVX 189 Keys Double Shot Keycaps, Wireless 60% Mechanical Gaming Keyboard and the G.SKILL KM360 tenkeyless mechanical keyboard. The final choice is the G.SKILL KM360 tenkeyless mechanical keyboard due to its high rating (4.7), large number of reviews (887), and positive review comments, indicating a high-quality product that meets customer needs."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_094.json",
+    "offer_set_id": "mechanical_keyboards_094",
+    "timestamp": 1772654304,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_realistic_bt_shopping_012",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_103",
+      "prod_bluetooth_speakers_062",
+      "prod_bluetooth_speakers_072"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The product feed is significantly diluted with accessories rather than speakers, including charging cables, travel cases, wall shelves, and power adapters, which reduces the immediate variety of high-quality hardware to choose from. While the consideration set includes the most promising speakers, each has notable drawbacks: the DOSS SoundBox Pro+ (prod_008) is relatively expensive at $89.99, the EDUPLINK (prod_051) has conflicting reviews regarding terrible sound quality despite its popularity, and the Ortizan (prod_103) shows reports of inconsistent Bluetooth pairing. Because no single product perfectly balances high-fidelity sound, reliable connectivity, and fair pricing among the options provided, I have decided not to make a purchase at this time."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_419.json",
+    "offer_set_id": "bluetooth_speakers_419",
+    "timestamp": 1775604036,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

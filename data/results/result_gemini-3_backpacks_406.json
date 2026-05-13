@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_043",
+      "prod_backpacks_164",
+      "prod_backpacks_068",
+      "prod_backpacks_154",
+      "prod_backpacks_132"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several specialized backpacks including hiking, tactical, cooler, and hydration packs. While the Mubasel Gear hydration pack and the W WINTMING tactical pack have high ratings, individual reviews raised concerns about buckle durability and potential leaks. The High Sierra 70L is a high-quality internal frame pack, but it is larger and more expensive than what I need for simple day trips. Given that the mid-range hiking options had either too few reviews (KAILAS) or reports of structural failure (W WINTMING/High Sierra comfort issues), I am choosing to postpone my purchase until I can find a more reliable option within my budget."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_406.json",
+    "offer_set_id": "backpacks_406",
+    "timestamp": 1775598386,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

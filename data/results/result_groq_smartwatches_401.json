@@ -1,0 +1,23 @@
+{
+  "experiment_id": "smartwatch_recommendation",
+  "decision": {
+    "consideration_set": [
+      "prod_smartwatches_056",
+      "prod_smartwatches_078",
+      "prod_smartwatches_079",
+      "prod_smartwatches_198",
+      "prod_smartwatches_192"
+    ],
+    "final_choice": "prod_smartwatches_056",
+    "reasoning_trace": "Based on the product feed, the consideration set consists of the Parsonver Smart Watch, iTECH Fusion 2 S Smartwatch, Iaret Smart Watch, Michael Kors Access Gen 4 MKGO Smartwatch, and the Amazfit Bip U Pro Smart Watch. The final choice is the Parsonver Smart Watch due to its high rating of 4.1, affordable price of $29.49, and features such as heart rate and blood oxygen monitoring, making it a well-rounded and budget-friendly option for the customer."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/smartwatches/smartwatches_401.json",
+    "offer_set_id": "smartwatches_401",
+    "timestamp": 1772826031,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

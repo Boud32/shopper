@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_browsing_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_050",
+      "prod_backpacks_173",
+      "prod_backpacks_125",
+      "prod_backpacks_153",
+      "prod_backpacks_051"
+    ],
+    "final_choice": null,
+    "reasoning_trace": "The user was looking for a high-quality, reliable primary backpack. While several options were evaluated, none perfectly met the criteria. The G4Free Tactical (prod_backpacks_050) had appealing features but concerns about zipper and strap durability in student/daily reviews. The ZOMAKE (prod_backpacks_173) is an excellent, highly-rated value choice, but its ultra-lightweight, packable design lacks the organizational structure and padding needed for a dedicated daily-use bag. The USWE Hajker (prod_backpacks_125) offers the premium features and durability sought, but at over $200, it is a significant investment for a 30L pack. Given the choice between potential quality issues in the mid-range and an extremely high price for the premium tier, no purchase was made during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_060.json",
+    "offer_set_id": "backpacks_060",
+    "timestamp": 1775590674,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

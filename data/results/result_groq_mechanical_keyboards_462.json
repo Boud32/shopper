@@ -1,0 +1,23 @@
+{
+  "experiment_id": "mechanical_keyboards",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_136",
+      "prod_mechanical_keyboards_075",
+      "prod_mechanical_keyboards_111",
+      "prod_mechanical_keyboards_162",
+      "prod_mechanical_keyboards_200"
+    ],
+    "final_choice": "prod_mechanical_keyboards_075",
+    "reasoning_trace": "Based on the provided product feed, the top 5 products considered are Redragon K556 RGB Mechanical Gaming Keyboard, ASUS ROG Falchion Wireless 65% Mechanical Gaming Keyboard, GK GAMAKAY LK67 65% RGB Mechanical Keyboard, Alkem Mechanical Gaming Keyboard, and DROP + Invyr Holy Panda Mechanical Keyboard Switches. The final choice is the ASUS ROG Falchion Wireless 65% Mechanical Gaming Keyboard due to its high rating, large number of reviews, and features such as wireless connectivity, compact design, and customizable backlighting."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_462.json",
+    "offer_set_id": "mechanical_keyboards_462",
+    "timestamp": 1772825205,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

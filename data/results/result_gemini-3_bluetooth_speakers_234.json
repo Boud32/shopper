@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping_v1",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_045",
+      "prod_bluetooth_speakers_037",
+      "prod_bluetooth_speakers_142"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several speakers ranging from compact portable options to high-end home systems. While the JBL Go 3 (prod_bluetooth_speakers_129) and Sony XB43 (prod_bluetooth_speakers_181) have very strong overall ratings, I found potential dealbreakers in specific user reviews. One JBL review mentioned the battery needing a recharge after only an hour of use, which is poor for a portable device, and the Sony XB43 is significantly more expensive than I intended for a casual purchase. The Edifier (prod_bluetooth_speakers_037) is excellent but too bulky and pricey for my current needs. The Altec Lansing (prod_bluetooth_speakers_045) and ZEALOT (prod_bluetooth_speakers_142) offered good utility, but concerns about audio fidelity and long-term durability in their respective reviews made me hesitant. Consequently, I decided not to make a purchase today as none of the options perfectly balanced battery life, price, and audio reliability."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_234.json",
+    "offer_set_id": "bluetooth_speakers_234",
+    "timestamp": 1775595620,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 33,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_133.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_185",
+      "prod_laundry_detergent_257",
+      "prod_laundry_detergent_116",
+      "prod_laundry_detergent_023",
+      "prod_laundry_detergent_268"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions feature baby-specific, expensive Kirkland, and overpriced Gain Flings; no compelling mainstream detergent is prominently visible."
+  }
+}

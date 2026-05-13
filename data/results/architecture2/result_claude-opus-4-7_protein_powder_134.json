@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 34,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_134.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_037",
+      "prod_protein_powder_155",
+      "prod_protein_powder_005",
+      "prod_protein_powder_158",
+      "prod_protein_powder_140"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The set is dominated by plant-based and collagen niche products without a clearly dominant whey option at a strong price."
+  }
+}

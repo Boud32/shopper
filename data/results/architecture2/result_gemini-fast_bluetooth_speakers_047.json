@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-fast",
+    "model": "gemini-3-fast",
+    "architecture": "frontend",
+    "session_position": 47,
+    "timestamp": 1776109944,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_047.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_158",
+      "prod_bluetooth_speakers_030"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of the premium options in this set currently fit into my budget or immediate requirements."
+  }
+}

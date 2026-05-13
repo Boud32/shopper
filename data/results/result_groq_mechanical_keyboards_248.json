@@ -1,0 +1,23 @@
+{
+  "experiment_id": "mechanical_keyboards",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_138",
+      "prod_mechanical_keyboards_129",
+      "prod_mechanical_keyboards_021",
+      "prod_mechanical_keyboards_170",
+      "prod_mechanical_keyboards_156"
+    ],
+    "final_choice": "prod_mechanical_keyboards_156",
+    "reasoning_trace": "The final choice is based on a combination of factors including customer reviews, product ratings, and prices. prod_mechanical_keyboards_156 has a high rating of 4.7 and a large number of reviews (887), indicating a high level of customer satisfaction. Additionally, it is a complete mechanical keyboard, which is more suitable for customers looking for a full keyboard experience. The other products in the consideration set are either keycap sets or individual components, which may not meet the customer's needs as fully."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_248.json",
+    "offer_set_id": "mechanical_keyboards_248",
+    "timestamp": 1772655060,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

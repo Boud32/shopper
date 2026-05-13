@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_28",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_171",
+      "prod_backpacks_050",
+      "prod_backpacks_140",
+      "prod_backpacks_089",
+      "prod_backpacks_005"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I am looking for a reliable and durable everyday backpack. The product feed includes several items that are not backpacks (umbrellas, water bottles, tents, and apparel), which limits the actual selection. Among the actual backpacks, the USGI Alice Pack (prod_backpacks_005) is significantly overpriced for my needs at $339.99. The Explorer Tactical (prod_backpacks_171) and G4Free (prod_backpacks_050) appear to be the most functional, but several reviews for the tactical-style bags in this feed mention durability issues like zippers breaking within months. The sports-themed backpack (prod_backpacks_075) also has significant quality complaints regarding the zipper. Because I'm looking for a long-term investment and the available options have questionable build quality or are overly niche, I have decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_120.json",
+    "offer_set_id": "backpacks_120",
+    "timestamp": 1775592222,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

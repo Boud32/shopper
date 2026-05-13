@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_purchase_25",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_192",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_168",
+      "prod_bluetooth_speakers_013"
+    ],
+    "final_choice": "prod_bluetooth_speakers_181",
+    "reasoning_trace": "In evaluating the Bluetooth speaker options, I narrowed down the list by removing non-speaker items like cases, shelves, and cables. My consideration set focused on highly-rated products across different price points. The EWA A106 Pro (prod_bluetooth_speakers_192) is an excellent budget choice for portability, while the JBL Flip 5 and Charge 4 (prod_bluetooth_speakers_001, prod_bluetooth_speakers_013) offer proven performance despite being renewed. The NOTABRICK (prod_bluetooth_speakers_168) represents a strong mid-range contender. However, I chose the Sony SRS-XB43 (prod_bluetooth_speakers_181) as my final selection because of its superior sound quality, deep bass, 24-hour battery life, and high 4.7-star rating from over 5,000 users. It provides the best combination of durability and premium features for a serious listener."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_138.json",
+    "offer_set_id": "bluetooth_speakers_138",
+    "timestamp": 1775593938,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

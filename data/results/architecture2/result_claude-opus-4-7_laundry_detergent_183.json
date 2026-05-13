@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 33,
+    "timestamp": 1776650226,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_183.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_269",
+      "prod_laundry_detergent_145",
+      "prod_laundry_detergent_117",
+      "prod_laundry_detergent_225",
+      "prod_laundry_detergent_005"
+    ],
+    "final_choice": "prod_laundry_detergent_269",
+    "reasoning": "Arm & Hammer Plus OxiClean Power Paks at $9.48 with 6.9k 4.7\u2605 reviews in top position is exceptional value per load."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_131",
+      "prod_bluetooth_speakers_103",
+      "prod_bluetooth_speakers_142"
+    ],
+    "final_choice": "prod_bluetooth_speakers_116",
+    "reasoning_trace": "I filtered out several products that were merely accessories (cases, charging cables) to focus on actual speakers. My consideration set included a range of price points: the premium Harman Kardon Onyx Studio 6, the high-end aesthetic JBL Pulse 4, the mid-range Ortizan, the budget-friendly EDUPLINK, and the utility-focused ZEALOT. The Harman Kardon Onyx Studio 6 (prod_bluetooth_speakers_116) was ultimately selected because it holds the highest rating (4.7) among the primary speakers and received specific praise for its 'crisp clear music with a ton of thump,' suggesting it offers the best audio performance for its $159.99 price. Although the EDUPLINK offered impressive value, the superior audio quality and brand reputation of Harman Kardon made it the final choice for a serious listener."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_148.json",
+    "offer_set_id": "bluetooth_speakers_148",
+    "timestamp": 1775594088,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

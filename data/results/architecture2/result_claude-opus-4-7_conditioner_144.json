@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 44,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_144.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_026",
+      "prod_conditioner_211",
+      "prod_conditioner_280",
+      "prod_conditioner_147",
+      "prod_conditioner_002"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Visible top is mediocre (Hairfinity niche, Ultimate Radiance pricey, Petal Fresh obscure) and Aussie is buried at position 23."
+  }
+}

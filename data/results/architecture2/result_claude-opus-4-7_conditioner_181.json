@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 31,
+    "timestamp": 1776689267,
+    "source_batch": "data/offer_sets/conditioner/conditioner_181.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_066",
+      "prod_conditioner_170",
+      "prod_conditioner_023",
+      "prod_conditioner_027",
+      "prod_conditioner_110"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions feature mostly budget/weak options (Hairfinity, BELLISSO, Ginger Lily, MANE CLUB $6) and the strong picks like Redken and Dove are deeply buried past position 20."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "mechanical_keyboards",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_075",
+      "prod_mechanical_keyboards_009",
+      "prod_mechanical_keyboards_174",
+      "prod_mechanical_keyboards_171",
+      "prod_mechanical_keyboards_053"
+    ],
+    "final_choice": "prod_mechanical_keyboards_075",
+    "reasoning_trace": "The consideration set consists of the top 5 mechanical keyboards based on customer reviews and ratings. The final choice, 'prod_mechanical_keyboards_075', is the ASUS ROG Falchion Wireless 65% Mechanical Gaming Keyboard, which has a high rating of 4.5 and over 800 reviews. This keyboard offers advanced features such as wireless connectivity, RGB lighting, and a compact design, making it an attractive option for customers seeking a high-quality mechanical keyboard."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_125.json",
+    "offer_set_id": "mechanical_keyboards_125",
+    "timestamp": 1772654437,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

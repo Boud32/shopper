@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 24,
+    "timestamp": 1776691125,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_174.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_140",
+      "prod_yoga_mats_187",
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_140",
+    "reasoning": "Gaiam Premium 5mm Solid at position 6 with $24.98 and 1,372 reviews offers solid value from a trusted brand at a visible position."
+  }
+}

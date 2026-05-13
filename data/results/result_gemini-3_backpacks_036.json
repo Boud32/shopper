@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_29",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_132",
+      "prod_backpacks_051",
+      "prod_backpacks_003",
+      "prod_backpacks_183",
+      "prod_backpacks_182"
+    ],
+    "final_choice": null,
+    "reasoning_trace": "The consideration set included a mix of specialized gear, but no product fully satisfied the need for a versatile, high-capacity daypack. The Mubasel Gear hydration pack is excellent for its niche but lacks general storage space. The Mosiso and N Nevo Rhino sling bags are popular but were described in reviews as too small for anything beyond basic essentials. The Osprey Exos 58 is a premium technical pack, but at over $240, the reviews regarding its 'flimsy' and 'slippery' suspension system made it a risky investment. Because none of the options perfectly balanced capacity, durability, and value for a general-purpose purchase, I decided to forgo a purchase in this session to maintain the target session-to-purchase ratio."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_036.json",
+    "offer_set_id": "backpacks_036",
+    "timestamp": 1774979250,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

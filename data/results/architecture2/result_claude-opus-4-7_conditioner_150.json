@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 50,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_150.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_078",
+      "prod_conditioner_097",
+      "prod_conditioner_023",
+      "prod_conditioner_298",
+      "prod_conditioner_071"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top of page has weak social proof (Sol de Janeiro 78 reviews, Nature Nut mediocre, Nativa obscure) and strong alternatives are buried."
+  }
+}

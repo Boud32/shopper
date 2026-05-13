@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_192",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_131",
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_021"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated a range of products from ultra-portable mini speakers to high-end home audio systems. While the EWA (prod_bluetooth_speakers_192) has an impressive number of reviews, its tiny size suggests limited bass, and reviews mention an annoying battery alert. The premium options from Sony (prod_bluetooth_speakers_144) and JBL (prod_bluetooth_speakers_131) represent a significant investment, but the Sony has a relatively low 4.0 rating with app complaints, and the JBL is priced quite high for a single unit. The rugged outdoor options from Altec Lansing (prod_bluetooth_speakers_021) and comiso (prod_bluetooth_speakers_173) have concerning reports regarding their durability and waterproofing claims. Additionally, many of the search results were irrelevant items like carrying cases, corded conference phones, or Wi-Fi-only speakers that do not meet the criteria for a portable Bluetooth speaker. Therefore, I have decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_343.json",
+    "offer_set_id": "bluetooth_speakers_343",
+    "timestamp": 1775597560,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

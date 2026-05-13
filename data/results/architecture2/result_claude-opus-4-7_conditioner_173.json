@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 23,
+    "timestamp": 1776689267,
+    "source_batch": "data/offer_sets/conditioner/conditioner_173.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_078",
+      "prod_conditioner_027",
+      "prod_conditioner_170",
+      "prod_conditioner_196"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are seriously weak \u2014 a 3.4\u2605 product as overall pick, zero-waste bar, LUS, then low-reviewed items; the good options (Aussie, It's A 10, Dove) are all buried past position 10."
+  }
+}

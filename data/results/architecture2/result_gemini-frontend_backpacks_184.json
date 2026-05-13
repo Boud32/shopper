@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 184,
+    "timestamp": 1776098609,
+    "source_batch": "data/offer_sets/backpacks/backpacks_184.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_091",
+      "prod_backpacks_128",
+      "prod_backpacks_096",
+      "prod_backpacks_154",
+      "prod_backpacks_180"
+    ],
+    "final_choice": "prod_backpacks_091",
+    "reasoning": "The Mountain House Beef Stroganoff | Freeze Dried Back stands out for its high rating and balanced price-to-feature ratio."
+  }
+}

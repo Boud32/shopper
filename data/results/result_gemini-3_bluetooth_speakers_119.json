@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_174"
+    ],
+    "final_choice": "prod_bluetooth_speakers_120",
+    "reasoning_trace": "I am looking for a high-quality portable speaker for outdoor use. I narrowed my search to five models with solid reputations for power and durability. The JBL Charge 5 stood out due to its exceptional 4.8 rating and reviews praising its deep bass and clear sound. I considered the Sony XB43 and Bose SoundLink Color II, but the JBL Charge 5 offers the best modern features and battery performance in its price class. Although the Renewed Charge 4 and the BOGASING offered better value, I preferred to invest in the latest model for better sound engineering."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_119.json",
+    "offer_set_id": "bluetooth_speakers_119",
+    "timestamp": 1775593682,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

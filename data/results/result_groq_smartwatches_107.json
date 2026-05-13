@@ -1,0 +1,23 @@
+{
+  "experiment_id": "smartwatch_recommendation",
+  "decision": {
+    "consideration_set": [
+      "prod_smartwatches_146",
+      "prod_smartwatches_114",
+      "prod_smartwatches_159",
+      "prod_smartwatches_090",
+      "prod_smartwatches_186"
+    ],
+    "final_choice": "prod_smartwatches_146",
+    "reasoning_trace": "Selected a consideration set of 5 smartwatches based on their high ratings, prices, and features. The final choice is the LFUTARI Smart Watch, which has a high rating of 4.2 and offers features like heart rate monitoring, sleep tracking, and blood oxygen saturation at an affordable price of $35.99."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/smartwatches/smartwatches_107.json",
+    "offer_set_id": "smartwatches_107",
+    "timestamp": 1772654000,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

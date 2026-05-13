@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 47,
+    "timestamp": 1776640082,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_097.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_060",
+      "prod_protein_powder_172",
+      "prod_protein_powder_196",
+      "prod_protein_powder_102",
+      "prod_protein_powder_074"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top of the page is dominated by vegan, meal replacement, and low-review products; no mainstream whey has prominent placement worth buying."
+  }
+}

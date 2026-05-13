@@ -1,0 +1,23 @@
+{
+  "experiment_id": "smartwatch_recommendation",
+  "decision": {
+    "consideration_set": [
+      "prod_smartwatches_135",
+      "prod_smartwatches_147",
+      "prod_smartwatches_103",
+      "prod_smartwatches_082",
+      "prod_smartwatches_110"
+    ],
+    "final_choice": "prod_smartwatches_135",
+    "reasoning_trace": "We select a consideration set of five smartwatches with high ratings and diverse feature sets. The final choice, 'prod_smartwatches_135', is a highly rated smartwatch with a heart rate monitor, blood pressure tracking, and IP67 waterproofing, making it a well-rounded choice for customers."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/smartwatches/smartwatches_359.json",
+    "offer_set_id": "smartwatches_359",
+    "timestamp": 1772825953,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

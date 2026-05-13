@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_1",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_164",
+      "prod_backpacks_184",
+      "prod_backpacks_112",
+      "prod_backpacks_156",
+      "prod_backpacks_095"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "After reviewing the product feed, many of the items listed under the Backpacks category are actually accessories such as camping pillows, stoves, towels, and rain covers. I focused my consideration set on actual backpacks (tactical, laptop, sports, foldable, and hunting styles). However, the reviews for the most promising options raised durability concerns; for instance, the W WINTMING tactical pack had reports of broken buckles, and the KAUKKO laptop pack had reports of straps breaking after a few months. The FOCO and ALPS packs are highly specialized for sports fans or hunters. Given the lack of a high-quality, durable general-purpose backpack in this selection, I have decided not to make a purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_260.json",
+    "offer_set_id": "backpacks_260",
+    "timestamp": 1775596001,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

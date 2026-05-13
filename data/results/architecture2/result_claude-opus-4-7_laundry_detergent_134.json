@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 34,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_134.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_269",
+      "prod_laundry_detergent_048",
+      "prod_laundry_detergent_044",
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_162"
+    ],
+    "final_choice": "prod_laundry_detergent_269",
+    "reasoning": "Arm & Hammer OxiClean 5-in-1 Pods at position 5 at $9.48 with 4.7\u2605 and nearly 7k reviews is unbeatable value in a visible slot."
+  }
+}

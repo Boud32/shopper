@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 22,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_122.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_028",
+      "prod_protein_powder_130",
+      "prod_protein_powder_037",
+      "prod_protein_powder_052",
+      "prod_protein_powder_038"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The leading slot has a weak 4.4\u2605/285-review vegan option and the stronger candidates don't clearly beat typical alternatives elsewhere."
+  }
+}

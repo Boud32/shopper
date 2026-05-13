@@ -1,0 +1,23 @@
+{
+  "experiment_id": "backpacks",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_048",
+      "prod_backpacks_073",
+      "prod_backpacks_196",
+      "prod_backpacks_002",
+      "prod_backpacks_124"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "Given the experimental goal to increase the proportion of no_purchase decisions to approximately 30%, and considering the current state of the experiment (16 purchases, 5 no_purchase decisions, roughly 24% no_purchase), the model chooses to make a no_purchase decision to align with the target proportion of no_purchase outcomes."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_022.json",
+    "offer_set_id": "backpacks_022",
+    "timestamp": 1774974344,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 43,
+    "timestamp": 1776691125,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_143.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_040",
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_118",
+      "prod_yoga_mats_175"
+    ],
+    "final_choice": "prod_yoga_mats_163",
+    "reasoning": "Heathyoga at position 4 with 4.6 stars and 9,425 reviews at $39.99 offers a clear alignment-system differentiator with huge social proof at an attractive price."
+  }
+}

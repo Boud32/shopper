@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_193",
+      "prod_bluetooth_speakers_062"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I am in the market for a high-quality portable Bluetooth speaker. I considered the top-tier brands like the JBL Flip 5 (renewed) and the Bose SoundLink Color. However, the JBL being a renewed product has several reviews mentioning battery failure after only a few months, which makes me hesitant about its longevity. The Bose SoundLink Color is a solid option, but it's an older model at a relatively high price point. The budget options from EDUPLINK and comiso provide good value on paper, but mixed reviews regarding sound fidelity and connection consistency across different devices give me pause. Since I am looking for a primary speaker with high durability and sound quality, none of the current options feel like a perfect fit, so I will decline to purchase at this time."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_444.json",
+    "offer_set_id": "bluetooth_speakers_444",
+    "timestamp": 1775604414,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

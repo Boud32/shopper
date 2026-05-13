@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_038",
+      "prod_backpacks_068",
+      "prod_backpacks_050",
+      "prod_backpacks_048",
+      "prod_backpacks_051"
+    ],
+    "final_choice": "prod_backpacks_038",
+    "reasoning_trace": "I evaluated several types of backpacks including a high-capacity hiking pack, a tactical bag, a cooler backpack, and a sling. My primary need was for a durable everyday carry bag. The Maxpedition Prepared Citizen Classic v2.0 (prod_backpacks_038) stood out due to its excellent 4.7 rating and reviews praising its heavy-duty material and nondescript appearance. While the High Sierra (prod_backpacks_068) is a great value for hiking, it is too specialized for daily use. The G4Free (prod_backpacks_050) offered good value but had some concerns regarding zipper longevity in the reviews compared to the Maxpedition's reputation for durability."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_129.json",
+    "offer_set_id": "backpacks_129",
+    "timestamp": 1775593296,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

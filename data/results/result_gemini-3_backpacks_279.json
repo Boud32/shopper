@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_backpacks_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_128",
+      "prod_backpacks_111",
+      "prod_backpacks_122",
+      "prod_backpacks_096",
+      "prod_backpacks_069"
+    ],
+    "final_choice": "prod_backpacks_111",
+    "reasoning_trace": "I specifically focused on actual backpacks in the feed, filtering out the camping accessories, towels, and chairs. My consideration set included a mix of daily-use (adidas mesh), sports-specific (DeMarini baseball), high-end tactical (Maxpedition), hydration-focused (UDIHEDA), and general hiking (SHENHU) options. I ultimately selected the SHENHU 40L Hiking Backpack as the best value; it provides significant storage space and features suitable for outdoor activities (like trekking pole attachments) at a very affordable price point compared to the specialized sports or tactical bags."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_279.json",
+    "offer_set_id": "backpacks_279",
+    "timestamp": 1775596311,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

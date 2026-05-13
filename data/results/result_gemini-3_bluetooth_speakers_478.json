@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_168",
+      "prod_bluetooth_speakers_020"
+    ],
+    "final_choice": "prod_bluetooth_speakers_166",
+    "reasoning_trace": "After reviewing the product feed, I filtered out several items that were actually accessories such as power cables, replacement batteries, and carrying cases. I narrowed my search to five distinct Bluetooth speakers ranging from budget-friendly options to premium brands. The JBL Flip 5 (prod_bluetooth_speakers_166) was the strongest candidate, boasting an exceptional 4.8-star rating from over 68,000 reviews. Its combination of portability, waterproof design, and brand reputation for audio quality at a sub-$100 price point makes it the most logical choice compared to the others in the set, including the slightly more expensive Bose and the higher-wattage but less-proven Raymate."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_478.json",
+    "offer_set_id": "bluetooth_speakers_478",
+    "timestamp": 1775604949,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

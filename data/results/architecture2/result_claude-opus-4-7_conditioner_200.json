@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 50,
+    "timestamp": 1776689267,
+    "source_batch": "data/offer_sets/conditioner/conditioner_200.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_169",
+      "prod_conditioner_168",
+      "prod_conditioner_002",
+      "prod_conditioner_104",
+      "prod_conditioner_009"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak/niche (Earth Science fragrance-free, Garnier Fructis 3.9\u2605, Pacifica, Petal Fresh, Biotop with 59 reviews, GREAT CLIPS) with no mainstream quality brand prominently placed."
+  }
+}

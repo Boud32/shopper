@@ -1,0 +1,23 @@
+{
+  "experiment_id": "smartwatch_purchase",
+  "decision": {
+    "consideration_set": [
+      "prod_smartwatches_094",
+      "prod_smartwatches_038",
+      "prod_smartwatches_013",
+      "prod_smartwatches_015",
+      "prod_smartwatches_139"
+    ],
+    "final_choice": "prod_smartwatches_038",
+    "reasoning_trace": "Based on the provided product feed, I selected a consideration set of 5 smartwatches that best meet the customer's needs. The final choice is 'prod_smartwatches_038' (AMAZTIM Smart Watch) due to its high rating (4.1), large number of reviews (1940), and features such as 60-day extra-long battery, 50M waterproof, and AI voice assistant. This product seems to offer a good balance of price, features, and customer satisfaction."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/smartwatches/smartwatches_272.json",
+    "offer_set_id": "smartwatches_272",
+    "timestamp": 1772825468,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

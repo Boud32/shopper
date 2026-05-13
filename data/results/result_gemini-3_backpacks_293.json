@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_simulation_13",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_132",
+      "prod_backpacks_041",
+      "prod_backpacks_164",
+      "prod_backpacks_101",
+      "prod_backpacks_005"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The product feed was significantly cluttered with non-backpack items such as camping stoves, leather remnants, and travel pillows, which made the browsing experience frustrating. In my consideration set, I evaluated several actual backpacks, but found significant quality issues in the reviews. The Granite Gear (prod_backpacks_041) and the Hebetag (prod_backpacks_101) both had reviews mentioning shoulder straps breaking or tearing shortly after purchase. The W WINTMING tactical pack also had reports of broken buckles. While the USGI Alice Pack (prod_backpacks_005) is a reliable design, its price point of $339.99 for a used item was prohibitively high. The Mubasel hydration pack was the best-rated, but is too specialized for general-purpose use. Due to the lack of a durable, reasonably priced general-purpose hiking or daily pack, I decided not to make a purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_293.json",
+    "offer_set_id": "backpacks_293",
+    "timestamp": 1775596555,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

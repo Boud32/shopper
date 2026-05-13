@@ -1,0 +1,23 @@
+{
+  "experiment_id": "running_shoes_exp",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_067",
+      "prod_running_shoes_060",
+      "prod_running_shoes_124",
+      "prod_running_shoes_113",
+      "prod_running_shoes_165"
+    ],
+    "final_choice": "prod_running_shoes_060",
+    "reasoning_trace": "Selected products based on a balance of high ratings, review counts, and moderate prices. New Balance Men's Fresh Foam Arishi V2 and Skechers Men's Max Cushioning Premier Vantage-Performance Walking & Running Shoe have high ratings and significant review counts, while Brooks Women's Ghost 14 has the highest rating. ASICS Mens Gel-Venture 6 Running Shoe offers a high rating at an affordable price, and Saucony/Skechers were favored due to their overall pick and high customer satisfaction."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/running_shoes/running_shoes_092.json",
+    "offer_set_id": "running_shoes_092",
+    "timestamp": 1772641410,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "minimal",
+    "k": 5
+  }
+}

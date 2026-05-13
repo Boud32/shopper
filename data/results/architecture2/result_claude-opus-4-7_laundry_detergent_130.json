@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 30,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_130.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_022",
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_293",
+      "prod_laundry_detergent_225",
+      "prod_laundry_detergent_189"
+    ],
+    "final_choice": "prod_laundry_detergent_022",
+    "reasoning": "Molly's Suds at position 2 with 4.6\u2605 and 13k reviews is the strongest mainstream-eco option in a highly visible slot."
+  }
+}

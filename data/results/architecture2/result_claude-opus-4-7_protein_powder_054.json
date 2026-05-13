@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 4,
+    "timestamp": 1776640082,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_054.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_156",
+      "prod_protein_powder_006",
+      "prod_protein_powder_028",
+      "prod_protein_powder_130",
+      "prod_protein_powder_158"
+    ],
+    "final_choice": "prod_protein_powder_156",
+    "reasoning": "BSN Syntha-6 Edge at p2 has 4.7 stars across 8,950 reviews for $42.99 \u2014 rare combination of top rating, high volume, fair price, and prominent placement."
+  }
+}

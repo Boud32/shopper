@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 17,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_117.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_120",
+      "prod_laundry_detergent_197",
+      "prod_laundry_detergent_117",
+      "prod_laundry_detergent_268",
+      "prod_laundry_detergent_173"
+    ],
+    "final_choice": "prod_laundry_detergent_120",
+    "reasoning": "Tide PurClean at position 2 at $14.99 offers Tide brand reliability in a plant-based variant at a highly visible slot."
+  }
+}

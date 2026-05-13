@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_045",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_193"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated a range of speakers from high-end brands like JBL to budget-friendly options like EDUPLINK and Altec Lansing. While the JBL Flip 5 and Charge 5 offer the superior audio quality I am looking for, their current prices are higher than I intended to spend today. Conversely, the more affordable options in my consideration set had mixed reviews regarding sound volume and 'tinny' audio quality, with some users specifically mentioning they were not loud enough for outdoor or shower use. Since I could not find a perfect middle ground that offered both high durability and premium sound for under $60, I have decided to delay my purchase until a higher-end model goes on sale."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_252.json",
+    "offer_set_id": "bluetooth_speakers_252",
+    "timestamp": 1775595866,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

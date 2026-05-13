@@ -1,0 +1,23 @@
+{
+  "experiment_id": "mech_keyboard_exp",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_041",
+      "prod_mechanical_keyboards_086",
+      "prod_mechanical_keyboards_170",
+      "prod_mechanical_keyboards_195",
+      "prod_mechanical_keyboards_024"
+    ],
+    "final_choice": "prod_mechanical_keyboards_086",
+    "reasoning_trace": "The final choice, 'prod_mechanical_keyboards_086', is a full-sized mechanical keyboard with a high rating and several reviews praising its performance and features. The consideration set includes a variety of keyboards with different switch types, keycap materials, and connection options, catering to different user preferences and needs."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_438.json",
+    "offer_set_id": "mechanical_keyboards_438",
+    "timestamp": 1772825147,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

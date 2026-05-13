@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_session",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_151"
+    ],
+    "final_choice": "prod_bluetooth_speakers_147",
+    "reasoning_trace": "I evaluated the product feed specifically for Bluetooth speakers, filtering out the numerous accessories like cases and charging cables. My consideration set focused on highly-rated, portable speakers with substantial review counts. The JBL Clip 3 (prod_bluetooth_speakers_147) was the clear winner due to its exceptional rating of 4.7 across over 68,000 reviews, indicating high consumer trust and product durability. While the INSMY and Raymate speakers offered competitive price points and higher wattage, the JBL brand reputation for portable, waterproof audio makes it the most reliable purchase decision for an average consumer."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_208.json",
+    "offer_set_id": "bluetooth_speakers_208",
+    "timestamp": 1775595048,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

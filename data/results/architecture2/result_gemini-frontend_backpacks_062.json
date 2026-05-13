@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 62,
+    "timestamp": 1776098609,
+    "source_batch": "data/offer_sets/backpacks/backpacks_062.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_006",
+      "prod_backpacks_093",
+      "prod_backpacks_055",
+      "prod_backpacks_162",
+      "prod_backpacks_016"
+    ],
+    "final_choice": "prod_backpacks_006",
+    "reasoning": "The HIKPRO 20L - The Most Durable Lightweight Packable stands out for its high rating and balanced price-to-feature ratio."
+  }
+}

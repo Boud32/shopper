@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_session",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_168",
+      "prod_bluetooth_speakers_103",
+      "prod_bluetooth_speakers_143",
+      "prod_bluetooth_speakers_048"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The product feed was heavily saturated with accessories like travel cases and charging cables, which made finding high-quality speakers difficult. I narrowed my consideration set to the most viable speakers across different price points, but found disqualifying flaws in each. The high-end Sony (prod_bluetooth_speakers_144) had poor reviews regarding its software and app connectivity. The Altec Lansing (prod_bluetooth_speakers_143) had alarming reports of the hardware melting and failing despite being marketed for outdoor use. The mid-range and budget options like the NOTABRICK (prod_bluetooth_speakers_168), Ortizan (prod_bluetooth_speakers_103), and comiso (prod_bluetooth_speakers_048) were better reviewed but still had consistent complaints about inconsistent pairing, harsh sound quality at high volumes, or battery life failing after a few months. Given the quality concerns on the premium units and the mediocre reliability of the budget options, I decided not to make a purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_371.json",
+    "offer_set_id": "bluetooth_speakers_371",
+    "timestamp": 1775598016,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

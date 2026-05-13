@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 34,
+    "timestamp": 1776640082,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_084.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_065",
+      "prod_protein_powder_191",
+      "prod_protein_powder_057",
+      "prod_protein_powder_134",
+      "prod_protein_powder_185"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top two positions are a weak sponsored whey and collagen; no single whey option clearly surpasses what a new search would yield."
+  }
+}

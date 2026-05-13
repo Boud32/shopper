@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 340,
+    "timestamp": 1776096127,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_340.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_047",
+      "prod_bluetooth_speakers_032",
+      "prod_bluetooth_speakers_019",
+      "prod_bluetooth_speakers_015"
+    ],
+    "final_choice": "prod_bluetooth_speakers_128",
+    "reasoning": "The INSMY Portable Bluetooth Speakers, IPX7 Waterproof... offers the best balance of high customer ratings, significant review volume, and competitive pricing."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_037",
+      "prod_bluetooth_speakers_158",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_045"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I am searching for a Bluetooth speaker that balances sound quality, durability, and value. My consideration set included high-end home audio (Edifier S350DB), premium multi-room options (Audio Pro Addon C10 MKII), and several portable choices like the JBL Charge 4, INSMY, and Altec Lansing. The high-end units are impressively reviewed but exceed my budget. The JBL Charge 4 is a great mid-tier option, but I am hesitant about it being a renewed item. The budget-friendly INSMY and Altec Lansing speakers seem durable but likely lack the audio richness I desire. Without a clear winner that hits all my criteria, I've decided not to purchase anything from this list."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_162.json",
+    "offer_set_id": "bluetooth_speakers_162",
+    "timestamp": 1775594310,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

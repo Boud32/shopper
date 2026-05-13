@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "provider": "gemini-fast",
+    "model": "gemini-3-fast",
+    "architecture": "frontend",
+    "session_position": 48,
+    "timestamp": 1776109944,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_048.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [],
+    "final_choice": "no_purchase",
+    "reasoning": "The DEGEN 3-in-1 radio and speaker is a versatile, low-cost device that adds a lot of utility for travel."
+  }
+}

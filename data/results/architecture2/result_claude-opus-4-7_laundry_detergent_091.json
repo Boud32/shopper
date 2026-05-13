@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 41,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_091.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_042",
+      "prod_laundry_detergent_293",
+      "prod_laundry_detergent_107",
+      "prod_laundry_detergent_189",
+      "prod_laundry_detergent_215"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak sheet brands and a sponsored baby detergent; the featured Kirkland Overall Pick is at position 18 and the strong Tide is not clearly better than alternatives elsewhere."
+  }
+}

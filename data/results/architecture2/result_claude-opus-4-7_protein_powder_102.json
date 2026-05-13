@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 2,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_102.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_130",
+      "prod_protein_powder_076",
+      "prod_protein_powder_189",
+      "prod_protein_powder_187",
+      "prod_protein_powder_024"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by niche or weakly-rated items and no single whey option clearly stands out on value and social proof."
+  }
+}

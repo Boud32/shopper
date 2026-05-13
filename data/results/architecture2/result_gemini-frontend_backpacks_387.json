@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 387,
+    "timestamp": 1776098609,
+    "source_batch": "data/offer_sets/backpacks/backpacks_387.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_110",
+      "prod_backpacks_006",
+      "prod_backpacks_152",
+      "prod_backpacks_096",
+      "prod_backpacks_162"
+    ],
+    "final_choice": "prod_backpacks_110",
+    "reasoning": "The TRANSPACK Edge Junior Water-Resistant 33L Ski/Snow stands out for its high rating and balanced price-to-feature ratio."
+  }
+}

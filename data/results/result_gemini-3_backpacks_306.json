@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_128",
+      "prod_backpacks_159",
+      "prod_backpacks_050",
+      "prod_backpacks_126",
+      "prod_backpacks_003"
+    ],
+    "final_choice": "prod_backpacks_128",
+    "reasoning_trace": "I evaluated a mix of high-end hiking packs, casual mesh backpacks, tactical bags, and sling-style crossbody bags. The feed contained several items that were not actually backpacks (chairs, tarps, cleaning kits), which limited the effective selection. I prioritized products with high ratings and substantial review counts. The adidas Hermosa Mesh Backpack (prod_backpacks_128) stood out due to its 4.7-star rating and its reputation for durability in a school or daily setting. While the NICGID sling (prod_backpacks_159) was a close second for portability, the adidas offered better overall utility for the price."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_306.json",
+    "offer_set_id": "backpacks_306",
+    "timestamp": 1775596777,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

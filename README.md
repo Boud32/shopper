@@ -9,7 +9,9 @@ uv sync
 source .venv/bin/activate
 ```
 
-The seed catalog (`data/seed_catalog.json`) is checked in — you do not need to re-run ingestion to reproduce results. Offer sets and result JSONs are stored on Google Drive, not in git.
+The seed catalog (`data/seed_catalog.json`) is checked in — you do not need to re-run ingestion to reproduce results. Re-running `ingest_kaggle.py` + `clean_catalog.py` will produce a *similar* catalog but not a byte-identical one: an interactive LLM-assisted cleaning pass was applied on top of the rule-based filters during catalog curation, and that pass is not scripted. Treat the committed catalog as the canonical source of truth.
+
+Offer sets (`data/offer_sets/`) are gitignored because they are fully reproducible from the seed catalog via `python -m src.generate_universe` (seeded with `random_seed + i`, so output is byte-identical given the committed catalog).
 
 ## Pipeline
 

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "shopping_session_backpacks",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_095",
+      "prod_backpacks_171",
+      "prod_backpacks_174",
+      "prod_backpacks_167",
+      "prod_backpacks_004"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The search results are significantly diluted with non-backpack items such as titanium pots, camping towels, and stadium chairs, which makes for a frustrating shopping experience. Among the actual backpacks presented, the options are either extremely niche (such as the disc golf bag or the hunting blind bag) or specialized for specific activities (like the waterproof dry bag or the hydration pack). The more general-purpose tactical day pack is primarily available in camouflage, which doesn't fit my personal style for a daily-use backpack. Given the lack of a high-quality, versatile hiking or commuter pack in this specific feed, I have decided not to make a purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_326.json",
+    "offer_set_id": "backpacks_326",
+    "timestamp": 1775597073,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

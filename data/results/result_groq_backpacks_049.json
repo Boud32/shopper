@@ -1,0 +1,23 @@
+{
+  "experiment_id": "backpacks_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_048",
+      "prod_backpacks_169",
+      "prod_backpacks_026",
+      "prod_backpacks_192",
+      "prod_backpacks_067"
+    ],
+    "final_choice": "prod_backpacks_048",
+    "reasoning_trace": "Selected products based on high ratings, relevant features for backpacks such as insulation, water resistance, and durability. The final choice, prod_backpacks_048, is a cooler backpack with a high rating of 4.5, 181 reviews, and a low price of $20.99, making it an attractive option for customers looking for a budget-friendly and functional backpack."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_049.json",
+    "offer_set_id": "backpacks_049",
+    "timestamp": 1774974402,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

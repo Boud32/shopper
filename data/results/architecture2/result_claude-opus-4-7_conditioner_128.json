@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 28,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_128.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_097",
+      "prod_conditioner_170",
+      "prod_conditioner_023",
+      "prod_conditioner_119"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Garnier Whole Blends 2-count at $15.98 with 4.7/8445 reviews is the best mass-brand value with exceptional social proof."
+  }
+}

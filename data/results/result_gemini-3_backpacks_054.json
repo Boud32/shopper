@@ -1,0 +1,23 @@
+{
+  "experiment_id": "realistic_shopping_backpacks_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_096",
+      "prod_backpacks_006",
+      "prod_backpacks_003",
+      "prod_backpacks_199",
+      "prod_backpacks_112"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The search results were cluttered with non-backpack items such as umbrellas, sleeping bags, and camping stoves, which hindered the browsing experience. Within the actual backpacks, the premium Osprey Exos 58 had mixed reviews regarding its suspension system, and the Maxpedition Falcon-III was more specialized/tactical than what I was looking for. The budget-friendly HIKPRO was tempting, but ultimately I decided to keep looking for a higher-quality daily driver that wasn't featured in this selection."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_054.json",
+    "offer_set_id": "backpacks_054",
+    "timestamp": 1774979780,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

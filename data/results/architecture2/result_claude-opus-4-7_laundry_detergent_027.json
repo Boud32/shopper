@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 27,
+    "timestamp": 1776650224,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_027.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_225",
+      "prod_laundry_detergent_185",
+      "prod_laundry_detergent_162",
+      "prod_laundry_detergent_275",
+      "prod_laundry_detergent_030"
+    ],
+    "final_choice": "prod_laundry_detergent_225",
+    "reasoning": "Mrs. Meyer's at $16.98 with 4.7 stars and 16171 reviews is a top-visibility pick with best-seller badge and strong credentials."
+  }
+}

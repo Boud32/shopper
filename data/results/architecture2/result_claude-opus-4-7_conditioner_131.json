@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 31,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_131.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_196",
+      "prod_conditioner_241",
+      "prod_conditioner_290",
+      "prod_conditioner_256",
+      "prod_conditioner_002"
+    ],
+    "final_choice": "prod_conditioner_196",
+    "reasoning": "Maui Moisture Coconut Milk at $8 with 4.5/3255 reviews is a strongly reviewed mass-brand value at a visible position."
+  }
+}

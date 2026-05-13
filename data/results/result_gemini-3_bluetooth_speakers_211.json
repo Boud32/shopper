@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_session",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_105",
+      "prod_bluetooth_speakers_049"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was looking for a high-quality speaker for home use, but the options provided were inconsistent. While the Sony SRS-XB43 (prod_bluetooth_speakers_181) is a top-rated portable speaker, my preference was for a more stationary high-fidelity system. I considered the Sony SRS-RA3000, but reviews mentioned significant issues with its app functionality. The Audio Pro Drumfire was a potential candidate but seemed overpriced given its mediocre rating and limited review history. Much of the rest of the feed was cluttered with accessories like charging cables, carrying cases, and obsolete technology like the 30-pin Bose SoundDock, leading me to decide against a purchase in this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_211.json",
+    "offer_set_id": "bluetooth_speakers_211",
+    "timestamp": 1775595098,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

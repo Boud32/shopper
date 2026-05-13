@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_107",
+      "prod_backpacks_064",
+      "prod_backpacks_068",
+      "prod_backpacks_160",
+      "prod_backpacks_089"
+    ],
+    "final_choice": "prod_backpacks_107",
+    "reasoning_trace": "I was looking for a versatile and durable backpack suitable for outdoor or tactical use. My consideration set included the Seibertron Falcon (37L tactical), the Warriors tactical pack, the large 70L High Sierra hiking pack, the FISKINER fishing backpack, and the MOSISO sling bag. I ultimately chose the Seibertron Falcon (prod_backpacks_107) because it offers the best balance of capacity and proven reliability, supported by nearly 3,000 reviews and a 4.6 rating. The Warriors pack (prod_backpacks_064) was tempting due to its price and perfect rating, but the small number of reviews made it feel like a riskier choice compared to the Seibertron. The High Sierra was a bit too large and expensive for general use, while the others were too specialized."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_460.json",
+    "offer_set_id": "backpacks_460",
+    "timestamp": 1775599342,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

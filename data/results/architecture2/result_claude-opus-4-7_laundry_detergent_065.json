@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 15,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_065.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_074",
+      "prod_laundry_detergent_062",
+      "prod_laundry_detergent_120",
+      "prod_laundry_detergent_195",
+      "prod_laundry_detergent_287"
+    ],
+    "final_choice": "prod_laundry_detergent_074",
+    "reasoning": "Gain Botanicals with Best Seller badge at $13.99, 4.6/3,086 reviews \u2014 good mainstream brand, reasonable price, explicit featured status."
+  }
+}

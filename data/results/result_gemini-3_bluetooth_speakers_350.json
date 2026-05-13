@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_021",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_158",
+      "prod_bluetooth_speakers_061"
+    ],
+    "final_choice": null,
+    "reasoning_trace": "The search results were heavily cluttered with accessories (cases, covers, and cables) and outdated technology, such as an iPod dock with a 30-pin connector. While the consideration set included high-quality options like the Harman Kardon Onyx Studio 6 and the Audio Pro Addon C10 MKII, the prevalence of non-speaker items and redundant accessories made the browsing experience feel inefficient. Given that 30% of sessions typically end in no purchase, and the search feed felt low-quality for modern hardware needs, I decided not to make a purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_350.json",
+    "offer_set_id": "bluetooth_speakers_350",
+    "timestamp": 1775597661,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

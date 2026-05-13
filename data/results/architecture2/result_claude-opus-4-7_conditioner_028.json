@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 28,
+    "timestamp": 1776689265,
+    "source_batch": "data/offer_sets/conditioner/conditioner_028.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_196",
+      "prod_conditioner_170",
+      "prod_conditioner_290",
+      "prod_conditioner_026",
+      "prod_conditioner_147"
+    ],
+    "final_choice": "prod_conditioner_196",
+    "reasoning": "Maui Moisture with overall pick badge at $8 with 4.5 stars and 3255 reviews is clearly the strongest value at a top position."
+  }
+}

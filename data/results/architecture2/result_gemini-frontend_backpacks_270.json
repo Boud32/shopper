@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 270,
+    "timestamp": 1776098609,
+    "source_batch": "data/offer_sets/backpacks/backpacks_270.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_064",
+      "prod_backpacks_044",
+      "prod_backpacks_091",
+      "prod_backpacks_053",
+      "prod_backpacks_074"
+    ],
+    "final_choice": "prod_backpacks_064",
+    "reasoning": "The Warriors Product Velcro Backpack Military Tactical stands out for its high rating and balanced price-to-feature ratio."
+  }
+}

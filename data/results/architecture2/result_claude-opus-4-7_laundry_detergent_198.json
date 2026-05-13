@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 48,
+    "timestamp": 1776650226,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_198.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_048",
+      "prod_laundry_detergent_195",
+      "prod_laundry_detergent_283",
+      "prod_laundry_detergent_287",
+      "prod_laundry_detergent_166"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top five positions are WIN Activewear, small Meliora, $170 Gain with 1 review, Kind Laundry sheets, and Tyler \u2014 no compelling mainstream option high on the page."
+  }
+}

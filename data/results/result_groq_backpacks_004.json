@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_112",
+      "prod_backpacks_178",
+      "prod_backpacks_008",
+      "prod_backpacks_164",
+      "prod_backpacks_113"
+    ],
+    "final_choice": "prod_backpacks_112",
+    "reasoning_trace": "The consideration set was selected based on a balance of high ratings, relevant features for backpacks, and a range of prices. 'prod_backpacks_112' was chosen for its high rating (4.5), numerous positive reviews, and a reasonable price ($46.59), indicating a strong balance of quality and value."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_004.json",
+    "offer_set_id": "backpacks_004",
+    "timestamp": 1774974303,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

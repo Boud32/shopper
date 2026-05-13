@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 32,
+    "timestamp": 1776650226,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_182.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_225",
+      "prod_laundry_detergent_045",
+      "prod_laundry_detergent_189",
+      "prod_laundry_detergent_269",
+      "prod_laundry_detergent_030"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top-of-page has a 3.6\u2605 AspenClean PICK and a 3.6\u2605 YouClean sheets \u2014 the visibility-weighted pool is too weak to buy confidently."
+  }
+}

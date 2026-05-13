@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 6,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_106.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_066",
+      "prod_conditioner_026",
+      "prod_conditioner_011"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle bundle at $17.99 with 4.7/5134 reviews offers shampoo, conditioner, and deep treatment from a trusted mass brand."
+  }
+}

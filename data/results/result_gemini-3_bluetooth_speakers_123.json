@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_020",
+      "prod_bluetooth_speakers_037"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was browsing for a reliable portable Bluetooth speaker, but the product feed was heavily saturated with accessories such as replacement charging cables and storage cases rather than the speakers themselves. Among the available speakers, the JBL Go 3 (prod_bluetooth_speakers_129) is a reputable choice, but a review mentioned disappointing battery life for its price. The INSMY (prod_bluetooth_speakers_128) offered high battery life but had some concerning reviews regarding long-term reliability. The Edifier (prod_bluetooth_speakers_037) was high quality but too expensive and not portable enough for my current needs. Due to the high volume of irrelevant accessory listings and the lack of a standout speaker that met all my criteria for portability, battery life, and brand trust, I have decided not to make a purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_123.json",
+    "offer_set_id": "bluetooth_speakers_123",
+    "timestamp": 1775593750,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

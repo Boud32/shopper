@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_purchase",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_037",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_040"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "During this session, I evaluated a mix of ultra-portable and home audio Bluetooth speakers. The JBL Go 3 and Clip 3 stood out for their exceptional portability and high ratings (4.7), but they are primarily designed for outdoor/travel use. My secondary interest was in a higher-fidelity home setup like the Edifier S350DB, which has outstanding reviews, but its $399.99 price point is too steep for a casual purchase today. The INSMY Retro and Altec Lansing HydraMotion offer decent value in the mid-range, but reviews regarding volume limits and bass depth left me hesitant. Since none of the portable units were an immediate necessity and the premium home system was outside my budget, I decided not to make a purchase at this time."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_282.json",
+    "offer_set_id": "bluetooth_speakers_282",
+    "timestamp": 1775596399,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 29,
+    "timestamp": 1776650224,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_029.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_293",
+      "prod_laundry_detergent_268",
+      "prod_laundry_detergent_265",
+      "prod_laundry_detergent_077"
+    ],
+    "final_choice": "prod_laundry_detergent_101",
+    "reasoning": "Tide Hygienic Clean PODS at $16.99 with 4.8 stars and 12267 reviews is a genuine standout despite its mid-page position."
+  }
+}

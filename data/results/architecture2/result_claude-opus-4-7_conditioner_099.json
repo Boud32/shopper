@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 49,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_099.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_199",
+      "prod_conditioner_002",
+      "prod_conditioner_009",
+      "prod_conditioner_003",
+      "prod_conditioner_171"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions dominated by sponsored, niche, and low-review options; nothing clearly dominant enough to prefer over a different search."
+  }
+}

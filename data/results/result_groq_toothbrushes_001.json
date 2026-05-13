@@ -1,0 +1,23 @@
+{
+  "experiment_id": "toothbrush_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_019",
+      "prod_toothbrushes_076",
+      "prod_toothbrushes_018",
+      "prod_toothbrushes_079",
+      "prod_toothbrushes_188"
+    ],
+    "final_choice": "prod_toothbrushes_019",
+    "reasoning_trace": "The customer is looking for toothbrushes, and the consideration set includes a variety of options. The final choice, 'prod_toothbrushes_019', is the Curaprox Soft Toothbrush CS 1560, which has a high rating of 4.7 and over 1100 reviews, indicating a high level of customer satisfaction. It is also tagged as the 'Overall Pick', suggesting that it is a top choice in the category. The other options in the consideration set are also highly rated, but 'prod_toothbrushes_019' stands out for its exceptional customer reviews and overall pick designation."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_001.json",
+    "offer_set_id": "toothbrushes_001",
+    "timestamp": 1772653499,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

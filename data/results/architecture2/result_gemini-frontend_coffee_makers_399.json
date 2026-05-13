@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 399,
+    "timestamp": 1776097305,
+    "source_batch": "data/offer_sets/coffee_makers/coffee_makers_399.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_coffee_makers_113",
+      "prod_coffee_makers_098",
+      "prod_coffee_makers_153",
+      "prod_coffee_makers_103",
+      "prod_coffee_makers_083"
+    ],
+    "final_choice": "prod_coffee_makers_113",
+    "reasoning": "This product represents the most balanced choice in the set, offering reliable performance at a competitive price of $138.23."
+  }
+}

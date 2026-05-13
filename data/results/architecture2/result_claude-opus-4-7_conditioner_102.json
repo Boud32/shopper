@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 2,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_102.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_011",
+      "prod_conditioner_023",
+      "prod_conditioner_298",
+      "prod_conditioner_074"
+    ],
+    "final_choice": "prod_conditioner_170",
+    "reasoning": "Dove Nutritive Solutions 4-count at $23.95 with 4.7/1192 reviews is a trusted brand offering excellent per-bottle value."
+  }
+}

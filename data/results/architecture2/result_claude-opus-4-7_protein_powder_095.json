@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 45,
+    "timestamp": 1776640082,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_095.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_156",
+      "prod_protein_powder_109",
+      "prod_protein_powder_063",
+      "prod_protein_powder_169",
+      "prod_protein_powder_059"
+    ],
+    "final_choice": "prod_protein_powder_156",
+    "reasoning": "BSN Syntha-6 Edge at $42.99 with 4.7 stars/8,950 reviews is an excellent blend protein with a fair price, better placed than original Syntha-6 here."
+  }
+}

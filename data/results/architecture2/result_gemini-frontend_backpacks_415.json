@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 415,
+    "timestamp": 1776098609,
+    "source_batch": "data/offer_sets/backpacks/backpacks_415.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_122",
+      "prod_backpacks_096",
+      "prod_backpacks_173",
+      "prod_backpacks_050",
+      "prod_backpacks_119"
+    ],
+    "final_choice": "prod_backpacks_122",
+    "reasoning": "The DeMarini Voodoo OG Baseball Backpack stands out for its high rating and balanced price-to-feature ratio."
+  }
+}

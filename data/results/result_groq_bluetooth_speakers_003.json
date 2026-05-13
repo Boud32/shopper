@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_placeholder",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_020",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_181"
+    ],
+    "final_choice": "prod_bluetooth_speakers_008",
+    "reasoning_trace": "The consideration set was chosen based on a balance of high ratings, low prices, and desirable features such as waterproofing and long playtime. The final choice, prod_bluetooth_speakers_008, was selected due to its high rating of 4.6, its relatively low price of $89.99, and its impressive features including 24W impressive sound, booming bass, and 15 hours of playtime."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_003.json",
+    "offer_set_id": "bluetooth_speakers_003",
+    "timestamp": 1774973620,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

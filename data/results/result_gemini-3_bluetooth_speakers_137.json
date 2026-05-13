@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_168",
+      "prod_bluetooth_speakers_193",
+      "prod_bluetooth_speakers_019"
+    ],
+    "final_choice": "prod_bluetooth_speakers_120",
+    "reasoning_trace": "I evaluated several speakers ranging from budget options to premium audiophile devices. The JBL Charge 5 stood out due to its exceptionally high rating (4.8) from a large volume of reviews (over 16,000), 20-hour battery life, and IP67 waterproof rating, making it the most versatile and reliable choice in the set. While the B&O Beosound A1 is a high-quality premium alternative, the JBL offers a better balance of performance, durability, and price for general portable use. The other options in the consideration set offered good value or specific features like integrated lighting, but the JBL's reputation for sound quality and battery longevity ultimately drove the decision."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_137.json",
+    "offer_set_id": "bluetooth_speakers_137",
+    "timestamp": 1775593927,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 383,
+    "timestamp": 1776097305,
+    "source_batch": "data/offer_sets/coffee_makers/coffee_makers_383.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_coffee_makers_078",
+      "prod_coffee_makers_130",
+      "prod_coffee_makers_120",
+      "prod_coffee_makers_044",
+      "prod_coffee_makers_013"
+    ],
+    "final_choice": "prod_coffee_makers_078",
+    "reasoning": "The GROSCHE Milano Stovetop Espresso Maker Moka Pot 3 ... is a top-rated bestseller with 19828 reviews, offering the best value for its price of $25.6."
+  }
+}

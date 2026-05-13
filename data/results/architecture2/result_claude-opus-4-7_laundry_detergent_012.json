@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 12,
+    "timestamp": 1776650224,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_012.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_062",
+      "prod_laundry_detergent_042",
+      "prod_laundry_detergent_268",
+      "prod_laundry_detergent_256"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top 10 positions are dominated by niche, poorly-rated, or overpriced items, with the only strong options buried near the bottom."
+  }
+}

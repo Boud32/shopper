@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_173",
+      "prod_backpacks_107",
+      "prod_backpacks_057",
+      "prod_backpacks_150",
+      "prod_backpacks_051"
+    ],
+    "final_choice": "prod_backpacks_057",
+    "reasoning_trace": "I evaluated several types of backpacks including a lightweight daypack (ZOMAKE), tactical rucksacks (Seibertron and QT&QY), a hydration-specific pack (N NEVO RHINO), and a travel sling (MOSISO). I narrowed my search to larger, versatile packs that offer durability and organization. The QT&QY 45L Tactical Backpack (prod_backpacks_057) stood out because it has an impressive 4.7 rating across over 6,000 reviews, indicating high customer satisfaction and build quality for the price ($39.99). Compared to the Seibertron ($59.99) and the Mardingtop ($104.99), it offers better value for the capacity. While the ZOMAKE is much cheaper, it is designed for light use, whereas the QT&QY appears better suited for more rugged hiking or traveling needs."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_143.json",
+    "offer_set_id": "backpacks_143",
+    "timestamp": 1775593511,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

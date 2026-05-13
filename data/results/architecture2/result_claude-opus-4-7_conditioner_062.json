@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 12,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_062.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_040",
+      "prod_conditioner_026",
+      "prod_conditioner_245",
+      "prod_conditioner_005",
+      "prod_conditioner_015"
+    ],
+    "final_choice": "prod_conditioner_040",
+    "reasoning": "Alfaparf Milano leave-in at $22 with 4.6/2,624 reviews is a well-positioned premium product at a reasonable price."
+  }
+}

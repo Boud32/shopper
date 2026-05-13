@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_113",
+      "prod_bluetooth_speakers_020"
+    ],
+    "final_choice": "prod_bluetooth_speakers_166",
+    "reasoning_trace": "I filtered out the numerous accessories like cases, straps, and replacement batteries to focus on the actual speakers. My consideration set included the top-rated JBL Flip 5, the high-power BOGASING M4, the well-reviewed Raymate, the solar-powered Goal Zero for outdoor versatility, and the budget-friendly Comiso. I ultimately chose the JBL Flip 5 (prod_bluetooth_speakers_166) because its reputation for sound quality and durability is backed by an exceptionally high number of positive reviews (4.8 rating with over 68,000 counts), making it the most reliable investment for long-term use."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_109.json",
+    "offer_set_id": "bluetooth_speakers_109",
+    "timestamp": 1775593515,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

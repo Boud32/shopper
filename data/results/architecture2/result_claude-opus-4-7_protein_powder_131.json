@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 31,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_131.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_063",
+      "prod_protein_powder_052",
+      "prod_protein_powder_191",
+      "prod_protein_powder_072",
+      "prod_protein_powder_107"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top two positions are weak (3.8\u2605, 4.6\u2605 on only 644 reviews at $84) and no whey or protein choice dominates on both visibility and value."
+  }
+}

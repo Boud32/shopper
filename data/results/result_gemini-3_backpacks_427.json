@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping_simulation",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_107",
+      "prod_backpacks_003",
+      "prod_backpacks_099",
+      "prod_backpacks_156",
+      "prod_backpacks_072"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was looking for a standard, durable everyday daypack. The product feed was heavily cluttered with irrelevant items like sleeping pads, tents, blankets, and even a paddle board. Within the actual backpacks provided, most were highly specialized for specific activities (tactical, baseball, hydration, or skiing) or were lightweight, 'packable' versions that lack the structure and padding needed for a primary backpack. The Osprey is a high-quality option but is too technical and expensive for a general-purpose need. Consequently, I did not find a product that met my specific requirements for a sturdy, standard daily backpack."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_427.json",
+    "offer_set_id": "backpacks_427",
+    "timestamp": 1775598711,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

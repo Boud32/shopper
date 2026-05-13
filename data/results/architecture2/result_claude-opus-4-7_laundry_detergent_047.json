@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 47,
+    "timestamp": 1776650224,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_047.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_180",
+      "prod_laundry_detergent_062",
+      "prod_laundry_detergent_030",
+      "prod_laundry_detergent_034",
+      "prod_laundry_detergent_042"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by overpriced or niche products; strong mainstream picks like Persil and Tide Powder are all buried deep."
+  }
+}

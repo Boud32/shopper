@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "provider": "gemini-fast",
+    "model": "gemini-3-fast",
+    "architecture": "frontend",
+    "session_position": 23,
+    "timestamp": 1776109944,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_023.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_192",
+      "prod_bluetooth_speakers_045",
+      "prod_bluetooth_speakers_040"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "For a simple, high-quality, and portable speaker, the JBL Clip 3 is an unbeatable value."
+  }
+}

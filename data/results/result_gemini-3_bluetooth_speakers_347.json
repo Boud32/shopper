@@ -1,0 +1,23 @@
+{
+  "experiment_id": "bluetooth_speaker_shopping_2024",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_192",
+      "prod_bluetooth_speakers_049"
+    ],
+    "final_choice": "prod_bluetooth_speakers_013",
+    "reasoning_trace": "The JBL Charge 4 (Renewed) stands out as the best combination of audio performance and value. While it is a refurbished unit, the 4.7-star rating across over 1,600 reviews suggests high reliability. In comparison, the Sony SRS-RA3000 is significantly more expensive with a lower rating, and the budget options like the EWA or INSMY portable models lack the power and battery life of the Charge 4. The retro-styled INSMY is visually appealing but potentially prioritizes form over audio function."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_347.json",
+    "offer_set_id": "bluetooth_speakers_347",
+    "timestamp": 1775597624,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

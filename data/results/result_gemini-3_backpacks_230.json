@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_050",
+      "prod_backpacks_096",
+      "prod_backpacks_140",
+      "prod_backpacks_006",
+      "prod_backpacks_150"
+    ],
+    "final_choice": "prod_backpacks_006",
+    "reasoning_trace": "I am looking for a reliable and lightweight daypack for traveling and light hiking. I narrowed my consideration set down to a mix of heavy-duty tactical bags, hydration packs, and packable daypacks. The Maxpedition Falcon-III is clearly the highest quality but is quite expensive for my current needs. The G4Free tactical bag offers great storage but had some concerns regarding long-term strap durability in the reviews. The Nicgid Sling is a great choice for EDC but a bit small for a day trip. Ultimately, I selected the HIKPRO 20L Packable Backpack because it has an exceptional rating of 4.7 with over 2,800 reviews. Its combination of durability, weight, and positive feedback regarding travel to places like Japan or the Grand Canyon makes it the best value and most versatile choice for my requirements."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_230.json",
+    "offer_set_id": "backpacks_230",
+    "timestamp": 1775595497,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

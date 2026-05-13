@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 42,
+    "timestamp": 1776640082,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_092.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_041",
+      "prod_protein_powder_158",
+      "prod_protein_powder_169",
+      "prod_protein_powder_102",
+      "prod_protein_powder_181"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (Huge Supplements 174 reviews, Bob's Red Mill small pack, collagens), and the best whey options are buried deep in the listing."
+  }
+}

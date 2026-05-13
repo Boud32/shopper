@@ -1,0 +1,23 @@
+{
+  "experiment_id": "mechanical_keyboards",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_177",
+      "prod_mechanical_keyboards_130",
+      "prod_mechanical_keyboards_009",
+      "prod_mechanical_keyboards_096",
+      "prod_mechanical_keyboards_017"
+    ],
+    "final_choice": "prod_mechanical_keyboards_177",
+    "reasoning_trace": "The consideration set was chosen based on a balance of high ratings, relevance to mechanical keyboards, and positive reviews. 'prod_mechanical_keyboards_177' (YMDK Idobao x ID75) was selected as the final choice due to its high rating (4.5), positive reviews mentioning excellent build quality and compatibility with VIA configurator, and its relevance as a mechanical keyboard kit. Other products were either keycap sets, switches, or cables, which, although relevant to mechanical keyboards, do not constitute a complete keyboard solution like 'prod_mechanical_keyboards_177' does."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_246.json",
+    "offer_set_id": "mechanical_keyboards_246",
+    "timestamp": 1772655056,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

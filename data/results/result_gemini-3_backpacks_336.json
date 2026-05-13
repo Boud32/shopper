@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_v1",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_006",
+      "prod_backpacks_194",
+      "prod_backpacks_196",
+      "prod_backpacks_128",
+      "prod_backpacks_095"
+    ],
+    "final_choice": "prod_backpacks_006",
+    "reasoning_trace": "The product feed is quite cluttered with items that are not actually backpacks (pillows, towels, stoves, hammocks). Within the actual backpack offerings, I identified five distinct options for my consideration set: a packable daypack, a cooler backpack, a hydration pack, a mesh backpack, and a specialized hunting bag. The HIKPRO 20L (prod_backpacks_006) was the clear winner due to its exceptionally high rating (4.7), high review count, and its versatile, packable design at a very competitive price point ($17.99). Other options like the hydration pack and cooler backpack were more niche, making the HIKPRO the most attractive general-purpose choice."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_336.json",
+    "offer_set_id": "backpacks_336",
+    "timestamp": 1775597242,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_smartwatches",
+  "decision": {
+    "consideration_set": [
+      "prod_smartwatches_012",
+      "prod_smartwatches_017",
+      "prod_smartwatches_114",
+      "prod_smartwatches_156",
+      "prod_smartwatches_039"
+    ],
+    "final_choice": "prod_smartwatches_012",
+    "reasoning_trace": "The final choice, prod_smartwatches_012 (Withings Scanwatch), is selected due to its high rating (4.2), large number of reviews (1053), and comprehensive features such as connected GPS, heart rate monitor, sleep monitor, and smart notifications. Additionally, it has a long battery life of up to 30 days and is compatible with both Android and iOS. The consideration set includes other high-rated products with various features and price points, but the Withings Scanwatch offers a great balance of functionality, durability, and style."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/smartwatches/smartwatches_479.json",
+    "offer_set_id": "smartwatches_479",
+    "timestamp": 1772826216,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

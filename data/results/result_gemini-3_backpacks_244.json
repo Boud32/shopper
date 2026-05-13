@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_194",
+      "prod_backpacks_150",
+      "prod_backpacks_184",
+      "prod_backpacks_023",
+      "prod_backpacks_089"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several backpacks across different styles, including cooling, hydration, laptop, and vintage canvas designs. While the prices were attractive, there were significant quality concerns in the reviews for my top candidates: the KAUKKO laptop bag reported a strap breaking within months, the N NEVO RHINO hydration pack had a bladder failure and distracting noise issues, and the Fox Outdoor rucksack had complaints about wonky buckles. The specialty bags (cooler and sling) are well-rated but didn't meet my need for a primary, reliable backpack. Given these reliability issues, I decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_244.json",
+    "offer_set_id": "backpacks_244",
+    "timestamp": 1775595700,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

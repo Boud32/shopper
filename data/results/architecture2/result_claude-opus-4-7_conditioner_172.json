@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 22,
+    "timestamp": 1776689267,
+    "source_batch": "data/offer_sets/conditioner/conditioner_172.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_110",
+      "prod_conditioner_194",
+      "prod_conditioner_023",
+      "prod_conditioner_097",
+      "prod_conditioner_014"
+    ],
+    "final_choice": "prod_conditioner_110",
+    "reasoning": "HASK Coconut Monoi at $29.95 with 4.7\u2605/217 reviews carries the overall-pick badge at position 2, a strong quality signal from a recognizable brand."
+  }
+}

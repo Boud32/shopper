@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_107",
+      "prod_backpacks_102",
+      "prod_backpacks_068",
+      "prod_backpacks_043",
+      "prod_backpacks_167"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The search results for backpacks were cluttered with unrelated items such as microfiber towels, sleeping pads, rifle rest bags, and dog shirts. Among the actual backpacks, the High Sierra 70L was much larger than needed for a standard daypack and had reviews mentioning back pain. The Seibertron Falcon and KAILAS models were interesting, but the Seibertron's tactical look wasn't preferred and the KAILAS is a relatively unknown brand with very few reviews. The sling bags were too small for the user's needs. Given the disjointed product feed and mixed reviews on comfort for the larger packs, I decided not to make a purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_456.json",
+    "offer_set_id": "backpacks_456",
+    "timestamp": 1775599265,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

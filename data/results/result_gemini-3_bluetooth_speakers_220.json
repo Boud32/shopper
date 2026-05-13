@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_003",
+      "prod_bluetooth_speakers_002"
+    ],
+    "final_choice": null,
+    "reasoning_trace": "My goal was to find a reliable, portable Bluetooth speaker with strong battery life and brand trust. I evaluated a variety of options. The Sony SRS-XB43 is high quality but too heavy for easy travel and relatively expensive. The Ultimate Ears Megablast is also high-priced and has several reviews highlighting software issues and poor Alexa integration. Within the more portable segment, the JBL Go 3 is well-rated but its 5-hour battery life is insufficient for my needs. The Raymate offers interesting specs for the price, but as a lesser-known brand, I am hesitant about its actual performance and durability. Lastly, the JBL Clip 3 is a renewed product, and I would prefer a new unit to ensure the battery is at full health. Since none of the speakers perfectly balanced my requirements for brand reliability, battery life, and portability, I decided not to make a purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_220.json",
+    "offer_set_id": "bluetooth_speakers_220",
+    "timestamp": 1775595397,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

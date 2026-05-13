@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_sim_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_177"
+    ],
+    "final_choice": "prod_bluetooth_speakers_181",
+    "reasoning_trace": "I am looking for a high-quality portable speaker with strong bass and durability for outdoor and garage use. My consideration set includes top-tier options from Sony, Bose, and JBL, as well as well-reviewed alternatives like EDUPLINK and TENMIYA. The Sony SRS-XB43 (prod_bluetooth_speakers_181) is my final choice because of its IP67 rating, excellent reputation for bass output (Extra Bass line), and positive feedback regarding its 24-hour battery life. While the Bose is a solid compact choice and the JBL offers good value as a renewed item, the Sony provides the power and ruggedness I need for larger spaces."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_235.json",
+    "offer_set_id": "bluetooth_speakers_235",
+    "timestamp": 1775595630,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_128"
+    ],
+    "final_choice": null,
+    "reasoning_trace": "In this shopping session, I evaluated a variety of Bluetooth speakers ranging from budget-friendly options to premium audiophile equipment. I included the EDUPLINK and INSMY speakers in my consideration set because they offer high ratings and waterproof features at a low price point, but I remained skeptical of their actual audio fidelity based on mixed critical reviews. The JBL Clip 3 is a highly reliable choice, but the Dusty Pink color currently available did not match my aesthetic preference. I also considered the Sony SRS-XB43 and the Bang & Olufsen Beosound A1, which are superior in sound quality, but their price tags (over $150 and $270 respectively) were higher than I intended to spend for a portable unit today. Because I couldn't find a product that perfectly balanced brand trust, color preference, and price, I have decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_273.json",
+    "offer_set_id": "bluetooth_speakers_273",
+    "timestamp": 1775596261,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

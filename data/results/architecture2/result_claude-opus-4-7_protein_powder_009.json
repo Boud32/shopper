@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "",
+    "architecture": "frontend",
+    "session_position": 9,
+    "timestamp": 1776377218,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_009.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_156",
+      "prod_protein_powder_130",
+      "prod_protein_powder_128",
+      "prod_protein_powder_132",
+      "prod_protein_powder_092"
+    ],
+    "final_choice": "prod_protein_powder_156",
+    "reasoning": "BSN SYNTHA-6 Edge at $42.99 with 4.7 stars and 8,950 reviews offers a hydrolyzed whey blend with proven track record."
+  }
+}

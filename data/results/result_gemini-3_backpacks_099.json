@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_096",
+      "prod_backpacks_043",
+      "prod_backpacks_099",
+      "prod_backpacks_008",
+      "prod_backpacks_073"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The browsing session for backpacks yielded a highly fragmented product feed. A significant portion of the results included niche items such as microfiber towels, paddleboards, stadium chairs, and specialized ski/fishing gear rather than standard daypacks. Within the actual backpack category, the options were either very expensive and tactical (Maxpedition), lacked a sufficient volume of social proof (KAILAS), or were designed as 'packable' secondary bags (ZOMAKE). Finding the signal-to-noise ratio too low and lacking a clear, high-quality mid-range daily-use option, the decision is to continue searching elsewhere."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_099.json",
+    "offer_set_id": "backpacks_099",
+    "timestamp": 1775591882,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

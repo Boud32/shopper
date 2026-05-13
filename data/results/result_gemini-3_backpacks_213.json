@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping_simulation",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_171",
+      "prod_backpacks_164",
+      "prod_backpacks_125",
+      "prod_backpacks_150",
+      "prod_backpacks_051"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The shopper evaluated five primary backpack options ranging from budget slings to premium technical gear. While the W WINTMING and N NEVO RHINO tactical bags were functional, multiple reviews cited durability issues such as broken buckles and failing hydration bladders. The USWE Hajker 30L is a high-quality waterproof option, but its price point of $207.47 was significantly higher than the alternatives. The Explorer Mossy Oak bag was well-rated but primarily targeted toward children or school use. Given the specific durability concerns on the mid-range models and the high cost of the premium unit, the shopper decided that none of the current options met the desired balance of quality and price."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_213.json",
+    "offer_set_id": "backpacks_213",
+    "timestamp": 1775594508,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

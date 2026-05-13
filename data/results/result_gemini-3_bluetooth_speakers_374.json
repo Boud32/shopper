@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_040"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was looking for a high-quality portable speaker, and while the Harman Kardon Onyx Studio 6 and the Bang & Olufsen Beosound A1 are top-tier in terms of audio performance, their price points ($160-$279) are higher than I intended to spend today. The JBL Charge 4 is reasonably priced at $89.95, but it is a renewed product, and I'm specifically looking for a new unit for battery reliability. The more affordable options like Raymate and Altec Lansing have decent reviews but lack the brand reputation for audio fidelity I desire. Additionally, a large portion of the current feed consists of accessories (cases, cables, replacement batteries) rather than the speakers themselves, leading me to decide against a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_374.json",
+    "offer_set_id": "bluetooth_speakers_374",
+    "timestamp": 1775598057,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

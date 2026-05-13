@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_25",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_043",
+      "prod_backpacks_068",
+      "prod_backpacks_125",
+      "prod_backpacks_006",
+      "prod_backpacks_069"
+    ],
+    "final_choice": "prod_backpacks_043",
+    "reasoning_trace": "In this shopping session, I am looking for a functional and durable backpack suitable for day hiking. I filtered the product feed to find legitimate backpacks rather than camping accessories. My consideration set includes a wide range of options: a high-end technical winter pack (USWE 30L), a large expedition-sized pack (High Sierra 70L), a budget-friendly packable daypack (HIKPRO 20L), a basic hydration-focused pack (UDIHEDA), and a specialized hiking daypack (KAILAS 28L). I ultimately decided to purchase the KAILAS 28L because it offers professional features like an internal frame and an included rain cover for a mid-range price. The reviews specifically mentioned it as a high-quality 'dupe' for premium brands, providing high value for the cost compared to the more expensive USWE or the less structured HIKPRO."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_239.json",
+    "offer_set_id": "backpacks_239",
+    "timestamp": 1775595632,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

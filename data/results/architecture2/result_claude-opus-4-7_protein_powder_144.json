@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 44,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_144.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_014",
+      "prod_protein_powder_181",
+      "prod_protein_powder_040",
+      "prod_protein_powder_155",
+      "prod_protein_powder_064"
+    ],
+    "final_choice": "prod_protein_powder_014",
+    "reasoning": "PEScience Select at $69.99 with 4.5\u2605 and 10,521 reviews offers 55 servings of low-carb, keto-friendly whey \u2014 strong value and social proof."
+  }
+}

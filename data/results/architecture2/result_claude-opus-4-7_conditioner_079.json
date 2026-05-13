@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 29,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_079.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_009",
+      "prod_conditioner_140",
+      "prod_conditioner_031",
+      "prod_conditioner_190"
+    ],
+    "final_choice": "prod_conditioner_023",
+    "reasoning": "Redken Acidic Bonding at pos 7 with 4.5/7,938 reviews is a trusted damage-repair option with exceptional social proof."
+  }
+}

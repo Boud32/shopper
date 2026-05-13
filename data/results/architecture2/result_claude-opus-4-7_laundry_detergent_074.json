@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 24,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_074.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_034",
+      "prod_laundry_detergent_024",
+      "prod_laundry_detergent_257",
+      "prod_laundry_detergent_215",
+      "prod_laundry_detergent_030"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top 6 positions are dominated by premium Tyler Candle specialty items and niche or low-rated options; trusted value picks are buried."
+  }
+}

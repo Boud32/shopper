@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_mechanical_keyboards",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_149",
+      "prod_mechanical_keyboards_132",
+      "prod_mechanical_keyboards_083",
+      "prod_mechanical_keyboards_102",
+      "prod_mechanical_keyboards_163"
+    ],
+    "final_choice": "prod_mechanical_keyboards_149",
+    "reasoning_trace": "The final choice, prod_mechanical_keyboards_149, is a Matcha Keycaps Set that fits various mechanical keyboard sizes and has a high rating of 4.6 with 178 reviews. It is also relatively affordable at $21.99. The consideration set includes a mix of keycap sets and a custom keyboard cable, all with high ratings and positive reviews, to provide the customer with options that meet different needs and budgets."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_030.json",
+    "offer_set_id": "mechanical_keyboards_030",
+    "timestamp": 1772654094,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

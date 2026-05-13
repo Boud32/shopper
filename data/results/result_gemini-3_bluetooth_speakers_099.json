@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_062",
+      "prod_bluetooth_speakers_001"
+    ],
+    "final_choice": "prod_bluetooth_speakers_129",
+    "reasoning_trace": "I evaluated the options focusing on brand reputation, rating quality, and portability. I excluded several products that were actually accessories like cases and charging cables. Within the speakers, the JBL brand stood out for its high ratings. I considered the premium Charge 5 and the budget-friendly Go 3, alongside strong generic competitors like Raymate and EDUPLINK. I ultimately chose the JBL Go 3 because it offers a high rating of 4.7, excellent portability, and IP67 waterproof protection from a trusted audio brand at a very competitive price point."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_099.json",
+    "offer_set_id": "bluetooth_speakers_099",
+    "timestamp": 1775592338,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

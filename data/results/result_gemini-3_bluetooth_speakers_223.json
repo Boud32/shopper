@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_040",
+      "prod_bluetooth_speakers_072",
+      "prod_bluetooth_speakers_193"
+    ],
+    "final_choice": "prod_bluetooth_speakers_008",
+    "reasoning_trace": "I filtered out several items in the feed that were accessories (cases, straps, and chargers) to focus on the actual speakers. My consideration set included a mix of budget-friendly outdoor options like the Altec Lansing and comiso, alongside more powerful units like the HyperGear Beast XL, the premium JBL Charge 5, and the DOSS SoundBox Pro+. While the JBL Charge 5 is highly rated, its $149.95 price tag is steep. The DOSS SoundBox Pro+ offers a high 24W output, impressive battery life, and excellent user reviews for a more moderate price of $89.99, making it the most balanced and appealing choice for a high-quality portable speaker."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_223.json",
+    "offer_set_id": "bluetooth_speakers_223",
+    "timestamp": 1775595440,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

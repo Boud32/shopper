@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_sim_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_096",
+      "prod_backpacks_173",
+      "prod_backpacks_122",
+      "prod_backpacks_073",
+      "prod_backpacks_155"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The product feed for 'Backpacks' was heavily diluted with irrelevant camping and outdoor accessories like towels, pillows, and chairs, which made the browsing experience frustrating. Among the actual backpacks, the options were too polarized: the Maxpedition Falcon-III was high-quality but very expensive ($171), while the ZOMAKE was extremely cheap ($13.99) and lacked the structure for a primary backpack. Other options were too specialized for baseball or cycling. Since no mid-range, versatile everyday backpack was available, I decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_415.json",
+    "offer_set_id": "backpacks_415",
+    "timestamp": 1775598539,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

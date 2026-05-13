@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_009",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_103"
+    ],
+    "final_choice": "prod_bluetooth_speakers_128",
+    "reasoning_trace": "I am looking for a reliable, waterproof portable speaker with high user ratings. My consideration set includes top brands like JBL and Sony, as well as highly-rated budget options. The JBL Go 3 is a solid portable choice, but the INSMY Portable Bluetooth Speaker (prod_bluetooth_speakers_128) offers 20W power, IPX7 waterproofing, and exceptional battery life for just $29.99. With a 4.6 rating from over 6,000 reviews, it provides the best balance of features, performance, and price in this selection."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_245.json",
+    "offer_set_id": "bluetooth_speakers_245",
+    "timestamp": 1775595771,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

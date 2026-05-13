@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 23,
+    "timestamp": 1776650224,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_023.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_034",
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_265",
+      "prod_laundry_detergent_283",
+      "prod_laundry_detergent_048"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The visible top of the page has weak or overpriced options, and no mainstream standout at the top justifies a purchase."
+  }
+}

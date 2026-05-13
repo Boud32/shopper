@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_25",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_057",
+      "prod_backpacks_101",
+      "prod_backpacks_038",
+      "prod_backpacks_194",
+      "prod_backpacks_126"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I am looking for a reliable, high-quality daily backpack. My consideration set includes the QT&QY tactical bag (prod_backpacks_057), the Maxpedition EDC bag (prod_backpacks_038), the FORICH cooler bag (prod_backpacks_194), a red hiking daypack (prod_backpacks_101), and the Sojourner hydration pack (prod_backpacks_126). While the tactical bag (prod_backpacks_057) offers great value, it is too niche for my daily needs. The Maxpedition bag (prod_backpacks_038) is the style I want but feels expensive for its features. The only standard daypack (prod_backpacks_101) has concerning reviews about strap durability. Many other items in the feed were irrelevant (umbrellas, tents, food), so I have decided not to make a purchase during this session until I can find a more durable general-purpose backpack."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_204.json",
+    "offer_set_id": "backpacks_204",
+    "timestamp": 1775594393,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

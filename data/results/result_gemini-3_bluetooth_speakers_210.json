@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_049"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The browsing session revealed a wide range of Bluetooth speakers, but I found a significant gap between the high-end premium models and the budget-tier options. The Sony SRS-XB43 (prod_bluetooth_speakers_181) is clearly the superior product in terms of performance and reliability, but at $156.34, it exceeds my current budget for a portable speaker. The JBL Clip 3 (prod_bluetooth_speakers_147) is excellent for travel, but lacks the wattage for indoor listening. While budget options like Raymate (prod_bluetooth_speakers_153) and INSMY (prod_bluetooth_speakers_128) boast high ratings, their status as lesser-known brands combined with occasional reports of sound distortion or short lifespans makes me hesitant to invest. I was looking for a mid-tier brand-name speaker (like a standard JBL Flip or a larger Bose) in the $70-$100 range with high wattage, which was not represented in this selection. Therefore, I decided against a purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_210.json",
+    "offer_set_id": "bluetooth_speakers_210",
+    "timestamp": 1775595078,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

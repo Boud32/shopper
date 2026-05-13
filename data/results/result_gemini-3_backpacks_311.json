@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_session_225",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_057",
+      "prod_backpacks_107",
+      "prod_backpacks_154",
+      "prod_backpacks_140",
+      "prod_backpacks_199"
+    ],
+    "final_choice": "prod_backpacks_057",
+    "reasoning_trace": "I filtered the list for actual backpacks that met different use cases: high-capacity tactical (QT&QY, Seibertron), insulated (TOURIT), compact sling (NICGID), and waterproof (Piscifun). I narrowed my selection to the QT&QY 45L Military Tactical Backpack because it offers the best value. With over 6,000 reviews and a 4.7 rating, it is highly social-proofed. Compared to the Seibertron Falcon which is smaller (37L) and more expensive ($59.99), the QT&QY provides more capacity for a lower price ($39.99) while maintaining excellent user feedback regarding its durability and pocket organization."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_311.json",
+    "offer_set_id": "backpacks_311",
+    "timestamp": 1775596849,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

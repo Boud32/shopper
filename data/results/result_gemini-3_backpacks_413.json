@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_1",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_006",
+      "prod_backpacks_050",
+      "prod_backpacks_107",
+      "prod_backpacks_038",
+      "prod_backpacks_126"
+    ],
+    "final_choice": "prod_backpacks_107",
+    "reasoning_trace": "I evaluated a range of products including packable daypacks, tactical rucksacks, and hydration packs. My consideration set focused on highly-rated backpacks with significant user feedback. The Seibertron Falcon (prod_backpacks_107) ultimately won out due to its versatile 37L capacity, water-repellent design, and a strong history of positive reviews (4.6 rating with nearly 3,000 counts), making it a reliable choice for both hiking and travel. While the Maxpedition offered excellent durability for everyday carry, the Seibertron provided better value for a multi-purpose outdoor bag."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_413.json",
+    "offer_set_id": "backpacks_413",
+    "timestamp": 1775598509,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

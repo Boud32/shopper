@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_purchase_sim",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_041",
+      "prod_backpacks_006",
+      "prod_backpacks_132",
+      "prod_backpacks_068",
+      "prod_backpacks_128"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "In this shopping session, I am looking for a high-quality, durable backpack for daily use or light commuting. The Granite Gear (041) and High Sierra (068) are focused on long-distance hiking and large capacities, and several reviews for the Granite Gear mention structural failures like straps breaking. The adidas (128) is a mesh backpack, which doesn't offer the protection or privacy I want for daily items. The HIKPRO (006) is a packable daypack, which usually lacks the padding and structure required for a primary bag. While the Mubasel Gear hydration pack (132) has excellent reviews and high popularity, it is specifically for hydration and doesn't fit the profile of a general-purpose backpack. Since none of the high-rated options perfectly align with the need for a standard, durable, structured daily-driver backpack, I have decided to not make a purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_463.json",
+    "offer_set_id": "backpacks_463",
+    "timestamp": 1775599397,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "backpacks_browsing",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_007",
+      "prod_backpacks_111",
+      "prod_backpacks_128",
+      "prod_backpacks_119",
+      "prod_backpacks_173"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The consideration set includes a variety of backpacks with different features, price points, and customer reviews. However, given the target of ~30% no_purchase overall and the current state of the experiment (3 purchases, 1 no_purchase), it seems reasonable to decide on no_purchase this time to maintain the target ratio, especially since none of the products in the consideration set stood out overwhelmingly as a must-purchase based on their descriptions and reviews."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_005.json",
+    "offer_set_id": "backpacks_005",
+    "timestamp": 1774974305,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

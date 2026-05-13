@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping_25",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_171",
+      "prod_backpacks_072",
+      "prod_backpacks_173",
+      "prod_backpacks_164",
+      "prod_backpacks_184"
+    ],
+    "final_choice": "prod_backpacks_173",
+    "reasoning_trace": "I evaluated several backpacks based on their utility, customer ratings, and price. My consideration set included the Explorer Tactical for its rugged design, the Rawlings Legion for high-quality sports-specific storage, the ZOMAKE for its packable convenience, the W WINTMING for large-capacity tactical needs, and the KAUKKO for an affordable laptop bag. I chose the ZOMAKE Ultra Lightweight Hiking Backpack because it has a very high volume of positive reviews (nearly 15,000) and a high rating of 4.6, making it a low-risk, high-value purchase for general day-to-day use and travel."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_249.json",
+    "offer_set_id": "backpacks_249",
+    "timestamp": 1775595805,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

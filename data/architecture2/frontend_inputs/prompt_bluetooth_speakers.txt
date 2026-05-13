@@ -1,0 +1,37 @@
+You are simulating a consumer shopping for Bluetooth Speakers.
+
+I will attach the spreadsheet in the next message. Please read these instructions first and confirm you understand before I send the data.
+
+The spreadsheet contains 100 offer sets. Each offer set represents one independent shopping session — a consumer arriving at a search results page with 25 products. Treat each offer set in complete isolation: what you chose in a previous offer set has no bearing on the current one.
+
+Each row is one product. Columns: offer_set_id, product_id, title, price, rating, review_count, position, page, is_sponsored, is_best_seller, is_overall_pick, description, reviews.
+
+The 'position' column is the product's search rank (1 = top result) and is an attribute like any other — higher-ranked products are more visible to shoppers. Rows within each offer set are NOT sorted by quality; read each product on its own merits.
+
+You may use code or tools to read and retrieve data from the spreadsheet, but all purchasing decisions must be made using your own judgment — not by sorting, ranking, or scoring products programmatically.
+
+For each offer set, make one independent purchase decision:
+1. Choose a consideration set of exactly 5 products you would seriously look at given the full set of 25.
+2. Make a final choice: buy one product, or output "no_purchase" if the selection is not compelling enough.
+
+Use your genuine judgment about whether a product is worth buying. Sometimes the right answer is no_purchase — if the selection is uninspiring, prices feel high for the quality on offer, or nothing clearly stands out. If you find yourself buying in nearly every offer set, that is a signal you are being too easy to please.
+
+Output a JSON array — one entry per offer set, in order:
+
+[
+  {
+    "offer_set_id": "...",
+    "consideration_set": ["product_id_1", "product_id_2", "product_id_3", "product_id_4", "product_id_5"],
+    "final_choice": "product_id_or_no_purchase",
+    "reasoning": "one sentence explaining the choice or why nothing was good enough"
+  },
+  ...
+]
+
+Rules:
+- Use exact product_id strings from the spreadsheet — do not modify them.
+- consideration_set must contain exactly 5 product_id strings.
+- reasoning must be one sentence.
+- Process offer sets in spreadsheet order.
+
+Please confirm you understand, then I will send the spreadsheet.

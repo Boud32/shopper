@@ -1,0 +1,23 @@
+{
+  "experiment_id": "bluetooth_speaker_shopping_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_072",
+      "prod_bluetooth_speakers_062"
+    ],
+    "final_choice": "prod_bluetooth_speakers_181",
+    "reasoning_trace": "I filtered out several items that were actually cases or wall shelves rather than the speakers themselves. From the actual speakers, I narrowed my consideration to models with high ratings and reliable brand reputations. The Sony XB43 stood out as the premium choice with a high 4.7 rating and substantial review volume, emphasizing sound quality and durability. While the DOSS Pro+ and EDUPLINK offered good value, the Sony's consistent praise for its 'Extra Bass' and waterproofing convinced me it was worth the higher price point. I ultimately rejected the JBL Flip 5 because it was a renewed product with some reviews mentioning battery failure after a few months."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_271.json",
+    "offer_set_id": "bluetooth_speakers_271",
+    "timestamp": 1775596203,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 166,
+    "timestamp": 1776098609,
+    "source_batch": "data/offer_sets/backpacks/backpacks_166.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_160",
+      "prod_backpacks_119",
+      "prod_backpacks_015",
+      "prod_backpacks_082",
+      "prod_backpacks_175"
+    ],
+    "final_choice": "prod_backpacks_160",
+    "reasoning": "The FISKINER Pro Fishing Backpack Creative Fishing Bag stands out for its high rating and balanced price-to-feature ratio."
+  }
+}

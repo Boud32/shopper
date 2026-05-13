@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 14,
+    "timestamp": 1776650224,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_014.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_269",
+      "prod_laundry_detergent_022",
+      "prod_laundry_detergent_195",
+      "prod_laundry_detergent_062",
+      "prod_laundry_detergent_287"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak \u2014 niche brands and low-rated items dominate the top of the results and the best options are all mid-list."
+  }
+}

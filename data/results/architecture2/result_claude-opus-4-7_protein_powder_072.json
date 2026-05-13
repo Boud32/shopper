@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 22,
+    "timestamp": 1776640082,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_072.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_191",
+      "prod_protein_powder_027",
+      "prod_protein_powder_172",
+      "prod_protein_powder_016",
+      "prod_protein_powder_124"
+    ],
+    "final_choice": "prod_protein_powder_191",
+    "reasoning": "Kaged Muscle 100% Whey Isolate at $59.27 with 4.5 stars is a premium, reputable brand whey and better fit for me than the PICK-tagged casein."
+  }
+}

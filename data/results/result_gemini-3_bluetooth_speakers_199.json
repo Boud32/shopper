@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_002",
+      "prod_bluetooth_speakers_103",
+      "prod_bluetooth_speakers_193",
+      "prod_bluetooth_speakers_040"
+    ],
+    "final_choice": "prod_bluetooth_speakers_120",
+    "reasoning_trace": "I evaluated the options based on sound quality, battery life, and durability. The JBL Charge 5 (prod_bluetooth_speakers_120) stands out as the most reliable high-performance option with a 4.8 rating and over 16,000 reviews. Although it is the most expensive, its IP67 rating and power bank feature make it a versatile choice for both home and outdoor use. The JBL Clip 3 (prod_bluetooth_speakers_002) was a strong contender for its portability and price, but for a primary speaker, the Charge 5's sound signature and volume are superior. Other options like the Ortizan and Altec Lansing had good features but lacked the consistent high-praise reviews found with the JBL line."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_199.json",
+    "offer_set_id": "bluetooth_speakers_199",
+    "timestamp": 1775594908,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

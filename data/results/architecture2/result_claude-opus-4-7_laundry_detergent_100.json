@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 50,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_100.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_077",
+      "prod_laundry_detergent_145",
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_102"
+    ],
+    "final_choice": "prod_laundry_detergent_145",
+    "reasoning": "Persil ProClean at $15.99 with 4.8/25,130 reviews \u2014 exceptional value and trust, a clear standout in the set."
+  }
+}

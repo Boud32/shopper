@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 30,
+    "timestamp": 1776691125,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_130.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_069",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_151"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The $96 B YOGA mat at the top is premium but offers no clear value signal, and the more reasonable options (Amazon Basics, Heathyoga) are pushed to the bottom of the list."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_057",
+      "prod_backpacks_132",
+      "prod_backpacks_150",
+      "prod_backpacks_048",
+      "prod_backpacks_156"
+    ],
+    "final_choice": "prod_backpacks_057",
+    "reasoning_trace": "I evaluated the products based on their primary function as backpacks, durability, and user feedback. Many items in the feed were actually accessories or camping gear rather than backpacks. Among the actual backpacks, the QT&QY 45L Tactical Backpack (prod_backpacks_057) stood out for its high rating (4.7), large number of reviews (6,149), and positive sentiment regarding its durability and value for the price. The Mubasel (prod_backpacks_132) and N NEVO RHINO (prod_backpacks_150) were strong contenders for hydration-specific needs, but the QT&QY pack offered more versatility for general use. The SUNLUG cooler backpack and vimapo foldable backpack were selected for specialized needs like picnics or travel, but the tactical pack's build quality made it the preferred final choice."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_127.json",
+    "offer_set_id": "backpacks_127",
+    "timestamp": 1775593263,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

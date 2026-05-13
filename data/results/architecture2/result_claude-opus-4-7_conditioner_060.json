@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 10,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_060.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_241",
+      "prod_conditioner_110",
+      "prod_conditioner_040",
+      "prod_conditioner_119",
+      "prod_conditioner_280"
+    ],
+    "final_choice": "prod_conditioner_241",
+    "reasoning": "Mixed Chicks at $13.99 with 4.7/1,586 reviews offers exceptional value and broad appeal among the top-ranked options."
+  }
+}

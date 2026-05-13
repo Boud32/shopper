@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 29,
+    "timestamp": 1776689267,
+    "source_batch": "data/offer_sets/conditioner/conditioner_179.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_196",
+      "prod_conditioner_016",
+      "prod_conditioner_110",
+      "prod_conditioner_023",
+      "prod_conditioner_147"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by weak products (3.7\u2605 Rainbow Research kids, expensive Hempz, niche St. Tropica, 3.9\u2605 Magical mask) with all the strong brands buried past position 14."
+  }
+}

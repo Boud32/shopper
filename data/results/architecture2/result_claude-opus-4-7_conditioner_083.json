@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 33,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_083.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_097",
+      "prod_conditioner_070",
+      "prod_conditioner_196",
+      "prod_conditioner_241",
+      "prod_conditioner_183"
+    ],
+    "final_choice": "prod_conditioner_097",
+    "reasoning": "It's A 10 Silk Express at pos 10 offers strong reviews (4.7/763) and good price among an otherwise mediocre top-page selection."
+  }
+}

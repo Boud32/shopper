@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_no_purchase_session",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_045",
+      "prod_bluetooth_speakers_150",
+      "prod_bluetooth_speakers_037"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The shopping session was characterized by a high volume of irrelevant search results, specifically accessories like cases (co2CREA, Zaracle), batteries, and wall shelves rather than standalone speakers. Within the actual speakers found, the high-end options like the Harman Kardon Onyx Studio 6 ($159.99) and the Edifier S350DB ($399.99) were outside my current budget. The more affordable options like the Raymate and Xeneo, while well-rated, belong to less-established brands, making me hesitant about their long-term durability. Additionally, several products featured outdated technology, such as the Bose SoundDock with a legacy 30-pin connector. Given the mix of overpriced premium items and unvetted budget brands, I have decided to wait and look for a more recognizable mid-range brand like JBL or Sony."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_173.json",
+    "offer_set_id": "bluetooth_speakers_173",
+    "timestamp": 1775594494,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

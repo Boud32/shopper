@@ -1,0 +1,23 @@
+{
+  "experiment_id": "toothbrush_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_116",
+      "prod_toothbrushes_063",
+      "prod_toothbrushes_188",
+      "prod_toothbrushes_041",
+      "prod_toothbrushes_102"
+    ],
+    "final_choice": "prod_toothbrushes_116",
+    "reasoning_trace": "Selected products based on high ratings, positive reviews, and a range of features including electric and manual options, various price points, and specific benefits like soft bristles and travel-friendly designs."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_415.json",
+    "offer_set_id": "toothbrushes_415",
+    "timestamp": 1772825547,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

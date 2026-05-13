@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 25,
+    "timestamp": 1776650226,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_175.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_127",
+      "prod_laundry_detergent_022",
+      "prod_laundry_detergent_034",
+      "prod_laundry_detergent_145",
+      "prod_laundry_detergent_189"
+    ],
+    "final_choice": "prod_laundry_detergent_127",
+    "reasoning": "Rockin' Green at position 1 with $19.99 and 20k+ 4.6\u2605 reviews is a well-reviewed plant-based option at a good price."
+  }
+}

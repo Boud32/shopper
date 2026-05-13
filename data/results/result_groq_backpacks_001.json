@@ -1,0 +1,23 @@
+{
+  "experiment_id": "backpacks_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_015",
+      "prod_backpacks_175",
+      "prod_backpacks_140",
+      "prod_backpacks_122",
+      "prod_backpacks_078"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The consideration set was selected based on the product categories and customer reviews. However, after evaluating the products, none of them met the customer's expectations, leading to a 'no_purchase' decision."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_001.json",
+    "offer_set_id": "backpacks_001",
+    "timestamp": 1774974297,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

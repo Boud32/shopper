@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_purchase",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_168",
+      "prod_bluetooth_speakers_151"
+    ],
+    "final_choice": "prod_bluetooth_speakers_129",
+    "reasoning_trace": "I evaluated several Bluetooth speakers based on sound quality descriptions, portability, and user ratings. The MusiBaby and NOTABRICK offered good budget options, but some users complained about the volume or durability. The Bose SoundLink Color II is a premium choice with massive review backing, but its price is significantly higher. The JBL Go 3 stood out as the 'Overall Pick' with the highest rating (4.7) and a very portable design at an affordable price point of $39.99. Given its solid reputation for sound quality in a small form factor and positive feedback regarding travel use, I decided it was the best value and most reliable choice for a portable speaker."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_175.json",
+    "offer_set_id": "bluetooth_speakers_175",
+    "timestamp": 1775594517,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

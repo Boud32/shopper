@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 226,
+    "timestamp": 1776096127,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_226.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_066",
+      "prod_bluetooth_speakers_045",
+      "prod_bluetooth_speakers_039",
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_188"
+    ],
+    "final_choice": "prod_bluetooth_speakers_066",
+    "reasoning": "The MAWODE X7 Bluetooth Speakers - 24 Hours Playtime, ... offers the best balance of high customer ratings, significant review volume, and competitive pricing."
+  }
+}

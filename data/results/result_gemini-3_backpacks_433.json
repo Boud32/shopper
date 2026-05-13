@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_125",
+      "prod_backpacks_199",
+      "prod_backpacks_153",
+      "prod_backpacks_169",
+      "prod_backpacks_030"
+    ],
+    "final_choice": "prod_backpacks_125",
+    "reasoning_trace": "The search results for backpacks contained a high number of accessories and non-backpack items like pillows, food, and chairs. Among the actual backpacks, many suffered from durability concerns mentioned in customer reviews, such as broken zippers on the FOCO NHL bag (prod_backpacks_075) and tearing liners on the Scothen cooler (prod_backpacks_153). The Piscifun dry bag (prod_backpacks_199) also had reports of uncomfortable straps. The USWE Hajker 30L (prod_backpacks_125), while significantly more expensive, is a high-performance technical pack with a specialized harness system and waterproof rolltop, making it the most reliable and highest quality option for a serious user."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_433.json",
+    "offer_set_id": "backpacks_433",
+    "timestamp": 1775598799,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

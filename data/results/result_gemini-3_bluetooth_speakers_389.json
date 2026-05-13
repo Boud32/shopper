@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_084"
+    ],
+    "final_choice": "prod_bluetooth_speakers_013",
+    "reasoning_trace": "I prioritized established audio brands with high ratings and substantial review counts. I considered both new and renewed options to find the best value. The Bose SoundLink Color II (137) is excellent but expensive at $124.95. The JBL Flip 5 Renewed (001) is a good value at $79.90, but the JBL Charge 4 Renewed (013) at $89.95 offers a significant upgrade in sound depth and battery performance for a small price difference. The Philips (084) was considered for its 360-degree sound at a budget price, but the durability and bass reputation of the JBL Charge series made it the most compelling choice for a portable outdoor-ready speaker."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_389.json",
+    "offer_set_id": "bluetooth_speakers_389",
+    "timestamp": 1775598294,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

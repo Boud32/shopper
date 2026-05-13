@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 49,
+    "timestamp": 1776650224,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_049.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_269",
+      "prod_laundry_detergent_039",
+      "prod_laundry_detergent_107",
+      "prod_laundry_detergent_042",
+      "prod_laundry_detergent_152"
+    ],
+    "final_choice": "prod_laundry_detergent_269",
+    "reasoning": "Arm & Hammer OxiClean at $9.48 with 4.7 stars and 6952 reviews and overall-pick badge at position 2 is an exceptional value."
+  }
+}

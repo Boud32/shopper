@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_041",
+      "prod_backpacks_078",
+      "prod_backpacks_184",
+      "prod_backpacks_168",
+      "prod_backpacks_182"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "In this shopping session for backpacks, the feed was heavily saturated with irrelevant camping gear such as stoves, tinder, and towels. Within the actual backpack category, the products that fit the size requirements (like the Granite Gear, KAUKKO, and Gelindo models) had concerning user reviews specifically highlighting durability flaws, such as shoulder straps breaking or tearing during the first few uses. While the sling bags in the consideration set (MOSISO and NEVO RHINO) had better sentiment, they were too small for the needs of a standard backpack user. Given the poor build quality reports on the primary full-sized candidates, I decided to decline a purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_312.json",
+    "offer_set_id": "backpacks_312",
+    "timestamp": 1775596871,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

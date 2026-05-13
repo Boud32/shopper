@@ -1,0 +1,602 @@
+[
+  {
+    "offer_set_id": "protein_powder_151",
+    "consideration_set": [
+      "prod_protein_powder_071",
+      "prod_protein_powder_059",
+      "prod_protein_powder_092",
+      "prod_protein_powder_057",
+      "prod_protein_powder_067"
+    ],
+    "final_choice": "prod_protein_powder_071",
+    "reasoning": "ALLMAX ISOFLEX is a well-established whey isolate with 4.6 stars, 5785 reviews, and a competitive $39.99 price for 2 lbs \u2014 the strongest combination of quality signals in the set."
+  },
+  {
+    "offer_set_id": "protein_powder_152",
+    "consideration_set": [
+      "prod_protein_powder_071",
+      "prod_protein_powder_187",
+      "prod_protein_powder_124",
+      "prod_protein_powder_134",
+      "prod_protein_powder_056"
+    ],
+    "final_choice": "prod_protein_powder_071",
+    "reasoning": "ALLMAX ISOFLEX remains the best mainstream whey isolate pick at $39.99 with 4.6 stars and 5,785 reviews, clearly outperforming the weaker top positions in this set."
+  },
+  {
+    "offer_set_id": "protein_powder_153",
+    "consideration_set": [
+      "prod_protein_powder_028",
+      "prod_protein_powder_065",
+      "prod_protein_powder_014",
+      "prod_protein_powder_076",
+      "prod_protein_powder_130"
+    ],
+    "final_choice": "prod_protein_powder_028",
+    "reasoning": "Isopure is a category-benchmark whey isolate with 4.5 stars and 30,402 reviews \u2014 a well-known, trusted product backed by overwhelming review volume."
+  },
+  {
+    "offer_set_id": "protein_powder_154",
+    "consideration_set": [
+      "prod_protein_powder_135",
+      "prod_protein_powder_046",
+      "prod_protein_powder_158",
+      "prod_protein_powder_189",
+      "prod_protein_powder_092"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by weak or sponsored items, and no option stands out with a clearly compelling quality/price/trust combination worth pulling the trigger on."
+  },
+  {
+    "offer_set_id": "protein_powder_155",
+    "consideration_set": [
+      "prod_protein_powder_162",
+      "prod_protein_powder_006",
+      "prod_protein_powder_014",
+      "prod_protein_powder_156",
+      "prod_protein_powder_187"
+    ],
+    "final_choice": "prod_protein_powder_162",
+    "reasoning": "Myprotein Impact Whey is an iconic value-oriented whey protein with 4.4 stars and 10,547 reviews at $43.25 \u2014 a classic staple with massive validation at a fair price."
+  },
+  {
+    "offer_set_id": "protein_powder_156",
+    "consideration_set": [
+      "prod_protein_powder_156",
+      "prod_protein_powder_172",
+      "prod_protein_powder_063",
+      "prod_protein_powder_017",
+      "prod_protein_powder_076"
+    ],
+    "final_choice": "prod_protein_powder_156",
+    "reasoning": "BSN SYNTHA-6 Edge is a top-tier established protein blend with 4.7 stars and 8,950 reviews at $42.99 \u2014 the strongest overall quality signal combined with fair pricing."
+  },
+  {
+    "offer_set_id": "protein_powder_157",
+    "consideration_set": [
+      "prod_protein_powder_156",
+      "prod_protein_powder_162",
+      "prod_protein_powder_076",
+      "prod_protein_powder_104",
+      "prod_protein_powder_173"
+    ],
+    "final_choice": "prod_protein_powder_156",
+    "reasoning": "BSN SYNTHA-6 Edge at position 3 with 4.7 stars and 8,950 reviews at $42.99 is the clear category winner and well-placed at the top of the page."
+  },
+  {
+    "offer_set_id": "protein_powder_158",
+    "consideration_set": [
+      "prod_protein_powder_088",
+      "prod_protein_powder_097",
+      "prod_protein_powder_063",
+      "prod_protein_powder_144",
+      "prod_protein_powder_005"
+    ],
+    "final_choice": "prod_protein_powder_088",
+    "reasoning": "Naked Whey offers a transparent 3-ingredient grass-fed formulation at $23.99 with 4.3 stars and 14,207 reviews \u2014 exceptional value and a category favorite for clean-label shoppers."
+  },
+  {
+    "offer_set_id": "protein_powder_159",
+    "consideration_set": [
+      "prod_protein_powder_156",
+      "prod_protein_powder_071",
+      "prod_protein_powder_088",
+      "prod_protein_powder_041",
+      "prod_protein_powder_090"
+    ],
+    "final_choice": "prod_protein_powder_156",
+    "reasoning": "BSN SYNTHA-6 Edge is positioned at slot 1 with 4.7 stars and 8,950 reviews at $42.99 \u2014 the strongest quality/trust signal in the top of the page."
+  },
+  {
+    "offer_set_id": "protein_powder_160",
+    "consideration_set": [
+      "prod_protein_powder_041",
+      "prod_protein_powder_065",
+      "prod_protein_powder_063",
+      "prod_protein_powder_172",
+      "prod_protein_powder_076"
+    ],
+    "final_choice": "prod_protein_powder_041",
+    "reasoning": "Legion Whey+ is a highly respected grass-fed whey isolate with transparent labeling, 4.5 stars, 5,072 reviews, at a fair $44.99 \u2014 strongest quality-to-price ratio in the set."
+  },
+  {
+    "offer_set_id": "protein_powder_161",
+    "consideration_set": [
+      "prod_protein_powder_028",
+      "prod_protein_powder_027",
+      "prod_protein_powder_014",
+      "prod_protein_powder_162",
+      "prod_protein_powder_006"
+    ],
+    "final_choice": "prod_protein_powder_028",
+    "reasoning": "Isopure whey isolate at 4.5 stars with 30,402 reviews is a category anchor product with overwhelming validation, a standout in a set that has multiple strong options."
+  },
+  {
+    "offer_set_id": "protein_powder_162",
+    "consideration_set": [
+      "prod_protein_powder_097",
+      "prod_protein_powder_076",
+      "prod_protein_powder_130",
+      "prod_protein_powder_053",
+      "prod_protein_powder_144"
+    ],
+    "final_choice": "prod_protein_powder_097",
+    "reasoning": "Truvani Organic Vegan Protein has 4.4 stars with 15,388 reviews at $44.99 \u2014 a standout plant-based option with strong brand trust and exceptional review volume."
+  },
+  {
+    "offer_set_id": "protein_powder_163",
+    "consideration_set": [
+      "prod_protein_powder_041",
+      "prod_protein_powder_065",
+      "prod_protein_powder_107",
+      "prod_protein_powder_059",
+      "prod_protein_powder_158"
+    ],
+    "final_choice": "prod_protein_powder_041",
+    "reasoning": "Legion Whey+ offers transparent labeling, grass-fed isolate, 4.5 stars with 5,072 reviews at $44.99 \u2014 the strongest quality/price option given the weak top positions in this set."
+  },
+  {
+    "offer_set_id": "protein_powder_164",
+    "consideration_set": [
+      "prod_protein_powder_041",
+      "prod_protein_powder_060",
+      "prod_protein_powder_063",
+      "prod_protein_powder_187",
+      "prod_protein_powder_065"
+    ],
+    "final_choice": "prod_protein_powder_041",
+    "reasoning": "Legion Whey+ at $44.99 with 4.5 stars and 5,072 reviews is the best quality-to-price whey isolate in this set, with credible competitors priced higher."
+  },
+  {
+    "offer_set_id": "protein_powder_165",
+    "consideration_set": [
+      "prod_protein_powder_065",
+      "prod_protein_powder_014",
+      "prod_protein_powder_041",
+      "prod_protein_powder_059",
+      "prod_protein_powder_053"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top-of-page positions are weak \u2014 LADDER has only 285 reviews, 310 Nutrition is overpriced, and the better options are buried deep, so nothing decisively beats a typical alternative from another search."
+  },
+  {
+    "offer_set_id": "protein_powder_166",
+    "consideration_set": [
+      "prod_protein_powder_092",
+      "prod_protein_powder_099",
+      "prod_protein_powder_043",
+      "prod_protein_powder_102",
+      "prod_protein_powder_064"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by overpriced or niche products, and no option presents a clearly compelling quality/price/trust combination worth buying over alternatives from a different search."
+  },
+  {
+    "offer_set_id": "protein_powder_167",
+    "consideration_set": [
+      "prod_protein_powder_027",
+      "prod_protein_powder_006",
+      "prod_protein_powder_065",
+      "prod_protein_powder_057",
+      "prod_protein_powder_059"
+    ],
+    "final_choice": "prod_protein_powder_027",
+    "reasoning": "Optimum Nutrition Gold Standard Micellar Casein with 4.6 stars and 16,122 reviews is a category-leading casein product with very strong validation, albeit at a premium price."
+  },
+  {
+    "offer_set_id": "protein_powder_168",
+    "consideration_set": [
+      "prod_protein_powder_109",
+      "prod_protein_powder_006",
+      "prod_protein_powder_014",
+      "prod_protein_powder_135",
+      "prod_protein_powder_063"
+    ],
+    "final_choice": "prod_protein_powder_109",
+    "reasoning": "BSN SYNTHA-6 is a category-legend blended protein at $60.40 with 4.7 stars and 26,281 reviews \u2014 overwhelming validation and strong quality signals."
+  },
+  {
+    "offer_set_id": "protein_powder_169",
+    "consideration_set": [
+      "prod_protein_powder_006",
+      "prod_protein_powder_041",
+      "prod_protein_powder_162",
+      "prod_protein_powder_070",
+      "prod_protein_powder_196"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (GNC meal replacement, collagen, Superfood with only 46 reviews) and the strong options like GHOST and Legion Whey+ are either sponsored or deep on the page \u2014 nothing stands out compellingly."
+  },
+  {
+    "offer_set_id": "protein_powder_170",
+    "consideration_set": [
+      "prod_protein_powder_130",
+      "prod_protein_powder_060",
+      "prod_protein_powder_014",
+      "prod_protein_powder_097",
+      "prod_protein_powder_027"
+    ],
+    "final_choice": "prod_protein_powder_130",
+    "reasoning": "Nutricost Whey Protein Concentrate at $29.95 with 4.4 stars and 4,440 reviews is an outstanding value staple whey with strong social proof."
+  },
+  {
+    "offer_set_id": "protein_powder_171",
+    "consideration_set": [
+      "prod_protein_powder_097",
+      "prod_protein_powder_088",
+      "prod_protein_powder_071",
+      "prod_protein_powder_006",
+      "prod_protein_powder_065"
+    ],
+    "final_choice": "prod_protein_powder_097",
+    "reasoning": "Truvani at position 2 with 4.4 stars and 15,388 reviews at $44.99 is a standout organic plant-based option with strong brand trust and excellent positioning."
+  },
+  {
+    "offer_set_id": "protein_powder_172",
+    "consideration_set": [
+      "prod_protein_powder_014",
+      "prod_protein_powder_016",
+      "prod_protein_powder_090",
+      "prod_protein_powder_144",
+      "prod_protein_powder_134"
+    ],
+    "final_choice": "prod_protein_powder_014",
+    "reasoning": "PEScience Select at 4.5 stars with 10,521 reviews at $69.99 for 55 servings is a premium low-carb protein with strong quality and quantity, best option given the weak top positions."
+  },
+  {
+    "offer_set_id": "protein_powder_173",
+    "consideration_set": [
+      "prod_protein_powder_109",
+      "prod_protein_powder_097",
+      "prod_protein_powder_014",
+      "prod_protein_powder_076",
+      "prod_protein_powder_135"
+    ],
+    "final_choice": "prod_protein_powder_109",
+    "reasoning": "BSN SYNTHA-6 at 4.7 stars with 26,281 reviews at $60.40 for 48 servings is a category legend \u2014 strongest quality/validation signal in the set."
+  },
+  {
+    "offer_set_id": "protein_powder_174",
+    "consideration_set": [
+      "prod_protein_powder_028",
+      "prod_protein_powder_060",
+      "prod_protein_powder_043",
+      "prod_protein_powder_013",
+      "prod_protein_powder_088"
+    ],
+    "final_choice": "prod_protein_powder_028",
+    "reasoning": "Isopure whey isolate at 4.5 stars with 30,402 reviews is a category anchor \u2014 the most validated and trustworthy option in a set with a weak top-of-page."
+  },
+  {
+    "offer_set_id": "protein_powder_175",
+    "consideration_set": [
+      "prod_protein_powder_060",
+      "prod_protein_powder_088",
+      "prod_protein_powder_027",
+      "prod_protein_powder_076",
+      "prod_protein_powder_187"
+    ],
+    "final_choice": "prod_protein_powder_060",
+    "reasoning": "Pro JYM is a premium multi-source blend (egg, milk, whey, casein) at 4.7 stars with 4,865 reviews at $60 for 45 servings \u2014 highly respected by athletes for formulation quality."
+  },
+  {
+    "offer_set_id": "protein_powder_176",
+    "consideration_set": [
+      "prod_protein_powder_109",
+      "prod_protein_powder_156",
+      "prod_protein_powder_060",
+      "prod_protein_powder_076",
+      "prod_protein_powder_182"
+    ],
+    "final_choice": "prod_protein_powder_109",
+    "reasoning": "BSN SYNTHA-6 at position 5 with 4.7 stars and 26,281 reviews at $60.40 is the strongest validated protein blend on the page, clearly beating alternatives."
+  },
+  {
+    "offer_set_id": "protein_powder_177",
+    "consideration_set": [
+      "prod_protein_powder_014",
+      "prod_protein_powder_109",
+      "prod_protein_powder_172",
+      "prod_protein_powder_088",
+      "prod_protein_powder_130"
+    ],
+    "final_choice": "prod_protein_powder_014",
+    "reasoning": "PEScience Select at position 6 with 4.5 stars, 10,521 reviews at $69.99 for 55 servings is a well-validated low-carb protein and the best-positioned quality option in a weak-topped set."
+  },
+  {
+    "offer_set_id": "protein_powder_178",
+    "consideration_set": [
+      "prod_protein_powder_063",
+      "prod_protein_powder_076",
+      "prod_protein_powder_071",
+      "prod_protein_powder_172",
+      "prod_protein_powder_102"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top of page is dominated by weak options (Purus Labs with 34 reviews, Obvi 3.9 stars, Garden of Life mid-tier), and the credible whey options sit at positions 8+ \u2014 nothing commands attention enough to buy."
+  },
+  {
+    "offer_set_id": "protein_powder_179",
+    "consideration_set": [
+      "prod_protein_powder_162",
+      "prod_protein_powder_027",
+      "prod_protein_powder_014",
+      "prod_protein_powder_090",
+      "prod_protein_powder_056"
+    ],
+    "final_choice": "prod_protein_powder_162",
+    "reasoning": "Myprotein Impact Whey at 4.4 stars with 10,547 reviews at $43.25 is the iconic value whey staple with massive validation \u2014 best mainstream pick in a set with weak top positions."
+  },
+  {
+    "offer_set_id": "protein_powder_180",
+    "consideration_set": [
+      "prod_protein_powder_076",
+      "prod_protein_powder_144",
+      "prod_protein_powder_138",
+      "prod_protein_powder_189",
+      "prod_protein_powder_158"
+    ],
+    "final_choice": "prod_protein_powder_076",
+    "reasoning": "Jay Robb Egg White Protein at 4.6 stars with 4,750 reviews at $31.64 is a well-established clean-label option with strong ratings and reasonable positioning at pos 5."
+  },
+  {
+    "offer_set_id": "protein_powder_181",
+    "consideration_set": [
+      "prod_protein_powder_130",
+      "prod_protein_powder_059",
+      "prod_protein_powder_187",
+      "prod_protein_powder_144",
+      "prod_protein_powder_120"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top of page is sponsored low-review items (Granite 281 reviews, Animal Whey 100 reviews), and no option at the top presents a clearly compelling deal over alternatives from another search."
+  },
+  {
+    "offer_set_id": "protein_powder_182",
+    "consideration_set": [
+      "prod_protein_powder_130",
+      "prod_protein_powder_172",
+      "prod_protein_powder_063",
+      "prod_protein_powder_041",
+      "prod_protein_powder_020"
+    ],
+    "final_choice": "prod_protein_powder_130",
+    "reasoning": "Nutricost Whey Protein Concentrate at $29.95 with 4.4 stars and 4,440 reviews is an excellent value staple whey in a near-top position \u2014 strongest price/quality combo."
+  },
+  {
+    "offer_set_id": "protein_powder_183",
+    "consideration_set": [
+      "prod_protein_powder_097",
+      "prod_protein_powder_017",
+      "prod_protein_powder_059",
+      "prod_protein_powder_046",
+      "prod_protein_powder_070"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are all mediocre (generic grass-fed concentrate, BPI Sports, Primal Kitchen) and the best options are buried deep \u2014 nothing on the page beats what a different search could return."
+  },
+  {
+    "offer_set_id": "protein_powder_184",
+    "consideration_set": [
+      "prod_protein_powder_016",
+      "prod_protein_powder_057",
+      "prod_protein_powder_158",
+      "prod_protein_powder_041",
+      "prod_protein_powder_191"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (Respect 46 reviews despite 4.8, POWERLIFE 3.9 stars, Optim Nutrition 146 reviews) and no option stands out with a clearly compelling quality/price combination."
+  },
+  {
+    "offer_set_id": "protein_powder_185",
+    "consideration_set": [
+      "prod_protein_powder_028",
+      "prod_protein_powder_060",
+      "prod_protein_powder_076",
+      "prod_protein_powder_135",
+      "prod_protein_powder_187"
+    ],
+    "final_choice": "prod_protein_powder_028",
+    "reasoning": "Isopure at position 3 with 4.5 stars, 30,402 reviews at $71.20 is a category-benchmark whey isolate with overwhelming validation and strong page positioning."
+  },
+  {
+    "offer_set_id": "protein_powder_186",
+    "consideration_set": [
+      "prod_protein_powder_065",
+      "prod_protein_powder_162",
+      "prod_protein_powder_135",
+      "prod_protein_powder_134",
+      "prod_protein_powder_132"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by niche items (Brewers Yeast, Norcal organic 784 reviews, Amazing Muscle 4.0) and the stronger options are buried \u2014 nothing clearly beats alternatives from a different search."
+  },
+  {
+    "offer_set_id": "protein_powder_187",
+    "consideration_set": [
+      "prod_protein_powder_097",
+      "prod_protein_powder_088",
+      "prod_protein_powder_172",
+      "prod_protein_powder_162",
+      "prod_protein_powder_076"
+    ],
+    "final_choice": "prod_protein_powder_097",
+    "reasoning": "Truvani Organic Vegan at 4.4 stars with 15,388 reviews at $44.99 is a standout organic plant-based option with excellent validation \u2014 a clear quality pick for the vegan protein segment."
+  },
+  {
+    "offer_set_id": "protein_powder_188",
+    "consideration_set": [
+      "prod_protein_powder_109",
+      "prod_protein_powder_156",
+      "prod_protein_powder_057",
+      "prod_protein_powder_041",
+      "prod_protein_powder_013"
+    ],
+    "final_choice": "prod_protein_powder_109",
+    "reasoning": "BSN SYNTHA-6 at position 6 with 4.7 stars and 26,281 reviews at $60.40 is the category legend with the strongest validation signal in the set."
+  },
+  {
+    "offer_set_id": "protein_powder_189",
+    "consideration_set": [
+      "prod_protein_powder_006",
+      "prod_protein_powder_097",
+      "prod_protein_powder_088",
+      "prod_protein_powder_041",
+      "prod_protein_powder_135"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (MTS Machine 706 reviews, BPI Sports, Garden of Life mid-tier) and the strong options like GHOST and Legion Whey+ are buried deep \u2014 nothing decisively stands out."
+  },
+  {
+    "offer_set_id": "protein_powder_190",
+    "consideration_set": [
+      "prod_protein_powder_191",
+      "prod_protein_powder_057",
+      "prod_protein_powder_124",
+      "prod_protein_powder_024",
+      "prod_protein_powder_090"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are largely collagen-skin products and mediocre options, with no clearly compelling quality/price combination for a standard protein purchase worth beating alternatives."
+  },
+  {
+    "offer_set_id": "protein_powder_191",
+    "consideration_set": [
+      "prod_protein_powder_071",
+      "prod_protein_powder_088",
+      "prod_protein_powder_076",
+      "prod_protein_powder_057",
+      "prod_protein_powder_107"
+    ],
+    "final_choice": "prod_protein_powder_071",
+    "reasoning": "ALLMAX ISOFLEX whey isolate at $39.99 with 4.6 stars and 5,785 reviews is a well-established quality product and the strongest pick in a set with weak top positions."
+  },
+  {
+    "offer_set_id": "protein_powder_192",
+    "consideration_set": [
+      "prod_protein_powder_135",
+      "prod_protein_powder_187",
+      "prod_protein_powder_099",
+      "prod_protein_powder_092",
+      "prod_protein_powder_158"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by weak options (Gatorade packets, Keto Green $99.95 with 64 reviews, PlantFusion meal replacement 4.1) with no clearly compelling standard protein option."
+  },
+  {
+    "offer_set_id": "protein_powder_193",
+    "consideration_set": [
+      "prod_protein_powder_006",
+      "prod_protein_powder_027",
+      "prod_protein_powder_046",
+      "prod_protein_powder_088",
+      "prod_protein_powder_057"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (JSHealth 3.9 stars, Fuel for Fire smoothie pouches, FitBites low reviews) and while strong options exist mid/deep page, none at the top justifies a purchase over alternatives."
+  },
+  {
+    "offer_set_id": "protein_powder_194",
+    "consideration_set": [
+      "prod_protein_powder_162",
+      "prod_protein_powder_130",
+      "prod_protein_powder_028",
+      "prod_protein_powder_016",
+      "prod_protein_powder_053"
+    ],
+    "final_choice": "prod_protein_powder_162",
+    "reasoning": "Myprotein Impact Whey at position 1 with 4.4 stars and 10,547 reviews at $43.25 is the iconic value whey staple with massive validation in a prime position."
+  },
+  {
+    "offer_set_id": "protein_powder_195",
+    "consideration_set": [
+      "prod_protein_powder_162",
+      "prod_protein_powder_076",
+      "prod_protein_powder_172",
+      "prod_protein_powder_158",
+      "prod_protein_powder_136"
+    ],
+    "final_choice": "prod_protein_powder_162",
+    "reasoning": "Myprotein Impact Whey at 4.4 stars with 10,547 reviews at $43.25 is the best validated, fairly-priced whey in a set with a weak top-of-page."
+  },
+  {
+    "offer_set_id": "protein_powder_196",
+    "consideration_set": [
+      "prod_protein_powder_014",
+      "prod_protein_powder_027",
+      "prod_protein_powder_135",
+      "prod_protein_powder_124",
+      "prod_protein_powder_020"
+    ],
+    "final_choice": "prod_protein_powder_014",
+    "reasoning": "PEScience Select at position 6 with 4.5 stars, 10,521 reviews at $69.99 for 55 servings is a well-validated low-carb protein and the best quality option given weak top positions."
+  },
+  {
+    "offer_set_id": "protein_powder_197",
+    "consideration_set": [
+      "prod_protein_powder_063",
+      "prod_protein_powder_088",
+      "prod_protein_powder_134",
+      "prod_protein_powder_076",
+      "prod_protein_powder_191"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by low-review items (Respect 46 reviews, Authentic Vegan 170 reviews) and the strong options are buried \u2014 nothing clearly beats alternatives from a different search."
+  },
+  {
+    "offer_set_id": "protein_powder_198",
+    "consideration_set": [
+      "prod_protein_powder_187",
+      "prod_protein_powder_107",
+      "prod_protein_powder_124",
+      "prod_protein_powder_037",
+      "prod_protein_powder_134"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by collagen products (Obvi 3.9, Ancient Nutrition) and weak whey options \u2014 for a standard protein purchase, nothing on the page is clearly compelling."
+  },
+  {
+    "offer_set_id": "protein_powder_199",
+    "consideration_set": [
+      "prod_protein_powder_028",
+      "prod_protein_powder_088",
+      "prod_protein_powder_076",
+      "prod_protein_powder_017",
+      "prod_protein_powder_046"
+    ],
+    "final_choice": "prod_protein_powder_028",
+    "reasoning": "Isopure at position 9 with 4.5 stars, 30,402 reviews at $71.20 is the category-benchmark whey isolate with overwhelming validation \u2014 the anchor quality pick in the set."
+  },
+  {
+    "offer_set_id": "protein_powder_200",
+    "consideration_set": [
+      "prod_protein_powder_014",
+      "prod_protein_powder_172",
+      "prod_protein_powder_065",
+      "prod_protein_powder_107",
+      "prod_protein_powder_064"
+    ],
+    "final_choice": "prod_protein_powder_014",
+    "reasoning": "PEScience Select at position 1 with 4.5 stars, 10,521 reviews at $69.99 for 55 servings is a well-validated low-carb protein in the top slot \u2014 clearly the best overall option."
+  }
+]

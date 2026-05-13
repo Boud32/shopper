@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_placeholder",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_049"
+    ],
+    "final_choice": "prod_bluetooth_speakers_120",
+    "reasoning_trace": "After filtering out the many irrelevant accessories like power cords, replacement batteries, and carrying cases, I identified five speakers worth evaluating. My consideration set includes top-tier models from JBL, Harman Kardon, and Bose, alongside a stylish retro model from INSMY and a value-oriented renewed JBL Charge 4. I ultimately chose the JBL Charge 5 (prod_bluetooth_speakers_120) as the final choice. It boasts an impressive 4.8-star rating from over 16,000 reviews and offers the best versatility with its IP67 waterproof and dustproof rating, long battery life, and high-quality sound. While the Harman Kardon Onyx Studio 6 was a strong competitor for indoor sound quality, the JBL's durability and modern feature set make it the most reliable overall purchase for a portable Bluetooth speaker."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_316.json",
+    "offer_set_id": "bluetooth_speakers_316",
+    "timestamp": 1775596963,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

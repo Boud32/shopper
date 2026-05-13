@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 22,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_072.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_074",
+      "prod_laundry_detergent_030",
+      "prod_laundry_detergent_195",
+      "prod_laundry_detergent_117",
+      "prod_laundry_detergent_022"
+    ],
+    "final_choice": "prod_laundry_detergent_030",
+    "reasoning": "Seventh Generation Concentrated at position 3 with Sponsored + Best Seller badges, $14.99, 4.6/9,493 reviews \u2014 strongly featured and well-trusted."
+  }
+}

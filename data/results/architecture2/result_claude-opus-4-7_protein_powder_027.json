@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "",
+    "architecture": "frontend",
+    "session_position": 27,
+    "timestamp": 1776377218,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_027.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_028",
+      "prod_protein_powder_135",
+      "prod_protein_powder_191",
+      "prod_protein_powder_144",
+      "prod_protein_powder_115"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "No product hits the sweet spot of excellent rating, deep reviews, and reasonable price \u2014 the strongest options are either pricey or niche."
+  }
+}

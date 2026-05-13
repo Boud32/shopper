@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 20,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_070.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_077",
+      "prod_laundry_detergent_293",
+      "prod_laundry_detergent_296",
+      "prod_laundry_detergent_242",
+      "prod_laundry_detergent_116"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top five positions offer only modestly-reviewed or expensive options and nothing truly stands out at the top as worth committing to over a different search."
+  }
+}

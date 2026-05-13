@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_050",
+      "prod_backpacks_068",
+      "prod_backpacks_128",
+      "prod_backpacks_154",
+      "prod_backpacks_102"
+    ],
+    "final_choice": "prod_backpacks_050",
+    "reasoning_trace": "After reviewing the 25 items, I filtered out non-backpack products such as hammocks, pillows, and webbing. I established a consideration set focusing on versatile and highly-rated bags: the G4Free Tactical Backpack (35L), the High Sierra 70L Hiking Pack, the adidas Hermosa Mesh bag, the TOURIT Cooler Backpack, and the TUDEQU Sling Bag. I ultimately selected the G4Free Tactical Shoulder Backpack (prod_backpacks_050) because it offers a significant storage capacity (35L) at a competitive price point ($28.99), with a strong 4.6-star rating across over 1,800 reviews. It strikes the best balance between utility for hiking and general daily use compared to the more niche or specialized alternatives."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_352.json",
+    "offer_set_id": "backpacks_352",
+    "timestamp": 1775597492,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

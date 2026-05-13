@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_sim_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_013"
+    ],
+    "final_choice": "prod_bluetooth_speakers_166",
+    "reasoning_trace": "I evaluated the product feed specifically looking for high-quality, portable Bluetooth speakers from reputable brands. My consideration set includes top-rated options from JBL (Flip 5, Go 3, and a renewed Charge 4), Bose (SoundLink Color II), and Sony (SRS-XB43). I excluded accessories like cases and niche items like the Bluetooth hat. The JBL Flip 5 (prod_bluetooth_speakers_166) is the final choice because it provides an exceptional balance of price ($89.95), durability, and a high 4.8-star rating with over 68,000 reviews, making it the most reliable all-around option in the set."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_324.json",
+    "offer_set_id": "bluetooth_speakers_324",
+    "timestamp": 1775597110,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

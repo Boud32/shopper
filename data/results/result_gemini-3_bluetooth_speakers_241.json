@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_192"
+    ],
+    "final_choice": "prod_bluetooth_speakers_166",
+    "reasoning_trace": "The search results were heavily cluttered with accessories such as travel cases, shelves, and charging cables, which narrowed the viable speaker options. I focused on five highly-rated portable speakers. Among them, the EDUPLINK and EWA Mini offer excellent value for budget shoppers, while the BOGASING and DOSS provide robust sound power. However, the JBL Flip 5 is the standout choice. With an exceptional 4.8 rating and nearly 69,000 reviews, it represents a proven standard for audio quality and durability that justifies its $89.95 price point compared to less established brands."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_241.json",
+    "offer_set_id": "bluetooth_speakers_241",
+    "timestamp": 1775595714,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_173",
+      "prod_backpacks_068",
+      "prod_backpacks_050",
+      "prod_backpacks_072",
+      "prod_backpacks_196"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The browsing session revealed a wide range of specialized bags, but none that perfectly met the need for a high-quality, general-purpose daily backpack. The High Sierra 70L is excellent for multi-day expeditions but far too large for standard use. The ZOMAKE is a great value for a packable daypack, but its thin material lacks the structure and protective padding required for a primary bag. Specialized options for baseball (Rawlings) and hydration (Lunidry) were considered but were too niche for current requirements. Additionally, reviews for the tactical bags (G4Free) suggested some concerns regarding long-term durability for school or work use. Given the specific selection available, no purchase was made during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_333.json",
+    "offer_set_id": "backpacks_333",
+    "timestamp": 1775597193,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

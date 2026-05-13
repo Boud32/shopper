@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_003",
+      "prod_bluetooth_speakers_192"
+    ],
+    "final_choice": "prod_bluetooth_speakers_181",
+    "reasoning_trace": "I evaluated a range of speakers from portable budget options to high-end home units. The Sony SRS-XB43 (prod_bluetooth_speakers_181) stood out as the strongest choice due to its high rating (4.7) from over 5,000 reviews, 24-hour battery life, and rugged IP67 rating. While the Ultimate Ears Megablast was a strong high-end contender, reviews noted some inconsistency with its Alexa integration. The JBL Go 3 was considered for portability, and the INSMY/EWA options for value, but the Sony provided the best balance of premium audio features and durability for the price."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_014.json",
+    "offer_set_id": "bluetooth_speakers_014",
+    "timestamp": 1775590766,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

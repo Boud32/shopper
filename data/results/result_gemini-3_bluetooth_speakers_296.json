@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_session_90",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_192",
+      "prod_bluetooth_speakers_128"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was looking for a high-quality, portable speaker to expand an existing multi-speaker setup. While the JBL Charge 5 is an excellent product with a high rating, a verified review noted that it will not pair with previous JBL Charge 4 speakers, which is a major compatibility issue for my specific needs. The JBL Clip 3 is highly rated but a bit too small for my primary sound requirements. The budget options like EWA and INSMY offer good value, but I have concerns about long-term battery performance and sound distortion at higher volumes based on mixed feedback. Since no product perfectly addressed both my audio quality requirements and ecosystem compatibility, I decided to hold off on a purchase for now."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_296.json",
+    "offer_set_id": "bluetooth_speakers_296",
+    "timestamp": 1775596619,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

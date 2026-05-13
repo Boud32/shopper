@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 10,
+    "timestamp": 1776689265,
+    "source_batch": "data/offer_sets/conditioner/conditioner_010.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_119",
+      "prod_conditioner_014",
+      "prod_conditioner_011",
+      "prod_conditioner_256"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle at the top of the page with 4.7 stars and 5134 reviews is the obvious pick."
+  }
+}

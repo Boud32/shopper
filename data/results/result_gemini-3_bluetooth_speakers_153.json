@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_150"
+    ],
+    "final_choice": "prod_bluetooth_speakers_129",
+    "reasoning_trace": "I filtered out accessories like cases, mounting shelves, and charging cables to focus on the actual speakers. My consideration set focuses on highly-rated, portable, and waterproof models. The JBL Go 3, INSMY, and JBL Clip 3 stood out for their exceptional average ratings and large review counts. The comiso and XENEO speakers were included for offering higher wattage and additional features like FM radio. I ultimately selected the JBL Go 3 as the final choice because of its high 4.7 rating and the strong reputation of JBL Pro Sound in a very compact, affordable, and durable IP67-rated form factor."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_153.json",
+    "offer_set_id": "bluetooth_speakers_153",
+    "timestamp": 1775594162,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

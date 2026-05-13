@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-fast",
+    "model": "gemini-3-fast",
+    "architecture": "frontend",
+    "session_position": 45,
+    "timestamp": 1776109944,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_045.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_071"
+    ],
+    "final_choice": "prod_bluetooth_speakers_071",
+    "reasoning": "I'm choosing the Bose SoundLink Color for its brand reliability and high rating at a mid-range price point."
+  }
+}

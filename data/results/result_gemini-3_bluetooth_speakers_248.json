@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_002",
+      "prod_bluetooth_speakers_021"
+    ],
+    "final_choice": "prod_bluetooth_speakers_195",
+    "reasoning_trace": "The product feed contains a high number of accessories like cases, straps, and chargers, which I filtered out to focus on actual speakers. My consideration set includes a range of options: the premium Bang & Olufsen Beosound A1, the high-value INSMY and EDUPLINK waterproof speakers, the compact JBL Clip 3, and the feature-rich Altec Lansing Soundbucket XL. I ultimately chose the Bang & Olufsen Beosound A1 (2nd Generation) because of its reputation for superior audio engineering, high 4.5-star rating across nearly 3,000 reviews, and premium build quality, making it the best long-term investment for portable high-fidelity sound."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_248.json",
+    "offer_set_id": "bluetooth_speakers_248",
+    "timestamp": 1775595812,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

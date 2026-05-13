@@ -1,0 +1,23 @@
+{
+  "experiment_id": "backpacks_purchase_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_173",
+      "prod_backpacks_071",
+      "prod_backpacks_015",
+      "prod_backpacks_102",
+      "prod_backpacks_062"
+    ],
+    "final_choice": "prod_backpacks_173",
+    "reasoning_trace": "The consideration set consists of backpacks with high ratings and positive reviews. The ZOMAKE Ultra Lightweight Hiking Backpack stands out due to its high rating, numerous positive reviews, and affordable price point. It is a practical choice for hiking and backpacking, making it the final choice."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_011.json",
+    "offer_set_id": "backpacks_011",
+    "timestamp": 1774974318,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

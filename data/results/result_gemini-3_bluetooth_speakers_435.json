@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping_32",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_177"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated a diverse set of speakers including high-end audiophile equipment and rugged portable units. While the Bang & Olufsen Beosound A1 (prod_bluetooth_speakers_195) is highly rated for sound quality, its premium price of $279 is a significant investment. Conversely, more affordable options like the JBL Clip 3 (prod_bluetooth_speakers_147) or the INSMY Waterproof (prod_bluetooth_speakers_128) are attractive for portability but have mixed feedback regarding long-term battery health or connectivity in their respective reviews. The INSMY Retro (prod_bluetooth_speakers_049) has great aesthetics but may lack the specialized outdoor durability I'm looking for. Finding that the premium options were slightly out of budget and the budget options had potential durability concerns, I decided to defer the purchase to research more robust mid-range options."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_435.json",
+    "offer_set_id": "bluetooth_speakers_435",
+    "timestamp": 1775604289,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

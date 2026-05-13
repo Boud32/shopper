@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 20,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_120.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_014",
+      "prod_protein_powder_065",
+      "prod_protein_powder_097",
+      "prod_protein_powder_017",
+      "prod_protein_powder_059"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions have weak offerings and the stronger candidates are spread across incompatible categories (weight gainer, plant-based, meal replacement) without a clear whey winner."
+  }
+}

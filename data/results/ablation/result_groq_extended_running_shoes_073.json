@@ -1,0 +1,23 @@
+{
+  "experiment_id": "running_shoes_recommendation",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_180",
+      "prod_running_shoes_186",
+      "prod_running_shoes_164",
+      "prod_running_shoes_149",
+      "prod_running_shoes_131"
+    ],
+    "final_choice": "prod_running_shoes_180",
+    "reasoning_trace": "The selected products are a mix of top-rated running shoes from well-known brands such as Adidas, Brooks, and ASICS. They have high overall ratings (4.4 or higher), a large number of reviews (over 400), and offer features that are desirable for running shoes like breathable mesh upper, cushioning systems, and durable outsoles. The final choice is the Adidas Performance Men's Galactic Elite M Running Shoe, which has a 4.4 rating, over 470 reviews, and features a breathable and flexible upper, ADIPRENE+ cushioning, and an ADIWEAR outsole for durability."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/running_shoes/running_shoes_073.json",
+    "offer_set_id": "running_shoes_073",
+    "timestamp": 1772641765,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "extended",
+    "k": 5
+  }
+}

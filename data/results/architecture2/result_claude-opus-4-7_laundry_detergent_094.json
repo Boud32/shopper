@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 44,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_094.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_021",
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_077",
+      "prod_laundry_detergent_225",
+      "prod_laundry_detergent_034"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are mostly expensive niche options (Kirkland liquid with 59 reviews, Tyler Candle, Ecos, Ultra Fresh, low-rated Ivory Snow); mainstream winners are all buried."
+  }
+}

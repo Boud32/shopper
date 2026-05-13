@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_running_shoes",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_070",
+      "prod_running_shoes_119",
+      "prod_running_shoes_075",
+      "prod_running_shoes_061",
+      "prod_running_shoes_135"
+    ],
+    "final_choice": "prod_running_shoes_119",
+    "reasoning_trace": "Based on the customer's need for running shoes, the consideration set was selected by filtering products with high ratings (>4.2) and a high number of reviews (>1000). From these, Brooks Women's Adrenaline GTS 22 Supportive Running Shoe was chosen as the final product due to its high rating (4.5), large number of reviews (9559), and its specific features for running support."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/running_shoes/running_shoes_024.json",
+    "offer_set_id": "running_shoes_024",
+    "timestamp": 1772641552,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "no_reviews",
+    "k": 5
+  }
+}

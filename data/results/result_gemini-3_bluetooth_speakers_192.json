@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_session_131",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_045"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I am looking for a high-quality, reliable portable speaker for outdoor use. My consideration set focuses on well-known brands like JBL and Altec Lansing, as well as high-rated alternatives like Comiso. The JBL Clip 3 and Go 3 are excellent for portability, but I'm concerned they won't provide enough volume for a larger outdoor gathering. The JBL Charge 4 is the ideal size and power level, but at $89.95, I am hesitant to buy a 'Renewed' unit rather than a brand-new one with a full warranty. The Comiso 30W speaker offers the power I want at a good price, but the 'Dead on Arrival' reviews make me wary of its long-term durability. Given that I'm specifically looking for a new, mid-sized speaker with high-fidelity sound, none of the options currently in stock perfectly meet my criteria at the right price point."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_192.json",
+    "offer_set_id": "bluetooth_speakers_192",
+    "timestamp": 1775594790,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

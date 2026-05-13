@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 44,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_094.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_199",
+      "prod_conditioner_088",
+      "prod_conditioner_287",
+      "prod_conditioner_219"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Garnier Whole Blends at pos 1 with 4.7/8,445 reviews is the strongest overall pick \u2014 best combination of price, reviews, and mainstream appeal."
+  }
+}

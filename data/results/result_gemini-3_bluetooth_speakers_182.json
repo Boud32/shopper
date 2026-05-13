@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_purchase",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_037",
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_045"
+    ],
+    "final_choice": "prod_bluetooth_speakers_195",
+    "reasoning_trace": "I was looking for a high-quality Bluetooth speaker with a balance of portability and superior sound quality. I narrowed my search to five models across different price points. I excluded the Bose SoundDock (prod_bluetooth_speakers_088) because it utilizes an obsolete 30-pin connector. The Sonos (prod_bluetooth_speakers_034) was too expensive and had restrictive software limitations mentioned in reviews. Within my consideration set, the Sony (prod_bluetooth_speakers_144) had concerning reviews regarding its app connectivity, and the Edifier (prod_bluetooth_speakers_037) was more of a stationary desktop system than a portable one. The Bang & Olufsen Beosound A1 (prod_bluetooth_speakers_195) stood out as a premium choice with highly positive feedback on its audiophile-grade sound quality, built-in microphone for speakerphone use, and durable waterproof design, making it worth the investment."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_182.json",
+    "offer_set_id": "bluetooth_speakers_182",
+    "timestamp": 1775594654,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

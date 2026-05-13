@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_101",
+      "prod_backpacks_107",
+      "prod_backpacks_003",
+      "prod_backpacks_043",
+      "prod_backpacks_159"
+    ],
+    "final_choice": "prod_backpacks_107",
+    "reasoning_trace": "The customer was looking for a durable and versatile backpack suitable for outdoor activities. They evaluated a range of options: a premium but expensive Osprey pack, a lightweight sling, and three mid-range hiking/tactical backpacks. The Hebetag (prod_backpacks_101) was ruled out due to a specific review mentioning the straps tearing within a week. The Osprey (prod_backpacks_003) was deemed too expensive given the flimsy suspension mentioned in feedback. While the KAILAS (prod_backpacks_043) looked promising as a frame pack, it lacked sufficient long-term user reviews. The Seibertron Falcon (prod_backpacks_107) was selected as the winner because of its excellent balance of cost and high reliability, backed by over 2,900 reviews and a strong 4.6-star rating, making it the most trusted choice for a serious outdoor pack."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_002.json",
+    "offer_set_id": "backpacks_002",
+    "timestamp": 1774977644,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

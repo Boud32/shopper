@@ -1,0 +1,23 @@
+{
+  "experiment_id": "shopping_session_bt_speakers_24",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_049"
+    ],
+    "final_choice": "prod_bluetooth_speakers_137",
+    "reasoning_trace": "I am looking for a high-quality, reliable portable speaker that balances price with performance. In my consideration set, I included budget-friendly options like EDUPLINK, an aesthetic wooden option from INSMY, and premium models from Bose, JBL, and Bang & Olufsen. While the Bang & Olufsen is highly rated, its $279 price point is steep for a portable unit. The JBL Flip 5 (Renewed) is a great value but comes with the risk of being a refurbished product. Ultimately, I chose the Bose SoundLink Color II because it carries a trusted brand name with over 60,000 reviews and a strong 4.6-star rating, ensuring consistent sound quality and durability for long-term use."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_437.json",
+    "offer_set_id": "bluetooth_speakers_437",
+    "timestamp": 1775604319,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

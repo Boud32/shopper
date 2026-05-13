@@ -1,0 +1,23 @@
+{
+  "experiment_id": "realistic_shopping_bluetooth_speakers",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_049"
+    ],
+    "final_choice": "prod_bluetooth_speakers_116",
+    "reasoning_trace": "I filtered the list to exclude accessories like cases, cables, and shelves, focusing on standalone speakers. My consideration set includes a mix of premium brands (Harman Kardon, JBL), mid-range feature-rich options (DOSS, INSMY Retro), and a budget waterproof option (INSMY Portable). The JBL Flip 5 is a strong contender but being a 'Renewed' product with some negative reviews regarding battery longevity made me hesitant. The DOSS and INSMY options offer good value, but for a primary speaker, audio quality is paramount. I selected the Harman Kardon Onyx Studio 6 because it has a high rating (4.7) from over 2,000 reviews, specifically highlighting its 'ton of thump' and clear music quality, making it worth the premium price point compared to the other options."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_022.json",
+    "offer_set_id": "bluetooth_speakers_022",
+    "timestamp": 1775590891,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

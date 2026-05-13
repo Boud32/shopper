@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping_simulation",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_068",
+      "prod_backpacks_006",
+      "prod_backpacks_125",
+      "prod_backpacks_154",
+      "prod_backpacks_051"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "In evaluating the available backpacks, I prioritized finding a balance between durability, ergonomics, and value. The High Sierra Pathway 70L (prod_backpacks_068) offered the capacity needed for serious trekking, but a detailed review highlighted significant issues with hip support and back pain, which is a deal-breaker for a large internal frame pack. The USWE Hajker (prod_backpacks_125) is a high-quality technical piece, but at over $200 with only one review, the risk regarding its specialized fit was too high. The HIKPRO (prod_backpacks_006) and MOSISO (prod_backpacks_051) are decent for light use, but were too small or lacked the structure for a primary backpack. The TOURIT cooler backpack (prod_backpacks_154) had concerning reports of leaking and zipper failure. Because none of the full-sized or technical options offered a convincing combination of verified comfort and build quality, I decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_373.json",
+    "offer_set_id": "backpacks_373",
+    "timestamp": 1775597824,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

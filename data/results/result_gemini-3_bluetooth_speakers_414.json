@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_103",
+      "prod_bluetooth_speakers_072"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several high-rated portable speakers, specifically the JBL Flip 5 and JBL Clip 3, which have excellent reputation and review counts. I also looked at mid-range alternatives like the DOSS SoundBox Pro+ and the Ortizan 40W speaker for better power-to-price ratios. While the JBL products are reliable, they are currently at the top end of the budget for their specs. The cheaper alternatives, while powerful, have mixed reviews concerning battery consistency and pairing reliability (especially the Ortizan). Since I am looking for a speaker that specifically balances high wattage (30W+) with a flawless waterproof reputation and long-term battery reliability for outdoor use, I feel none of the current options perfectly meet my criteria at their current prices. I will wait for a sale or further research other brands."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_414.json",
+    "offer_set_id": "bluetooth_speakers_414",
+    "timestamp": 1775603970,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

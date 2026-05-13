@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_192",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_030",
+      "prod_bluetooth_speakers_045",
+      "prod_bluetooth_speakers_190"
+    ],
+    "final_choice": "prod_bluetooth_speakers_192",
+    "reasoning_trace": "I evaluated a variety of options ranging from high-end home audio to rugged outdoor speakers. The Sonos Two Room Set (prod_030) is the highest quality but represent a substantial investment. The EDUPLINK (prod_051) and Altec Lansing (prod_045) are solid waterproof choices. However, the EWA A106 Pro (prod_192) is the standout choice for a portable speaker. Its combination of an extremely high volume of positive social proof (nearly 40,000 reviews), a high rating, ultra-portable design with a carrying case, and a very low price makes it an unbeatable value for a secondary or travel speaker."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_445.json",
+    "offer_set_id": "bluetooth_speakers_445",
+    "timestamp": 1775604429,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_session_25",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_173",
+      "prod_backpacks_050",
+      "prod_backpacks_164",
+      "prod_backpacks_002",
+      "prod_backpacks_089"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was searching for a reliable, multi-purpose backpack, but the search results were cluttered with irrelevant items like tents, camping stoves, and paddleboards. Among the actual backpacks, the highly-rated ZOMAKE (prod_backpacks_173) is a packable daypack, which lacks the durability I need for daily use. The tactical options (prod_backpacks_050 and prod_backpacks_164) have mixed reviews concerning build quality, specifically regarding zippers and buckles breaking after just a few months. Given the lack of a high-quality, durable standard backpack in the results, I have decided not to make a purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_267.json",
+    "offer_set_id": "backpacks_267",
+    "timestamp": 1775596116,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_session_46",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_083",
+      "prod_bluetooth_speakers_061",
+      "prod_bluetooth_speakers_040",
+      "prod_bluetooth_speakers_048"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "My objective was to find a high-quality, durable portable speaker. I seriously considered the JBL Flip 5 (Renewed), but a detailed look at the reviews revealed concerns about it being a refurbished unit, with one user specifically mentioning it stopped holding a charge after six months. The JBL Pulse 4 is attractive but priced quite high at nearly $200. The mid-range options, such as the DOSS Traveler and Altec Lansing HydraMotion, had mixed reviews regarding volume output and long-term reliability. Furthermore, a large portion of the product feed consisted of accessories (cases and cables) rather than actual speakers, making the available selection for my specific needs feel thin. I have decided to postpone my purchase until I can find a new-condition speaker from a premium brand at a better value."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_450.json",
+    "offer_set_id": "bluetooth_speakers_450",
+    "timestamp": 1775604519,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

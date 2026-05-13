@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_session_25",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_051"
+    ],
+    "final_choice": null,
+    "reasoning_trace": "I was looking for a reliable, brand-new mid-range or high-end portable speaker. While the JBL Charge 4 and Flip 5 are excellent models, both units available in the feed are 'Renewed' (refurbished), and I have concerns about battery longevity in pre-owned wireless devices. The Harman Kardon Onyx Studio 6 is powerful but its form factor is too bulky and heavy for my portability requirements. The Bang & Olufsen A1 is a premium speaker but at $279, it exceeds my current budget for a single portable driver. The budget options like EDUPLINK, while well-rated, don't meet the audio fidelity standards I'm looking for. Consequently, I decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_122.json",
+    "offer_set_id": "bluetooth_speakers_122",
+    "timestamp": 1775593729,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

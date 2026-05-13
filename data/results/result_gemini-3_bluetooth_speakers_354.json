@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_131",
+      "prod_bluetooth_speakers_153"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "During this shopping session, I evaluated several high-quality options including the JBL Flip 5, Sony SRS-XB43, and the premium Bang & Olufsen Beosound A1. However, the browsing experience was hampered by a high volume of irrelevant accessories in the product feed, such as travel cases, wall shelves, and replacement power cords, which occupied nearly 30% of the top results. While the JBL Flip 5 is a strong mid-range contender, I am more inclined toward the superior audio quality of the Bang & Olufsen Beosound A1. Given its current price point of $279, I have decided to postpone my purchase until a promotional discount is available or I have compared it against more recent model releases like the JBL Flip 6."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_354.json",
+    "offer_set_id": "bluetooth_speakers_354",
+    "timestamp": 1775597731,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

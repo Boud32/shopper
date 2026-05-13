@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus",
+    "model": "claude-opus-4-6",
+    "architecture": "frontend",
+    "session_position": 25,
+    "timestamp": 1776109205,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_025.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_020",
+      "prod_bluetooth_speakers_048",
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_008"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "This set is dominated by accessories, cases, and cables with the actual speakers being ones I've seen repeatedly \u2014 nothing new or exciting catches my eye here."
+  }
+}

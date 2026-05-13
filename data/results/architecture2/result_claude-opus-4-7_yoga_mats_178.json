@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 28,
+    "timestamp": 1776691125,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_178.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_101",
+      "prod_yoga_mats_118",
+      "prod_yoga_mats_095"
+    ],
+    "final_choice": "prod_yoga_mats_054",
+    "reasoning": "ProsourceFit at position 2 with $31.99, 4.7 stars, and 8,850 reviews wins on price-quality among a very strong top."
+  }
+}

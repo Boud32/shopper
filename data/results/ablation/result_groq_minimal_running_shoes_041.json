@@ -1,0 +1,23 @@
+{
+  "experiment_id": "running_shoes_recommendation",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_180",
+      "prod_running_shoes_105",
+      "prod_running_shoes_192",
+      "prod_running_shoes_153",
+      "prod_running_shoes_063"
+    ],
+    "final_choice": "prod_running_shoes_180",
+    "reasoning_trace": "Selected the top 5 products based on their high ratings, large number of reviews, and relevance to the 'Running Shoes' category. The final choice, 'prod_running_shoes_180', is a highly-rated product from a well-known brand (adidas) with a large number of reviews, making it a reliable option for the customer."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/running_shoes/running_shoes_041.json",
+    "offer_set_id": "running_shoes_041",
+    "timestamp": 1772641211,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "minimal",
+    "k": 5
+  }
+}

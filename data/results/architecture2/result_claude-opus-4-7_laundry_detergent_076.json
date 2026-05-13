@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 26,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_076.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_256",
+      "prod_laundry_detergent_030",
+      "prod_laundry_detergent_293",
+      "prod_laundry_detergent_265",
+      "prod_laundry_detergent_044"
+    ],
+    "final_choice": "prod_laundry_detergent_030",
+    "reasoning": "Seventh Generation Concentrated at position 2, $14.99 with 4.6/9,493 reviews \u2014 strong brand, fair price, high visibility."
+  }
+}

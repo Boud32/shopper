@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 22,
+    "timestamp": 1776691125,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_122.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_040",
+      "prod_yoga_mats_043",
+      "prod_yoga_mats_120"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (Life Energy with 8 reviews, nuveti, ZenHeart) and while BalanceFrom is at position 3, the search overall lacks a dominant compelling pick."
+  }
+}

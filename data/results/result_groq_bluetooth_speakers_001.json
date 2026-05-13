@@ -1,0 +1,23 @@
+{
+  "experiment_id": "Bluetooth_Speakers",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_032",
+      "prod_bluetooth_speakers_011",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_168",
+      "prod_bluetooth_speakers_120"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "After evaluating the products, the customer decided not to make a purchase. The consideration set included a variety of Bluetooth speakers with different features, prices, and ratings. However, none of the products met the customer's expectations or needs, leading to a 'no_purchase' decision."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_001.json",
+    "offer_set_id": "bluetooth_speakers_001",
+    "timestamp": 1774973615,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

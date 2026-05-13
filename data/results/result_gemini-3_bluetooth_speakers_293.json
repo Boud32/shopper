@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_browsing_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_040"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The product feed is heavily saturated with accessories such as travel cases (091, 031, 006), charging cables (065, 178), and wall mounts (090), which significantly narrowed the actual speaker options. Among the speakers, the JBL Flip 5 (001) is a 'Renewed' product with specific negative reviews regarding battery longevity, making it a risky purchase. The Sony SRS-XB43 (181) is high quality but quite expensive and bulky for a portable use case. While the Raymate (153) and INSMY (049) models offer interesting specs, I prefer to wait for a brand-new model from a major brand (like a non-renewed JBL or Bose) at a better price point before committing to a purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_293.json",
+    "offer_set_id": "bluetooth_speakers_293",
+    "timestamp": 1775596576,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

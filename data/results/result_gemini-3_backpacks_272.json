@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_session_186",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_008",
+      "prod_backpacks_057",
+      "prod_backpacks_128",
+      "prod_backpacks_160",
+      "prod_backpacks_194"
+    ],
+    "final_choice": "prod_backpacks_057",
+    "reasoning_trace": "The shopper is presented with a diverse product feed that includes a high volume of non-backpack items such as camping food, tents, and rifle accessories. Within the relevant backpack results, the selection is predominantly specialized, featuring dry bags, cooler backpacks, mesh bags, and tactical rucksacks. To form a consideration set, I selected the highest-performing item from each functional sub-category: HEETA's dry bag for water sports, QT&QY's tactical pack for travel/hiking, adidas's mesh bag for gym use, FISKINER's fishing-specific backpack, and FORICH's cooler backpack. The QT&QY 45L Military Tactical Backpack (prod_backpacks_057) is the final choice due to its exceptional value and social proof, boasting a 4.7-star rating over 6,000 reviews, which outweighs the more niche functionality or lower review counts of the other considered products."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_272.json",
+    "offer_set_id": "backpacks_272",
+    "timestamp": 1775596205,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

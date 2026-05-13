@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 33,
+    "timestamp": 1776691125,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_133.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_149",
+      "prod_yoga_mats_140",
+      "prod_yoga_mats_158"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top position is a generic alignment mat and the strong picks (Heathyoga, CAMBIVO, Manduka) are scattered mid-list \u2014 nothing commanding enough to warrant a purchase."
+  }
+}

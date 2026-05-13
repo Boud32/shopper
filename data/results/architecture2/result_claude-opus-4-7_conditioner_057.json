@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 7,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_057.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_023",
+      "prod_conditioner_196",
+      "prod_conditioner_199"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle at $17.99 with 4.7/5,134 reviews is the strongest general pick at a great price."
+  }
+}

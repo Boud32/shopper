@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_session",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_037"
+    ],
+    "final_choice": "prod_bluetooth_speakers_174",
+    "reasoning_trace": "In this session, I evaluated a mix of high-end stationary systems, established portable brands, and budget-friendly powerhouses. The Edifier S350DB is an excellent system but exceeded my budget for a portable solution. I looked at the Bose SoundLink Color II and the Renewed JBL Flip 5; however, the Bose is a bit dated for the price, and the JBL reviews raised concerns about long-term battery retention in refurbished units. Between the DOSS SoundBox Pro+ and the BOGASING M4, the BOGASING stood out for offering 40W of power and IPX7 waterproofing at a lower price point ($64.99). The reviews specifically highlighted its impressive bass performance and solid build quality, making it the most attractive value proposition in the consideration set."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_283.json",
+    "offer_set_id": "bluetooth_speakers_283",
+    "timestamp": 1775596425,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

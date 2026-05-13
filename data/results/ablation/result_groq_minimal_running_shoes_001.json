@@ -1,0 +1,23 @@
+{
+  "experiment_id": "running_shoes_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_059",
+      "prod_running_shoes_194",
+      "prod_running_shoes_124",
+      "prod_running_shoes_116",
+      "prod_running_shoes_193"
+    ],
+    "final_choice": "prod_running_shoes_194",
+    "reasoning_trace": "Selected products based on highest rating and review count. Considered products from reputable brands such as ASICS and Brooks. Final choice, prod_running_shoes_194, has a high rating of 4.6 and a significant number of reviews, indicating a reliable and high-quality running shoe option."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/running_shoes/running_shoes_001.json",
+    "offer_set_id": "running_shoes_001",
+    "timestamp": 1772641168,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "minimal",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_purchase_behavior_001",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_096",
+      "prod_backpacks_137",
+      "prod_backpacks_122",
+      "prod_backpacks_041",
+      "prod_backpacks_102"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The browsing session was frustrated by a product feed heavily cluttered with non-backpack items such as camping stoves, sleeping pads, and lanterns. Among the actual backpacks considered, significant quality concerns were identified: the Granite Gear Virga 2 had multiple reviews citing shoulder straps breaking in wet conditions, and the Mardingtop hiking pack received feedback regarding low-quality materials. While the Maxpedition Falcon-III is a high-quality product, its high price and specific tactical design did not align with the shopper's preference for a general-purpose pack. The remaining options were either too niche (baseball-specific) or too small (sling bag), leading to a decision to defer the purchase until a more suitable general-purpose option is found."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_409.json",
+    "offer_set_id": "backpacks_409",
+    "timestamp": 1775598461,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

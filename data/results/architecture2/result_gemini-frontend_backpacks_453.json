@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 453,
+    "timestamp": 1776098609,
+    "source_batch": "data/offer_sets/backpacks/backpacks_453.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_044",
+      "prod_backpacks_053",
+      "prod_backpacks_160",
+      "prod_backpacks_180",
+      "prod_backpacks_150"
+    ],
+    "final_choice": "prod_backpacks_044",
+    "reasoning": "The MSR PocketRocket Ultralight Camping and Backpackin stands out for its high rating and balanced price-to-feature ratio."
+  }
+}

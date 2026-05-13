@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_session",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_061"
+    ],
+    "final_choice": "prod_bluetooth_speakers_129",
+    "reasoning_trace": "I am looking for a reliable, portable, and waterproof Bluetooth speaker for outdoor use. My consideration set focused on reputable brands and speakers with high ratings. The JBL Go 3 stands out because it has a very high rating of 4.7 with over 500 reviews, is from a trusted brand (JBL), and offers an IP67 rating at a very reasonable price of $39.99. While the JBL Clip 3 is also excellent, the Go 3 provides a more modern design at a lower cost. I considered the BOGASING M4 for its power, but the compact reliability of the JBL Go 3 makes it the preferred choice for a portable setup. I avoided the accessories (cases and cables) and the less-reliable DOSS Traveler which had reviews mentioning it died after 2 months."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_326.json",
+    "offer_set_id": "bluetooth_speakers_326",
+    "timestamp": 1775597133,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

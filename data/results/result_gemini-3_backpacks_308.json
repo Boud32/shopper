@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_simulation_1",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_102",
+      "prod_backpacks_050",
+      "prod_backpacks_173",
+      "prod_backpacks_041",
+      "prod_backpacks_137"
+    ],
+    "final_choice": "prod_backpacks_173",
+    "reasoning_trace": "I filtered the list for actual backpacks, excluding accessories like chairs and stoves. My consideration set includes a mix of slings (TUDEQU), tactical packs (G4Free), lightweight daypacks (ZOMAKE), and larger internal frame hiking packs (Granite Gear, Mardingtop). I decided to purchase the ZOMAKE Ultra Lightweight 20L backpack. It has an exceptional number of reviews (nearly 15,000) with a high 4.6 rating, and at under $15, it represents excellent value for a packable daypack that is well-suited for travel and day trips. The high social proof and low price point made it the most attractive option among the set."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_308.json",
+    "offer_set_id": "backpacks_308",
+    "timestamp": 1775596804,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_3",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_072",
+      "prod_bluetooth_speakers_021",
+      "prod_bluetooth_speakers_002",
+      "prod_bluetooth_speakers_151"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several speakers across different price points and use cases. The JBL Charge 5 (prod_bluetooth_speakers_120) is highly rated but quite expensive, and reviews mention it cannot pair with older JBL models, which is a drawback for my existing ecosystem. The Altec Lansing Soundbucket (prod_bluetooth_speakers_021) has great features like Qi charging, but a concerning review about it filling with water while floating makes me doubt its IP67 reliability. The more affordable options like the HyperGear (prod_bluetooth_speakers_072) and MusiBaby (prod_bluetooth_speakers_151) offer good value, but I am looking for a primary speaker with higher fidelity. Given the specific concerns regarding compatibility and build quality in the reviews of the premium models, I have decided not to make a purchase during this session and will wait for a better discount or a more consistent product."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_038.json",
+    "offer_set_id": "bluetooth_speakers_038",
+    "timestamp": 1775591142,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

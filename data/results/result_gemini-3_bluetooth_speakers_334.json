@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_192",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_177"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The search results were heavily cluttered with non-speaker items such as AC adapters, replacement batteries, carrying cases, and handle straps, which made the browsing experience frustrating. While there were a few strong candidates like the JBL Clip 3 and the INSMY speaker, the JBL was only available in Dusty Pink and the JBL Flip 5 was a renewed unit with mixed reviews regarding battery longevity. Given the high percentage of irrelevant accessory results and limited variety in new, name-brand portable speakers in standard colors, I decided to defer my purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_334.json",
+    "offer_set_id": "bluetooth_speakers_334",
+    "timestamp": 1775597275,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

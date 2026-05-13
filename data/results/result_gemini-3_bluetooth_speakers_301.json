@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_150",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_103",
+      "prod_bluetooth_speakers_061"
+    ],
+    "final_choice": "prod_bluetooth_speakers_150",
+    "reasoning_trace": "In my search for a portable Bluetooth speaker, I filtered out the many accessories (cases and adapters) and specialty items (hats/alarm clocks) to focus on dedicated audio units. My consideration set included the XENEO X21, the comiso 30W, the premium Bose SoundLink Color, the high-power Ortizan 40W, and the rugged DOSS Traveler. I ultimately chose the XENEO X21 because it balances high-quality sound with versatile features like an FM radio and SD card slot, all at a very reasonable price point. With over 5,000 reviews and a strong 4.4 rating, it felt like the most reliable value-driven purchase compared to others that had reports of being DOA or having distorted bass at high volumes."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_301.json",
+    "offer_set_id": "bluetooth_speakers_301",
+    "timestamp": 1775596696,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

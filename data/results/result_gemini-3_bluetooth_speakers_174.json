@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_session",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_177",
+      "prod_bluetooth_speakers_009",
+      "prod_bluetooth_speakers_143",
+      "prod_bluetooth_speakers_047"
+    ],
+    "final_choice": "prod_bluetooth_speakers_173",
+    "reasoning_trace": "I filtered the list for actual speakers, excluding power cables and cases. My consideration set includes a mix of powerful outdoor options (comiso and TENMIYA), a reliable brand name (JBL), a rugged larger unit (Altec Lansing), and a highly-reviewed budget pick (LENRUE). I ultimately chose the comiso (prod_bluetooth_speakers_173) because it offers a high power output (30W), IPX7 waterproofing, and excellent battery life (24 hours) for a very reasonable price of $35.99. It strikes the best balance between performance specifications and value among the options."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_174.json",
+    "offer_set_id": "bluetooth_speakers_174",
+    "timestamp": 1775594506,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

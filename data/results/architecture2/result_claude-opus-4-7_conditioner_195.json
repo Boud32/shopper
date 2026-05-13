@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 45,
+    "timestamp": 1776689267,
+    "source_batch": "data/offer_sets/conditioner/conditioner_195.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_023",
+      "prod_conditioner_169",
+      "prod_conditioner_218",
+      "prod_conditioner_245"
+    ],
+    "final_choice": "prod_conditioner_170",
+    "reasoning": "Dove Nutritive Solutions 4-pack at $23.95 with 4.7\u2605/1192 reviews at position 3 offers outstanding value from a trusted mass-market brand."
+  }
+}

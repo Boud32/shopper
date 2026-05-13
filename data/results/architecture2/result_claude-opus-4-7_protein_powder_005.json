@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "",
+    "architecture": "frontend",
+    "session_position": 5,
+    "timestamp": 1776377218,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_005.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_076",
+      "prod_protein_powder_014",
+      "prod_protein_powder_158",
+      "prod_protein_powder_169",
+      "prod_protein_powder_020"
+    ],
+    "final_choice": "prod_protein_powder_076",
+    "reasoning": "Jay Robb Egg White Protein has outstanding 4.6 stars from 4,750 reviews at $31.64, clean low-carb formula fits well for most uses."
+  }
+}

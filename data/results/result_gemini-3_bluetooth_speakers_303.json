@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_session",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_173"
+    ],
+    "final_choice": "prod_bluetooth_speakers_147",
+    "reasoning_trace": "I evaluated the options based on sound quality reputation, brand reliability, and overall value. The consideration set includes a mix of premium brands (Bose), high-performance budget options (Raymate and Comiso), aesthetic choices (INSMY), and reliable portable options (JBL). I decided to purchase the JBL Clip 3 (prod_bluetooth_speakers_147) because it has an exceptionally high rating with a massive number of reviews (68,881), demonstrating long-term reliability and satisfaction. While the Bose is tempting for its audio fidelity, the portability and proven weather resistance of the Clip 3 make it the most practical choice for my needs at a very reasonable price point."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_303.json",
+    "offer_set_id": "bluetooth_speakers_303",
+    "timestamp": 1775596747,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

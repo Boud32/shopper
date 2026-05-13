@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus",
+    "model": "claude-opus-4-6",
+    "architecture": "frontend",
+    "session_position": 37,
+    "timestamp": 1776109205,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_037.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_131",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_051"
+    ],
+    "final_choice": "prod_bluetooth_speakers_120",
+    "reasoning": "The JBL CHARGE 5 at $149.95 with 4.8 stars and 16,820 reviews is a premium portable speaker with IP67, long battery life, and powerbank capability."
+  }
+}

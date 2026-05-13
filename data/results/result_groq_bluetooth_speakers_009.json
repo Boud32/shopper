@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_1",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_072",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_089",
+      "prod_bluetooth_speakers_128"
+    ],
+    "final_choice": "prod_bluetooth_speakers_129",
+    "reasoning_trace": "The decision was based on the high rating and number of reviews of the products. The consideration set was chosen by selecting products with a high rating (above 4.5) and a large number of reviews (over 500). The final choice was made by selecting the product with the highest rating and the most reviews, which is the JBL Go 3 Portable Waterproof Wireless IP67 Dustproof Outdoor Bluetooth Speaker (Blue)."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_009.json",
+    "offer_set_id": "bluetooth_speakers_009",
+    "timestamp": 1774973634,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

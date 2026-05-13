@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_173"
+    ],
+    "final_choice": "prod_bluetooth_speakers_120",
+    "reasoning_trace": "I am looking for a reliable, high-quality portable speaker for outdoor use. My consideration set focuses on well-known brands like JBL, Sony, and Bose, as well as a high-value budget option from comiso. I specifically looked at the JBL Charge 5, Sony XB43, and Bose SoundLink Color II. After reviewing the features and user feedback, I decided to purchase the JBL Charge 5 because of its superior rating (4.8), IP67 waterproof rating, and the 20-hour battery life which acts as a power bank, providing the best overall utility for travel and outdoor parties compared to the smaller Flip 5 or the more expensive Pulse 4."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_402.json",
+    "offer_set_id": "bluetooth_speakers_402",
+    "timestamp": 1775598507,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_browsing",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_160",
+      "prod_backpacks_078",
+      "prod_backpacks_072",
+      "prod_backpacks_182",
+      "prod_backpacks_150"
+    ],
+    "final_choice": "prod_backpacks_078",
+    "reasoning_trace": "The search for backpacks yielded several non-backpack items like cooking gear, towels, and tent stakes. After filtering for actual backpacks, the Gelindo 18L Hiking Hydration Backpack (prod_backpacks_078) appeared to be the strongest choice due to its high average rating of 4.7 and a significant volume of positive reviews. While the Rawlings baseball bag was also highly rated, it is more specialized and more expensive. The Gelindo offers the best versatility for hiking and daily use at a reasonable price point of $31.49."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_269.json",
+    "offer_set_id": "backpacks_269",
+    "timestamp": 1775596145,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_19",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_099",
+      "prod_backpacks_102",
+      "prod_backpacks_128",
+      "prod_backpacks_186",
+      "prod_backpacks_169"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The search results for backpacks were heavily diluted with unrelated outdoor equipment, including camping chairs, tent stakes, stoves, and travel towels, which made browsing frustrating. Among the actual backpacks available, several were too specialized for my needs, such as the Rawlings baseball bag and the Transpack ski boot bag. While the ZOMAKE and adidas bags were decent options, the ZOMAKE is a ultra-light packable design that lacks the structural support I want for a primary backpack, and the adidas mesh design is impractical for weather protection. I am looking for a standard, durable, high-quality daypack, and since none of the options perfectly fit that criteria, I decided to wait for better inventory."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_070.json",
+    "offer_set_id": "backpacks_070",
+    "timestamp": 1775590816,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

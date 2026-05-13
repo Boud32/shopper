@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 13,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_063.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_040",
+      "prod_conditioner_194",
+      "prod_conditioner_245",
+      "prod_conditioner_184"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by niche thinning-hair products and thin-review items \u2014 nothing at the top has clear mainstream value."
+  }
+}

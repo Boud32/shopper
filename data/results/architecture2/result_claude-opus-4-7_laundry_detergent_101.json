@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 1,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_101.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_145",
+      "prod_laundry_detergent_039",
+      "prod_laundry_detergent_062",
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_021"
+    ],
+    "final_choice": "prod_laundry_detergent_145",
+    "reasoning": "Persil at position 4 with 4.8\u2605 and 25k reviews at $15.99 for 64 loads is a top-tier mainstream detergent at a strong price in a highly visible slot."
+  }
+}

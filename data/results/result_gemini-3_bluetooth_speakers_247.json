@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_158",
+      "prod_bluetooth_speakers_135",
+      "prod_bluetooth_speakers_168"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The search results were heavily saturated with accessories such as replacement cables, batteries, and wall shelves, making it difficult to find a wide variety of high-quality standalone speakers. While the JBL Clip 3 is a highly-rated and reliable portable option, its price point is somewhat high for a previous-generation model. The premium options from Audio Pro and Sonos represent a significant price jump into the hundreds of dollars. The remaining mid-range options, such as those from comiso and Rerii, had concerning reviews regarding low volume and potential 'dead on arrival' hardware issues. Given the mix of overpriced legacy products and questionable reliability in the budget brands, no single product offered a compelling enough value to justify a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_247.json",
+    "offer_set_id": "bluetooth_speakers_247",
+    "timestamp": 1775595802,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

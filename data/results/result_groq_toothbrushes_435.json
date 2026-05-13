@@ -1,0 +1,23 @@
+{
+  "experiment_id": "toothbrush_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_163",
+      "prod_toothbrushes_062",
+      "prod_toothbrushes_159",
+      "prod_toothbrushes_064",
+      "prod_toothbrushes_166"
+    ],
+    "final_choice": "prod_toothbrushes_163",
+    "reasoning_trace": "The customer is looking for a toothbrush, and the consideration set includes a variety of options. The HDP Crystal Soft Toothbrush (prod_toothbrushes_163) is chosen as the final choice due to its high rating (4.7), low price ($8.99), and positive reviews. It also comes in a pack of 4, which could be convenient for the customer."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_435.json",
+    "offer_set_id": "toothbrushes_435",
+    "timestamp": 1772825594,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_045",
+      "prod_bluetooth_speakers_192",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_131"
+    ],
+    "final_choice": "prod_bluetooth_speakers_166",
+    "reasoning_trace": "I started by filtering out several items in the feed that were accessories (cases, batteries, stands) rather than speakers. Within the actual speakers, I looked for a mix of budget, aesthetic, and high-performance options. The JBL Flip 5 (prod_bluetooth_speakers_166) is the clear winner for its balance of high ratings (4.8), immense social proof (over 68,000 reviews), and proven durability. While the JBL Pulse 4 is visually stunning, its $249 price point is high for a portable unit. The Altec Lansing and EWA mini speakers are excellent value propositions, but the sound quality and brand reliability of a new Flip 5 at under $90 make it the most compelling purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_471.json",
+    "offer_set_id": "bluetooth_speakers_471",
+    "timestamp": 1775604841,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-fast",
+    "model": "gemini-3-fast",
+    "architecture": "frontend",
+    "session_position": 46,
+    "timestamp": 1776109944,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_046.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_003"
+    ],
+    "final_choice": "prod_bluetooth_speakers_003",
+    "reasoning": "The JBL Flip 6's modern specifications and high rating make it a standout choice for a new portable speaker."
+  }
+}

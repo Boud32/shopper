@@ -1,0 +1,23 @@
+{
+  "experiment_id": "mech_keyboards",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_119",
+      "prod_mechanical_keyboards_128",
+      "prod_mechanical_keyboards_168",
+      "prod_mechanical_keyboards_180",
+      "prod_mechanical_keyboards_194"
+    ],
+    "final_choice": "prod_mechanical_keyboards_194",
+    "reasoning_trace": "Based on the provided product feed, I have selected a consideration set of 5 products that best meet the customer's needs for mechanical keyboards. The final choice, 'KINESIS USB-A Freestyle Pro Quiet Ergonomic Split Mechanical Keyboard', stands out due to its high rating of 4.4, numerous positive reviews highlighting its ergonomic design, quiet operation, and overall quality. Although it's one of the more expensive options, its features and user satisfaction make it a strong candidate for someone looking for a high-quality mechanical keyboard."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_077.json",
+    "offer_set_id": "mechanical_keyboards_077",
+    "timestamp": 1772654266,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

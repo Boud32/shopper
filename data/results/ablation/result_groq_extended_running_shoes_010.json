@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_placeholder",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_198",
+      "prod_running_shoes_064",
+      "prod_running_shoes_072",
+      "prod_running_shoes_080",
+      "prod_running_shoes_128"
+    ],
+    "final_choice": "prod_running_shoes_198",
+    "reasoning_trace": "Based on the customer's interest in running shoes, a consideration set of 5 products from well-known brands like ASICS was selected. The final choice, prod_running_shoes_198, is a high-rated product with a high number of reviews, indicating its popularity and quality. Its features such as balance of cushioning and stability, dynamic duomax and guidance trusstic system, and gel cushioning systems make it a great choice for runners. The price is also reasonable compared to other similar products."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/running_shoes/running_shoes_010.json",
+    "offer_set_id": "running_shoes_010",
+    "timestamp": 1772641548,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "extended",
+    "k": 5
+  }
+}

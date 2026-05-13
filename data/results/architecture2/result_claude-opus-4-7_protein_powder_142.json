@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 42,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_142.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_067",
+      "prod_protein_powder_033",
+      "prod_protein_powder_173",
+      "prod_protein_powder_092",
+      "prod_protein_powder_057"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The page lacks a strong mainstream whey standout at top positions, with the leaders all at 4.5\u2605 or below with modest review bases."
+  }
+}

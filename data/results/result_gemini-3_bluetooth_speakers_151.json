@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_bt_speakers_25",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_051"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "In this session, I was looking for a high-quality portable speaker. I narrowed my search to five models ranging from the premium JBL Charge 5 and Bang & Olufsen Beosound A1 to more affordable options like Raymate and EDUPLINK. While the high-end speakers have excellent ratings, they are a significant investment (up to $279). Conversely, the mid-range and budget speakers, while well-reviewed overall, had specific negative reviews mentioning durability issues (dead on arrival or failure after 10 days) and sound quality inconsistencies. Additionally, the browsing experience was heavily cluttered with non-speaker items like replacement batteries, cases, and power cords, which made it difficult to compare features across a broad range of actual speakers. Given the high price of the reliable premium brands and the reliability concerns of the budget alternatives, I have decided not to make a purchase at this time."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_151.json",
+    "offer_set_id": "bluetooth_speakers_151",
+    "timestamp": 1775594137,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

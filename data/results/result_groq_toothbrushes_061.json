@@ -1,0 +1,23 @@
+{
+  "experiment_id": "toothbrush_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_142",
+      "prod_toothbrushes_085",
+      "prod_toothbrushes_032",
+      "prod_toothbrushes_039",
+      "prod_toothbrushes_197"
+    ],
+    "final_choice": "prod_toothbrushes_142",
+    "reasoning_trace": "The selected products are a mix of manual and electric toothbrushes with high ratings and positive reviews. prod_toothbrushes_142 is a manual toothbrush for kids with a high rating of 4.7 and over 3300 reviews, making it a great option for parents. prod_toothbrushes_085 is an eco-friendly toothbrush with charcoal-infused bristles and a biodegradable handle, appealing to environmentally conscious consumers. prod_toothbrushes_032 is a sonic-powered toothbrush with a compact head and polishing cups for effective cleaning. prod_toothbrushes_039 is a high-end electric toothbrush head with advanced features like gentle gum care and a long battery life. prod_toothbrushes_197 is a battery-operated toothbrush with charcoal-infused bristles for a whiter smile. The final choice, prod_toothbrushes_142, is selected due to its high rating, numerous reviews, and suitability for a wide range of customers, particularly parents looking for a reliable toothbrush for their kids."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_061.json",
+    "offer_set_id": "toothbrushes_061",
+    "timestamp": 1772653626,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

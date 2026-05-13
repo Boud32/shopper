@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_131",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_195"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "My consideration set focused on a range of portable speakers from reputable brands (Bose, JBL, Bang & Olufsen) as well as a well-reviewed budget wood option (INSMY). While the JBL Clip 3 and the B&O Beosound A1 are very strong contenders based on reviews, the overall shopping experience was hampered by a product feed heavily saturated with accessories like carrying cases, replacement straps, and power cords (roughly 30-40% of the items shown). This fragmentation, combined with reviews for the high-end models (Sony, Sonos, JBL Pulse) mentioning issues with software connectivity or battery longevity, led me to conclude that none of the options perfectly met my criteria for a reliable, standalone purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_098.json",
+    "offer_set_id": "bluetooth_speakers_098",
+    "timestamp": 1775592320,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_168"
+    ],
+    "final_choice": "prod_bluetooth_speakers_147",
+    "reasoning_trace": "I evaluated several Bluetooth speakers across different price points and use cases. My consideration set included a high-end home speaker (Harman Kardon), an aesthetic retro speaker (INSMY), and several rugged portable options. The JBL Clip 3 (prod_bluetooth_speakers_147) was the clear winner due to its exceptional rating (4.7) across an massive sample of over 68,000 reviews. Its combination of portability, waterproof certification, and the reliable JBL brand reputation makes it the most trustworthy purchase in this list for everyday use."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_477.json",
+    "offer_set_id": "bluetooth_speakers_477",
+    "timestamp": 1775604936,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

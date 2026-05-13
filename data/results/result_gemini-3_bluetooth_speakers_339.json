@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_103",
+      "prod_bluetooth_speakers_040",
+      "prod_bluetooth_speakers_003"
+    ],
+    "final_choice": "prod_bluetooth_speakers_153",
+    "reasoning_trace": "I evaluated the options based on a combination of sound output (wattage), durability (waterproofing), and customer feedback. The Ultimate Ears MEGABLAST was considered as a premium option, but the price-to-value ratio was dampened by complaints about Alexa integration. The JBL Clip 3 is highly rated but better suited for ultra-portable needs rather than full stereo sound. Between the mid-range high-output options, the Raymate (30W) stood out over the Ortizan (40W) because of its significantly higher average rating (4.6 vs 4.2) and more consistent positive reviews regarding sound quality and ease of pairing, all while being priced very competitively at $39.99."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_339.json",
+    "offer_set_id": "bluetooth_speakers_339",
+    "timestamp": 1775597497,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

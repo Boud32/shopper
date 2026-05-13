@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 16,
+    "timestamp": 1776689267,
+    "source_batch": "data/offer_sets/conditioner/conditioner_166.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_241",
+      "prod_conditioner_183",
+      "prod_conditioner_184",
+      "prod_conditioner_015",
+      "prod_conditioner_278"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by weak sponsored listings (Peter Coppola with 50 reviews, BELLISSO mask, obscure men's growth, weak biotin) with no compelling mainstream pick up front."
+  }
+}

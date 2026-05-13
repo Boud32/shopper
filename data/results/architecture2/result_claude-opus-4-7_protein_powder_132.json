@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 32,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_132.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_109",
+      "prod_protein_powder_124",
+      "prod_protein_powder_145",
+      "prod_protein_powder_005",
+      "prod_protein_powder_107"
+    ],
+    "final_choice": "prod_protein_powder_109",
+    "reasoning": "BSN Syntha-6 with 4.7\u2605/26,000+ reviews stands out in a set otherwise filled with weak or niche products."
+  }
+}

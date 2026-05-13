@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_session_5",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_096",
+      "prod_backpacks_111",
+      "prod_backpacks_186",
+      "prod_backpacks_150",
+      "prod_backpacks_102"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several specialized backpacks including the Maxpedition Falcon-III for its durability, the SHENHU 40L for its value, and the OutdoorMaster 65L for its capacity. However, many items in the feed were miscategorized (tents, stools, shirts), which made the browsing experience feel cluttered. While the Maxpedition is high-quality, its $171 price is steep for casual use. The budget-friendly SHENHU had mixed feedback regarding its 'waterproof' claims, and other options like the hydration pack and boot bag were too niche for my current needs. Ultimately, I did not find a versatile, high-quality general-purpose backpack that justified a purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_181.json",
+    "offer_set_id": "backpacks_181",
+    "timestamp": 1775605397,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

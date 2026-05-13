@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "",
+    "architecture": "frontend",
+    "session_position": 37,
+    "timestamp": 1776377218,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_037.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_065",
+      "prod_protein_powder_162",
+      "prod_protein_powder_027",
+      "prod_protein_powder_037",
+      "prod_protein_powder_158"
+    ],
+    "final_choice": "prod_protein_powder_065",
+    "reasoning": "Animal Whey Isolate at $52.95 with 4.6 stars from 4,164 reviews is the best whey option here with trusted brand credentials."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_bt_speakers_20",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_045",
+      "prod_bluetooth_speakers_003"
+    ],
+    "final_choice": null,
+    "reasoning_trace": "In this shopping session, I evaluated a range of speakers from high-end stationary units to budget-friendly portables. The JBL Charge 4 (prod_bluetooth_speakers_013) is a strong contender but its status as a 'renewed' item makes me cautious about the long-term battery health. The Sony SRS-RA3000 (prod_bluetooth_speakers_144) and Ultimate Ears Megablast (prod_bluetooth_speakers_003) offer premium sound but are priced quite high, and the UE model has noted integration issues with Alexa. The Altec Lansing (prod_bluetooth_speakers_045) and Raymate (prod_bluetooth_speakers_153) are excellent for their low price points, but I was ideally looking for a new, high-performance mid-range speaker. Finding no perfect fit that balances brand new condition, high rating, and competitive mid-range pricing, I have decided not to make a purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_074.json",
+    "offer_set_id": "bluetooth_speakers_074",
+    "timestamp": 1775591938,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

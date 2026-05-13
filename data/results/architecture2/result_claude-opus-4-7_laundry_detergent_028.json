@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 28,
+    "timestamp": 1776650224,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_028.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_034",
+      "prod_laundry_detergent_116",
+      "prod_laundry_detergent_042",
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_107"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top picks are expensive or niche and the few strong products are deeply buried; the set doesn't offer a compelling choice at reasonable visibility."
+  }
+}

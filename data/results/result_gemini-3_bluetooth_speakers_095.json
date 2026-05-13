@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping_040",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_158",
+      "prod_bluetooth_speakers_083",
+      "prod_bluetooth_speakers_072"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several Bluetooth speakers ranging from the high-end Audio Pro Addon C10 to budget-friendly options like the Raymate and HyperGear Beast XL. The Audio Pro is too expensive given the reported connectivity issues, and the JBL Flip 5 is a renewed model with potential battery life concerns according to recent reviews. While the Raymate and HyperGear offer good wattage and water-resistance specs for the price, the uncertainty regarding long-term reliability for these off-brand units led me to decide against a purchase today. I prefer to wait for a brand-new, high-quality speaker from a primary manufacturer like Bose or JBL (non-renewed) to go on sale."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_095.json",
+    "offer_set_id": "bluetooth_speakers_095",
+    "timestamp": 1775592275,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

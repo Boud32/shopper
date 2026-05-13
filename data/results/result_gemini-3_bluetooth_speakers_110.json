@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_049"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated a range of speakers from premium brands to budget alternatives. The Bang & Olufsen Beosound A1 is highly rated but priced very high at $279. The Sony SRS-RA3000 offers interesting 360-degree audio, but multiple reviews cited frustrations with the required app. The JBL Charge 4 is a reliable mid-range option, but since it is a 'Renewed' unit, I have concerns about the long-term battery health. While the INSMY models offer good value for money, I was ultimately looking for a brand-new, high-performance portable speaker from a top-tier brand that fits within a $100-$150 budget. Since the current selection features either very expensive high-end units, renewed older models, or budget brands, I have decided to wait for a better selection."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_110.json",
+    "offer_set_id": "bluetooth_speakers_110",
+    "timestamp": 1775593535,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

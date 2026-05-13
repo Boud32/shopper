@@ -1,0 +1,23 @@
+{
+  "experiment_id": "realistic_bt_speaker_session_090",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_083",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_003",
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_116"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several well-regarded Bluetooth speakers across different price points, including the JBL Go 3 for portability and the Harman Kardon Onyx Studio 6 for sound quality. However, the search results were heavily cluttered with non-speaker items like protective cases, power cords, and wall shelves, which made it difficult to compare a broad range of actual devices. The high-performance models like the JBL Pulse 4 and UE Megablast are quite expensive, while the more affordable options didn't perfectly match the balance of battery life and acoustic power I am seeking for my specific use case. I have decided to postpone my purchase until I can find more mid-tier speaker options that aren't primarily accessories."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_497.json",
+    "offer_set_id": "bluetooth_speakers_497",
+    "timestamp": 1775605263,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

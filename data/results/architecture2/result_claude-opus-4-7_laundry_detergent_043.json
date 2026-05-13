@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 43,
+    "timestamp": 1776650224,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_043.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_034",
+      "prod_laundry_detergent_185",
+      "prod_laundry_detergent_283",
+      "prod_laundry_detergent_287"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak \u2014 pricey Gain Flings, niche products, and luxury candles \u2014 and the strong picks are deeply buried."
+  }
+}

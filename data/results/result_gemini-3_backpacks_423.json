@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping_1",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_038",
+      "prod_backpacks_111",
+      "prod_backpacks_050",
+      "prod_backpacks_155",
+      "prod_backpacks_122"
+    ],
+    "final_choice": "prod_backpacks_111",
+    "reasoning_trace": "I am looking for a versatile and functional backpack that can handle both daily use and outdoor trekking. I filtered the feed for actual backpacks, resulting in a consideration set of five products: the durable Maxpedition EDC bag, the budget-friendly SHENHU 40L hiking pack, the tactical G4Free 35L bag, the casual Dakine laptop pack, and the sports-focused DeMarini Voodoo. I selected the SHENHU 40L Hiking Backpack as my final choice because it provides the best utility-to-price ratio. It offers significant storage capacity (40L), waterproof material, and specialized features like trekking pole attachments and torso support for only $26.99, which is a great value compared to more specialized or expensive brands."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_423.json",
+    "offer_set_id": "backpacks_423",
+    "timestamp": 1775598642,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

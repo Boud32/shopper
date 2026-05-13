@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_153"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I am looking for a high-quality, mid-sized portable speaker with modern features. The JBL Clip 3 is highly rated but a bit too small for my audio needs, and the color provided (Dusty Pink) doesn't suit my style. The Bose SoundLink Color is a reliable option, but the blue color is not preferred. The Harman Kardon Onyx Studio 6 sounds excellent but is slightly too bulky and heavy for my travel requirements. The Sony SRS-RA3000 is intended more as a stationary home speaker than a portable one. Since I couldn't find the right balance of size, color, and portability in this set, I have decided not to make a purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_002.json",
+    "offer_set_id": "bluetooth_speakers_002",
+    "timestamp": 1775590572,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

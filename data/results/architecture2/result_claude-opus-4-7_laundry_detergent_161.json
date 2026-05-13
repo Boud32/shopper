@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 11,
+    "timestamp": 1776650226,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_161.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_034",
+      "prod_laundry_detergent_185",
+      "prod_laundry_detergent_045",
+      "prod_laundry_detergent_242"
+    ],
+    "final_choice": "prod_laundry_detergent_101",
+    "reasoning": "Tide Pods Free at top position ($16.99, 4.8\u2605, 12k+ reviews) delivers trusted quality at an attractive price."
+  }
+}

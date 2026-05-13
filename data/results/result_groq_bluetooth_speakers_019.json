@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_131",
+      "prod_bluetooth_speakers_192",
+      "prod_bluetooth_speakers_116"
+    ],
+    "final_choice": "prod_bluetooth_speakers_181",
+    "reasoning_trace": "The decision was made by evaluating key features such as rating, price, and reviews. prod_bluetooth_speakers_181 (Sony SRS-XB43) stands out with its high rating of 4.7, extensive review count of 5599, and a balance of price ($156.34) and quality, including its EXTRA BASS and waterproof features."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_019.json",
+    "offer_set_id": "bluetooth_speakers_019",
+    "timestamp": 1774973659,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

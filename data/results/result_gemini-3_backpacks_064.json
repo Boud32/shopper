@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_038",
+      "prod_backpacks_156",
+      "prod_backpacks_050",
+      "prod_backpacks_075",
+      "prod_backpacks_005"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was looking for a high-quality, versatile backpack for daily use. The product feed was heavily cluttered with non-backpack items like camping chairs, stoves, and accessories. Among the actual backpacks, the FOCO NHL bag had concerning reviews regarding zipper durability, and the G4Free and Maxpedition bags are very tactical in appearance, which isn't the look I want for general use. The vimapo foldable bag is too flimsy to be a primary backpack, and the USGI Alice Pack is far too expensive at over $300 for surplus gear. Finding no middle-ground, high-quality daily pack, I have decided not to make a purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_064.json",
+    "offer_set_id": "backpacks_064",
+    "timestamp": 1775590730,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

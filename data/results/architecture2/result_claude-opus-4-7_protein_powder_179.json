@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 29,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_179.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_162",
+      "prod_protein_powder_027",
+      "prod_protein_powder_014",
+      "prod_protein_powder_090",
+      "prod_protein_powder_056"
+    ],
+    "final_choice": "prod_protein_powder_162",
+    "reasoning": "Myprotein Impact Whey at 4.4 stars with 10,547 reviews at $43.25 is the iconic value whey staple with massive validation \u2014 best mainstream pick in a set with weak top positions."
+  }
+}

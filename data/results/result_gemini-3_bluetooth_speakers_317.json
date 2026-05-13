@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_session",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_037",
+      "prod_bluetooth_speakers_008"
+    ],
+    "final_choice": null,
+    "reasoning_trace": "The consideration set represents the highest-rated and most reputable options in the feed, including portable units from JBL, Bose, and Harman Kardon, as well as a high-end desktop system from Edifier. However, I have decided to make no purchase because the product feed was heavily cluttered with irrelevant items like replacement batteries, AC adapters, and storage cases. Furthermore, many of the speakers available are older models (such as the JBL Flip 5 instead of the newer Flip 6, and a Bose dock utilizing an outdated 30-pin connector) or are excessively priced for my current needs. I prefer to wait for a more modern or curated selection."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_317.json",
+    "offer_set_id": "bluetooth_speakers_317",
+    "timestamp": 1775596985,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

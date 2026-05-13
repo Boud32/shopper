@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_4",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_003",
+      "prod_backpacks_125",
+      "prod_backpacks_168",
+      "prod_backpacks_174",
+      "prod_backpacks_153"
+    ],
+    "final_choice": "prod_backpacks_174",
+    "reasoning_trace": "I am looking for a functional and durable backpack for outdoor activities. My consideration set covers a range of specialized bags: a high-end technical hiking pack (Osprey), a specialized winter adventure pack (USWE), a casual sling bag (MOSISO), a waterproof dry bag (IDRYBAG), and an insulated cooler backpack (Scothen). The Osprey and USWE packs are top-tier but very expensive for a casual purchase. The cooler backpack and sling bag are useful but narrower in scope. I decided to purchase the IDRYBAG Waterproof Backpack because of its exceptional 4.6 rating, specifically a review highlighting its durability after a year of use, and its very affordable price point for a specialized waterproof item."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_222.json",
+    "offer_set_id": "backpacks_222",
+    "timestamp": 1775595373,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

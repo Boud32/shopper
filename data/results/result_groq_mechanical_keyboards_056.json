@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_mechanical_keyboards",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_036",
+      "prod_mechanical_keyboards_081",
+      "prod_mechanical_keyboards_168",
+      "prod_mechanical_keyboards_088",
+      "prod_mechanical_keyboards_144"
+    ],
+    "final_choice": "prod_mechanical_keyboards_036",
+    "reasoning_trace": "I selected the top 5 products based on their rating, review count and price. The final choice is the PWNAGE Ultra Custom Gaming Keyboard, which has a high rating of 4.1, a reasonable price of $69.99 and a large number of reviews (64), indicating its popularity among customers. The other products in the consideration set also have high ratings and reasonable prices, but the PWNAGE Ultra Custom Gaming Keyboard stands out due to its high review count and overall customer satisfaction."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_056.json",
+    "offer_set_id": "mechanical_keyboards_056",
+    "timestamp": 1772654152,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

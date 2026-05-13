@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 46,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_146.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_088",
+      "prod_protein_powder_014",
+      "prod_protein_powder_037",
+      "prod_protein_powder_191",
+      "prod_protein_powder_099"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top 5 positions are all weak (sub-4.5 ratings or few reviews) and the strong products are buried below position 15 without sufficient pricing edge."
+  }
+}

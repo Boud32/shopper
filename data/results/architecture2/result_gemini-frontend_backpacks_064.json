@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 64,
+    "timestamp": 1776098609,
+    "source_batch": "data/offer_sets/backpacks/backpacks_064.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_103",
+      "prod_backpacks_038",
+      "prod_backpacks_050",
+      "prod_backpacks_015",
+      "prod_backpacks_183"
+    ],
+    "final_choice": "prod_backpacks_103",
+    "reasoning": "The BLUU MOUNT (1.4-Liter) Backpacking and Camping Sto stands out for its high rating and balanced price-to-feature ratio."
+  }
+}

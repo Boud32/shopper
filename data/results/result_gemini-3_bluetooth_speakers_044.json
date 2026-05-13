@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping_v1",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_168",
+      "prod_bluetooth_speakers_034"
+    ],
+    "final_choice": "prod_bluetooth_speakers_166",
+    "reasoning_trace": "The browsing session focused on finding a reliable, high-quality portable speaker. The consideration set included premium home options like the Sonos One set and Sony RA3000, alongside highly-rated budget and mid-range portable options like the Raymate and NOTABRICK. The JBL Flip 5 stood out as the most compelling choice due to its industry-leading reputation, exceptional rating of 4.8 across over 68,000 reviews, and its balance of price and durability. While the Sonos set offers superior multi-room audio, its high price point and specific app-related complaints made the JBL a more versatile and lower-risk purchase for general use."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_044.json",
+    "offer_set_id": "bluetooth_speakers_044",
+    "timestamp": 1775591226,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

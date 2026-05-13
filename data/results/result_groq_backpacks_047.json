@@ -1,0 +1,23 @@
+{
+  "experiment_id": "backpack_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_038",
+      "prod_backpacks_097",
+      "prod_backpacks_061",
+      "prod_backpacks_174",
+      "prod_backpacks_164"
+    ],
+    "final_choice": "prod_backpacks_038",
+    "reasoning_trace": "Based on the product feed, the consideration set includes a variety of backpacks with different features, prices, and customer reviews. The Maxpedition Prepared Citizen Classic v2.0 (prod_backpacks_038) was chosen due to its high rating (4.7), positive customer reviews, and features such as a concealed carry compartment and ballistic protection, making it a great option for those looking for a durable and functional backpack."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_047.json",
+    "offer_set_id": "backpacks_047",
+    "timestamp": 1774974396,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

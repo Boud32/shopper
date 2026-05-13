@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_bt_speakers_25",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_072",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_007"
+    ],
+    "final_choice": "prod_bluetooth_speakers_166",
+    "reasoning_trace": "In searching for a reliable Bluetooth speaker, I filtered out the several cases and charging cables that dominated the feed. My consideration set focused on actual speakers with strong reputations. I compared the JBL Flip 5 (New and Renewed), the Bose SoundLink Color II, the rugged HyperGear Beast XL, and the multifunctional COLSUR alarm clock speaker. The JBL Flip 5 (New) stood out as the best choice due to its exceptional rating of 4.8 and over 68,000 reviews, indicating high consumer satisfaction and reliability. Although the renewed version was slightly cheaper, the reviews mentioned potential battery issues, making the extra $10 for the new unit (prod_bluetooth_speakers_166) a worthwhile investment for longevity and performance."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_333.json",
+    "offer_set_id": "bluetooth_speakers_333",
+    "timestamp": 1775597249,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

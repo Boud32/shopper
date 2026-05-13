@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_backpacks",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_057",
+      "prod_backpacks_107",
+      "prod_backpacks_150",
+      "prod_backpacks_126",
+      "prod_backpacks_089"
+    ],
+    "final_choice": "prod_backpacks_057",
+    "reasoning_trace": "The product feed contains a significant amount of camping gear that are not backpacks (stoves, food, etc.). Among the actual backpacks available, the QT&QY 45L Tactical Backpack (prod_backpacks_057) is the strongest contender due to its very high rating (4.7), large number of reviews (6,149), and excellent capacity for its price point ($39.99). The Seibertron Falcon is a similar style but more expensive for less volume. Hydration packs like the N NEVO RHINO and Sojourner are popular but have mixed reviews regarding bladder durability, while the MOSISO is too small for general utility. The QT&QY offers the best balance of size, durability, and customer satisfaction."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_211.json",
+    "offer_set_id": "backpacks_211",
+    "timestamp": 1775594483,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

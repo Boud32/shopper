@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_001",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_008"
+    ],
+    "final_choice": "prod_bluetooth_speakers_181",
+    "reasoning_trace": "The browsing session started by filtering out several accessories that were miscategorized or filler items (covers, cases, replacement batteries). The consumer focused on reputable brands and speakers with a balance of high ratings and solid review counts. The consideration set included premium options like Bang & Olufsen and Sony, alongside mid-range portable favorites from JBL and DOSS. The Sony SRS-XB43 was chosen as the final purchase because of its exceptional 4.7 rating across over 5,000 reviews, 24-hour battery life, and powerful 'Extra Bass' feature, which outperformed the smaller portable units for the consumer's needs."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_387.json",
+    "offer_set_id": "bluetooth_speakers_387",
+    "timestamp": 1775598271,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

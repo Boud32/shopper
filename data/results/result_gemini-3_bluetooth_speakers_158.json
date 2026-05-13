@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping_v1",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_125",
+      "prod_bluetooth_speakers_020",
+      "prod_bluetooth_speakers_003",
+      "prod_bluetooth_speakers_048",
+      "prod_bluetooth_speakers_072"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated a mix of budget mini-speakers and more powerful outdoor units. While the FLYSH (prod_bluetooth_speakers_125) and comiso (prod_bluetooth_speakers_020) have strong ratings for their price points, the overall selection was heavily diluted with accessories like cases and straps, as well as outdated technology (the Bose SoundDock uses a legacy 30-pin connector). The high-end option available, the UE MEGABLAST, is priced quite high at $245. Since I am looking for a mid-range, reliable speaker from a modern brand and didn't find a product that balanced sound quality, portability, and value perfectly, I have decided not to make a purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_158.json",
+    "offer_set_id": "bluetooth_speakers_158",
+    "timestamp": 1775594232,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

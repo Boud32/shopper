@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_128",
+      "prod_backpacks_111",
+      "prod_backpacks_150",
+      "prod_backpacks_102",
+      "prod_backpacks_159"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "My search for backpacks returned a highly fragmented selection of specialized gear rather than general-purpose options. The product feed was heavily cluttered with unrelated accessories such as camping stoves, pillows, lanterns, and freeze-dried food. While the adidas Hermosa Mesh Backpack and the SHENHU 40L Hiking Backpack were the strongest candidates for actual carrying needs, the adidas model is limited by its mesh construction and the SHENHU is specifically oriented toward trekking. I was looking for a more versatile, high-quality daily carry or laptop-compatible backpack. Given that the current selection focuses either on very niche sports (skating, skiing) or travel slings, I did not find a product that met my requirements for a standard daypack."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_243.json",
+    "offer_set_id": "backpacks_243",
+    "timestamp": 1775595689,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

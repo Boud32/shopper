@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 46,
+    "timestamp": 1776689265,
+    "source_batch": "data/offer_sets/conditioner/conditioner_046.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_218",
+      "prod_conditioner_142",
+      "prod_conditioner_070",
+      "prod_conditioner_066",
+      "prod_conditioner_039"
+    ],
+    "final_choice": "prod_conditioner_218",
+    "reasoning": "Carol's Daughter at pos 2 with 4.4 stars and 2932 reviews at $13.99 is the strongest broadly-validated visible pick."
+  }
+}

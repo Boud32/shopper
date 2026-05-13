@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_placeholder",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_047",
+      "prod_backpacks_101",
+      "prod_backpacks_071",
+      "prod_backpacks_132",
+      "prod_backpacks_143"
+    ],
+    "final_choice": "prod_backpacks_132",
+    "reasoning_trace": "I selected these 5 products because they have a high rating and a large number of reviews, indicating a high level of customer satisfaction. The final choice, prod_backpacks_132, is a hydration backpack with a 2L BPA-free bladder, which seems to be a practical and useful product for backpacking and camping. It has a high rating of 4.6 and over 10,000 reviews, suggesting that it is a reliable and popular choice among customers."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_020.json",
+    "offer_set_id": "backpacks_020",
+    "timestamp": 1774974340,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

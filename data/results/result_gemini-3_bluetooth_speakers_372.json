@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping_2",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_051"
+    ],
+    "final_choice": "prod_bluetooth_speakers_181",
+    "reasoning_trace": "The consideration set focuses on well-rated speakers across different price points and use cases, excluding non-speaker items like chargers and cases. The Sony SRS-XB43 was chosen as the final purchase because it offers the best combination of brand reliability, high performance (24-hour battery, EXTRA BASS), and an excellent 4.7 rating with over 5,000 reviews. While the Harman Kardon and Sonos options are also high-quality, the Sony's IP67 waterproof rating makes it more versatile for both indoor and outdoor use compared to the Onyx Studio 6 or the Wi-Fi-only Sonos set."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_372.json",
+    "offer_set_id": "bluetooth_speakers_372",
+    "timestamp": 1775598029,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

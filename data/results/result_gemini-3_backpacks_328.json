@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping_v1",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_003",
+      "prod_backpacks_099",
+      "prod_backpacks_078",
+      "prod_backpacks_171",
+      "prod_backpacks_168"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "In this shopping session, I evaluated five products across different price points and styles. The premium option, the Osprey Exos 58 (prod_backpacks_003), had concerning feedback regarding its suspension system compared to previous models. The Gelindo Hydration pack (prod_backpacks_078), while highly rated overall, had a specific critical review warning that the stitching was weak and would likely require repairs after real-world use. The ZOMAKE (prod_backpacks_099) is a solid packable bag but doesn't offer the structural support needed for a primary backpack. The Explorer Tactical (prod_backpacks_171) also had reports of the bottom wearing out. Due to these combined concerns regarding durability and suspension quality in the primary backpacks listed, I have decided not to make a purchase at this time to avoid potential product failure."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_328.json",
+    "offer_set_id": "backpacks_328",
+    "timestamp": 1775597119,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_1",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_006",
+      "prod_backpacks_057",
+      "prod_backpacks_038",
+      "prod_backpacks_132",
+      "prod_backpacks_171"
+    ],
+    "final_choice": "prod_backpacks_057",
+    "reasoning_trace": "I evaluated a mix of backpacks from lightweight packable options to specialized tactical and hydration packs. My consideration set focused on products with high ratings and substantial review volume. The QT&QY 45L Tactical Backpack (prod_backpacks_057) emerged as the clear choice due to its highly impressive 4.7-star rating from over 6,000 reviews. At a price point of $39.99, it offers excellent capacity and durability compared to higher-priced but lower-rated options like the Osprey Exos or the Explorer Tactical Day Pack. The user reviews specifically mention its brilliant design and value for international travel and hiking."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_205.json",
+    "offer_set_id": "backpacks_205",
+    "timestamp": 1775594404,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

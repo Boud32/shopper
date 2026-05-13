@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 7,
+    "timestamp": 1776691125,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_107.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_140",
+      "prod_yoga_mats_113",
+      "prod_yoga_mats_021"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top position is a weak 3.5-star bestseller and the rest of the top positions are unremarkable \u2014 strong options are buried and none justifies buying over a fresh search."
+  }
+}

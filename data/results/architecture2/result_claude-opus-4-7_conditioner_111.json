@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 11,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_111.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_078",
+      "prod_conditioner_196",
+      "prod_conditioner_256",
+      "prod_conditioner_211",
+      "prod_conditioner_168"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (4.1 ratings) and the best values are buried mid/late page; no compelling reason to buy over waiting for a better search."
+  }
+}

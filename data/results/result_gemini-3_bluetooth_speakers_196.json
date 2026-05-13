@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_001",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_193"
+    ],
+    "final_choice": "prod_bluetooth_speakers_166",
+    "reasoning_trace": "During my search for a Bluetooth speaker, I filtered out several product entries that were actually carrying cases, straps, or power adapters rather than the speakers themselves. I selected a consideration set that covered different price points and use cases: the premium Sony SRS-XB43, the mid-range JBL Flip 5, an aesthetic home audio option from INSMY, and two budget-friendly waterproof options (EDUPLINK and comiso). Ultimately, I chose the JBL FLIP 5 (prod_bluetooth_speakers_166). Its rating of 4.8 across over 68,000 reviews is exceptionally high, making it the most reliable choice for sound quality and durability within a reasonable under-$100 budget."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_196.json",
+    "offer_set_id": "bluetooth_speakers_196",
+    "timestamp": 1775594865,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

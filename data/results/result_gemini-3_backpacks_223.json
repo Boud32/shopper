@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_browsing",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_111",
+      "prod_backpacks_199",
+      "prod_backpacks_064",
+      "prod_backpacks_125",
+      "prod_backpacks_174"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several backpack options ranging from specialized dry bags like the IDRYBAG and Piscifun to technical winter packs like the USWE. The SHENHU 40L seemed like a good value at first, but one of the top reviews indicated it might be better sized for children or very small frames, which doesn't fit my needs. The Warriors tactical pack has a high rating but a very low review count, making its durability questionable. Additionally, the feed was heavily cluttered with camping gear like stoves and hammocks rather than actual backpacks, making the overall selection feel limited and not tailored to a search for a standard adult hiking pack."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_223.json",
+    "offer_set_id": "backpacks_223",
+    "timestamp": 1775595387,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

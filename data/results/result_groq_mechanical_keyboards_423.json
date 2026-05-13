@@ -1,0 +1,23 @@
+{
+  "experiment_id": "mechanical_keyboards",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_081",
+      "prod_mechanical_keyboards_112",
+      "prod_mechanical_keyboards_097",
+      "prod_mechanical_keyboards_192",
+      "prod_mechanical_keyboards_102"
+    ],
+    "final_choice": "prod_mechanical_keyboards_081",
+    "reasoning_trace": "The selected products are highly rated, have a large number of reviews, and offer a range of features that are likely to meet the needs of customers looking for mechanical keyboards. The final choice, prod_mechanical_keyboards_081, is a DIY kit that offers a high degree of customization and is compatible with a range of switches and keycaps, making it a versatile option for customers who want to build their own mechanical keyboard."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_423.json",
+    "offer_set_id": "mechanical_keyboards_423",
+    "timestamp": 1772825049,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

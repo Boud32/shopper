@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 22,
+    "timestamp": 1776689265,
+    "source_batch": "data/offer_sets/conditioner/conditioner_022.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_040",
+      "prod_conditioner_005",
+      "prod_conditioner_255",
+      "prod_conditioner_125",
+      "prod_conditioner_176"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top is a niche baby-set and the rest of the front page lacks any broadly strong option."
+  }
+}

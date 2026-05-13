@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-fast",
+    "model": "gemini-3-fast",
+    "architecture": "frontend",
+    "session_position": 10,
+    "timestamp": 1776109944,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_010.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_001"
+    ],
+    "final_choice": "prod_bluetooth_speakers_153",
+    "reasoning": "At its competitive price, the Raymate 30W speaker offers impressive power and waterproofing that makes it a great value proposition."
+  }
+}

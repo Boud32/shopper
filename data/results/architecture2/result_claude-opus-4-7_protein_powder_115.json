@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 15,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_115.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_037",
+      "prod_protein_powder_195",
+      "prod_protein_powder_027",
+      "prod_protein_powder_155",
+      "prod_protein_powder_196"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak with several sub-4.0 ratings, and the strong candidates are mostly niche collagen or casein products rather than a clear whey standout."
+  }
+}

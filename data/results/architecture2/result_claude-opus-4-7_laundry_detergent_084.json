@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 34,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_084.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_242",
+      "prod_laundry_detergent_251",
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_257"
+    ],
+    "final_choice": "prod_laundry_detergent_242",
+    "reasoning": "Gain + Aroma Boost with Overall Pick badge at $10.99, 4.8/544 reviews \u2014 great value, explicitly featured, trusted brand."
+  }
+}

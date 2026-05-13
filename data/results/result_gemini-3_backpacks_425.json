@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_096",
+      "prod_backpacks_050",
+      "prod_backpacks_117",
+      "prod_backpacks_072",
+      "prod_backpacks_082"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The product feed for 'Backpacks' is heavily populated with irrelevant items such as camping stoves, wood-burning pots, and bicycle helmets, which makes for a frustrating shopping experience. Within the actual bags listed, the options are almost entirely specialized for specific activities\u2014fishing, baseball gear, ski boots, or hydration\u2014rather than general-purpose use. The only high-end general tactical option (Maxpedition) is priced quite high at $171, while the more affordable tactical shoulder bag has mixed reviews regarding its zipper durability. Since none of the products provide a good balance of general utility, quality, and price, I have decided not to make a purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_425.json",
+    "offer_set_id": "backpacks_425",
+    "timestamp": 1775598681,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

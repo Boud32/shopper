@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 19,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_069.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_119",
+      "prod_conditioner_066",
+      "prod_conditioner_169",
+      "prod_conditioner_256",
+      "prod_conditioner_071"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are unusually weak (3.4 rating Clear Scalp, men's products, niche options); strong alternatives exist but none clearly dominates for a general shopper."
+  }
+}

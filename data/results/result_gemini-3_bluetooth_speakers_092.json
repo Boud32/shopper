@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_sim_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_192",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_151",
+      "prod_bluetooth_speakers_150"
+    ],
+    "final_choice": null,
+    "reasoning_trace": "I evaluated a range of Bluetooth speakers across different price points and features. The EWA and JBL Clip 3 are excellent for ultra-portability, while the Sony SRS-XB43 offers high-end sound and durability. I also looked at the MusiBaby for battery life and the XENEO for its built-in FM radio. While the Sony is high-quality, the price is steeper than I'm currently willing to pay for a portable device, and the smaller budget speakers have several reviews citing concerns about volume and bass power. I'm looking for a more substantial mid-range speaker between $60 and $100 that balances portability with room-filling sound, so I have decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_092.json",
+    "offer_set_id": "bluetooth_speakers_092",
+    "timestamp": 1775592209,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

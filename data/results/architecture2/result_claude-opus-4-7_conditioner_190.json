@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 40,
+    "timestamp": 1776689267,
+    "source_batch": "data/offer_sets/conditioner/conditioner_190.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_147",
+      "prod_conditioner_170",
+      "prod_conditioner_298",
+      "prod_conditioner_278",
+      "prod_conditioner_256"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top 5 positions are all weak (Nubian mask, Peter Coppola 50 reviews, a 5\u2605 with only 2 reviews, Morava bar, Ever Ego); the Obliphica best-seller is mid-list but only has 346 reviews and isn't a slam-dunk."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_bt_speakers_26",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_192",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_142",
+      "prod_bluetooth_speakers_183",
+      "prod_bluetooth_speakers_019"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "In this session, I evaluated a variety of Bluetooth speakers ranging from ultra-portable mini speakers to specialized neckband and bike speakers. While the EWA A106 Pro (prod_bluetooth_speakers_192) offers significant social proof and the Raymate (prod_bluetooth_speakers_153) provides higher wattage at a reasonable price, a recurring theme in the reviews for many of these products was reliability concerns, such as units failing after a few months or batteries not meeting advertised durations. Specifically, the ZEALOT (prod_bluetooth_speakers_142) and Monster (prod_bluetooth_speakers_183) had reports of speakers blowing or sides failing quickly. Given these durability concerns and my target for a reliable audio solution, I have decided to forgo a purchase in this session to research higher-tier brands or wait for more robust options."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_429.json",
+    "offer_set_id": "bluetooth_speakers_429",
+    "timestamp": 1775604200,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

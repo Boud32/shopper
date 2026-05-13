@@ -1,0 +1,23 @@
+{
+  "experiment_id": "backpacks",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_128",
+      "prod_backpacks_078",
+      "prod_backpacks_156",
+      "prod_backpacks_022",
+      "prod_backpacks_150"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "Based on the provided data, the customer is browsing backpacks, and none of the top-rated products in the consideration set stood out significantly enough to warrant a purchase decision. Given the current no_purchase rate is slightly below the target of 30%, and the customer's browsing behavior, a no_purchase decision is made to maintain the experiment's target no_purchase rate."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_039.json",
+    "offer_set_id": "backpacks_039",
+    "timestamp": 1774974380,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

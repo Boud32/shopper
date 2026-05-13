@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_140",
+      "prod_backpacks_196",
+      "prod_backpacks_171",
+      "prod_backpacks_051",
+      "prod_backpacks_067"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I am looking for a versatile, standard-sized backpack for daily use. While the feed contains many high-rated items, the majority are specialized products such as sling bags (NICGID, MOSISO), hydration packs (Lunidry), or niche equipment bags for sports like disc golf and baseball. I evaluated the Explorer Tactical Backpack (prod_backpacks_171) as it is the closest to a general-purpose bag, but customer reviews raised concerns about long-term durability, specifically regarding the bottom wearing out and zipper reliability. Given the current options are either too specialized or have questionable build quality for heavy use, I have decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_206.json",
+    "offer_set_id": "backpacks_206",
+    "timestamp": 1775594415,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

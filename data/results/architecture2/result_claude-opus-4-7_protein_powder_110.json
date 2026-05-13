@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 10,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_110.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_071",
+      "prod_protein_powder_065",
+      "prod_protein_powder_076",
+      "prod_protein_powder_097",
+      "prod_protein_powder_005"
+    ],
+    "final_choice": "prod_protein_powder_071",
+    "reasoning": "ALLMAX Isoflex is a high-quality whey isolate (4.6\u2605, 5,785 reviews) at an excellent $39.99 for 2lb with 27g protein."
+  }
+}

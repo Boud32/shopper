@@ -1,0 +1,23 @@
+{
+  "experiment_id": "backpacks",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_068",
+      "prod_backpacks_153",
+      "prod_backpacks_113",
+      "prod_backpacks_078",
+      "prod_backpacks_169"
+    ],
+    "final_choice": "prod_backpacks_068",
+    "reasoning_trace": "I selected the High Sierra Pathway Internal Frame Hiking Backpack as my final choice because it has a high rating of 4.7 and over 600 reviews, indicating a high level of customer satisfaction. Additionally, it is a hiking backpack with a large capacity of 70L, making it suitable for long trips. The consideration set included other high-rated backpacks with similar features, but the High Sierra Pathway stood out for its optimal carrying comfort and essential features for backpacking."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_007.json",
+    "offer_set_id": "backpacks_007",
+    "timestamp": 1774974310,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

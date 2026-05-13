@@ -1,0 +1,23 @@
+{
+  "experiment_id": "toothbrush-selection",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_123",
+      "prod_toothbrushes_085",
+      "prod_toothbrushes_092",
+      "prod_toothbrushes_131",
+      "prod_toothbrushes_082"
+    ],
+    "final_choice": "prod_toothbrushes_123",
+    "reasoning_trace": "Selected 'prod_toothbrushes_123' due to its high rating of 4.4, positive reviews highlighting soft bristles and effective cleaning, and a reasonable price of $10.61. The consideration set includes a variety of toothbrushes with high ratings and positive reviews, catering to different needs and preferences, such as electric and manual options, and toothbrushes suitable for children and adults."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_053.json",
+    "offer_set_id": "toothbrushes_053",
+    "timestamp": 1772653606,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

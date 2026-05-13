@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_session_bt_speakers_25",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_009",
+      "prod_bluetooth_speakers_093"
+    ],
+    "final_choice": "prod_bluetooth_speakers_137",
+    "reasoning_trace": "I evaluated the selection based on brand reputation, product reliability, and value for money. My consideration set included two premium home/portable options (Bose and Sony), two highly-rated budget-friendly portable speakers (INSMY and JBL), and one novelty item (Bitty Boomers) for its high rating and low cost. The Sony SRS-RA3000 is impressive but quite expensive and reviews for the companion app are mixed. The INSMY and JBL speakers are great value, but the Bose SoundLink Color II stands out as the most balanced choice. With over 62,000 reviews and a strong 4.6 rating, it offers proven audio quality, water resistance for portability, and a trusted brand name at a mid-tier price point that justifies the investment over cheaper, less reliable models."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_342.json",
+    "offer_set_id": "bluetooth_speakers_342",
+    "timestamp": 1775597536,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

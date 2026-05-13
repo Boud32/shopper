@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_bluetooth_speakers",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_002",
+      "prod_bluetooth_speakers_047"
+    ],
+    "final_choice": "prod_bluetooth_speakers_116",
+    "reasoning_trace": "I evaluated several Bluetooth speakers across different price points. The JBL Charge 4 and Clip 3 (Renewed) were strong contenders for portability and brand reliability. The LENRUE was a solid budget option, but I was looking for higher audio performance. The Bang & Olufsen Beosound A1 is a premium choice, but at $279, it's quite expensive. I eventually decided on the Harman Kardon Onyx Studio 6. It has an excellent 4.7 rating, and multiple reviews highlight its superior sound quality, especially the 'thump' and clarity, which justifies the $159.99 price point for a high-fidelity home or outdoor speaker."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_187.json",
+    "offer_set_id": "bluetooth_speakers_187",
+    "timestamp": 1775594717,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

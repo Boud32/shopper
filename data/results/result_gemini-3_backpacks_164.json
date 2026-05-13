@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_068",
+      "prod_backpacks_003",
+      "prod_backpacks_137",
+      "prod_backpacks_023",
+      "prod_backpacks_122"
+    ],
+    "final_choice": "prod_backpacks_068",
+    "reasoning_trace": "I am in the market for a high-capacity internal frame backpack for multi-day hiking. I narrowed my search down to the Osprey Exos 58, the High Sierra Pathway 70L, and the Mardingtop 70L as my primary functional choices, while also considering the Fox Outdoor rucksack for a budget vintage look and the DeMarini baseball bag for its organization. The Osprey is a premium brand, but the price is quite high and the reviews for this specific model mention a slippery suspension system. The Mardingtop is affordable, but reviews complain about material quality and return issues. The High Sierra Pathway (70L) stands out with a 4.7 rating and positive feedback regarding its durability and value for weekend excursions. At approximately $110, it offers the best balance of capacity and trusted performance for my needs."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_164.json",
+    "offer_set_id": "backpacks_164",
+    "timestamp": 1775593819,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

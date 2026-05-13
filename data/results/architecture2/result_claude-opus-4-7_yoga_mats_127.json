@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 27,
+    "timestamp": 1776691125,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_127.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_043",
+      "prod_yoga_mats_149",
+      "prod_yoga_mats_155",
+      "prod_yoga_mats_048"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top half is dominated by obscure brands (pploong, June & Juniper, FOILLER) and niche cork mats with thin review counts \u2014 the reliable options are buried and nothing stands out."
+  }
+}

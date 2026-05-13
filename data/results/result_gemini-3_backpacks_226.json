@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_sim_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_154",
+      "prod_backpacks_089",
+      "prod_backpacks_075",
+      "prod_backpacks_115",
+      "prod_backpacks_102"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I am searching for a standard, durable daily backpack for commuting or travel. Upon reviewing the consideration set, I found that most products are highly specialized or have quality concerns. The TOURIT is an insulated cooler, the ASICS is a mesh bag intended for swimwear, and the MOSISO and TUDEQU are small sling bags rather than full-sized backpacks. The FOCO NHL backpack matches the form factor I want, but multiple customer reviews mention zippers breaking within a short period of use. Given that none of the options offer the combination of durability and general-purpose utility I require, I have decided not to make a purchase at this time."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_226.json",
+    "offer_set_id": "backpacks_226",
+    "timestamp": 1775595423,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

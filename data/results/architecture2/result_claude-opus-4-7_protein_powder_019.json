@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "",
+    "architecture": "frontend",
+    "session_position": 19,
+    "timestamp": 1776377218,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_019.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_109",
+      "prod_protein_powder_071",
+      "prod_protein_powder_162",
+      "prod_protein_powder_057",
+      "prod_protein_powder_097"
+    ],
+    "final_choice": "prod_protein_powder_071",
+    "reasoning": "ALLMAX ISOFLEX at $39.99 with 4.6 stars and 5,785 reviews offers pure whey isolate with 27g protein at strong value."
+  }
+}

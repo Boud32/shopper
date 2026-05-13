@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_running_shoes",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_135",
+      "prod_running_shoes_147",
+      "prod_running_shoes_154",
+      "prod_running_shoes_157",
+      "prod_running_shoes_165"
+    ],
+    "final_choice": "prod_running_shoes_135",
+    "reasoning_trace": "I selected the Brooks Men\u2019s Launch 9 Neutral Running Shoe as the final choice due to its high rating of 4.5, a large number of reviews (635), and an affordable price of $69.95. The consideration set includes a mix of brands and price points to cater to different customer preferences. The STQ Women's Running Shoes and ASICS Men's GEL Excite 3 Running Shoe were also strong contenders, but the Brooks shoe had a slight edge in terms of overall customer satisfaction and value for the price."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/running_shoes/running_shoes_093.json",
+    "offer_set_id": "running_shoes_093",
+    "timestamp": 1772641820,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "extended",
+    "k": 5
+  }
+}

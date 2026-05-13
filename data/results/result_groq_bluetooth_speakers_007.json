@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_2024",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_048",
+      "prod_bluetooth_speakers_162",
+      "prod_bluetooth_speakers_131",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_192"
+    ],
+    "final_choice": "prod_bluetooth_speakers_162",
+    "reasoning_trace": "Selected products based on high ratings, relevant features such as waterproofing, and good review sentiments. The final choice, prod_bluetooth_speakers_162, was selected due to its unique combination of a portable digital AM FM radio, waterproof Bluetooth speaker, and additional features like a flashlight and SOS alarm, making it a versatile product for outdoor activities."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_007.json",
+    "offer_set_id": "bluetooth_speakers_007",
+    "timestamp": 1774973630,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

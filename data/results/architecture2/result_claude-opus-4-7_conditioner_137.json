@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 37,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_137.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_014",
+      "prod_conditioner_169",
+      "prod_conditioner_097",
+      "prod_conditioner_016",
+      "prod_conditioner_183"
+    ],
+    "final_choice": "prod_conditioner_014",
+    "reasoning": "Truss Ultra Hydration Conditioner at top position with 4.7/547 reviews is a strong salon-quality choice at $32.95."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "running_shoes_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_147",
+      "prod_running_shoes_179",
+      "prod_running_shoes_105",
+      "prod_running_shoes_158",
+      "prod_running_shoes_101"
+    ],
+    "final_choice": "prod_running_shoes_147",
+    "reasoning_trace": "The selected products are all highly rated running shoes with good reviews, indicating their quality and comfort. prod_running_shoes_147 is chosen as the final product due to its high rating, large number of reviews, and affordable price, making it a well-rounded choice for the customer."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/running_shoes/running_shoes_065.json",
+    "offer_set_id": "running_shoes_065",
+    "timestamp": 1772641742,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "extended",
+    "k": 5
+  }
+}

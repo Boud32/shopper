@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_038",
+      "prod_backpacks_140",
+      "prod_backpacks_112",
+      "prod_backpacks_055",
+      "prod_backpacks_167"
+    ],
+    "final_choice": "prod_backpacks_038",
+    "reasoning_trace": "I filtered through the product feed, which contained several non-backpack items like stoves, chairs, and towels. I narrowed my consideration to five actual backpacks of varying styles: a high-quality EDC bag, two sling bags, a sports-themed school bag, and a specialized disc golf pack. I ultimately chose the Maxpedition Prepared Citizen Classic v2.0 (prod_backpacks_038). It has a strong 4.7 rating and is noted for its durability and 'nondescript' aesthetic, which is ideal for a daily use bag. While more expensive than the slings or the FOCO bag, the reviews suggest it offers superior material quality and long-term value."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_434.json",
+    "offer_set_id": "backpacks_434",
+    "timestamp": 1775598819,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_107",
+      "prod_backpacks_125",
+      "prod_backpacks_073",
+      "prod_backpacks_150",
+      "prod_backpacks_008"
+    ],
+    "final_choice": "prod_backpacks_107",
+    "reasoning_trace": "I evaluated several types of backpacks, from high-end technical winter packs to simple hydration vests and dry bags. The Seibertron Falcon (prod_backpacks_107) stood out as the most balanced option for general utility. It has a high 4.6 rating with over 2,900 reviews, many of which praise its durability for demanding outdoor work (like the turtle tracker) and its comfort even when fully loaded. While the USWE Hajker was a high-quality alternative, its price was significantly higher. The hydration-specific packs (like the N NEVO RHINO) had concerning reports of bladder failure at critical moments, making the Seibertron a more reliable purchase for the price point."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_098.json",
+    "offer_set_id": "backpacks_098",
+    "timestamp": 1775591868,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

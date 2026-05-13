@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_backpacks_1",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_102",
+      "prod_backpacks_140",
+      "prod_backpacks_171",
+      "prod_backpacks_041",
+      "prod_backpacks_048"
+    ],
+    "final_choice": "prod_backpacks_102",
+    "reasoning_trace": "In evaluating the product feed, I filtered for actual backpacks and compared different functional styles: sling bags, tactical day packs, ultralight technical packs, and insulated cooler backpacks. My consideration set includes the most highly-rated and popular options in these sub-categories. I chose prod_backpacks_102 as the final purchase because of its exceptional social proof (over 6,000 reviews at a 4.5-star average), practical travel features like the USB charging port and dedicated wet pocket, and its versatile design that suits both hiking and urban travel at a competitive price."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_419.json",
+    "offer_set_id": "backpacks_419",
+    "timestamp": 1775598593,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_purchase",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_173"
+    ],
+    "final_choice": "prod_bluetooth_speakers_129",
+    "reasoning_trace": "I evaluated the product feed for a combination of high user ratings, brand reputation, and value. The consideration set included a mix of powerful budget options like the INSMY 20W and EDUPLINK speakers, as well as premium options from JBL. I ultimately chose the JBL Go 3 because it is a brand-new (not renewed) product from a leading audio brand with a high 4.7 rating. Reviews consistently highlight its impressive sound quality for its compact size, and at $39.99, it represents a reliable purchase compared to the potential risks mentioned in the renewed JBL Flip 5 or the generic brands."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_039.json",
+    "offer_set_id": "bluetooth_speakers_039",
+    "timestamp": 1775591155,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

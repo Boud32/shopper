@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 36,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_136.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_060",
+      "prod_protein_powder_028",
+      "prod_protein_powder_076",
+      "prod_protein_powder_158",
+      "prod_protein_powder_057"
+    ],
+    "final_choice": "prod_protein_powder_060",
+    "reasoning": "Pro JYM leads position 1 with 4.7\u2605 and 4,865 reviews \u2014 a premium multi-source protein blend at $60 that sets the tone for the page."
+  }
+}

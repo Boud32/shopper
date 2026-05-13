@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_bt_speakers_bt25",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_072",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_192"
+    ],
+    "final_choice": "prod_bluetooth_speakers_174",
+    "reasoning_trace": "I narrowed the search down to products that offered a balance of high wattage, positive user feedback, and value for money. I excluded several items in the feed that were merely accessories (cases, chargers). Within my consideration set, the Harman Kardon (116) was high quality but expensive, while the JBL Flip 5 (001) carried the risk associated with being a renewed product. The BOGASING M4 (174) stood out as the best overall choice because it offered 40W of stereo sound, an IPX7 waterproof rating, and a long battery life for a mid-range price, supported by strong verified purchase reviews."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_236.json",
+    "offer_set_id": "bluetooth_speakers_236",
+    "timestamp": 1775595643,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

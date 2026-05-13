@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 10,
+    "timestamp": 1776689267,
+    "source_batch": "data/offer_sets/conditioner/conditioner_160.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_169",
+      "prod_conditioner_119",
+      "prod_conditioner_011",
+      "prod_conditioner_147",
+      "prod_conditioner_245"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (unknown Moac, niche purple toner, men's growth product, expensive Shu Uemura) and quality general-use options are buried too deep."
+  }
+}

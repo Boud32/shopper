@@ -1,0 +1,23 @@
+{
+  "experiment_id": "backpacks",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_150",
+      "prod_backpacks_082",
+      "prod_backpacks_002",
+      "prod_backpacks_014",
+      "prod_backpacks_064"
+    ],
+    "final_choice": "prod_backpacks_150",
+    "reasoning_trace": "The customer considered several backpack options based on factors like price, reviews, and features. They narrowed down their selection to a few top contenders, considering the N NEVO RHINO Hydration Backpack for its high rating, numerous reviews, and functional design. This backpack stood out for its hydration pack, insulation, and organization features, which align with the customer's interests in hiking and outdoor activities. After weighing the pros and cons of each option, the customer decided that the N NEVO RHINO Hydration Backpack best fit their needs, making it their final choice."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_034.json",
+    "offer_set_id": "backpacks_034",
+    "timestamp": 1774974370,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

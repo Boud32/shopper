@@ -1,0 +1,23 @@
+{
+  "experiment_id": "smartwatch_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_smartwatches_191",
+      "prod_smartwatches_147",
+      "prod_smartwatches_154",
+      "prod_smartwatches_010",
+      "prod_smartwatches_128"
+    ],
+    "final_choice": "prod_smartwatches_154",
+    "reasoning_trace": "The final choice, Garmin Forerunner 245, is a high-rated GPS running smartwatch with advanced dynamics. It tracks stats, crunches numbers, and gets to know the user's performance, running form, training history, and goals. The consideration set includes a variety of smartwatches with different features, such as heart rate monitoring, sleep tracking, and waterproofing. The Garmin Forerunner 245 stands out for its high rating, advanced features, and suitability for runners and athletes."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/smartwatches/smartwatches_101.json",
+    "offer_set_id": "smartwatches_101",
+    "timestamp": 1772653986,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

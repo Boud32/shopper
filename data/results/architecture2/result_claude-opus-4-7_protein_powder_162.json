@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 12,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_162.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_097",
+      "prod_protein_powder_076",
+      "prod_protein_powder_130",
+      "prod_protein_powder_053",
+      "prod_protein_powder_144"
+    ],
+    "final_choice": "prod_protein_powder_097",
+    "reasoning": "Truvani Organic Vegan Protein has 4.4 stars with 15,388 reviews at $44.99 \u2014 a standout plant-based option with strong brand trust and exceptional review volume."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "backpacks_browsing",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_089",
+      "prod_backpacks_113",
+      "prod_backpacks_182",
+      "prod_backpacks_168",
+      "prod_backpacks_027"
+    ],
+    "final_choice": "prod_backpacks_089",
+    "reasoning_trace": "Selected products based on their high ratings, relevant features for backpacking, and competitive pricing. MOSISO Sling Backpack (prod_backpacks_089) was chosen for its versatility, comfort, and value for money."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_028.json",
+    "offer_set_id": "backpacks_028",
+    "timestamp": 1774974358,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_173",
+      "prod_backpacks_006",
+      "prod_backpacks_096",
+      "prod_backpacks_069",
+      "prod_backpacks_199"
+    ],
+    "final_choice": "prod_backpacks_173",
+    "reasoning_trace": "In a feed cluttered with camping gear and miscategorized items like chairs and clothing, I identified five actual backpack options spanning various use cases: packable daypacks, heavy-duty tactical packs, hydration packs, and dry bags. The ZOMAKE 20L (prod_backpacks_173) stood out as the clear winner due to its 'Best Seller' status, exceptional volume of positive feedback (nearly 15,000 reviews at 4.6 stars), and a highly competitive price point of $13.99, making it a low-risk, high-value purchase for a general-purpose daypack."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_212.json",
+    "offer_set_id": "backpacks_212",
+    "timestamp": 1775594497,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

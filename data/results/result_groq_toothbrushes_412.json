@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_toothbrushes",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_142",
+      "prod_toothbrushes_011",
+      "prod_toothbrushes_029",
+      "prod_toothbrushes_033",
+      "prod_toothbrushes_061"
+    ],
+    "final_choice": "prod_toothbrushes_142",
+    "reasoning_trace": "The consideration set includes a variety of toothbrushes with high ratings and positive reviews. The final choice, 'prod_toothbrushes_142', is a manual toothbrush for kids with a high rating of 4.7 and over 3300 reviews, indicating a popular and well-liked product. This toothbrush is also relatively inexpensive at $2.99, making it an attractive option for customers."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_412.json",
+    "offer_set_id": "toothbrushes_412",
+    "timestamp": 1772825540,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

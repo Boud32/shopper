@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_057",
+      "prod_backpacks_068",
+      "prod_backpacks_111",
+      "prod_backpacks_043",
+      "prod_backpacks_194"
+    ],
+    "final_choice": "prod_backpacks_057",
+    "reasoning_trace": "I am looking for a versatile and durable backpack. My consideration set includes a large 70L frame pack for major trips, a 45L tactical bag for high-capacity daily use, a budget-friendly 40L daypack, a technical 28L hiking pack, and a specialized cooler backpack. I decided to purchase the QT&QY 45L Tactical Backpack because its combination of high ratings (4.7), large number of reviews (over 6,000), and robust military-style design represents the best value for a multi-purpose pack at the $39.99 price point."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_445.json",
+    "offer_set_id": "backpacks_445",
+    "timestamp": 1775599069,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

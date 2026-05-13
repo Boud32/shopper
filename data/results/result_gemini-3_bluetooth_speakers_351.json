@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_061",
+      "prod_bluetooth_speakers_047"
+    ],
+    "final_choice": "prod_bluetooth_speakers_120",
+    "reasoning_trace": "In evaluating the product feed, I prioritized overall rating, review volume, and technical specifications. The JBL Charge 5 (prod_bluetooth_speakers_120) stood out as the top candidate due to its exceptional 4.8-star rating from over 16,000 reviews, indicating a high level of reliability and sound quality. To ensure a balanced consideration set, I included the premium Harman Kardon Onyx Studio 6 for sound quality, the BOGASING M4 for high-wattage performance at a mid-range price, the DOSS Traveler for its rugged design, and the LENRUE for an ultra-budget portable option. While several products in the list were accessories (cases, cables) or legacy hardware (Bose 30-pin dock), the JBL Charge 5 represents the best current-generation portable speaker for general use, offering 20 hours of playtime and IP67 waterproofing."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_351.json",
+    "offer_set_id": "bluetooth_speakers_351",
+    "timestamp": 1775597675,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

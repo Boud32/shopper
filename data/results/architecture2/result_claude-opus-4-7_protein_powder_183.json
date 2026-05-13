@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 33,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_183.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_097",
+      "prod_protein_powder_017",
+      "prod_protein_powder_059",
+      "prod_protein_powder_046",
+      "prod_protein_powder_070"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are all mediocre (generic grass-fed concentrate, BPI Sports, Primal Kitchen) and the best options are buried deep \u2014 nothing on the page beats what a different search could return."
+  }
+}

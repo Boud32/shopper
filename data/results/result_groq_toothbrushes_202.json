@@ -1,0 +1,23 @@
+{
+  "experiment_id": "toothbrush_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_065",
+      "prod_toothbrushes_091",
+      "prod_toothbrushes_052",
+      "prod_toothbrushes_188",
+      "prod_toothbrushes_080"
+    ],
+    "final_choice": "prod_toothbrushes_065",
+    "reasoning_trace": "The final choice, prod_toothbrushes_065, is a Philips Sonicare toothbrush with a high rating of 4.7 and over 3000 reviews. It is a premium product with advanced features such as plaque removal, gum health, and whitening. The consideration set includes a variety of toothbrushes with different features and price points, but prod_toothbrushes_065 stands out for its high quality and customer satisfaction."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_202.json",
+    "offer_set_id": "toothbrushes_202",
+    "timestamp": 1772654619,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

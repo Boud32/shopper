@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 26,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_126.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_060",
+      "prod_protein_powder_172",
+      "prod_protein_powder_071",
+      "prod_protein_powder_173",
+      "prod_protein_powder_038"
+    ],
+    "final_choice": "prod_protein_powder_060",
+    "reasoning": "Pro JYM's 4.7\u2605 rating, 4,865 reviews, and blend of whey/casein/egg proteins at $60 makes it the clear premium pick in this mixed set."
+  }
+}

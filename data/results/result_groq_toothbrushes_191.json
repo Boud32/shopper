@@ -1,0 +1,23 @@
+{
+  "experiment_id": "toothbrush_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_093",
+      "prod_toothbrushes_023",
+      "prod_toothbrushes_123",
+      "prod_toothbrushes_152",
+      "prod_toothbrushes_066"
+    ],
+    "final_choice": "prod_toothbrushes_093",
+    "reasoning_trace": "The selected consideration set includes a variety of toothbrushes with high ratings, suitable for different age groups and needs. The final choice, prod_toothbrushes_093, is a kids' toothbrush with a fun design and soft bristles, making it an appealing and gentle option for children. The price is also reasonable at $8.67."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_191.json",
+    "offer_set_id": "toothbrushes_191",
+    "timestamp": 1772654594,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_purchase_behavior",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_135"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was looking for a high-quality, new portable Bluetooth speaker suitable for outdoor gatherings. While the JBL Charge 4 (prod_bluetooth_speakers_013) is a great model, this specific listing is for a 'Renewed' unit, and for electronics with lithium batteries, I prefer to buy new to ensure maximum battery longevity. The Raymate (prod_bluetooth_speakers_153) is a decent budget alternative, but lacks the brand reputation I trust for audio fidelity. The Sony (prod_bluetooth_speakers_144) is impressive but designed for stationary home use rather than portability. The JBL Go 3 (prod_bluetooth_speakers_129) is too small for my intended use case. Finding no new, mid-range portable speakers from top brands in this feed that met my criteria, I decided not to make a purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_218.json",
+    "offer_set_id": "bluetooth_speakers_218",
+    "timestamp": 1775595337,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

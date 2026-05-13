@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_193",
+      "prod_bluetooth_speakers_040"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several high-rated options including the JBL Charge 4 and Flip 5, but was hesitant about them being renewed products given some user reports regarding battery life and charging issues over time. The Bose SoundLink Color II is a premium option but at a significantly higher price point for older technology. The budget options like the Comiso and Altec Lansing HydraMotion had mixed reviews regarding volume levels and connectivity reliability. Furthermore, a large portion of the product feed consisted of accessories (cases, cables, batteries) rather than the speakers themselves, which disrupted the browsing experience. Since I am looking for a brand-new, reliable speaker with consistent performance and none of the top-tier options in this set were both new and reasonably priced, I have decided not to make a purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_446.json",
+    "offer_set_id": "bluetooth_speakers_446",
+    "timestamp": 1775604442,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

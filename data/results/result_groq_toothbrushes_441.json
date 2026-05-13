@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_toothbrushes",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_166",
+      "prod_toothbrushes_017",
+      "prod_toothbrushes_083",
+      "prod_toothbrushes_134",
+      "prod_toothbrushes_177"
+    ],
+    "final_choice": "prod_toothbrushes_166",
+    "reasoning_trace": "The final choice is based on a combination of factors including product ratings, review counts, and prices. 'prod_toothbrushes_166' (Preserve Eco Friendly Adult Toothbrushes) has a high rating of 4.6, a considerable number of reviews (93), and a reasonable price ($23.63). While 'prod_toothbrushes_017' (Dental Source Travel Toothbrush) is cheaper ($11.98), its review count is significantly lower (65). 'prod_toothbrushes_083' (Extra Super Soft Nano Toothbrush) and 'prod_toothbrushes_134' (COSLUS Kids Sonic Rechargeable Electric Toothbrush) are more specialized and have higher prices, making them less universally appealing. 'prod_toothbrushes_177' (Colgate Total 360 4 Zone Whole Mouth Clean Manual Toothbrush) has fewer reviews (10) and a higher price ($11.35) compared to 'prod_toothbrushes_017', but its brand recognition (Colgate) might appeal to some customers."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_441.json",
+    "offer_set_id": "toothbrushes_441",
+    "timestamp": 1772825673,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

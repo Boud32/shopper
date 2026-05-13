@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_085",
+      "prod_bluetooth_speakers_103"
+    ],
+    "final_choice": "prod_bluetooth_speakers_137",
+    "reasoning_trace": "I filtered out accessories like cases and chargers to focus specifically on portable speakers. My consideration set includes a mix of premium brands (Bose, Bang & Olufsen), niche European design (Libratone), and high-performance budget options (Raymate, Ortizan). The Bose SoundLink Color II was ultimately chosen because of its exceptional review count of over 62,000 and high rating of 4.6, suggesting a consistent and reliable user experience for a mid-range price. While the Bang & Olufsen offers superior sound quality, the price jump is significant, and the Bose fits the sweet spot for a versatile outdoor/indoor portable speaker."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_116.json",
+    "offer_set_id": "bluetooth_speakers_116",
+    "timestamp": 1775593642,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

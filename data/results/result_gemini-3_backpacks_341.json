@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_simulation_255",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_078",
+      "prod_backpacks_057",
+      "prod_backpacks_182",
+      "prod_backpacks_002",
+      "prod_backpacks_082"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated a range of functional backpacks including the Gelindo hydration pack (prod_backpacks_078), the QT&QY tactical rucksack (prod_backpacks_057), and the Bassdash fishing bag (prod_backpacks_082). While these products are highly rated for their specific niches, I was primarily looking for a versatile, non-specialized daily-use backpack. The tactical and hiking options felt too bulky and rugged for an urban/commuter setting, and many of the other items in the feed were actually accessories (keychains, fire starters, straps) or niche sports gear (ski boot bags, disc golf bags). Finding no standard lifestyle backpack with positive reviews, I decided to decline a purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_341.json",
+    "offer_set_id": "backpacks_341",
+    "timestamp": 1775597321,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

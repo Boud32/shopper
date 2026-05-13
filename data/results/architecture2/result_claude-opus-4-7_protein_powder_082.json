@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 32,
+    "timestamp": 1776640082,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_082.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_071",
+      "prod_protein_powder_006",
+      "prod_protein_powder_130",
+      "prod_protein_powder_067",
+      "prod_protein_powder_074"
+    ],
+    "final_choice": "prod_protein_powder_071",
+    "reasoning": "ALLMAX Isoflex at $39.99 with 4.6 stars and 5,785 reviews stays the strongest whey value even when deeper in the listing."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 411,
+    "timestamp": 1776098609,
+    "source_batch": "data/offer_sets/backpacks/backpacks_411.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_126",
+      "prod_backpacks_016",
+      "prod_backpacks_150",
+      "prod_backpacks_186",
+      "prod_backpacks_153"
+    ],
+    "final_choice": "prod_backpacks_126",
+    "reasoning": "The Sojourner Hydration Pack, Hydration Backpack - Wat stands out for its high rating and balanced price-to-feature ratio."
+  }
+}

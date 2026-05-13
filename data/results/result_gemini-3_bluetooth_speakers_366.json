@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_bluetooth_speakers_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_190"
+    ],
+    "final_choice": "prod_bluetooth_speakers_166",
+    "reasoning_trace": "I evaluated the product feed for Bluetooth speakers, excluding non-speaker items like travel cases and wall shelves. My consideration set includes a mix of premium home audio (Sony), high-performance outdoor/portable speakers (JBL, BOGASING), and budget-friendly waterproof options (INSMY). The JBL FLIP 5 stands out as the best overall choice due to its massive review count (over 68,000) and exceptionally high 4.8-star rating. While the Sony RA3000 offers more advanced home audio features and the BOGASING offers higher wattage for a lower price, the JBL Flip 5 is widely recognized as the industry standard for portable, waterproof reliability and balanced sound quality within its price bracket."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_366.json",
+    "offer_set_id": "bluetooth_speakers_366",
+    "timestamp": 1775597929,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

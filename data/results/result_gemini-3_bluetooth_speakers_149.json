@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_session_88",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_192",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_040",
+      "prod_bluetooth_speakers_009"
+    ],
+    "final_choice": "prod_bluetooth_speakers_049",
+    "reasoning_trace": "After filtering out the numerous accessories like replacement batteries, carrying cases, and straps, I narrowed my search down to five actual speakers with diverse price points and features. The consideration set included the budget-friendly EWA mini speaker with massive social proof, the premium Bang & Olufsen for high-fidelity needs, the rugged Altec Lansing for outdoor use, the JBL Go bundle, and the INSMY Retro speaker. I ultimately selected the INSMY Retro Bluetooth Speaker. Its 'Overall Pick' tag, combined with aesthetic wood styling and reviews comparing its audio quality favorably to higher-end brands like Bose, made it the most appealing choice for a home audio setup at its price point."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_149.json",
+    "offer_set_id": "bluetooth_speakers_149",
+    "timestamp": 1775594104,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

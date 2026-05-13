@@ -1,0 +1,602 @@
+[
+  {
+    "offer_set_id": "conditioner_151",
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_097",
+      "prod_conditioner_196",
+      "prod_conditioner_286",
+      "prod_conditioner_168"
+    ],
+    "final_choice": "prod_conditioner_097",
+    "reasoning": "It's A 10 Silk Express at $15.48 with 4.7\u2605 and 763 reviews is a well-known salon-quality conditioner at an accessible price, the clearest quality-per-dollar choice in this set."
+  },
+  {
+    "offer_set_id": "conditioner_152",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_016",
+      "prod_conditioner_119",
+      "prod_conditioner_040",
+      "prod_conditioner_241"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie 3 Minute Miracle at $17.99 with 4.7\u2605 and 5134 reviews is a trusted mainstream brand with overwhelming social proof, a reliable deep conditioner pick."
+  },
+  {
+    "offer_set_id": "conditioner_153",
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_280",
+      "prod_conditioner_199",
+      "prod_conditioner_097",
+      "prod_conditioner_241"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Garnier Whole Blends at $15.98 with 4.7\u2605 and 8445 reviews is a drugstore staple with massive positive social proof at an affordable price."
+  },
+  {
+    "offer_set_id": "conditioner_154",
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_097",
+      "prod_conditioner_196",
+      "prod_conditioner_026",
+      "prod_conditioner_009"
+    ],
+    "final_choice": "prod_conditioner_170",
+    "reasoning": "Dove Nutritive Solutions at $23.95 for 4 bottles with 4.7\u2605/1192 reviews is excellent value from a trusted mainstream brand for everyday use."
+  },
+  {
+    "offer_set_id": "conditioner_155",
+    "consideration_set": [
+      "prod_conditioner_218",
+      "prod_conditioner_066",
+      "prod_conditioner_199",
+      "prod_conditioner_005",
+      "prod_conditioner_024"
+    ],
+    "final_choice": "prod_conditioner_218",
+    "reasoning": "Carol's Daughter Detangling Jelly-to-Cream carries both best-seller and overall-pick badges at $13.99 with 4.4\u2605/2932 reviews \u2014 a strong institutional signal."
+  },
+  {
+    "offer_set_id": "conditioner_156",
+    "consideration_set": [
+      "prod_conditioner_014",
+      "prod_conditioner_290",
+      "prod_conditioner_245",
+      "prod_conditioner_009",
+      "prod_conditioner_194"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Garnier Whole Blends at $15.98 with 4.7\u2605/8445 reviews is a proven affordable mainstream conditioner with unmatched social proof in this set."
+  },
+  {
+    "offer_set_id": "conditioner_157",
+    "consideration_set": [
+      "prod_conditioner_218",
+      "prod_conditioner_009",
+      "prod_conditioner_243",
+      "prod_conditioner_256",
+      "prod_conditioner_184"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by weak/niche options (Biotin volumizing, zero-waste bar, low-rated Evo, expensive Shu Uemura) and nothing mainstream-strong is prominently placed."
+  },
+  {
+    "offer_set_id": "conditioner_158",
+    "consideration_set": [
+      "prod_conditioner_040",
+      "prod_conditioner_280",
+      "prod_conditioner_066",
+      "prod_conditioner_009",
+      "prod_conditioner_218"
+    ],
+    "final_choice": "prod_conditioner_040",
+    "reasoning": "Alfaparf Milano Semi Di Lino at $22 with 4.6\u2605/2624 reviews is a well-reviewed professional-grade leave-in conditioner at a reasonable price."
+  },
+  {
+    "offer_set_id": "conditioner_159",
+    "consideration_set": [
+      "prod_conditioner_218",
+      "prod_conditioner_016",
+      "prod_conditioner_147",
+      "prod_conditioner_245",
+      "prod_conditioner_002"
+    ],
+    "final_choice": "prod_conditioner_218",
+    "reasoning": "Carol's Daughter Detangling with the overall-pick badge, $13.99, 4.4\u2605, and 2932 reviews is the clearest quality signal in a set where top positions are weak."
+  },
+  {
+    "offer_set_id": "conditioner_160",
+    "consideration_set": [
+      "prod_conditioner_169",
+      "prod_conditioner_119",
+      "prod_conditioner_011",
+      "prod_conditioner_147",
+      "prod_conditioner_245"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (unknown Moac, niche purple toner, men's growth product, expensive Shu Uemura) and quality general-use options are buried too deep."
+  },
+  {
+    "offer_set_id": "conditioner_161",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_078",
+      "prod_conditioner_196",
+      "prod_conditioner_024",
+      "prod_conditioner_026"
+    ],
+    "final_choice": "prod_conditioner_023",
+    "reasoning": "Redken Acidic Bonding Concentrate at $32 with 4.5\u2605 and 7938 reviews is a highly regarded professional bond-repair conditioner with overwhelming social proof."
+  },
+  {
+    "offer_set_id": "conditioner_162",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_110",
+      "prod_conditioner_016",
+      "prod_conditioner_026",
+      "prod_conditioner_183"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie 3 Minute Miracle at $17.99 with 4.7\u2605/5134 reviews stands out as a trusted brand with massive social proof prominently placed at position 3."
+  },
+  {
+    "offer_set_id": "conditioner_163",
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_169",
+      "prod_conditioner_241",
+      "prod_conditioner_024",
+      "prod_conditioner_140"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Garnier Whole Blends at $15.98 with 4.7\u2605/8445 reviews at a prominent position 5 is a proven affordable mainstream choice."
+  },
+  {
+    "offer_set_id": "conditioner_164",
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_170",
+      "prod_conditioner_078",
+      "prod_conditioner_066",
+      "prod_conditioner_241"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Garnier Whole Blends at $15.98 with 4.7\u2605/8445 reviews is prominently placed at position 3 and offers the best quality-to-price ratio from a trusted brand."
+  },
+  {
+    "offer_set_id": "conditioner_165",
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_016",
+      "prod_conditioner_241",
+      "prod_conditioner_218",
+      "prod_conditioner_009"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are filled with mediocre/irrelevant products (Nubian mask, Morava bar, kids conditioner, 3.4\u2605 dandruff conditioner) and genuinely good options are buried."
+  },
+  {
+    "offer_set_id": "conditioner_166",
+    "consideration_set": [
+      "prod_conditioner_241",
+      "prod_conditioner_183",
+      "prod_conditioner_184",
+      "prod_conditioner_015",
+      "prod_conditioner_278"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by weak sponsored listings (Peter Coppola with 50 reviews, BELLISSO mask, obscure men's growth, weak biotin) with no compelling mainstream pick up front."
+  },
+  {
+    "offer_set_id": "conditioner_167",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_290",
+      "prod_conditioner_016",
+      "prod_conditioner_005",
+      "prod_conditioner_211"
+    ],
+    "final_choice": "prod_conditioner_023",
+    "reasoning": "Redken Acidic Bonding Concentrate at $32 with 4.5\u2605/7938 reviews and a best-seller badge is a top-tier professional conditioner with massive positive reception."
+  },
+  {
+    "offer_set_id": "conditioner_168",
+    "consideration_set": [
+      "prod_conditioner_218",
+      "prod_conditioner_027",
+      "prod_conditioner_290",
+      "prod_conditioner_119",
+      "prod_conditioner_237"
+    ],
+    "final_choice": "prod_conditioner_218",
+    "reasoning": "Carol's Daughter Detangling at $13.99 with 4.4\u2605/2932 reviews is prominently at position 2 with strong social proof and a well-known brand."
+  },
+  {
+    "offer_set_id": "conditioner_169",
+    "consideration_set": [
+      "prod_conditioner_005",
+      "prod_conditioner_196",
+      "prod_conditioner_241",
+      "prod_conditioner_110",
+      "prod_conditioner_183"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions feature mediocre or niche products (Kanyon mist, Tricovit growth, Mega Growth, Earth Science fragrance-free) and the standout Redken/Aussie are absent entirely."
+  },
+  {
+    "offer_set_id": "conditioner_170",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_097",
+      "prod_conditioner_016",
+      "prod_conditioner_119",
+      "prod_conditioner_092"
+    ],
+    "final_choice": "prod_conditioner_023",
+    "reasoning": "Redken Acidic Bonding Concentrate at $32 with 4.5\u2605/7938 reviews is prominently placed at position 4 and offers salon-grade bond repair with massive social proof."
+  },
+  {
+    "offer_set_id": "conditioner_171",
+    "consideration_set": [
+      "prod_conditioner_196",
+      "prod_conditioner_066",
+      "prod_conditioner_194",
+      "prod_conditioner_005",
+      "prod_conditioner_254"
+    ],
+    "final_choice": "prod_conditioner_196",
+    "reasoning": "Maui Moisture at $8 with 4.5\u2605/3255 reviews is the top-positioned budget pick with excellent social proof from a trusted mainstream brand."
+  },
+  {
+    "offer_set_id": "conditioner_172",
+    "consideration_set": [
+      "prod_conditioner_110",
+      "prod_conditioner_194",
+      "prod_conditioner_023",
+      "prod_conditioner_097",
+      "prod_conditioner_014"
+    ],
+    "final_choice": "prod_conditioner_110",
+    "reasoning": "HASK Coconut Monoi at $29.95 with 4.7\u2605/217 reviews carries the overall-pick badge at position 2, a strong quality signal from a recognizable brand."
+  },
+  {
+    "offer_set_id": "conditioner_173",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_078",
+      "prod_conditioner_027",
+      "prod_conditioner_170",
+      "prod_conditioner_196"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are seriously weak \u2014 a 3.4\u2605 product as overall pick, zero-waste bar, LUS, then low-reviewed items; the good options (Aussie, It's A 10, Dove) are all buried past position 10."
+  },
+  {
+    "offer_set_id": "conditioner_174",
+    "consideration_set": [
+      "prod_conditioner_009",
+      "prod_conditioner_011",
+      "prod_conditioner_078",
+      "prod_conditioner_169",
+      "prod_conditioner_026"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are filled with weak/niche picks (unknown hair growth with 4.2\u2605, LUS, expensive Hempz, Bed Head with 120 reviews) and nothing mainstream-strong is prominently placed."
+  },
+  {
+    "offer_set_id": "conditioner_175",
+    "consideration_set": [
+      "prod_conditioner_014",
+      "prod_conditioner_023",
+      "prod_conditioner_074",
+      "prod_conditioner_211",
+      "prod_conditioner_076"
+    ],
+    "final_choice": "prod_conditioner_023",
+    "reasoning": "Redken Acidic Bonding Concentrate at $32 with 4.5\u2605/7938 reviews stands out as the highest-quality option in a set with otherwise mixed top rankings."
+  },
+  {
+    "offer_set_id": "conditioner_176",
+    "consideration_set": [
+      "prod_conditioner_097",
+      "prod_conditioner_026",
+      "prod_conditioner_241",
+      "prod_conditioner_170",
+      "prod_conditioner_014"
+    ],
+    "final_choice": "prod_conditioner_097",
+    "reasoning": "It's A 10 Silk Express at $15.48 with 4.7\u2605/763 reviews is sponsored but prominently placed at position 5 and delivers salon-quality results at an accessible price."
+  },
+  {
+    "offer_set_id": "conditioner_177",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_256",
+      "prod_conditioner_298",
+      "prod_conditioner_199",
+      "prod_conditioner_026"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak small-brand offerings (fave4, Sol de Janeiro with only 78 reviews, RUSK, Philip B, BELLISSO) and the genuinely strong Aussie is buried at position 10."
+  },
+  {
+    "offer_set_id": "conditioner_178",
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_194",
+      "prod_conditioner_119",
+      "prod_conditioner_066",
+      "prod_conditioner_009"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Garnier Whole Blends at $15.98 with 4.7\u2605/8445 reviews at position 6 is the clear standout quality-per-dollar choice in a weak overall set."
+  },
+  {
+    "offer_set_id": "conditioner_179",
+    "consideration_set": [
+      "prod_conditioner_196",
+      "prod_conditioner_016",
+      "prod_conditioner_110",
+      "prod_conditioner_023",
+      "prod_conditioner_147"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by weak products (3.7\u2605 Rainbow Research kids, expensive Hempz, niche St. Tropica, 3.9\u2605 Magical mask) with all the strong brands buried past position 14."
+  },
+  {
+    "offer_set_id": "conditioner_180",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_026",
+      "prod_conditioner_241",
+      "prod_conditioner_213",
+      "prod_conditioner_147"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie 3 Minute Miracle at $17.99 with 4.7\u2605/5134 reviews is at position 1 with overwhelming social proof \u2014 a clear top pick."
+  },
+  {
+    "offer_set_id": "conditioner_181",
+    "consideration_set": [
+      "prod_conditioner_066",
+      "prod_conditioner_170",
+      "prod_conditioner_023",
+      "prod_conditioner_027",
+      "prod_conditioner_110"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions feature mostly budget/weak options (Hairfinity, BELLISSO, Ginger Lily, MANE CLUB $6) and the strong picks like Redken and Dove are deeply buried past position 20."
+  },
+  {
+    "offer_set_id": "conditioner_182",
+    "consideration_set": [
+      "prod_conditioner_110",
+      "prod_conditioner_066",
+      "prod_conditioner_016",
+      "prod_conditioner_026",
+      "prod_conditioner_024"
+    ],
+    "final_choice": "prod_conditioner_110",
+    "reasoning": "HASK Coconut Monoi at $29.95 with 4.7\u2605/217 reviews at position 4 is the best-rated prominent option from a recognizable mass-market brand."
+  },
+  {
+    "offer_set_id": "conditioner_183",
+    "consideration_set": [
+      "prod_conditioner_040",
+      "prod_conditioner_009",
+      "prod_conditioner_218",
+      "prod_conditioner_066",
+      "prod_conditioner_114"
+    ],
+    "final_choice": "prod_conditioner_040",
+    "reasoning": "Alfaparf Milano Semi Di Lino at $22 with 4.6\u2605/2624 reviews is a prominently placed professional leave-in with strong social proof from an Italian salon brand."
+  },
+  {
+    "offer_set_id": "conditioner_184",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_014",
+      "prod_conditioner_196",
+      "prod_conditioner_119",
+      "prod_conditioner_110"
+    ],
+    "final_choice": "prod_conditioner_023",
+    "reasoning": "Redken Acidic Bonding Concentrate at $32 with 4.5\u2605/7938 reviews is the clear quality anchor at position 7 in a set otherwise dominated by weak options."
+  },
+  {
+    "offer_set_id": "conditioner_185",
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_245",
+      "prod_conditioner_147",
+      "prod_conditioner_009",
+      "prod_conditioner_243"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are either niche (purple toning, Keratin Complex premium) or low-review options; the one true standout Garnier is buried at position 16."
+  },
+  {
+    "offer_set_id": "conditioner_186",
+    "consideration_set": [
+      "prod_conditioner_040",
+      "prod_conditioner_218",
+      "prod_conditioner_245",
+      "prod_conditioner_256",
+      "prod_conditioner_211"
+    ],
+    "final_choice": "prod_conditioner_040",
+    "reasoning": "Alfaparf Milano Semi Di Lino at $22 with 4.6\u2605/2624 reviews at position 6 rescues a weak set \u2014 a prominent, well-reviewed professional product."
+  },
+  {
+    "offer_set_id": "conditioner_187",
+    "consideration_set": [
+      "prod_conditioner_218",
+      "prod_conditioner_169",
+      "prod_conditioner_170",
+      "prod_conditioner_290",
+      "prod_conditioner_078"
+    ],
+    "final_choice": "prod_conditioner_218",
+    "reasoning": "Carol's Daughter at $13.99 with 4.4\u2605/2932 reviews at position 1 is prominently placed with excellent social proof at a great price."
+  },
+  {
+    "offer_set_id": "conditioner_188",
+    "consideration_set": [
+      "prod_conditioner_097",
+      "prod_conditioner_005",
+      "prod_conditioner_176",
+      "prod_conditioner_170",
+      "prod_conditioner_009"
+    ],
+    "final_choice": "prod_conditioner_097",
+    "reasoning": "It's A 10 Silk Express at $15.48 with 4.7\u2605/763 reviews is at position 1 and delivers professional-grade results at an accessible drugstore price."
+  },
+  {
+    "offer_set_id": "conditioner_189",
+    "consideration_set": [
+      "prod_conditioner_005",
+      "prod_conditioner_280",
+      "prod_conditioner_183",
+      "prod_conditioner_256",
+      "prod_conditioner_071"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by weak/niche options (HASK with only 156 reviews, purple toner, Nizoral with 30 reviews, 5\u2605 unknown brand with 2 reviews); the Aussie that could be a buy is buried at position 17."
+  },
+  {
+    "offer_set_id": "conditioner_190",
+    "consideration_set": [
+      "prod_conditioner_147",
+      "prod_conditioner_170",
+      "prod_conditioner_298",
+      "prod_conditioner_278",
+      "prod_conditioner_256"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top 5 positions are all weak (Nubian mask, Peter Coppola 50 reviews, a 5\u2605 with only 2 reviews, Morava bar, Ever Ego); the Obliphica best-seller is mid-list but only has 346 reviews and isn't a slam-dunk."
+  },
+  {
+    "offer_set_id": "conditioner_191",
+    "consideration_set": [
+      "prod_conditioner_026",
+      "prod_conditioner_218",
+      "prod_conditioner_245",
+      "prod_conditioner_071",
+      "prod_conditioner_074"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak bars and niche men's products with no mainstream brand up front; Love Beauty at position 7 and Carol's Daughter at position 12 are the best options but neither dominates enough to commit."
+  },
+  {
+    "offer_set_id": "conditioner_192",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_078",
+      "prod_conditioner_170",
+      "prod_conditioner_119",
+      "prod_conditioner_196"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie 3 Minute Miracle at $17.99 with 4.7\u2605/5134 reviews is at position 1 \u2014 the strongest mainstream option with excellent social proof."
+  },
+  {
+    "offer_set_id": "conditioner_193",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_005",
+      "prod_conditioner_076",
+      "prod_conditioner_237",
+      "prod_conditioner_075"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions feature weak or niche products (Biotop, PATTERN for coilies, Marc Anthony, PATTERN Lightweight, purple toner) and Redken is buried at position 15."
+  },
+  {
+    "offer_set_id": "conditioner_194",
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_169",
+      "prod_conditioner_097",
+      "prod_conditioner_194",
+      "prod_conditioner_110"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Garnier Whole Blends at $15.98 with 4.7\u2605/8445 reviews at position 6 is the strongest mainstream option in the visible top-half of results."
+  },
+  {
+    "offer_set_id": "conditioner_195",
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_023",
+      "prod_conditioner_169",
+      "prod_conditioner_218",
+      "prod_conditioner_245"
+    ],
+    "final_choice": "prod_conditioner_170",
+    "reasoning": "Dove Nutritive Solutions 4-pack at $23.95 with 4.7\u2605/1192 reviews at position 3 offers outstanding value from a trusted mass-market brand."
+  },
+  {
+    "offer_set_id": "conditioner_196",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_016",
+      "prod_conditioner_027",
+      "prod_conditioner_040",
+      "prod_conditioner_005"
+    ],
+    "final_choice": "prod_conditioner_023",
+    "reasoning": "Redken Acidic Bonding Concentrate at $32 with 4.5\u2605/7938 reviews at position 5 is the clear quality standout in a mostly weak top of results."
+  },
+  {
+    "offer_set_id": "conditioner_197",
+    "consideration_set": [
+      "prod_conditioner_040",
+      "prod_conditioner_027",
+      "prod_conditioner_023",
+      "prod_conditioner_066",
+      "prod_conditioner_078"
+    ],
+    "final_choice": "prod_conditioner_040",
+    "reasoning": "Alfaparf Milano Semi Di Lino at $22 with 4.6\u2605/2624 reviews at position 3 is a prominent, well-reviewed professional-grade leave-in at a reasonable price."
+  },
+  {
+    "offer_set_id": "conditioner_198",
+    "consideration_set": [
+      "prod_conditioner_027",
+      "prod_conditioner_097",
+      "prod_conditioner_290",
+      "prod_conditioner_280",
+      "prod_conditioner_040"
+    ],
+    "final_choice": "prod_conditioner_027",
+    "reasoning": "L'Oreal Paris Elvive Color Vibrancy at $17.87 with 4.6\u2605/2586 reviews at position 8 is the best prominently-placed mainstream option with strong social proof."
+  },
+  {
+    "offer_set_id": "conditioner_199",
+    "consideration_set": [
+      "prod_conditioner_218",
+      "prod_conditioner_026",
+      "prod_conditioner_110",
+      "prod_conditioner_016",
+      "prod_conditioner_078"
+    ],
+    "final_choice": "prod_conditioner_218",
+    "reasoning": "Carol's Daughter Detangling at $13.99 with 4.4\u2605/2932 reviews at position 2 is a prominently placed, highly reviewed option at an excellent price."
+  },
+  {
+    "offer_set_id": "conditioner_200",
+    "consideration_set": [
+      "prod_conditioner_169",
+      "prod_conditioner_168",
+      "prod_conditioner_002",
+      "prod_conditioner_104",
+      "prod_conditioner_009"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak/niche (Earth Science fragrance-free, Garnier Fructis 3.9\u2605, Pacifica, Petal Fresh, Biotop with 59 reviews, GREAT CLIPS) with no mainstream quality brand prominently placed."
+  }
+]

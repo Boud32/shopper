@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 36,
+    "timestamp": 1776691124,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_036.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_112",
+      "prod_yoga_mats_090",
+      "prod_yoga_mats_118",
+      "prod_yoga_mats_119",
+      "prod_yoga_mats_122"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions dominated by expensive niche mats and low-review options; no BalanceFrom, Amazon Basics, or leading Gaiam SKUs appear with decent placement."
+  }
+}

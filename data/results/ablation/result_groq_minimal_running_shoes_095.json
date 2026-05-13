@@ -1,0 +1,23 @@
+{
+  "experiment_id": "running_shoes_exp",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_094",
+      "prod_running_shoes_146",
+      "prod_running_shoes_194",
+      "prod_running_shoes_160",
+      "prod_running_shoes_164"
+    ],
+    "final_choice": "prod_running_shoes_094",
+    "reasoning_trace": "I selected products with high ratings (>4.5) and a large number of reviews (>100) to ensure reliability. Then, I considered a mix of men's and women's running shoes from reputable brands such as ASICS and Saucony. Finally, I chose ASICS Men's Gel-Contend 6 Running Shoes as the final choice due to its high rating (4.6) and large number of reviews (6897), indicating a trustworthy and popular product."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/running_shoes/running_shoes_095.json",
+    "offer_set_id": "running_shoes_095",
+    "timestamp": 1772641415,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "minimal",
+    "k": 5
+  }
+}

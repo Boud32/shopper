@@ -1,0 +1,23 @@
+{
+  "experiment_id": "backpack_shopping_session_5",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_107",
+      "prod_backpacks_150",
+      "prod_backpacks_073",
+      "prod_backpacks_055",
+      "prod_backpacks_016"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was searching for a general-purpose backpack, but the feed was heavily saturated with accessories like patches, camping stoves, and towels. Within the bags actually listed, many were highly specialized for disc golf, baseball, or specific hydration needs. The Seibertron Falcon was the most robust option, but its tactical aesthetic and 37L size were more than I required for a standard daypack. The TOMSHOO 20L was a possibility, but several reviews mentioned it was smaller than expected. Finding the selection too specialized and the results cluttered with irrelevant gear, I opted not to make a purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_085.json",
+    "offer_set_id": "backpacks_085",
+    "timestamp": 1775591677,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

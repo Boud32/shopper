@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 46,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_146.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_117",
+      "prod_laundry_detergent_034",
+      "prod_laundry_detergent_127",
+      "prod_laundry_detergent_045",
+      "prod_laundry_detergent_257"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top 7 positions are weak (All Mighty Pacs low reviews, expensive Clean People sheets, niche Meliora, 3.9\u2605 CLEACE); compelling Tide+Downy and Rockin' Green are buried."
+  }
+}

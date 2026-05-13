@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 1,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_151.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_071",
+      "prod_protein_powder_059",
+      "prod_protein_powder_092",
+      "prod_protein_powder_057",
+      "prod_protein_powder_067"
+    ],
+    "final_choice": "prod_protein_powder_071",
+    "reasoning": "ALLMAX ISOFLEX is a well-established whey isolate with 4.6 stars, 5785 reviews, and a competitive $39.99 price for 2 lbs \u2014 the strongest combination of quality signals in the set."
+  }
+}

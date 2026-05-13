@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_purchase_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_072",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_125"
+    ],
+    "final_choice": "prod_bluetooth_speakers_153",
+    "reasoning_trace": "I evaluated several speakers across different price points and form factors. The consideration set included a rugged outdoor option (HyperGear), a retro wood design (INSMY), a well-known brand (JBL Renewed), a budget-friendly mini speaker (FLYSH), and a high-power portable option (Raymate). I ultimately chose the Raymate Bluetooth Speaker (prod_bluetooth_speakers_153) because it offers the best combination of technical specifications\u201430W output and IPX7 waterproofing\u2014with a very high average rating (4.6) at a very competitive $39.99 price point. While the JBL is a superior brand, being a renewed product with some reviews mentioning battery failure, the Raymate felt like a safer and more value-oriented purchase for a 30W device."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_035.json",
+    "offer_set_id": "bluetooth_speakers_035",
+    "timestamp": 1775591093,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

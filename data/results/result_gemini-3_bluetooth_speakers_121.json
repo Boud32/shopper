@@ -1,0 +1,23 @@
+{
+  "experiment_id": "bt_speaker_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_168"
+    ],
+    "final_choice": "prod_bluetooth_speakers_181",
+    "reasoning_trace": "I initially narrowed down the feed to established brands and high-rated mid-tier options. The consideration set includes a mix of Bose, Sony, and JBL alongside competitive performers like BOGASING and NOTABRICK. I excluded accessories such as covers and cables. The Sony SRS-XB43 was selected as the final choice because of its superior durability (IP67 waterproof/rustproof), excellent battery life (24 hours), and strong reputation for 'Extra Bass' sound quality, making it a better value proposition at $156 than the more expensive JBL Pulse 4 or the aging Bose SoundLink Color II design."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_121.json",
+    "offer_set_id": "bluetooth_speakers_121",
+    "timestamp": 1775593713,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

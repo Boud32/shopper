@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 45,
+    "timestamp": 1776689265,
+    "source_batch": "data/offer_sets/conditioner/conditioner_045.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_241",
+      "prod_conditioner_026",
+      "prod_conditioner_119",
+      "prod_conditioner_040",
+      "prod_conditioner_023"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak or niche and no broadly-appealing product lands in visible real estate."
+  }
+}

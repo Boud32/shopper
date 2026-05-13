@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_session_25",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_164",
+      "prod_backpacks_078",
+      "prod_backpacks_068",
+      "prod_backpacks_057",
+      "prod_backpacks_137"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several high-rated options, particularly the QT&QY 45L Tactical Backpack (prod_backpacks_057) which has excellent reviews and value. However, the overall product selection is heavily focused on specialized niches: either military-style tactical gear with MOLLE webbing, technical internal-frame hiking packs for multi-day trips (High Sierra and Mardingtop), or sport-specific bags (baseball, ski boots). As I was looking for a more versatile, everyday-carry backpack for standard commuting or urban travel, the rugged aesthetics and specialized features of the military and technical outdoor gear provided do not quite match my requirements for a casual daily bag."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_390.json",
+    "offer_set_id": "backpacks_390",
+    "timestamp": 1775598122,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

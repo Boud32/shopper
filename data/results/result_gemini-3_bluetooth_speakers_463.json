@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping_browsing",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_103",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_128"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated a mix of high-end brands and well-reviewed budget portable speakers. While the Sony SRS-XB43 and Harman Kardon Onyx Studio 6 represent high-quality audio options, their price point is a significant commitment, and some reviews regarding the risk of receiving used units or having minor software quirks made me hesitant. The budget-friendly options like Ortizan and INSMY provide good initial specs, but several reviews cited inconsistent battery performance or pairing issues that suggest long-term reliability might be an issue. Furthermore, a large portion of the current product feed was comprised of carrying cases rather than actual speakers, which limited the variety of mid-range competition. I have decided to wait for a better selection or more consistent reviews before purchasing."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_463.json",
+    "offer_set_id": "bluetooth_speakers_463",
+    "timestamp": 1775604742,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

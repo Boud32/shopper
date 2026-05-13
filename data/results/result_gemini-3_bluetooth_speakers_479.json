@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_session",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_037"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated a diverse set of speakers ranging from the high-fidelity Edifier 2.1 system to portable models from Bose and JBL. While the JBL Charge 5 (prod_bluetooth_speakers_120) has excellent ratings, the $149 price point is a bit steep for my current budget. The Bose SoundLink Color II (prod_bluetooth_speakers_137) is well-regarded but has several reviews mentioning limited longevity (failing after a year), which makes me hesitant. The budget options like EDUPLINK and Raymate offer good value but mixed feedback on sound quality. Since I am looking for a balance of premium sound and long-term reliability without exceeding $100, none of the current options perfectly meet my criteria."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_479.json",
+    "offer_set_id": "bluetooth_speakers_479",
+    "timestamp": 1775604962,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

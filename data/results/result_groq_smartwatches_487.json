@@ -1,0 +1,23 @@
+{
+  "experiment_id": "smartwatch_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_smartwatches_110",
+      "prod_smartwatches_017",
+      "prod_smartwatches_172",
+      "prod_smartwatches_079",
+      "prod_smartwatches_146"
+    ],
+    "final_choice": "prod_smartwatches_172",
+    "reasoning_trace": "I selected these 5 products because they have high ratings, a large number of reviews, and offer a range of features such as heart rate monitoring, GPS, and water resistance. The final choice, prod_smartwatches_172, is a high-end Garmin watch with advanced features and a high rating, making it a strong candidate for a customer looking for a reliable and feature-rich smartwatch."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/smartwatches/smartwatches_487.json",
+    "offer_set_id": "smartwatches_487",
+    "timestamp": 1772826234,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

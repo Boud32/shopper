@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_037",
+      "prod_bluetooth_speakers_168",
+      "prod_bluetooth_speakers_040"
+    ],
+    "final_choice": "prod_bluetooth_speakers_166",
+    "reasoning_trace": "I evaluated several types of speakers ranging from portable outdoor units to high-end home systems. The JBL Flip 5 stood out due to its exceptional reputation (4.8 rating with over 68,000 reviews) and reliable waterproof design, making it the best balance of price and performance for my needs compared to the more expensive Sonos or Edifier systems, or the more budget-oriented options like NOTABRICK or Altec Lansing."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_489.json",
+    "offer_set_id": "bluetooth_speakers_489",
+    "timestamp": 1775605110,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

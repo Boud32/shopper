@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 17,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_067.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_097",
+      "prod_conditioner_290",
+      "prod_conditioner_024"
+    ],
+    "final_choice": "prod_conditioner_170",
+    "reasoning": "Dove Nutritive Intensive Repair at $23.95 with 4.7/1,192 reviews is well-positioned and offers trusted mainstream quality."
+  }
+}

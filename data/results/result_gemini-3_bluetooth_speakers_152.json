@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_session",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_192"
+    ],
+    "final_choice": "prod_bluetooth_speakers_166",
+    "reasoning_trace": "The consideration set focuses on well-rated, reputable portable speakers across different price points. The INSMY and EWA speakers represent excellent value and extreme portability. The Sony SRS-XB43 is the premium choice for high-fidelity sound and bass. The JBL Clip 3 is a great budget-friendly portable option. However, the JBL Flip 5 stands out as the most balanced option, offering superior sound quality, a high rating (4.8 from over 68,000 reviews), and a trusted brand reputation for a reasonable price of $89.95. Its waterproof rating and portable form factor make it the best all-around choice for a Bluetooth speaker."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_152.json",
+    "offer_set_id": "bluetooth_speakers_152",
+    "timestamp": 1775594148,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

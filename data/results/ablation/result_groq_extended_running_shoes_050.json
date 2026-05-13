@@ -1,0 +1,23 @@
+{
+  "experiment_id": "running_shoes_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_156",
+      "prod_running_shoes_136",
+      "prod_running_shoes_126",
+      "prod_running_shoes_074",
+      "prod_running_shoes_146"
+    ],
+    "final_choice": "prod_running_shoes_156",
+    "reasoning_trace": "The final choice is based on the high rating, number of reviews, and relevant features for running shoes. The ASICS Men's Dynablast Running Shoes have a high rating of 4.6 and over 990 reviews, indicating a well-liked and reliable product. The features such as FLYTEFOAM Blast cushioning, breathable upper, and eco-friendly materials also align with the customer's need for a high-quality running shoe."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/running_shoes/running_shoes_050.json",
+    "offer_set_id": "running_shoes_050",
+    "timestamp": 1772641702,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "extended",
+    "k": 5
+  }
+}

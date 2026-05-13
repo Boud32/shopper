@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_sim_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_089",
+      "prod_backpacks_050",
+      "prod_backpacks_164",
+      "prod_backpacks_102",
+      "prod_backpacks_171"
+    ],
+    "final_choice": "prod_backpacks_050",
+    "reasoning_trace": "I evaluated the product feed specifically for versatile backpacks suitable for general use or hiking. The consideration set included two tactical-style backpacks, two popular sling bags, and one camo day pack. I narrowed my choice down to the G4Free Tactical Shoulder Backpack (prod_backpacks_050) because it offers a significant capacity (35L) at a very affordable price point ($28.99), backed by a strong 4.6 rating across over 1,800 reviews. Although the TUDEQU sling was highly rated, the G4Free backpack provides more utility for the cost."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_428.json",
+    "offer_set_id": "backpacks_428",
+    "timestamp": 1775598724,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

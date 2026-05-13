@@ -1,0 +1,23 @@
+{
+  "experiment_id": "running_shoes_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_162",
+      "prod_running_shoes_128",
+      "prod_running_shoes_186",
+      "prod_running_shoes_194",
+      "prod_running_shoes_072"
+    ],
+    "final_choice": "prod_running_shoes_162",
+    "reasoning_trace": "The top choice, prod_running_shoes_162, is the adidas Men's Racer Tr21 Running Shoe, which has a high rating of 4.5 and over 6947 reviews, indicating a reliable and well-liked product. The consideration set also includes other well-regarded running shoes from reputable brands such as ASICS and Brooks, which have high ratings and numerous reviews. The selection is based on the high overall ratings, large number of reviews, and the reputation of the brands."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/running_shoes/running_shoes_014.json",
+    "offer_set_id": "running_shoes_014",
+    "timestamp": 1772641557,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "extended",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_backpacks_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_057",
+      "prod_backpacks_038",
+      "prod_backpacks_107",
+      "prod_backpacks_064",
+      "prod_backpacks_196"
+    ],
+    "final_choice": "prod_backpacks_057",
+    "reasoning_trace": "I evaluated several tactical and hiking backpacks. Product prod_backpacks_057 (QT&QY 45L Military Tactical Backpack) stood out due to its high rating of 4.7 across over 6,000 reviews and its excellent price point of $39.99. While prod_backpacks_038 is a high-quality alternative for daily carry, the storage capacity, MOLLE system versatility, and proven durability recorded in the reviews for the QT&QY model make it the most compelling choice for a robust backpack."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_398.json",
+    "offer_set_id": "backpacks_398",
+    "timestamp": 1775598235,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

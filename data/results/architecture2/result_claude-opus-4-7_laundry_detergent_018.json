@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 18,
+    "timestamp": 1776650224,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_018.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_117",
+      "prod_laundry_detergent_180",
+      "prod_laundry_detergent_022",
+      "prod_laundry_detergent_293",
+      "prod_laundry_detergent_256"
+    ],
+    "final_choice": "prod_laundry_detergent_117",
+    "reasoning": "Tide with Downy at $12.97 with 4.8 stars and 8113 reviews offers trusted brand, great scent combo, and excellent value."
+  }
+}

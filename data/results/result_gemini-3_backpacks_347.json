@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_111",
+      "prod_backpacks_078",
+      "prod_backpacks_003",
+      "prod_backpacks_128",
+      "prod_backpacks_171"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "While I was browsing for backpacks, the product feed was heavily cluttered with unrelated camping equipment such as pots, lanterns, and inflatable pillows. Within the consideration set, the Osprey Exos 58 is a reputable brand but the reviews specifically mentioned a flimsy suspension system, which is a concern for a high-ticket item. The SHENHU and Gelindo options are well-rated for their price, but they appear more like budget specialized gear rather than the durable, everyday backpack I was hoping for. Given the dilution of the search results and the mixed technical reviews on the premium options, I've decided to postpone my purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_347.json",
+    "offer_set_id": "backpacks_347",
+    "timestamp": 1775597419,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

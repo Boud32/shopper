@@ -1,0 +1,23 @@
+{
+  "experiment_id": "realistic_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_168",
+      "prod_bluetooth_speakers_177",
+      "prod_bluetooth_speakers_009"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I am looking for a high-quality, name-brand portable speaker in new condition. The JBL Charge 4 (prod_013) is a great model but is listed as a renewed product, which raises concerns about long-term battery health. The JBL Go 3 bundle (prod_009) is significantly more expensive than the standalone speaker usually retails for and only has one negative review regarding delivery. The Bose SoundDock (prod_088) is an outdated system using a 30-pin connector. While generic options like Raymate (prod_153) and NOTABRICK (prod_168) have positive specifications, I prefer to wait for a brand-new unit from a major manufacturer for more reliable warranty and software support. Therefore, I have decided not to make a purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_321.json",
+    "offer_set_id": "bluetooth_speakers_321",
+    "timestamp": 1775597065,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

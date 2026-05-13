@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_030",
+      "prod_bluetooth_speakers_151"
+    ],
+    "final_choice": "prod_bluetooth_speakers_181",
+    "reasoning_trace": "I am looking for a high-quality, durable portable speaker. While the feed is heavily cluttered with cases and cables, there are several top-tier speakers from Bose, JBL, Sony, and Sonos. I narrowed my choice to the Sony SRS-XB43 and the Bose SoundLink Color II. I ultimately decided on the Sony SRS-XB43 because of its superior durability (IP67 waterproof and dustproof) and the 'Extra Bass' feature which is highly rated in user reviews for outdoor and travel environments."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_185.json",
+    "offer_set_id": "bluetooth_speakers_185",
+    "timestamp": 1775594695,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

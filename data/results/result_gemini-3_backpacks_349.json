@@ -1,0 +1,23 @@
+{
+  "experiment_id": "realistic_shopping_backpacks_1",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_137",
+      "prod_backpacks_140",
+      "prod_backpacks_169",
+      "prod_backpacks_186",
+      "prod_backpacks_012"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The search for a backpack yielded a product feed heavily saturated with camping accessories (pillows, stoves, and cleaning kits) and highly specialized gear bags (boot bags, baseball bags, and hydration vests). I evaluated a 70L hiking pack (prod_backpacks_137), a well-reviewed sling bag (prod_backpacks_140), a hydration vest (prod_backpacks_169), a ski gear bag (prod_backpacks_186), and a budget tactical sling (prod_backpacks_012). While the sling bags have decent ratings, the options for a versatile, standard daily-use backpack are extremely limited. The tactical and specialized bags have multiple reviews citing durability issues with zippers and stitching. Given the mismatch between the product types and the lack of a high-quality, standard daypack, no purchase was made."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_349.json",
+    "offer_set_id": "backpacks_349",
+    "timestamp": 1775597449,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

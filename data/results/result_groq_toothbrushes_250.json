@@ -1,0 +1,23 @@
+{
+  "experiment_id": "toothbrush_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_018",
+      "prod_toothbrushes_073",
+      "prod_toothbrushes_174",
+      "prod_toothbrushes_041",
+      "prod_toothbrushes_068"
+    ],
+    "final_choice": "prod_toothbrushes_018",
+    "reasoning_trace": "The final choice is based on a combination of factors including product ratings, review counts, and prices. The Sonic Electric Toothbrush for Adults (prod_toothbrushes_018) has a high rating of 4.4, a decent review count of 70, and a competitive price of $32.99. While other products like the USHON Replacement Toothbrush Heads (prod_toothbrushes_073) and the TEETHEORY Electric Toothbrush (prod_toothbrushes_174) also have high ratings, they are either replacement heads or more expensive. The GuruNanda Mentadent Manual Toothbrush (prod_toothbrushes_041) is a budget-friendly option but lacks the features of an electric toothbrush. The Philips Sonicare 4100 Electric Rechargeable Power Toothbrush (prod_toothbrushes_068) is a high-end option with excellent reviews but is significantly more expensive."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_250.json",
+    "offer_set_id": "toothbrushes_250",
+    "timestamp": 1772654738,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

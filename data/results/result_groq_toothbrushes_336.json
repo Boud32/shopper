@@ -1,0 +1,23 @@
+{
+  "experiment_id": "toothbrush_purchase",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_100",
+      "prod_toothbrushes_178",
+      "prod_toothbrushes_018",
+      "prod_toothbrushes_131",
+      "prod_toothbrushes_003"
+    ],
+    "final_choice": "prod_toothbrushes_018",
+    "reasoning_trace": "The final choice is based on the high overall rating of the products, customer reviews, and the features of each toothbrush. prod_toothbrushes_018 has a rating of 4.4, multiple positive reviews, and offers 5 powerful cleaning and whitening modes, making it a well-rounded and effective toothbrush."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_336.json",
+    "offer_set_id": "toothbrushes_336",
+    "timestamp": 1772825108,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

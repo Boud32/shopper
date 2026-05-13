@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_057",
+      "prod_backpacks_128",
+      "prod_backpacks_137",
+      "prod_backpacks_168",
+      "prod_backpacks_007"
+    ],
+    "final_choice": "prod_backpacks_057",
+    "reasoning_trace": "I am looking for a versatile, durable backpack for outdoor activities and travel. The QT&QY 45L Tactical Backpack (prod_backpacks_057) stood out due to its high rating of 4.7 from over 6,000 reviews and its tactical design which offers excellent organization. I also considered the adidas Mesh Backpack for daily use and the Mardingtop for heavy-duty hiking, but the QT&QY offered the best balance of capacity, features, and price. The dry bag was an interesting affordable option for water activities, but not suitable as a primary backpack. Ultimately, the positive durability feedback and functionality of the QT&QY made it the best purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_151.json",
+    "offer_set_id": "backpacks_151",
+    "timestamp": 1775593634,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

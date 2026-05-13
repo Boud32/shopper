@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_150",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_131",
+      "prod_bluetooth_speakers_061",
+      "prod_bluetooth_speakers_190"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "During this shopping session, I was looking for a high-quality portable Bluetooth speaker, but I found the results quite cluttered. The product feed included several irrelevant items like battery replacements and wall shelves, which diluted the quality of the search results. I seriously considered the Bose SoundLink Color II and the JBL Pulse 4, but the Bose is a relatively old model for its price, and the JBL's premium cost is hard to justify when compared to newer alternatives. The budget-friendly options like the Xeneo X21 and DOSS Traveler were tempting, but after reading reviews mentioning durability issues and poor longevity (speakers dying after 2 months), I decided to hold off. Given the mix of aging premium models and questionable budget reliability, nothing in the current set felt like a definitive 'buy' today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_383.json",
+    "offer_set_id": "bluetooth_speakers_383",
+    "timestamp": 1775598198,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

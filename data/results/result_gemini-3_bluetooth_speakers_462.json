@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_session_25",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_072",
+      "prod_bluetooth_speakers_117",
+      "prod_bluetooth_speakers_019"
+    ],
+    "final_choice": "prod_bluetooth_speakers_129",
+    "reasoning_trace": "I filtered out the numerous accessories (cases, power cords, battery bases) to focus on actual Bluetooth speakers. My consideration set includes a high-end brand-name portable speaker (JBL Go 3), a feature-rich budget option (EDUPLINK), a rugged high-output speaker (HyperGear), a highly-rated novelty mini speaker (My Audio Pet), and a versatile night light/speaker combo (MRCOOL). I ultimately chose the JBL Go 3 because it has the highest reliability rating (4.7) from a reputable audio brand and represents the best balance of portability, sound quality, and price for general outdoor/indoor use."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_462.json",
+    "offer_set_id": "bluetooth_speakers_462",
+    "timestamp": 1775604711,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

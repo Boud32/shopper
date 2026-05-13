@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_057",
+      "prod_backpacks_111",
+      "prod_backpacks_150",
+      "prod_backpacks_128",
+      "prod_backpacks_159"
+    ],
+    "final_choice": "prod_backpacks_057",
+    "reasoning_trace": "Out of the 25 items, many were accessories (pots, sleeping pads, lights) rather than primary backpacks. Within the actual backpack options, I narrowed the consideration set to a mix of large hiking/tactical bags, a hydration pack, a branded mesh bag, and a small sling. The QT&QY 45L Tactical Backpack (prod_backpacks_057) was the clear winner due to its exceptionally high rating of 4.7 stars across over 6,000 reviews, suggesting a level of durability and utility that justifies its price point. It outperformed the SHENHU 40L (prod_backpacks_111) in perceived quality despite being slightly more expensive."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_438.json",
+    "offer_set_id": "backpacks_438",
+    "timestamp": 1775598946,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

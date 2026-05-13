@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping_05",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_068",
+      "prod_backpacks_078",
+      "prod_backpacks_128",
+      "prod_backpacks_153",
+      "prod_backpacks_160"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The shopping session was characterized by a high volume of irrelevant accessories like hand warmers, camping lights, and trekking poles, which made it difficult to find a standard backpack. Within the consideration set, the options were either too specialized\u2014such as the FISKINER fishing pack or the Scothen cooler bag\u2014or had notable drawbacks. The High Sierra 70L is too large for most uses, the adidas bag is mesh (which offers little protection or privacy), and the Gelindo hydration pack had reviews mentioning that the backpack component itself requires repairs. Given the lack of a high-quality, versatile, general-purpose daypack, I decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_007.json",
+    "offer_set_id": "backpacks_007",
+    "timestamp": 1774977765,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

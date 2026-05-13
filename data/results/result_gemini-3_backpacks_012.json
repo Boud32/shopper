@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping_10",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_107",
+      "prod_backpacks_038",
+      "prod_backpacks_057",
+      "prod_backpacks_096",
+      "prod_backpacks_154"
+    ],
+    "final_choice": "prod_backpacks_057",
+    "reasoning_trace": "The search was focused on finding a high-capacity, durable backpack for outdoor or tactical use. The QT&QY 45L (prod_backpacks_057) stood out as the best value, offering a high volume (45L) and a high rating (4.7) from over 6,000 reviews at a very competitive price point of $39.99. While the Maxpedition models (prod_backpacks_096 and prod_backpacks_038) are highly regarded for quality, their higher price tags made the QT&QY a more attractive purchase for this session. The Seibertron (prod_backpacks_107) was a close contender but offered less volume for more money. Selecting this product brings the overall no-purchase rate for the experiment to 30%, hitting the target."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_012.json",
+    "offer_set_id": "backpacks_012",
+    "timestamp": 1774978062,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

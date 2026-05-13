@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 25,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_075.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_117",
+      "prod_laundry_detergent_077",
+      "prod_laundry_detergent_242",
+      "prod_laundry_detergent_195"
+    ],
+    "final_choice": "prod_laundry_detergent_284",
+    "reasoning": "Puracy hypoallergenic at position 1, $19.99 with 4.6/6,276 reviews \u2014 trusted, reasonable price, prominent placement."
+  }
+}

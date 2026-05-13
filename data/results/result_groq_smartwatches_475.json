@@ -1,0 +1,23 @@
+{
+  "experiment_id": "smartwatch_recommender",
+  "decision": {
+    "consideration_set": [
+      "prod_smartwatches_015",
+      "prod_smartwatches_082",
+      "prod_smartwatches_117",
+      "prod_smartwatches_188",
+      "prod_smartwatches_017"
+    ],
+    "final_choice": "prod_smartwatches_082",
+    "reasoning_trace": "The customer is looking for a smartwatch, and the top 5 products in the consideration set are a mix of budget-friendly and high-end options. The EURANS Smart Watch (prod_smartwatches_015) is a budget-friendly option with a rating of 4.1 and a price of $39.99. The Garmin Vivoactive 4S (prod_smartwatches_082) is a high-end option with a rating of 4.5 and a price of $199.99. The Blackview Smart Watch (prod_smartwatches_117) is another budget-friendly option with a rating of 4.3 and a price of $23.99. The Garmin Forerunner 955 Solar (prod_smartwatches_188) is a high-end option with a rating of 4.7 and a price of $599.99. The Smart Watch for Men (prod_smartwatches_017) is a budget-friendly option with a rating of 4.0 and a price of $59.99. The final choice is the Garmin Vivoactive 4S (prod_smartwatches_082) due to its high rating and advanced features such as GPS, heart rate monitoring, and music storage."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/smartwatches/smartwatches_475.json",
+    "offer_set_id": "smartwatches_475",
+    "timestamp": 1772826207,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

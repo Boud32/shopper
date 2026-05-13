@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 19,
+    "timestamp": 1776650226,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_169.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_030",
+      "prod_laundry_detergent_117",
+      "prod_laundry_detergent_248",
+      "prod_laundry_detergent_265",
+      "prod_laundry_detergent_166"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by LaundraPet, 5-gallon Xtra, and weak-rated sheets; genuinely strong options are buried at the bottom of the page."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_shopping_v1",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_037",
+      "prod_bluetooth_speakers_103",
+      "prod_bluetooth_speakers_009",
+      "prod_bluetooth_speakers_083"
+    ],
+    "final_choice": "prod_bluetooth_speakers_137",
+    "reasoning_trace": "I evaluated several Bluetooth speakers across different price points and use cases. My consideration set included a high-end bookshelf system (Edifier S350DB), a budget-friendly loud option (Ortizan 40W), an ultra-portable JBL Go 3, and the feature-rich JBL Pulse 4. Ultimately, I chose the Bose SoundLink Color II because it strikes the best balance of portability, brand reliability, and proven performance, as evidenced by its high rating and massive number of positive reviews. Its water-resistant build makes it more versatile for outdoor use compared to the stationary Edifier or the standard JBL Go 3 bundle."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_434.json",
+    "offer_set_id": "bluetooth_speakers_434",
+    "timestamp": 1775604272,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

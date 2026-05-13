@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_001",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_003",
+      "prod_bluetooth_speakers_131"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated a range of speakers from premium brands like Sony, Bose, and JBL to budget options like Comiso. The Sony SRS-XB43 and JBL Pulse 4 offer high-quality audio, but the Sony is noted for being quite heavy, and the JBL is priced at a significant premium ($249) for a portable unit. The Ultimate Ears Megablast has reported stability issues with its Alexa integration, which is a major drawback for a speaker at that price point. While the Bose SoundLink Color is a reliable classic, it feels somewhat dated compared to newer options. The budget-friendly Comiso had some concerning 'Dead on Arrival' reviews. Since I am looking for a perfect balance of reliability, modern features, and value, I've decided not to purchase any of these today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_306.json",
+    "offer_set_id": "bluetooth_speakers_306",
+    "timestamp": 1775596796,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

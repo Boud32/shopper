@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_023",
+      "prod_backpacks_156",
+      "prod_backpacks_150",
+      "prod_backpacks_182",
+      "prod_backpacks_002"
+    ],
+    "final_choice": "prod_backpacks_023",
+    "reasoning_trace": "During this shopping session, many of the items listed under the category were not actually traditional backpacks, but rather camping accessories like chairs, tents, and sleeping pads. I narrowed my consideration set down to the most functional carrying bags. The Fox Outdoor NATO Style Rucksack (prod_backpacks_023) stood out because of its rugged cotton canvas construction and classic design, which suggests better durability than the thin, packable nylon used in the cheaper models. While the hydration and cooler backpacks are useful for specific niches, the Fox Outdoor model offers the best utility for general outdoor use at a competitive price point, despite some mixed feedback on the hardware."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_116.json",
+    "offer_set_id": "backpacks_116",
+    "timestamp": 1775605342,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

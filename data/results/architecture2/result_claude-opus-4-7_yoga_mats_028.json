@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 28,
+    "timestamp": 1776691124,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_028.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_097",
+      "prod_yoga_mats_119",
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_082",
+      "prod_yoga_mats_192"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Leading positions are dominated by premium niche mats (YDL, Manduka, Cork) with no standout general-purpose mat at a good price."
+  }
+}

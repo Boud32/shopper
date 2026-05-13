@@ -1,0 +1,23 @@
+{
+  "experiment_id": "mechanical_keyboards",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_107",
+      "prod_mechanical_keyboards_035",
+      "prod_mechanical_keyboards_194",
+      "prod_mechanical_keyboards_009",
+      "prod_mechanical_keyboards_075"
+    ],
+    "final_choice": "prod_mechanical_keyboards_075",
+    "reasoning_trace": "The final choice is based on a balance of customer reviews, product features, and price. 'prod_mechanical_keyboards_075' (ASUS ROG Falchion Wireless 65% Mechanical Gaming Keyboard) stands out for its compact design, wireless functionality, and positive reviews regarding its performance and durability. While 'prod_mechanical_keyboards_107' (Lomiluskr K680T Wireless 60% Mechanical Keyboard) and 'prod_mechanical_keyboards_035' (Code V3 104-Key Illuminated Mechanical Keyboard) are strong contenders due to their wireless and backlight features, respectively, 'prod_mechanical_keyboards_075' offers a more comprehensive set of features including a touch panel and extended battery life, making it a more versatile option. 'prod_mechanical_keyboards_194' (KINESIS USB-A Freestyle Pro Quiet Ergonomic Split Mechanical Keyboard) and 'prod_mechanical_keyboards_009' (GAMDIAS Hermes E2 7 Color Backlit Gaming Mechanical Keyboard) are also considered for their unique ergonomic design and backlit features, but 'prod_mechanical_keyboards_075' is chosen for its overall value and customer satisfaction."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_373.json",
+    "offer_set_id": "mechanical_keyboards_373",
+    "timestamp": 1772655487,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

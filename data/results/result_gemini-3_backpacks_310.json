@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_purchase_sim",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_050",
+      "prod_backpacks_074",
+      "prod_backpacks_150",
+      "prod_backpacks_038",
+      "prod_backpacks_132"
+    ],
+    "final_choice": "prod_backpacks_038",
+    "reasoning_trace": "I evaluated 25 products, many of which were camping gear rather than actual backpacks. I narrowed my consideration set to five specialized backpacks: a tactical 35L survival pack (G4Free), a dedicated ice skate backpack (Transpack), two hydration packs (N NEVO RHINO and Mubasel), and an everyday carry (EDC) pack (Maxpedition). I ultimately chose the Maxpedition Prepared Citizen Classic v2.0. While it is one of the more expensive items at $72.57, its high 4.7 rating and focus on durability and 'nondescript' aesthetics make it a superior choice for a long-term EDC bag compared to the more niche hydration or sports-specific packs."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_310.json",
+    "offer_set_id": "backpacks_310",
+    "timestamp": 1775596837,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

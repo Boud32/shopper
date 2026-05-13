@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 27,
+    "timestamp": 1776689267,
+    "source_batch": "data/offer_sets/conditioner/conditioner_177.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_256",
+      "prod_conditioner_298",
+      "prod_conditioner_199",
+      "prod_conditioner_026"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak small-brand offerings (fave4, Sol de Janeiro with only 78 reviews, RUSK, Philip B, BELLISSO) and the genuinely strong Aussie is buried at position 10."
+  }
+}

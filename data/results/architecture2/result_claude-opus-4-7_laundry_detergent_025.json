@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 25,
+    "timestamp": 1776650224,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_025.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_225",
+      "prod_laundry_detergent_127",
+      "prod_laundry_detergent_102",
+      "prod_laundry_detergent_007",
+      "prod_laundry_detergent_086"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (soap nuts, overpriced items, small-review products) and the strong mainstream options are all buried."
+  }
+}

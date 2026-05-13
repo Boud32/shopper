@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_backpacks_3",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_043",
+      "prod_backpacks_050",
+      "prod_backpacks_041",
+      "prod_backpacks_173",
+      "prod_backpacks_132"
+    ],
+    "final_choice": "prod_backpacks_043",
+    "reasoning_trace": "I am looking for a functional, high-quality hiking backpack. I selected a range of options: a premium ultralight pack (Granite Gear), a budget packable option (ZOMAKE), a hydration-focused pack (Mubasel Gear), a tactical high-capacity pack (G4Free), and a mid-range technical hiking pack (KAILAS). After reviewing the feedback, the KAILAS 28L stands out as a high-value choice; several reviews compare its quality to high-end Osprey packs and praise its internal frame ventilation system. At $69.99, it offers the best balance of specialized hiking features and durability compared to the lighter but more fragile packable options or the purely tactical style of the G4Free."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_083.json",
+    "offer_set_id": "backpacks_083",
+    "timestamp": 1775591644,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

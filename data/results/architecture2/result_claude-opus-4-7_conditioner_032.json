@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 32,
+    "timestamp": 1776689265,
+    "source_batch": "data/offer_sets/conditioner/conditioner_032.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_287",
+      "prod_conditioner_280",
+      "prod_conditioner_027",
+      "prod_conditioner_147"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (3.4-star, 2-review, 21-review products) and the overall pick has only 174 reviews."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_session",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_021",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_049"
+    ],
+    "final_choice": null,
+    "reasoning_trace": "I evaluated a set of speakers ranging from ultra-portable clips to larger outdoor units. My primary focus was on the JBL Charge 5 and the Bose SoundLink Color II due to their brand reputation and high ratings. However, I decided against a purchase for a few reasons. The JBL Charge 5 reportedly lacks backward compatibility with older JBL models, which is a significant limitation for my existing setup. Furthermore, the Bose SoundLink and the Altec Lansing Soundbucket had concerning reviews regarding longevity and waterproof reliability. Since a large portion of the remaining catalog consisted of accessories like cases and cables rather than actual speakers, I did not find a suitable replacement in this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_318.json",
+    "offer_set_id": "bluetooth_speakers_318",
+    "timestamp": 1775597008,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_095",
+      "prod_backpacks_186",
+      "prod_backpacks_112",
+      "prod_backpacks_168",
+      "prod_backpacks_067"
+    ],
+    "final_choice": "prod_backpacks_168",
+    "reasoning_trace": "I narrowed my selection down to a mix of specialized gear bags and daily carry options. The ALPS OutdoorZ and OutdoorMaster bags are high-quality but very niche for hunting and skiing. The FOCO NFL backpack is a good general option but a bit pricey for its simple design. The TACTICISM cooler backpack is interesting for outdoor events. Ultimately, I chose the MOSISO Sling Backpack because of its excellent reviews regarding durability and organization, and its highly versatile price point. It serves as a practical, lightweight solution for short hikes or city commuting."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_072.json",
+    "offer_set_id": "backpacks_072",
+    "timestamp": 1775590839,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

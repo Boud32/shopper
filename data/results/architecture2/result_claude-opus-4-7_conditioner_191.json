@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 41,
+    "timestamp": 1776689267,
+    "source_batch": "data/offer_sets/conditioner/conditioner_191.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_026",
+      "prod_conditioner_218",
+      "prod_conditioner_245",
+      "prod_conditioner_071",
+      "prod_conditioner_074"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak bars and niche men's products with no mainstream brand up front; Love Beauty at position 7 and Carol's Daughter at position 12 are the best options but neither dominates enough to commit."
+  }
+}

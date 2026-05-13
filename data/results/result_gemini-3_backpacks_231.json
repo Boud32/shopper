@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_realistic_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_043",
+      "prod_backpacks_111",
+      "prod_backpacks_041",
+      "prod_backpacks_102",
+      "prod_backpacks_082"
+    ],
+    "final_choice": "prod_backpacks_043",
+    "reasoning_trace": "I filtered the list for actual backpacks that would be suitable for hiking or travel. The SHENHU 40L (prod_backpacks_111) was a strong budget contender, but the KAILAS 28L (prod_backpacks_043) offered better technical features like a carbon fiber frame and a suspension system for ventilation. Reviews specifically compared the KAILAS to high-end Osprey packs, which suggests better long-term value than the SHENHU. The Granite Gear pack (prod_backpacks_041) was disqualified due to multiple reviews reporting broken shoulder straps. The TUDEQU sling and BASSDASH tackle bag were too specialized for general use. I decided to purchase the KAILAS 28L due to its build quality and comfort features."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_231.json",
+    "offer_set_id": "backpacks_231",
+    "timestamp": 1775595507,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_064",
+      "prod_backpacks_112",
+      "prod_backpacks_159",
+      "prod_backpacks_160",
+      "prod_backpacks_183"
+    ],
+    "final_choice": "prod_backpacks_159",
+    "reasoning_trace": "The search results for 'Backpacks' were significantly diluted with non-backpack camping gear like folding stools, paddleboards, and meal kits. Within the actual bag options, I narrowed my consideration to five specialized designs: a tactical military pack, a team-logo school pack, a high-volume sling bag, a fishing backpack, and a cooler backpack. I ultimately chose the NICGID Sling Bag (prod_backpacks_159) because it represents the highest level of social proof with nearly 4,000 reviews and a solid 4.5 rating. While it is a sling-style bag rather than a traditional two-strap rucksack, it addresses the durability concerns found in the reviews of other backpacks in the feed, such as broken zippers on the FOCO models."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_252.json",
+    "offer_set_id": "backpacks_252",
+    "timestamp": 1775595867,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

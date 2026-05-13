@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_006",
+      "prod_backpacks_057",
+      "prod_backpacks_068",
+      "prod_backpacks_096",
+      "prod_backpacks_107"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "After reviewing the available selection, I have decided not to make a purchase. My primary reason is that the product feed was heavily cluttered with non-backpack items such as travel pillows, tent stakes, and camping furniture, which made the browsing experience frustrating. Within the actual backpacks available, the variety was polarized between very lightweight packable bags (HIKPRO) and heavy-duty tactical or internal frame hiking packs (QT&QY, Maxpedition, High Sierra). I was looking for a more balanced, everyday commuter or laptop-friendly backpack. Since the options were either too specialized for military/hiking use or too minimal for daily protection of electronics, none of the products in my consideration set perfectly met my needs."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_096.json",
+    "offer_set_id": "backpacks_096",
+    "timestamp": 1775591838,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

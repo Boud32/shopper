@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 39,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_139.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_180",
+      "prod_laundry_detergent_045",
+      "prod_laundry_detergent_293",
+      "prod_laundry_detergent_242",
+      "prod_laundry_detergent_162"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top 6 positions are weak (low-review sheets, 3.6-3.9\u2605 items, expensive Zote); all compelling products buried at positions 15+."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 21,
+    "timestamp": 1776689265,
+    "source_batch": "data/offer_sets/conditioner/conditioner_021.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_023",
+      "prod_conditioner_280",
+      "prod_conditioner_119",
+      "prod_conditioner_211"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top positions are weak and the truly strong options \u2014 Garnier, Redken, Aussie \u2014 are all deep in the page."
+  }
+}

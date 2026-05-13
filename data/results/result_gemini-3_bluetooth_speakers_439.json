@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_192",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_002",
+      "prod_bluetooth_speakers_150"
+    ],
+    "final_choice": "prod_bluetooth_speakers_129",
+    "reasoning_trace": "I initially filtered through the list to remove accessories like cases, charging cables, and non-speaker items like the bluetooth hat. This left several high-quality portable speakers. I included the JBL Go 3 and JBL Clip 3 in my consideration set due to their superior 4.7 ratings. I also added the EWA A106 Pro and EDUPLINK as they represent the best value-for-money options with massive review volumes. The XENEO X21 was included for its versatility (FM radio and SD slot). I ultimately decided on the JBL Go 3 (prod_bluetooth_speakers_129) because it offers a perfect balance of portability, brand reliability, and IP67 dust/water resistance for outdoor use, which is a significant upgrade over the basic budget models."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_439.json",
+    "offer_set_id": "bluetooth_speakers_439",
+    "timestamp": 1775604350,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

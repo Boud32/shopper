@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 27,
+    "timestamp": 1776640082,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_077.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_169",
+      "prod_protein_powder_024",
+      "prod_protein_powder_132",
+      "prod_protein_powder_059",
+      "prod_protein_powder_080"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by low-review and niche products; no standout whey has both strong placement and strong review base."
+  }
+}

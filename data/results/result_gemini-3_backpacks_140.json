@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_043",
+      "prod_backpacks_099",
+      "prod_backpacks_064",
+      "prod_backpacks_073",
+      "prod_backpacks_154"
+    ],
+    "final_choice": "prod_backpacks_043",
+    "reasoning_trace": "The browsing session for backpacks included many non-backpack items such as lanterns, chairs, and cookware. I filtered for actual wearable backpacks. The KAILAS 28L (prod_backpacks_043) was selected for consideration because it offered high-end technical features like a carbon fiber frame and was compared favorably to Osprey. The ZOMAKE (prod_backpacks_099) was included as a top-rated budget option. The Warriors tactical pack (prod_backpacks_064) provided a rugged alternative, while the TOURIT (prod_backpacks_154) and TOMSHOO (prod_backpacks_073) served niche cooler and cycling needs respectively. I ultimately chose the KAILAS because of its high rating, 28L capacity suitable for day-hiking, and the included rain cover, which provided the best balance of quality and utility for a serious outdoor user."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_140.json",
+    "offer_set_id": "backpacks_140",
+    "timestamp": 1775593458,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

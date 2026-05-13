@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_session_001",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_128"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "In this shopping session, I evaluated several Bluetooth speakers ranging from budget options to premium brand names. My consideration set included the highly-rated JBL Flip 5 and Charge 5, along with mid-range alternatives from comiso, Raymate, and INSMY. While the JBL products have excellent reputations, their price points ($90 to $150) are a significant investment. Conversely, the more affordable 30W speakers like the comiso and Raymate had mixed feedback regarding longevity and out-of-the-box failures. Furthermore, the search results were cluttered with accessories like carrying cases and replacement batteries, which made it harder to find a diverse range of actual hardware. Ultimately, I am not confident enough in the budget brands to risk the purchase, and I am not ready to commit to the higher price of the JBL models today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_397.json",
+    "offer_set_id": "bluetooth_speakers_397",
+    "timestamp": 1775598418,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "running_shoes",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_153",
+      "prod_running_shoes_131",
+      "prod_running_shoes_135",
+      "prod_running_shoes_124",
+      "prod_running_shoes_162"
+    ],
+    "final_choice": "prod_running_shoes_131",
+    "reasoning_trace": "Based on the provided product feed, a consideration set of 5 running shoes products was selected. These products - New Balance Men's FuelCore Coast V4 Running Shoe, New Balance Men's 410 V6 Trail Running Shoe, Brooks Men\u2019s Launch 9 Neutral Running Shoe, Brooks Women's Ghost 14 Neutral Running Shoe, and adidas Men's Racer Tr21 Running Shoe - were chosen due to their high ratings (average of 4.4), numerous reviews (ranging from 2181 to 26445), and representation of established brands known for running shoes (New Balance, Brooks, and adidas). Among these, New Balance Men's FuelCore Coast V4 Running Shoe is selected as the final choice due to its high rating of 4.4, large number of reviews (2181), and its 'Best Seller' and 'Overall Pick' tags, indicating a well-regarded and popular choice among customers."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/running_shoes/running_shoes_058.json",
+    "offer_set_id": "running_shoes_058",
+    "timestamp": 1772641604,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "no_reviews",
+    "k": 5
+  }
+}

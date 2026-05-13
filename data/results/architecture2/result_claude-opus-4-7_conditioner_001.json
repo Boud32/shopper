@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 1,
+    "timestamp": 1776689265,
+    "source_batch": "data/offer_sets/conditioner/conditioner_001.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_169",
+      "prod_conditioner_024",
+      "prod_conditioner_196",
+      "prod_conditioner_245",
+      "prod_conditioner_040"
+    ],
+    "final_choice": "prod_conditioner_169",
+    "reasoning": "L'Oreal EverPure is a mainstream, well-reviewed sulfate-free conditioner at a fair price, clearly better than the niche or low-volume options around it."
+  }
+}

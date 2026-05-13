@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 32,
+    "timestamp": 1776691125,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_182.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_101",
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_006"
+    ],
+    "final_choice": "prod_yoga_mats_163",
+    "reasoning": "Heathyoga at position 2 with alignment lines, $39.99, 4.6 stars, and 9,425 reviews is a strong functional pick at a prominent position."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 35,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_135.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_066",
+      "prod_conditioner_097",
+      "prod_conditioner_023",
+      "prod_conditioner_110",
+      "prod_conditioner_218"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top of page is weak (4.0 LATINOIL, small-review House of Dear, 3.7 kids) and nothing visible stands out clearly for general use."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_164",
+      "prod_backpacks_050",
+      "prod_backpacks_140",
+      "prod_backpacks_055",
+      "prod_backpacks_002"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several specialized backpacks including a 45L tactical pack, a 35L tactical shoulder bag, a sling bag, a disc golf bag, and a cooler backpack. While the tactical packs (prod_backpacks_164 and prod_backpacks_050) offered decent features for the price, the product feed was heavily cluttered with non-backpack accessories such as fire starters, sun hats, trekking poles, and lanterns. The limited selection of actual backpacks for comparison, combined with reviews mentioning durability concerns like broken buckles and zippers on the most promising models, led me to decide that none of the current options are worth purchasing for my needs at this time."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_163.json",
+    "offer_set_id": "backpacks_163",
+    "timestamp": 1775593804,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

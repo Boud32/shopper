@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_125",
+      "prod_bluetooth_speakers_021",
+      "prod_bluetooth_speakers_030",
+      "prod_bluetooth_speakers_151",
+      "prod_bluetooth_speakers_150"
+    ],
+    "final_choice": "prod_bluetooth_speakers_150",
+    "reasoning_trace": "I initially filtered out the various accessories like travel cases, charging cables, and wall shelves that cluttered the product feed. I focused on actual Bluetooth speakers, looking for a mix of budget and high-end options. My consideration set included the ultra-portable FLYSH and MusiBaby models, the rugged Altec Lansing, the premium Sonos set, and the feature-rich XENEO. I ultimately chose the XENEO X21 because it offered the best balance of value and features; it has high ratings across a large number of reviews, and several customers specifically noted that the sound quality rivaled much more expensive brands like Bose or UE. The added functionality of an FM radio and SD card slot at a sub-$40 price point made it the most compelling purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_448.json",
+    "offer_set_id": "bluetooth_speakers_448",
+    "timestamp": 1775604485,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

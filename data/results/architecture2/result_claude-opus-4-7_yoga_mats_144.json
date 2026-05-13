@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 44,
+    "timestamp": 1776691125,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_144.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_120",
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_149"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top five positions are filled with obscure brands and the strongest options (BalanceFrom, Gaiam 5mm Print) are pushed to positions 24 and 25 \u2014 not compelling enough at the top."
+  }
+}

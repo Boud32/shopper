@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 45,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_095.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_009",
+      "prod_conditioner_003",
+      "prod_conditioner_039",
+      "prod_conditioner_127",
+      "prod_conditioner_174"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions uniformly weak (niche Curl Keeper, sponsored Only4Hair, men's growth, kid brands); no strong mainstream option at the top."
+  }
+}

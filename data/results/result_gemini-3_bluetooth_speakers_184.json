@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_083",
+      "prod_bluetooth_speakers_003"
+    ],
+    "final_choice": "prod_bluetooth_speakers_129",
+    "reasoning_trace": "I narrowed my consideration set down to established brands with high ratings and specific performance metrics. The JBL Go 3 (prod_bluetooth_speakers_129) stands out with the highest overall rating (4.7) and a very portable form factor at a reasonable price. I also considered the Bose SoundLink Color II for its reputation and the comiso speaker for its higher wattage output at a budget price. However, the JBL Go 3's compactness and IP67 rating make it the most versatile choice for portable use. I excluded several items from the feed that were miscategorized accessories like charging cables and travel cases."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_184.json",
+    "offer_set_id": "bluetooth_speakers_184",
+    "timestamp": 1775594680,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

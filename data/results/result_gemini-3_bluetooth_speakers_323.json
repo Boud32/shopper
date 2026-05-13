@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_bt_speakers",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_190"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "My consideration set focused on high-quality options from Sony, JBL, and Harman Kardon, as well as the unique MIFA lantern speaker. While the JBL Flip 5 and Sony XB43 are excellent speakers, I was specifically looking for a premium home speaker with seamless smart assistant integration. The Sony RA3000 fits that description but at $198, it is quite expensive and several reviews mention frustrating software and app connectivity issues. Given that much of the other product feed was dominated by accessories like cases and charging cables rather than actual speakers, I did not find a product that perfectly balanced price, performance, and reliable smart features in this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_323.json",
+    "offer_set_id": "bluetooth_speakers_323",
+    "timestamp": 1775597091,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

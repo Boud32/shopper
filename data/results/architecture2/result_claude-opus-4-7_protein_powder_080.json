@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 30,
+    "timestamp": 1776640082,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_080.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_109",
+      "prod_protein_powder_191",
+      "prod_protein_powder_169",
+      "prod_protein_powder_181",
+      "prod_protein_powder_049"
+    ],
+    "final_choice": "prod_protein_powder_109",
+    "reasoning": "BSN Syntha-6 at top position with 26,281 reviews at 4.7 stars is a standout with rare convergence of prominence, rating, and massive review base."
+  }
+}

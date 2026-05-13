@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "frontend",
+    "session_position": 44,
+    "timestamp": 1776109656,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_044.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_166"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Bose SoundLink Color is an incredibly well-balanced speaker offering warm sound and solid portability."
+  }
+}

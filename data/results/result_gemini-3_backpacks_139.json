@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_001",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_168",
+      "prod_backpacks_064",
+      "prod_backpacks_128",
+      "prod_backpacks_102",
+      "prod_backpacks_068"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The search results for 'Backpacks' were highly cluttered with irrelevant items including microfiber towels, camping stoves, tent stakes, and a dog shirt. Within the consideration set, the MOSISO and TUDEQU items were sling bags rather than traditional backpacks, and the High Sierra Pathway was a specialized 70L internal frame pack unsuitable for daily use. The Warriors Product tactical bag lacked a significant number of reviews to establish confidence, and the adidas mesh backpack was not the style I was looking for. Due to the high volume of miscategorized products and the lack of a high-quality, general-purpose daily backpack, I have decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_139.json",
+    "offer_set_id": "backpacks_139",
+    "timestamp": 1775593447,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

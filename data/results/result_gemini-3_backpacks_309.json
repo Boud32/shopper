@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_session_001",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_184",
+      "prod_backpacks_171",
+      "prod_backpacks_128",
+      "prod_backpacks_064",
+      "prod_backpacks_074"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The search results for 'Backpacks' were cluttered with a high volume of irrelevant products such as folding chairs, umbrellas, and trekking poles. Among the actual backpacks presented, many were too specialized for general use, such as the skate-specific bag or the mesh bag. The general-purpose laptop and tactical backpacks that were available had concerning feedback regarding durability; for example, the KAUKKO bag was reported to have strap failures within months, and the Explorer model had issues with the bottom wearing out quickly. Without a standard, high-quality, and durable option available in this selection, I have decided to defer my purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_309.json",
+    "offer_set_id": "backpacks_309",
+    "timestamp": 1775596826,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

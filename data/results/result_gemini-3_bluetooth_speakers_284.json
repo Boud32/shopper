@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_session_25",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_125"
+    ],
+    "final_choice": "prod_bluetooth_speakers_120",
+    "reasoning_trace": "I narrowed my search to portable Bluetooth speakers with strong reputations for sound quality and durability. The consideration set included premium options like the JBL Charge 5 and mid-range choices like the JBL Flip 5 Renewed and Clip 3, alongside budget-friendly models with high ratings like the EDUPLINK and FLYSH speakers. Ultimately, I chose the JBL Charge 5 because of its exceptional 4.8 rating across 16,000+ reviews. Its combination of IP67 waterproofing, 20-hour battery life, and the built-in powerbank for charging other devices justifies its higher price point for a long-term investment in audio quality."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_284.json",
+    "offer_set_id": "bluetooth_speakers_284",
+    "timestamp": 1775596445,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

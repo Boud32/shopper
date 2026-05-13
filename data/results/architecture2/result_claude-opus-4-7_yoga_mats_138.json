@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 38,
+    "timestamp": 1776691125,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_138.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_040",
+      "prod_yoga_mats_172",
+      "prod_yoga_mats_119",
+      "prod_yoga_mats_146"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top position is a generic TPE mat and the genuinely strong Gaiam options are buried at positions 11 and 17 \u2014 no clear winner at the visible top of the page."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_session",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_062"
+    ],
+    "final_choice": "prod_bluetooth_speakers_181",
+    "reasoning_trace": "I evaluated five distinct portable speakers ranging from budget to high-end audiophile brands. The Bang & Olufsen Beosound A1 (prod_bluetooth_speakers_195) was a strong contender for sound quality but carries a significant price premium at $279. The Bose SoundLink Color II (prod_bluetooth_speakers_137) is well-regarded but has some concerning reviews regarding long-term durability. The JBL Flip 5 (prod_bluetooth_speakers_001) offered a good price point but being a renewed product with mixed charging reliability was a deterrent. I ultimately chose the Sony SRS-XB43 (prod_bluetooth_speakers_181) as it offers the best combination of professional reviews (4.7 rating), robust build quality (IP67), and reported battery life for its mid-range price of $156.34."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_146.json",
+    "offer_set_id": "bluetooth_speakers_146",
+    "timestamp": 1775594060,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_192",
+      "prod_bluetooth_speakers_072",
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_001"
+    ],
+    "final_choice": null,
+    "reasoning_trace": "The shopping session was heavily populated with accessory items such as travel cases and charging cables, which made it difficult to find a diverse range of high-quality speakers within a mid-range budget. I evaluated the JBL Charge 5 as the most reliable high-performance option, but its $149 price tag was higher than I intended to spend. The JBL Flip 5 offered a better price, but being a 'Renewed' product with several reviews mentioning battery failure after a few months made it a risky choice. Other options like the Raymate or HyperGear had decent specs on paper, but either lacked verified purchase reviews or had noted limitations in sound volume. Because of the split between expensive premium models and risky budget/refurbished options, I decided not to make a purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_327.json",
+    "offer_set_id": "bluetooth_speakers_327",
+    "timestamp": 1775597163,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

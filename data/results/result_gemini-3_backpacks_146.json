@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_realistic_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_111",
+      "prod_backpacks_068",
+      "prod_backpacks_140",
+      "prod_backpacks_099",
+      "prod_backpacks_194"
+    ],
+    "final_choice": "prod_backpacks_111",
+    "reasoning_trace": "I evaluated several types of backpacks from the list, including heavy-duty hiking packs, packable daypacks, and specialized cooler bags. My consideration set included the High Sierra 70L for serious hiking, the SHENHU 40L for general outdoor use, the ZOMAKE for travel portability, the NICGID sling for light errands, and the FORICH cooler backpack for utility. Ultimately, the SHENHU 40L (prod_backpacks_111) offered the best balance of features, durability, and price. It has a high rating (4.5), is described as almost waterproof, and has significant capacity for a variety of tasks at a very competitive price point of $26.99."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_146.json",
+    "offer_set_id": "backpacks_146",
+    "timestamp": 1775593542,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

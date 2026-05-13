@@ -1,0 +1,23 @@
+{
+  "experiment_id": "running_shoes_selector",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_099",
+      "prod_running_shoes_072",
+      "prod_running_shoes_156",
+      "prod_running_shoes_177",
+      "prod_running_shoes_069"
+    ],
+    "final_choice": "prod_running_shoes_072",
+    "reasoning_trace": "Based on the customer's interest in Running Shoes, we filtered out products that are not directly related to running shoes. We prioritized products from well-known brands like ASICS, Brooks, and New Balance. The consideration set includes a mix of men's and women's shoes with high ratings and a large number of reviews. The final choice, ASICS Women's Gel-Cumulus 22 Running Shoes, stands out for its excellent rating, numerous reviews, and features like FLYTEFOAM Blast cushioning and a seamless 3D printing structure for support and comfort."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/running_shoes/running_shoes_081.json",
+    "offer_set_id": "running_shoes_081",
+    "timestamp": 1772641635,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "no_reviews",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 20,
+    "timestamp": 1776640082,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_070.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_063",
+      "prod_protein_powder_076",
+      "prod_protein_powder_158",
+      "prod_protein_powder_189",
+      "prod_protein_powder_195"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top of page is overloaded with weak and niche options (meal replacement, collagen, kids, small brands); nothing compelling at visible positions."
+  }
+}

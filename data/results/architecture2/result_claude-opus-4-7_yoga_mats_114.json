@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 14,
+    "timestamp": 1776691125,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_114.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_178",
+      "prod_yoga_mats_175",
+      "prod_yoga_mats_078",
+      "prod_yoga_mats_120"
+    ],
+    "final_choice": "prod_yoga_mats_054",
+    "reasoning": "ProsourceFit Extra Thick at $31.99 with 4.7 stars and 8,850 reviews is a well-proven all-purpose mat at a hard-to-beat price, visible near the top."
+  }
+}

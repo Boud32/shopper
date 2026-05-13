@@ -1,0 +1,602 @@
+[
+  {
+    "offer_set_id": "conditioner_001",
+    "consideration_set": [
+      "prod_conditioner_169",
+      "prod_conditioner_024",
+      "prod_conditioner_196",
+      "prod_conditioner_245",
+      "prod_conditioner_040"
+    ],
+    "final_choice": "prod_conditioner_169",
+    "reasoning": "L'Oreal EverPure is a mainstream, well-reviewed sulfate-free conditioner at a fair price, clearly better than the niche or low-volume options around it."
+  },
+  {
+    "offer_set_id": "conditioner_002",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_027",
+      "prod_conditioner_218",
+      "prod_conditioner_097",
+      "prod_conditioner_009"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle bundle stands out with 5134 reviews at 4.7 stars for $17.99 \u2014 unusually strong validation."
+  },
+  {
+    "offer_set_id": "conditioner_003",
+    "consideration_set": [
+      "prod_conditioner_016",
+      "prod_conditioner_005",
+      "prod_conditioner_027",
+      "prod_conditioner_241",
+      "prod_conditioner_097"
+    ],
+    "final_choice": "prod_conditioner_016",
+    "reasoning": "L'Oreal Elvive Hyaluron Plump at $8.48 with 4.6 stars and 344 reviews is a solid mainstream pick in a set with no standout winners."
+  },
+  {
+    "offer_set_id": "conditioner_004",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_014",
+      "prod_conditioner_016",
+      "prod_conditioner_255",
+      "prod_conditioner_194"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie bundle at 4.7 stars and 5134 reviews for $17.99 is the clearest value in the set."
+  },
+  {
+    "offer_set_id": "conditioner_005",
+    "consideration_set": [
+      "prod_conditioner_078",
+      "prod_conditioner_110",
+      "prod_conditioner_119",
+      "prod_conditioner_026",
+      "prod_conditioner_016"
+    ],
+    "final_choice": "prod_conditioner_078",
+    "reasoning": "It's A 10 Miracle Deep Conditioner with keratin at $16.05, 4.6 stars, 2426 reviews is the strongest broadly-appealing option visible."
+  },
+  {
+    "offer_set_id": "conditioner_006",
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_170",
+      "prod_conditioner_169",
+      "prod_conditioner_066",
+      "prod_conditioner_026"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Garnier Whole Blends at $15.98 with 4.7 stars and 8445 reviews is an exceptional value with massive validation."
+  },
+  {
+    "offer_set_id": "conditioner_007",
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_014",
+      "prod_conditioner_245",
+      "prod_conditioner_027",
+      "prod_conditioner_241"
+    ],
+    "final_choice": "prod_conditioner_170",
+    "reasoning": "Dove Nutritive Solutions has the overall pick badge plus 4.7 stars and 1192 reviews at $23.95."
+  },
+  {
+    "offer_set_id": "conditioner_008",
+    "consideration_set": [
+      "prod_conditioner_169",
+      "prod_conditioner_218",
+      "prod_conditioner_075",
+      "prod_conditioner_024",
+      "prod_conditioner_084"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "No product in the top positions combines strong reviews and broad appeal \u2014 the leading spots are niche or weak."
+  },
+  {
+    "offer_set_id": "conditioner_009",
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_170",
+      "prod_conditioner_280",
+      "prod_conditioner_119",
+      "prod_conditioner_194"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Garnier Whole Blends carries the overall pick badge plus 4.7 stars and 8445 reviews at $15.98."
+  },
+  {
+    "offer_set_id": "conditioner_010",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_119",
+      "prod_conditioner_014",
+      "prod_conditioner_011",
+      "prod_conditioner_256"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle at the top of the page with 4.7 stars and 5134 reviews is the obvious pick."
+  },
+  {
+    "offer_set_id": "conditioner_011",
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_078",
+      "prod_conditioner_014",
+      "prod_conditioner_015",
+      "prod_conditioner_011"
+    ],
+    "final_choice": "prod_conditioner_170",
+    "reasoning": "Dove Nutritive Solutions at 4.7 stars with 1192 reviews for $23.95 is the most reliable pick in a mixed set."
+  },
+  {
+    "offer_set_id": "conditioner_012",
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_023",
+      "prod_conditioner_169",
+      "prod_conditioner_196",
+      "prod_conditioner_097"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Garnier Whole Blends has the best-seller badge, 4.7 stars, 8445 reviews, and a $15.98 price."
+  },
+  {
+    "offer_set_id": "conditioner_013",
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_097",
+      "prod_conditioner_023",
+      "prod_conditioner_119",
+      "prod_conditioner_241"
+    ],
+    "final_choice": "prod_conditioner_170",
+    "reasoning": "Dove Nutritive Solutions leads the page at 4.7 stars with 1192 reviews \u2014 strongest top-position signal."
+  },
+  {
+    "offer_set_id": "conditioner_014",
+    "consideration_set": [
+      "prod_conditioner_076",
+      "prod_conditioner_016",
+      "prod_conditioner_097",
+      "prod_conditioner_199",
+      "prod_conditioner_024"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The overall pick is a niche baby-set with weak volume and the strong options like Garnier are not available in visible positions."
+  },
+  {
+    "offer_set_id": "conditioner_015",
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_241",
+      "prod_conditioner_026",
+      "prod_conditioner_194",
+      "prod_conditioner_005"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are mediocre low-volume products and the strong options are all buried \u2014 not compelling enough."
+  },
+  {
+    "offer_set_id": "conditioner_016",
+    "consideration_set": [
+      "prod_conditioner_110",
+      "prod_conditioner_168",
+      "prod_conditioner_078",
+      "prod_conditioner_298",
+      "prod_conditioner_255"
+    ],
+    "final_choice": "prod_conditioner_110",
+    "reasoning": "HASK Coconut Monoi at $29.95 with 4.7 stars and 217 reviews is well-placed and a broadly-appealing deep conditioner."
+  },
+  {
+    "offer_set_id": "conditioner_017",
+    "consideration_set": [
+      "prod_conditioner_097",
+      "prod_conditioner_005",
+      "prod_conditioner_199",
+      "prod_conditioner_213",
+      "prod_conditioner_237"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top-ranked products are sponsored low-volume or niche (kids, men's, growth) with no broadly strong pick visible."
+  },
+  {
+    "offer_set_id": "conditioner_018",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_290",
+      "prod_conditioner_119",
+      "prod_conditioner_078",
+      "prod_conditioner_256"
+    ],
+    "final_choice": "prod_conditioner_023",
+    "reasoning": "Redken Acidic Bonding Concentrate at pos 2 with 7938 reviews and 4.5 stars is a strong salon-grade pick."
+  },
+  {
+    "offer_set_id": "conditioner_019",
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_280",
+      "prod_conditioner_023",
+      "prod_conditioner_016",
+      "prod_conditioner_169"
+    ],
+    "final_choice": "prod_conditioner_170",
+    "reasoning": "Dove Nutritive Solutions at 4.7 stars with 1192 reviews is the strongest visible mainstream option."
+  },
+  {
+    "offer_set_id": "conditioner_020",
+    "consideration_set": [
+      "prod_conditioner_110",
+      "prod_conditioner_005",
+      "prod_conditioner_078",
+      "prod_conditioner_016",
+      "prod_conditioner_213"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top is dominated by a 3.9-star hair mask and mediocre alternatives, with the strongest options buried mid-page."
+  },
+  {
+    "offer_set_id": "conditioner_021",
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_023",
+      "prod_conditioner_280",
+      "prod_conditioner_119",
+      "prod_conditioner_211"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top positions are weak and the truly strong options \u2014 Garnier, Redken, Aussie \u2014 are all deep in the page."
+  },
+  {
+    "offer_set_id": "conditioner_022",
+    "consideration_set": [
+      "prod_conditioner_040",
+      "prod_conditioner_005",
+      "prod_conditioner_255",
+      "prod_conditioner_125",
+      "prod_conditioner_176"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top is a niche baby-set and the rest of the front page lacks any broadly strong option."
+  },
+  {
+    "offer_set_id": "conditioner_023",
+    "consideration_set": [
+      "prod_conditioner_078",
+      "prod_conditioner_218",
+      "prod_conditioner_199",
+      "prod_conditioner_140",
+      "prod_conditioner_298"
+    ],
+    "final_choice": "prod_conditioner_078",
+    "reasoning": "It's A 10 Haircare Miracle carries the overall pick badge with 4.6 stars and 2426 reviews at $16.05."
+  },
+  {
+    "offer_set_id": "conditioner_024",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_016",
+      "prod_conditioner_024",
+      "prod_conditioner_169",
+      "prod_conditioner_147"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle at $17.99 with 4.7 stars and 5134 reviews is the standout in the set."
+  },
+  {
+    "offer_set_id": "conditioner_025",
+    "consideration_set": [
+      "prod_conditioner_027",
+      "prod_conditioner_024",
+      "prod_conditioner_196",
+      "prod_conditioner_199",
+      "prod_conditioner_011"
+    ],
+    "final_choice": "prod_conditioner_027",
+    "reasoning": "L'Oreal Paris Elvive Color Vibrancy at $17.87 with 4.6 stars and 2586 reviews is a strong, well-reviewed mainstream pick."
+  },
+  {
+    "offer_set_id": "conditioner_026",
+    "consideration_set": [
+      "prod_conditioner_078",
+      "prod_conditioner_170",
+      "prod_conditioner_027",
+      "prod_conditioner_218",
+      "prod_conditioner_241"
+    ],
+    "final_choice": "prod_conditioner_078",
+    "reasoning": "It's A 10 Haircare Miracle at 4.6 stars, 2426 reviews, $16.05 is the most reliable broadly-appealing option visible."
+  },
+  {
+    "offer_set_id": "conditioner_027",
+    "consideration_set": [
+      "prod_conditioner_016",
+      "prod_conditioner_040",
+      "prod_conditioner_255",
+      "prod_conditioner_011",
+      "prod_conditioner_024"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top is a 3.7-star kids product, then expensive Shu Uemura; nothing with strong broad appeal at a visible position."
+  },
+  {
+    "offer_set_id": "conditioner_028",
+    "consideration_set": [
+      "prod_conditioner_196",
+      "prod_conditioner_170",
+      "prod_conditioner_290",
+      "prod_conditioner_026",
+      "prod_conditioner_147"
+    ],
+    "final_choice": "prod_conditioner_196",
+    "reasoning": "Maui Moisture with overall pick badge at $8 with 4.5 stars and 3255 reviews is clearly the strongest value at a top position."
+  },
+  {
+    "offer_set_id": "conditioner_029",
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_280",
+      "prod_conditioner_023",
+      "prod_conditioner_078",
+      "prod_conditioner_218"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top is a niche purple-toning product, and truly strong options are all buried deep in the page."
+  },
+  {
+    "offer_set_id": "conditioner_030",
+    "consideration_set": [
+      "prod_conditioner_040",
+      "prod_conditioner_290",
+      "prod_conditioner_218",
+      "prod_conditioner_241",
+      "prod_conditioner_196"
+    ],
+    "final_choice": "prod_conditioner_040",
+    "reasoning": "Alfaparf Milano Semi Di Lino has the overall pick badge plus 4.6 stars and 2624 reviews at $22 in a visible top position."
+  },
+  {
+    "offer_set_id": "conditioner_031",
+    "consideration_set": [
+      "prod_conditioner_110",
+      "prod_conditioner_097",
+      "prod_conditioner_170",
+      "prod_conditioner_027",
+      "prod_conditioner_147"
+    ],
+    "final_choice": "prod_conditioner_110",
+    "reasoning": "HASK Coconut Monoi at pos 2 with 4.7 stars is the strongest broadly-appealing option in a sponsored-heavy set."
+  },
+  {
+    "offer_set_id": "conditioner_032",
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_287",
+      "prod_conditioner_280",
+      "prod_conditioner_027",
+      "prod_conditioner_147"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (3.4-star, 2-review, 21-review products) and the overall pick has only 174 reviews."
+  },
+  {
+    "offer_set_id": "conditioner_033",
+    "consideration_set": [
+      "prod_conditioner_169",
+      "prod_conditioner_218",
+      "prod_conditioner_147",
+      "prod_conditioner_140",
+      "prod_conditioner_237"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are expensive niche products and low-volume options \u2014 no broadly-appealing standout visible."
+  },
+  {
+    "offer_set_id": "conditioner_034",
+    "consideration_set": [
+      "prod_conditioner_097",
+      "prod_conditioner_014",
+      "prod_conditioner_119",
+      "prod_conditioner_176",
+      "prod_conditioner_142"
+    ],
+    "final_choice": "prod_conditioner_097",
+    "reasoning": "It's A 10 Silk Express at $15.48 with 4.7 stars and 763 reviews is the most reliable strong pick at a visible position."
+  },
+  {
+    "offer_set_id": "conditioner_035",
+    "consideration_set": [
+      "prod_conditioner_169",
+      "prod_conditioner_027",
+      "prod_conditioner_040",
+      "prod_conditioner_170",
+      "prod_conditioner_066"
+    ],
+    "final_choice": "prod_conditioner_169",
+    "reasoning": "L'Oreal EverPure at pos 2 with 4.5 stars, 988 reviews, $10.99 is a strong mainstream option at high visibility."
+  },
+  {
+    "offer_set_id": "conditioner_036",
+    "consideration_set": [
+      "prod_conditioner_040",
+      "prod_conditioner_097",
+      "prod_conditioner_125",
+      "prod_conditioner_066",
+      "prod_conditioner_211"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are a mix of niche keratin and low-review products; the strong options are all buried mid-page."
+  },
+  {
+    "offer_set_id": "conditioner_037",
+    "consideration_set": [
+      "prod_conditioner_169",
+      "prod_conditioner_016",
+      "prod_conditioner_040",
+      "prod_conditioner_027",
+      "prod_conditioner_009"
+    ],
+    "final_choice": "prod_conditioner_169",
+    "reasoning": "L'Oreal EverPure at pos 4 with 4.5 stars, 988 reviews at $10.99 is the strongest visible mainstream option."
+  },
+  {
+    "offer_set_id": "conditioner_038",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_014",
+      "prod_conditioner_074",
+      "prod_conditioner_119",
+      "prod_conditioner_070"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle at 4.7 stars with 5134 reviews at $17.99 is the strongest-validated broadly-appealing option."
+  },
+  {
+    "offer_set_id": "conditioner_039",
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_110",
+      "prod_conditioner_005",
+      "prod_conditioner_147",
+      "prod_conditioner_119"
+    ],
+    "final_choice": "prod_conditioner_170",
+    "reasoning": "Dove Nutritive Solutions at 4.7 stars with 1192 reviews at $23.95 is the most reliable mainstream choice."
+  },
+  {
+    "offer_set_id": "conditioner_040",
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_040",
+      "prod_conditioner_078",
+      "prod_conditioner_140",
+      "prod_conditioner_256"
+    ],
+    "final_choice": "prod_conditioner_170",
+    "reasoning": "Dove Nutritive Solutions at 4.7 stars with 1192 reviews is the strongest broadly-appealing option in a weak-top set."
+  },
+  {
+    "offer_set_id": "conditioner_041",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_169",
+      "prod_conditioner_097",
+      "prod_conditioner_014",
+      "prod_conditioner_110"
+    ],
+    "final_choice": "prod_conditioner_023",
+    "reasoning": "Redken Acidic Bonding Concentrate at position 1 with 4.5 stars and 7938 reviews is the clear winner."
+  },
+  {
+    "offer_set_id": "conditioner_042",
+    "consideration_set": [
+      "prod_conditioner_078",
+      "prod_conditioner_169",
+      "prod_conditioner_290",
+      "prod_conditioner_241",
+      "prod_conditioner_211"
+    ],
+    "final_choice": "prod_conditioner_078",
+    "reasoning": "It's A 10 Haircare Miracle at 4.6 stars with 2426 reviews at $16.05 is the best reliable option at a visible position."
+  },
+  {
+    "offer_set_id": "conditioner_043",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_196",
+      "prod_conditioner_290",
+      "prod_conditioner_066",
+      "prod_conditioner_026"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle at 4.7 stars with 5134 reviews at $17.99 is the clear top-position winner."
+  },
+  {
+    "offer_set_id": "conditioner_044",
+    "consideration_set": [
+      "prod_conditioner_097",
+      "prod_conditioner_016",
+      "prod_conditioner_170",
+      "prod_conditioner_241",
+      "prod_conditioner_243"
+    ],
+    "final_choice": "prod_conditioner_097",
+    "reasoning": "It's A 10 Silk Express at pos 3 with 4.7 stars and 763 reviews is the only strong signal among the weak top entries."
+  },
+  {
+    "offer_set_id": "conditioner_045",
+    "consideration_set": [
+      "prod_conditioner_241",
+      "prod_conditioner_026",
+      "prod_conditioner_119",
+      "prod_conditioner_040",
+      "prod_conditioner_023"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak or niche and no broadly-appealing product lands in visible real estate."
+  },
+  {
+    "offer_set_id": "conditioner_046",
+    "consideration_set": [
+      "prod_conditioner_218",
+      "prod_conditioner_142",
+      "prod_conditioner_070",
+      "prod_conditioner_066",
+      "prod_conditioner_039"
+    ],
+    "final_choice": "prod_conditioner_218",
+    "reasoning": "Carol's Daughter at pos 2 with 4.4 stars and 2932 reviews at $13.99 is the strongest broadly-validated visible pick."
+  },
+  {
+    "offer_set_id": "conditioner_047",
+    "consideration_set": [
+      "prod_conditioner_016",
+      "prod_conditioner_218",
+      "prod_conditioner_078",
+      "prod_conditioner_097",
+      "prod_conditioner_199"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak low-volume products and the strong options like It's A 10 are at the very bottom of the page."
+  },
+  {
+    "offer_set_id": "conditioner_048",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_110",
+      "prod_conditioner_040",
+      "prod_conditioner_078",
+      "prod_conditioner_194"
+    ],
+    "final_choice": "prod_conditioner_023",
+    "reasoning": "Redken at pos 2 with 4.5 stars and 7938 reviews is the clear standout in the visible area."
+  },
+  {
+    "offer_set_id": "conditioner_049",
+    "consideration_set": [
+      "prod_conditioner_119",
+      "prod_conditioner_023",
+      "prod_conditioner_194",
+      "prod_conditioner_114",
+      "prod_conditioner_066"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (low-review purple/niche/men's products) and the truly strong option, Redken, sits at the very bottom."
+  },
+  {
+    "offer_set_id": "conditioner_050",
+    "consideration_set": [
+      "prod_conditioner_255",
+      "prod_conditioner_256",
+      "prod_conditioner_024",
+      "prod_conditioner_254",
+      "prod_conditioner_183"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The overall pick has only 168 reviews and nothing else in visible top positions combines strong reviews with broad appeal."
+  }
+]

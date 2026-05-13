@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_backpacks_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_006",
+      "prod_backpacks_132",
+      "prod_backpacks_099",
+      "prod_backpacks_038",
+      "prod_backpacks_112"
+    ],
+    "final_choice": "prod_backpacks_006",
+    "reasoning_trace": "During my search for a backpack, I encountered a significant amount of unrelated equipment such as hammocks, towels, and stoves. Within the actual backpack category, the selection ranged from heavy military surplus to lightweight packable bags. The USGI Military Alice pack (prod_backpacks_005) was immediately excluded due to its very high price and negative reviews concerning its condition. I focused on a consideration set that balanced specialized use (hydration, tactical) with general-purpose daypacks. The Maxpedition (prod_backpacks_038) was a strong contender for its durability, but I ultimately chose the HIKPRO 20L (prod_backpacks_006) as my final choice. It has an exceptional rating of 4.7 with nearly 3,000 reviews, is highly packable for travel, and offers the best value at $17.99 compared to similar models like the ZOMAKE."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_271.json",
+    "offer_set_id": "backpacks_271",
+    "timestamp": 1775596173,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

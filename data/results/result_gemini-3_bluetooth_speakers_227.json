@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_purchase_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_071"
+    ],
+    "final_choice": "prod_bluetooth_speakers_120",
+    "reasoning_trace": "I am looking for a durable, high-quality portable speaker for outdoor use. My consideration set includes a mix of premium brands (JBL, Bose, B&O) and highly-rated budget alternatives (Comiso, INSMY). I filtered out several accessory-only listings (cases, cables, and adapters) and gimmicky products like levitating speakers. I ultimately chose the JBL Charge 5 because it has an outstanding reputation (4.8 stars with over 16,000 reviews), excellent battery life (20 hours), and IP67 waterproofing. While the B&O Beosound is an excellent audiophile choice, the JBL's ruggedness and powerbank feature provide better utility for my needs at a more accessible price point than the extreme luxury bracket."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_227.json",
+    "offer_set_id": "bluetooth_speakers_227",
+    "timestamp": 1775595498,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 20,
+    "timestamp": 1776650226,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_170.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_042",
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_269",
+      "prod_laundry_detergent_021"
+    ],
+    "final_choice": "prod_laundry_detergent_060",
+    "reasoning": "Tide Hygienic Clean Pods at position 8 with both BEST and PICK badges, 4.8\u2605/7k+ reviews, is a strong signal for a quality choice."
+  }
+}

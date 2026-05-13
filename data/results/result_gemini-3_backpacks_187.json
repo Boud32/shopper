@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_1",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_057",
+      "prod_backpacks_122",
+      "prod_backpacks_038",
+      "prod_backpacks_173",
+      "prod_backpacks_150"
+    ],
+    "final_choice": "prod_backpacks_057",
+    "reasoning_trace": "I evaluated the product feed specifically for high-capacity and durable backpacks that offer good value. The consideration set includes a mix of tactical, sports-specific, and ultralight hiking bags. I ultimately selected the QT&QY 45L Military Tactical Backpack (prod_backpacks_057) as the final choice because it provides the best balance of high capacity, durability, and positive customer feedback at an affordable price point. Its rating of 4.7 across over 6,000 reviews suggests high reliability compared to other options in the same price range."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_187.json",
+    "offer_set_id": "backpacks_187",
+    "timestamp": 1775594115,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

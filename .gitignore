@@ -31,13 +31,18 @@ data/raw/
 # Jupyter notebooks (outputs contain raw product data; share stripped versions only)
 *.ipynb
 
-# Results, offer sets, and architecture 2 Excel files — stored on Google Drive, not in repo
+# Offer sets — fully regenerable from data/seed_catalog.json via generate_universe.py
 data/offer_sets/
-data/results/
-data/architecture2/
 
-# Local figures and IDE state
-figures/
+# Local-only A2 artifacts (legacy versions and first-test run)
+data/architecture2/deprecated/
+data/architecture2/Initial Run/
+
+# Local-only legacy results (gemini-frontend old runs, pre-A2 gemini runs)
+data/results/deprecated/
+data/results/old_results/
+
+# IDE state
 .claude/
 
 # Research writing (not public until paper is ready)

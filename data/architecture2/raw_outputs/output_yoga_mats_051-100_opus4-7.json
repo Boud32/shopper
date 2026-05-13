@@ -1,0 +1,602 @@
+[
+  {
+    "offer_set_id": "yoga_mats_051",
+    "consideration_set": [
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_040",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_111"
+    ],
+    "final_choice": "prod_yoga_mats_054",
+    "reasoning": "ProsourceFit at $31.99 with 4.7\u2b50 and 8,850 reviews offers the best combination of value, trust, and quality in this set."
+  },
+  {
+    "offer_set_id": "yoga_mats_052",
+    "consideration_set": [
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_082",
+      "prod_yoga_mats_155",
+      "prod_yoga_mats_111",
+      "prod_yoga_mats_006"
+    ],
+    "final_choice": "prod_yoga_mats_095",
+    "reasoning": "BalanceFrom at $19.99 with 4.6\u2b50 and 34,564 reviews is an unbeatable value with massive social proof."
+  },
+  {
+    "offer_set_id": "yoga_mats_053",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_155",
+      "prod_yoga_mats_149",
+      "prod_yoga_mats_175",
+      "prod_yoga_mats_110"
+    ],
+    "final_choice": "prod_yoga_mats_006",
+    "reasoning": "Gaiam Premium 6mm Reversible at $39.98 with 4.7\u2b50 and 13,691 reviews is the clear best-rated option with excellent trust."
+  },
+  {
+    "offer_set_id": "yoga_mats_054",
+    "consideration_set": [
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_055",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_097"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The strongest option is a generic-branded listing, and none of the well-known brands offer a compelling combination of price and reviews worth committing to over a different search."
+  },
+  {
+    "offer_set_id": "yoga_mats_055",
+    "consideration_set": [
+      "prod_yoga_mats_040",
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_078"
+    ],
+    "final_choice": "prod_yoga_mats_040",
+    "reasoning": "Gaiam Premium 6mm Print at $33.99 with 4.7\u2b50 and 18,564 reviews is near the top with best-in-class rating and massive social proof."
+  },
+  {
+    "offer_set_id": "yoga_mats_056",
+    "consideration_set": [
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_120",
+      "prod_yoga_mats_055"
+    ],
+    "final_choice": "prod_yoga_mats_066",
+    "reasoning": "Gaiam Premium 5mm Print at $24.34 with 4.7\u2b50 and 3,751 reviews is the best value/quality combo from a trusted brand."
+  },
+  {
+    "offer_set_id": "yoga_mats_057",
+    "consideration_set": [
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_078",
+      "prod_yoga_mats_120",
+      "prod_yoga_mats_155"
+    ],
+    "final_choice": "prod_yoga_mats_163",
+    "reasoning": "Heathyoga at the top position offers alignment system feature plus 4.6\u2b50 from 9,425 reviews at a fair $39.99 price."
+  },
+  {
+    "offer_set_id": "yoga_mats_058",
+    "consideration_set": [
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_040",
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_043"
+    ],
+    "final_choice": "prod_yoga_mats_095",
+    "reasoning": "BalanceFrom at position 3 with $19.99, 4.6\u2b50 and 34,564 reviews offers unbeatable value and visibility."
+  },
+  {
+    "offer_set_id": "yoga_mats_059",
+    "consideration_set": [
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_155",
+      "prod_yoga_mats_187"
+    ],
+    "final_choice": "prod_yoga_mats_084",
+    "reasoning": "Retrospec Zuma at $27.99 with 4.6\u2b50 and 2,249 reviews is well-positioned and a trusted brand at a great price."
+  },
+  {
+    "offer_set_id": "yoga_mats_060",
+    "consideration_set": [
+      "prod_yoga_mats_149",
+      "prod_yoga_mats_055",
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_048",
+      "prod_yoga_mats_175"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top positions feature weak-reviewed products, and nothing prominent stands out as clearly better than what a refined search would yield."
+  },
+  {
+    "offer_set_id": "yoga_mats_061",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_043",
+      "prod_yoga_mats_119",
+      "prod_yoga_mats_137",
+      "prod_yoga_mats_069"
+    ],
+    "final_choice": "prod_yoga_mats_006",
+    "reasoning": "Gaiam Premium 6mm Reversible at $39.98 with 4.7\u2b50 and 13,691 reviews is a clear standout among weaker top-positioned options."
+  },
+  {
+    "offer_set_id": "yoga_mats_062",
+    "consideration_set": [
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_101",
+      "prod_yoga_mats_055",
+      "prod_yoga_mats_119",
+      "prod_yoga_mats_116"
+    ],
+    "final_choice": "prod_yoga_mats_066",
+    "reasoning": "Gaiam Premium 5mm Print at $24.34 with 4.7\u2b50 and 3,751 reviews is the best rating-to-price ratio from a trusted brand."
+  },
+  {
+    "offer_set_id": "yoga_mats_063",
+    "consideration_set": [
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_055",
+      "prod_yoga_mats_175"
+    ],
+    "final_choice": "prod_yoga_mats_163",
+    "reasoning": "Heathyoga near top position with alignment system feature plus 4.6\u2b50 from 9,425 reviews at $39.99 is a strong differentiated choice."
+  },
+  {
+    "offer_set_id": "yoga_mats_064",
+    "consideration_set": [
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_135",
+      "prod_yoga_mats_140",
+      "prod_yoga_mats_128"
+    ],
+    "final_choice": "prod_yoga_mats_163",
+    "reasoning": "Heathyoga combines a meaningful alignment-system feature with 4.6\u2b50 from 9,425 reviews at $39.99."
+  },
+  {
+    "offer_set_id": "yoga_mats_065",
+    "consideration_set": [
+      "prod_yoga_mats_097",
+      "prod_yoga_mats_078",
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_135"
+    ],
+    "final_choice": "prod_yoga_mats_163",
+    "reasoning": "Heathyoga offers the most distinctive feature set (alignment lines) with 4.6\u2b50 from 9,425 reviews at $39.99, outperforming the weaker top-positioned options."
+  },
+  {
+    "offer_set_id": "yoga_mats_066",
+    "consideration_set": [
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_040",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_101",
+      "prod_yoga_mats_097"
+    ],
+    "final_choice": "prod_yoga_mats_066",
+    "reasoning": "Gaiam Premium 5mm Print at $24.34 with 4.7\u2b50 and 3,751 reviews offers the best value/quality combination."
+  },
+  {
+    "offer_set_id": "yoga_mats_067",
+    "consideration_set": [
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_128",
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_055"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The strongest top option is a generic-brand sponsored listing; no item stands out as distinctively better than options a refined search would yield."
+  },
+  {
+    "offer_set_id": "yoga_mats_068",
+    "consideration_set": [
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_120",
+      "prod_yoga_mats_040",
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_146"
+    ],
+    "final_choice": "prod_yoga_mats_180",
+    "reasoning": "Amazon Basics at $19.99 with 4.6\u2b50 and 79,937 reviews offers unmatched trust and value."
+  },
+  {
+    "offer_set_id": "yoga_mats_069",
+    "consideration_set": [
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_120",
+      "prod_yoga_mats_140",
+      "prod_yoga_mats_055",
+      "prod_yoga_mats_082"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by a weakly-reviewed sponsored listing and mid-tier options; nothing compelling enough to commit to over a different search."
+  },
+  {
+    "offer_set_id": "yoga_mats_070",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_120",
+      "prod_yoga_mats_135",
+      "prod_yoga_mats_055"
+    ],
+    "final_choice": "prod_yoga_mats_006",
+    "reasoning": "Gaiam Premium 6mm Reversible at $39.98 with 4.7\u2b50 and 13,691 reviews is the best-rated established-brand option in the set."
+  },
+  {
+    "offer_set_id": "yoga_mats_071",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_135"
+    ],
+    "final_choice": "prod_yoga_mats_006",
+    "reasoning": "Gaiam Premium 6mm Reversible at $39.98 with 4.7\u2b50 and 13,691 reviews has the best ratings/reviews in a prominent position."
+  },
+  {
+    "offer_set_id": "yoga_mats_072",
+    "consideration_set": [
+      "prod_yoga_mats_040",
+      "prod_yoga_mats_078",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_090",
+      "prod_yoga_mats_111"
+    ],
+    "final_choice": "prod_yoga_mats_040",
+    "reasoning": "Gaiam Premium 6mm Print with overall_pick badge at $33.99, 4.7\u2b50 and 18,564 reviews is positioned prominently with the best credentials."
+  },
+  {
+    "offer_set_id": "yoga_mats_073",
+    "consideration_set": [
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_040",
+      "prod_yoga_mats_078",
+      "prod_yoga_mats_084"
+    ],
+    "final_choice": "prod_yoga_mats_066",
+    "reasoning": "Gaiam Premium 5mm Print at $24.34 with 4.7\u2b50 and 3,751 reviews is at a high position and offers the best value for a premium-brand mat."
+  },
+  {
+    "offer_set_id": "yoga_mats_074",
+    "consideration_set": [
+      "prod_yoga_mats_128",
+      "prod_yoga_mats_135",
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_078",
+      "prod_yoga_mats_043"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top positions are dominated by low-review products, and compelling options are buried deep without any clear value winner at the top."
+  },
+  {
+    "offer_set_id": "yoga_mats_075",
+    "consideration_set": [
+      "prod_yoga_mats_120",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_055",
+      "prod_yoga_mats_111"
+    ],
+    "final_choice": "prod_yoga_mats_120",
+    "reasoning": "BalanceFrom at position 2 with $13.49, 4.5\u2b50 and 41,814 reviews is an extraordinary value at the top of the page."
+  },
+  {
+    "offer_set_id": "yoga_mats_076",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_149",
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_140"
+    ],
+    "final_choice": "prod_yoga_mats_006",
+    "reasoning": "Gaiam Premium 6mm Reversible at $39.98 with 4.7\u2b50 and 13,691 reviews stands well above the weaker top-positioned products."
+  },
+  {
+    "offer_set_id": "yoga_mats_077",
+    "consideration_set": [
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_118",
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_155",
+      "prod_yoga_mats_078"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The strongest option is a decent but not exceptional mat, and no product in the set offers a clearly superior combination worth committing to."
+  },
+  {
+    "offer_set_id": "yoga_mats_078",
+    "consideration_set": [
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_078"
+    ],
+    "final_choice": "prod_yoga_mats_054",
+    "reasoning": "ProsourceFit with overall_pick badge at $31.99, 4.7\u2b50 and 8,850 reviews offers best-in-class rating and massive social proof."
+  },
+  {
+    "offer_set_id": "yoga_mats_079",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_123",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_128"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are uniformly weak and compelling options are buried too deep to justify committing without refining the search."
+  },
+  {
+    "offer_set_id": "yoga_mats_080",
+    "consideration_set": [
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_043",
+      "prod_yoga_mats_149",
+      "prod_yoga_mats_128"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top of the page is dominated by mediocre-rating products, and the strong value options are buried below position 15."
+  },
+  {
+    "offer_set_id": "yoga_mats_081",
+    "consideration_set": [
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_155",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_119",
+      "prod_yoga_mats_078"
+    ],
+    "final_choice": "prod_yoga_mats_054",
+    "reasoning": "ProsourceFit at position 3 with $31.99, 4.7\u2b50 and 8,850 reviews is prominent with best-in-class rating and huge review count."
+  },
+  {
+    "offer_set_id": "yoga_mats_082",
+    "consideration_set": [
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_082",
+      "prod_yoga_mats_055",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116"
+    ],
+    "final_choice": "prod_yoga_mats_158",
+    "reasoning": "Retrospec Solana at $24.99 with 4.5\u2b50 and 2,178 reviews is a trusted brand at a great price, standing out in a weak top-of-page."
+  },
+  {
+    "offer_set_id": "yoga_mats_083",
+    "consideration_set": [
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_120",
+      "prod_yoga_mats_078",
+      "prod_yoga_mats_054"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions feature either low-review or mediocre-rating products; nothing prominent stands out as distinctively better than a refined search would yield."
+  },
+  {
+    "offer_set_id": "yoga_mats_084",
+    "consideration_set": [
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_119",
+      "prod_yoga_mats_120"
+    ],
+    "final_choice": "prod_yoga_mats_066",
+    "reasoning": "Gaiam Premium 5mm Print at position 3, $24.34 with 4.7\u2b50 and 3,751 reviews offers best-in-class value at high visibility."
+  },
+  {
+    "offer_set_id": "yoga_mats_085",
+    "consideration_set": [
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_043",
+      "prod_yoga_mats_111"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top of the page is weak with low-review sponsored listings, and the compelling branded options are all buried beyond position 15."
+  },
+  {
+    "offer_set_id": "yoga_mats_086",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_040",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_135"
+    ],
+    "final_choice": "prod_yoga_mats_006",
+    "reasoning": "Gaiam Premium 6mm Reversible at position 3 with $39.98, 4.7\u2b50 and 13,691 reviews is prominent and best-rated."
+  },
+  {
+    "offer_set_id": "yoga_mats_087",
+    "consideration_set": [
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_040",
+      "prod_yoga_mats_135",
+      "prod_yoga_mats_082",
+      "prod_yoga_mats_175"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by weak-review or poor-rating products, and the strong options are buried too deep."
+  },
+  {
+    "offer_set_id": "yoga_mats_088",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_111",
+      "prod_yoga_mats_189",
+      "prod_yoga_mats_120",
+      "prod_yoga_mats_048"
+    ],
+    "final_choice": "prod_yoga_mats_006",
+    "reasoning": "Gaiam Premium 6mm Reversible at position 2 with $39.98, 4.7\u2b50 and 13,691 reviews is a clear standout at high visibility."
+  },
+  {
+    "offer_set_id": "yoga_mats_089",
+    "consideration_set": [
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_055",
+      "prod_yoga_mats_116"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top six positions are dominated by weakly-reviewed or poor-rating products, and strong options are too buried to commit to."
+  },
+  {
+    "offer_set_id": "yoga_mats_090",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_078",
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_006",
+    "reasoning": "Gaiam Premium 6mm Reversible at position 2 with $39.98, 4.7\u2b50 and 13,691 reviews is the best-rated at high visibility."
+  },
+  {
+    "offer_set_id": "yoga_mats_091",
+    "consideration_set": [
+      "prod_yoga_mats_140",
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_135"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top of page is dominated by a mid-tier Gaiam and other unremarkable options; the standout ProsourceFit is buried at position 24."
+  },
+  {
+    "offer_set_id": "yoga_mats_092",
+    "consideration_set": [
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_078",
+      "prod_yoga_mats_040",
+      "prod_yoga_mats_180"
+    ],
+    "final_choice": "prod_yoga_mats_066",
+    "reasoning": "Gaiam Premium 5mm Print at position 2 with $24.34, 4.7\u2b50 and 3,751 reviews offers the best value from a trusted brand."
+  },
+  {
+    "offer_set_id": "yoga_mats_093",
+    "consideration_set": [
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_082",
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_111"
+    ],
+    "final_choice": "prod_yoga_mats_095",
+    "reasoning": "BalanceFrom at position 1 with $19.99, 4.6\u2b50 and 34,564 reviews is the clearest value winner at the top."
+  },
+  {
+    "offer_set_id": "yoga_mats_094",
+    "consideration_set": [
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_055"
+    ],
+    "final_choice": "prod_yoga_mats_163",
+    "reasoning": "Heathyoga at position 4 with alignment-system feature, 4.6\u2b50 and 9,425 reviews at $39.99 is a strong differentiated pick at high visibility."
+  },
+  {
+    "offer_set_id": "yoga_mats_095",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_118",
+      "prod_yoga_mats_101",
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_135"
+    ],
+    "final_choice": "prod_yoga_mats_006",
+    "reasoning": "Gaiam Premium 6mm Reversible at position 2 with $39.98, 4.7\u2b50 and 13,691 reviews is a clear standout."
+  },
+  {
+    "offer_set_id": "yoga_mats_096",
+    "consideration_set": [
+      "prod_yoga_mats_101",
+      "prod_yoga_mats_078",
+      "prod_yoga_mats_055",
+      "prod_yoga_mats_128",
+      "prod_yoga_mats_111"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top six positions are poor (weak-rating bestseller, low-review premiums), and none of the strong branded options are positioned prominently enough."
+  },
+  {
+    "offer_set_id": "yoga_mats_097",
+    "consideration_set": [
+      "prod_yoga_mats_090",
+      "prod_yoga_mats_097",
+      "prod_yoga_mats_149",
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_155"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions feature a $63 Gaiam with only 4.4\u2b50 and weak secondary options; the stronger mid-tier picks are not compelling enough to commit over a refined search."
+  },
+  {
+    "offer_set_id": "yoga_mats_098",
+    "consideration_set": [
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_116"
+    ],
+    "final_choice": "prod_yoga_mats_180",
+    "reasoning": "Amazon Basics at $19.99 with 4.6\u2b50 and 79,937 reviews offers unmatched trust and value in a weakly-topped set."
+  },
+  {
+    "offer_set_id": "yoga_mats_099",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_187",
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_135"
+    ],
+    "final_choice": "prod_yoga_mats_006",
+    "reasoning": "Gaiam Premium 6mm Reversible at position 1 with $39.98, 4.7\u2b50 and 13,691 reviews is the perfect top-of-page winner."
+  },
+  {
+    "offer_set_id": "yoga_mats_100",
+    "consideration_set": [
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_155",
+      "prod_yoga_mats_078",
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_180"
+    ],
+    "final_choice": "prod_yoga_mats_084",
+    "reasoning": "Retrospec Zuma at position 2 with $27.99, 4.6\u2b50 and 2,249 reviews is a trusted brand at a great price with high visibility."
+  }
+]

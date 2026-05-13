@@ -1,0 +1,23 @@
+{
+  "experiment_id": "backpack_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_173",
+      "prod_backpacks_006",
+      "prod_backpacks_154",
+      "prod_backpacks_089",
+      "prod_backpacks_002"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The browsing session was frustrated by a high volume of irrelevant products in the search results, including camping stoves, patches, food kits, and towels. While there are some highly-rated packable daypacks like the ZOMAKE and HIKPRO, I am looking for something more substantial for daily use. The cooler backpacks (TOURIT and SEEHONOR) have concerning reviews regarding leaking and durability, and the military-grade ALICE pack is prohibitively expensive and noted for poor condition in reviews. Due to the lack of a mid-range, durable, standard-capacity backpack, I have decided not to make a purchase at this time."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_082.json",
+    "offer_set_id": "backpacks_082",
+    "timestamp": 1775591636,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 34,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_184.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_016",
+      "prod_protein_powder_057",
+      "prod_protein_powder_158",
+      "prod_protein_powder_191"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (Respect 46 reviews despite 4.8, POWERLIFE 3.9 stars, Optim Nutrition 146 reviews) and no option stands out with a clearly compelling quality/price combination."
+  }
+}

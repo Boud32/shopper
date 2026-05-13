@@ -1,0 +1,23 @@
+{
+  "experiment_id": "mech_keyboards",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_108",
+      "prod_mechanical_keyboards_103",
+      "prod_mechanical_keyboards_150",
+      "prod_mechanical_keyboards_048",
+      "prod_mechanical_keyboards_084"
+    ],
+    "final_choice": "prod_mechanical_keyboards_108",
+    "reasoning_trace": "Based on the high average customer review ratings and the specific features mentioned (e.g., PBT keycaps, double-shot process, compatibility with a wide range of mechanical keyboards), these five products stand out as strong candidates for meeting the customer's mechanical keyboard needs. The SteelSeries PRISMCAPS keycap set (prod_mechanical_keyboards_108) was chosen as the final selection due to its high rating of 4.6 from 1184 reviews, its durable PBT thermoplastic construction, and its compatibility with a variety of mechanical keyboards, making it a versatile and well-regarded option."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_387.json",
+    "offer_set_id": "mechanical_keyboards_387",
+    "timestamp": 1772655518,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

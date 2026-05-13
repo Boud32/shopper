@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_bt_speakers_29",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_037",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_034",
+      "prod_bluetooth_speakers_174"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated a mix of high-end home systems and mid-range portable speakers. The premium options from Sony (prod_bluetooth_speakers_144) and Sonos (prod_bluetooth_speakers_134) are attractive but have concerning reviews regarding app connectivity and platform restrictions. The Edifier 2.1 system (prod_bluetooth_speakers_037) is too large for my current needs. While the BOGASING and Raymate portable speakers offer high wattage for their price, I am hesitant to purchase these brands without more established long-term reliability history. Given the specific drawbacks noted for each in the reviews, I have decided to wait for a different model."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_432.json",
+    "offer_set_id": "bluetooth_speakers_432",
+    "timestamp": 1775604239,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

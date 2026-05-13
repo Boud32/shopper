@@ -1,0 +1,23 @@
+{
+  "experiment_id": "toothbrush_purchase",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_018",
+      "prod_toothbrushes_178",
+      "prod_toothbrushes_182",
+      "prod_toothbrushes_070",
+      "prod_toothbrushes_071"
+    ],
+    "final_choice": "prod_toothbrushes_071",
+    "reasoning_trace": "The customer is looking for a toothbrush, and there are various options available. The consideration set includes a mix of manual and electric toothbrushes with different features and prices. The final choice, 'prod_toothbrushes_071', is an electric toothbrush with a high rating, multiple brushing modes, and a rechargeable battery. It is a good balance of features and price, making it a suitable choice for the customer."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_456.json",
+    "offer_set_id": "toothbrushes_456",
+    "timestamp": 1772825707,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

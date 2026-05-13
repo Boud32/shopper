@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 30,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_130.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_066",
+      "prod_conditioner_290",
+      "prod_conditioner_241",
+      "prod_conditioner_110",
+      "prod_conditioner_014"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions dominated by men's-specific, hair-growth, and niche products; solid options are buried mid or late page."
+  }
+}

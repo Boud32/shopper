@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_backpacks_25",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_038",
+      "prod_backpacks_107",
+      "prod_backpacks_051",
+      "prod_backpacks_154",
+      "prod_backpacks_007"
+    ],
+    "final_choice": "prod_backpacks_038",
+    "reasoning_trace": "I evaluated several types of packs including daily carry, tactical hiking, sling bags, and specialty utility bags. The Maxpedition Prepared Citizen Classic v2.0 (prod_backpacks_038) emerged as the best option due to its exceptionally high rating of 4.7 and strong reviews praising its durability and discreet aesthetic. While the Seibertron (prod_backpacks_107) was a strong contender for outdoor use, some reviews mentioned finish issues like frayed straps. The MOSISO sling (prod_backpacks_051) is highly popular but appeared too small for versatile use. The TOURIT cooler (prod_backpacks_154) and FITNATE dry bag (prod_backpacks_007) are excellent for specific niches, but for a general-purpose purchase, the quality and reliability of the Maxpedition pack offered the best value despite the higher price point."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_491.json",
+    "offer_set_id": "backpacks_491",
+    "timestamp": 1775605882,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

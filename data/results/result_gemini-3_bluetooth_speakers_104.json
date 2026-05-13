@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_bt_speakers_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_021",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_103"
+    ],
+    "final_choice": "prod_bluetooth_speakers_181",
+    "reasoning_trace": "I filtered the list to ignore cases, covers, and accessories, focusing on actual speakers with high performance and durability ratings. My consideration set includes premium models from Sony and Altec Lansing, as well as a well-regarded renewed JBL Charge 4 and high-value budget options like EDUPLINK and Ortizan. I decided to purchase the Sony SRS-XB43. While it is one of the more expensive items, its reputation for 'Extra Bass,' high-quality X-Balanced speakers, and robust IP67 waterproof/rustproof rating justifies the investment for a long-lasting, high-fidelity audio device."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_104.json",
+    "offer_set_id": "bluetooth_speakers_104",
+    "timestamp": 1775592418,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

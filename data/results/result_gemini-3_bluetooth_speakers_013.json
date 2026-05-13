@@ -1,0 +1,23 @@
+{
+  "experiment_id": "bluetooth_speaker_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_030",
+      "prod_bluetooth_speakers_083",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_192"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated a range of speakers across different price points and form factors. The DOSS SoundBox Pro+ (prod_bluetooth_speakers_008) and Comiso (prod_bluetooth_speakers_173) appeared to be the strongest mid-range contenders based on ratings and features. However, the search results were significantly cluttered with accessories like carrying cases and power adapters, which limited the perceived variety of actual hardware. Furthermore, the high-end options presented issues: the Audio Pro (prod_bluetooth_speakers_044) had multiple reviews citing 'dead on arrival' or no sound, and the Sonos set (prod_bluetooth_speakers_030) relied on Wi-Fi rather than standard Bluetooth, which didn't fit my specific portable needs. Because of the limited selection of reliable high-performance portable speakers in this specific feed, I have decided to postpone my purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_013.json",
+    "offer_set_id": "bluetooth_speakers_013",
+    "timestamp": 1775590756,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

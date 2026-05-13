@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_purchase_session_26",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_131",
+      "prod_bluetooth_speakers_037",
+      "prod_bluetooth_speakers_125",
+      "prod_bluetooth_speakers_048"
+    ],
+    "final_choice": "prod_bluetooth_speakers_013",
+    "reasoning_trace": "I am looking for a high-quality portable Bluetooth speaker. My consideration set includes a range of options from ultra-budget (FLYSH) to premium home audio (Edifier) and high-end portables (JBL Pulse 4). The FLYSH and comiso speakers are attractive for their price points, but I am wary of long-term sound quality. The Edifier S350DB is a fantastic home system but exceeds the budget for a portable need. Between the JBL options, the Pulse 4 is flashy with its light show, but the JBL Charge 4 (Renewed) offers the best value. At $89.95, it provides the trusted JBL sound and durability at a significantly lower price than the Pulse 4, and its 4.7 rating across many reviews gives me confidence in the refurbished quality."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_027.json",
+    "offer_set_id": "bluetooth_speakers_027",
+    "timestamp": 1775590955,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

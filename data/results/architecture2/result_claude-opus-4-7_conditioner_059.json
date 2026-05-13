@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 9,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_059.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_023",
+      "prod_conditioner_170",
+      "prod_conditioner_110",
+      "prod_conditioner_218"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Garnier Whole Blends is the best value mainstream option with exceptional review base (4.7/8,445)."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_browsing_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_183",
+      "prod_bluetooth_speakers_061",
+      "prod_bluetooth_speakers_173"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several well-known brands and highly-rated models. The JBL Go 3 (prod_129) is excellent for portability but lacks the battery life I need for longer outdoor use. The Bose SoundLink Color II (prod_137) offers the best audio profile, but several recent reviews mentioned units failing shortly after the warranty period, which is concerning at that price point ($124.95). The DOSS (prod_061) and Comiso (prod_173) options were more budget-friendly, but both had multiple reports of volume loss or units dying within months. Additionally, a significant portion of the search results were accessories (carrying cases and charging cables) rather than actual speakers, which limited the variety of the selection. Given the reliability concerns on the higher-end models and the mixed reviews on the cheaper alternatives, I've decided to postpone my purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_228.json",
+    "offer_set_id": "bluetooth_speakers_228",
+    "timestamp": 1775595512,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

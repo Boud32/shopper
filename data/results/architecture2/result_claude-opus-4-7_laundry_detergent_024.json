@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 24,
+    "timestamp": 1776650224,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_024.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_269",
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_034",
+      "prod_laundry_detergent_162",
+      "prod_laundry_detergent_077"
+    ],
+    "final_choice": "prod_laundry_detergent_269",
+    "reasoning": "Arm & Hammer OxiClean Pods at $9.48 with 4.7 stars and 6952 reviews is a strong value and trusted brand at top visibility."
+  }
+}

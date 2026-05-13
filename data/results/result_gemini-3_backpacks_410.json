@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_096",
+      "prod_backpacks_173",
+      "prod_backpacks_164",
+      "prod_backpacks_154",
+      "prod_backpacks_184"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The search for backpacks yielded a highly fragmented set of results. While the ZOMAKE daypack (prod_backpacks_173) and Maxpedition Falcon-III (prod_backpacks_096) are well-regarded in their respective price points, the overall selection was diluted by non-backpack items such as tents, hand warmers, and lamp poles. The budget options like the KAUKKO (prod_backpacks_184) had concerning reviews regarding strap durability. Given the target for a specialized backpack and the cluttered feed, I have decided to continue looking elsewhere rather than settling for a product that doesn't perfectly meet the criteria of quality and specialized utility."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_410.json",
+    "offer_set_id": "backpacks_410",
+    "timestamp": 1775598471,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

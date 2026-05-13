@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_192",
+      "prod_bluetooth_speakers_158",
+      "prod_bluetooth_speakers_177",
+      "prod_bluetooth_speakers_173"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several Bluetooth speakers across different price points. The Harman Kardon Onyx Studio 6 (prod_bluetooth_speakers_116) offered the best sound quality but had a concerning review regarding receiving used units instead of new ones. The Audio Pro (prod_bluetooth_speakers_158) was quite expensive and had multiple complaints about connectivity and power-on friction. The EWA A106 Pro (prod_bluetooth_speakers_192) was a great budget option, but the reviews mentioned an annoying low-battery warning system. Given that a large portion of the feed consisted of accessories (cases and cables) and several speakers had low overall ratings (Pyle, Creative, Quikcell), I did not find a product that perfectly balanced reliability, price, and feature set for my current needs. I have decided to postpone my purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_176.json",
+    "offer_set_id": "bluetooth_speakers_176",
+    "timestamp": 1775594533,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

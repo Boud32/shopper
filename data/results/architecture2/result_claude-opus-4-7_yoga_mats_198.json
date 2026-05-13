@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 48,
+    "timestamp": 1776691125,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_198.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_078",
+      "prod_yoga_mats_048",
+      "prod_yoga_mats_187",
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_118"
+    ],
+    "final_choice": "prod_yoga_mats_078",
+    "reasoning": "Extra Large Cushioned at position 4 with $46.99, 4.7 stars, and 855 reviews offers an unusually thick 10-12mm mat with strong rating."
+  }
+}

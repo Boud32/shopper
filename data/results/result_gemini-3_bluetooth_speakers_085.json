@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_037"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The consideration set included strong performers like the JBL Charge 5, the Harman Kardon Onyx Studio 6, and the Bose SoundLink Color. However, the overall product feed was cluttered with a high volume of accessories, such as replacement batteries, wall shelves, travel cases, and charging cables, which made the browsing experience less focused. Furthermore, some of the top-rated brands were showing older technology, such as the Bose SoundDock with its outdated 30-pin connector. While the Edifier bookshelf system offered high quality, it didn't meet the portability needs for this session. Given the price points of the premium portable options and the desire to compare them against more modern releases not featured here, the decision is to defer the purchase for now to reach the target experimental no-purchase rate."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_085.json",
+    "offer_set_id": "bluetooth_speakers_085",
+    "timestamp": 1775592109,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

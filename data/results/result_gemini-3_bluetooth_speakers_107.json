@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_3",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_037",
+      "prod_bluetooth_speakers_009",
+      "prod_bluetooth_speakers_072",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_047"
+    ],
+    "final_choice": "prod_bluetooth_speakers_008",
+    "reasoning_trace": "I evaluated a range of options from ultra-budget to high-end bookshelf systems. I included the Edifier S350DB for its superior sound quality, the JBL Go 3 for brand reliability in a small form factor, and the LENRUE for a budget-friendly desktop option. The HyperGear Beast XL was selected as a rugged mid-range choice. Ultimately, I chose the DOSS SoundBox Pro+ because it has exceptionally high customer satisfaction ratings, 24W output which is significant for its price point, and versatile features like IPX6 waterproofing and synchronized lights, making it the best value-for-money portable speaker in the set."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_107.json",
+    "offer_set_id": "bluetooth_speakers_107",
+    "timestamp": 1775595190,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

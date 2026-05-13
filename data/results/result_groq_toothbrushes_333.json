@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_toothbrushes",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_019",
+      "prod_toothbrushes_013",
+      "prod_toothbrushes_041",
+      "prod_toothbrushes_012",
+      "prod_toothbrushes_008"
+    ],
+    "final_choice": "prod_toothbrushes_019",
+    "reasoning_trace": "The Curaprox Soft Toothbrush CS 1560 is chosen due to its high rating of 4.7 and a large number of reviews (1104), indicating a high level of customer satisfaction. Additionally, its description highlights the soft and densely packed bristles, which suggests a gentle yet effective cleaning experience."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_333.json",
+    "offer_set_id": "toothbrushes_333",
+    "timestamp": 1772825103,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

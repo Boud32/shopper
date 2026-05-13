@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_142",
+      "prod_bluetooth_speakers_001"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I am in the market for a high-quality, new portable Bluetooth speaker, but the browsing session was somewhat frustrating due to the high volume of accessories (cases, charging cables, adapters) and refurbished units in the product feed. I narrowed my consideration to the JBL Charge 5 and the Bang & Olufsen Beosound A1 as the primary performance options, along with the INSMY retro speaker for its design and the ZEALOT for its outdoor utility. However, the B&O is priced quite high at $279, and several reviews for the JBL Charge 5 mentioned disappointing bass compared to previous versions and compatibility issues with older JBL models. Additionally, the refurbished JBL Flip 5 had reviews indicating it might stop holding a charge after a few months. Given the mix of high prices for premium speakers and reliability concerns for the mid-range options provided, I have decided to postpone my purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_198.json",
+    "offer_set_id": "bluetooth_speakers_198",
+    "timestamp": 1775594899,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

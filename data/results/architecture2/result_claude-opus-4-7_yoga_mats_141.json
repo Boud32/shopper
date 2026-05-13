@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 41,
+    "timestamp": 1776691125,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_141.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_128",
+      "prod_yoga_mats_119",
+      "prod_yoga_mats_189",
+      "prod_yoga_mats_155"
+    ],
+    "final_choice": "prod_yoga_mats_180",
+    "reasoning": "Amazon Basics at $19.99 with 4.6 stars and 79,937 reviews is unmatched for social proof and trusted-brand value, making it the clear buy even at position 8."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_131"
+    ],
+    "final_choice": "prod_bluetooth_speakers_153",
+    "reasoning_trace": "I evaluated a range of speakers from ultra-portable to high-end. The JBL options (Flip 5 Renewed, Go 3, and Pulse 4) are reliable but either refurbished, low wattage, or very expensive. The INSMY Retro offers a great aesthetic, but for general outdoor and versatile use, the Raymate Bluetooth Speaker (prod_bluetooth_speakers_153) stands out. It offers 30W of power and IPX7 waterproofing at a very competitive price of $39.99, matching the price of much smaller speakers like the JBL Go 3 while providing significantly more audio output and a high 4.6-star rating."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_261.json",
+    "offer_set_id": "bluetooth_speakers_261",
+    "timestamp": 1775596045,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

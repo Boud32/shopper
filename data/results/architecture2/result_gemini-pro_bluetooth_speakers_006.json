@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "frontend",
+    "session_position": 6,
+    "timestamp": 1776109656,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_006.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_040",
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_125"
+    ],
+    "final_choice": "prod_bluetooth_speakers_166",
+    "reasoning": "JBL FLIP 5 is an all-weather companion with outstanding reviews and a balanced sound profile."
+  }
+}

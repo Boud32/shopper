@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 48,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_148.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_194",
+      "prod_conditioner_176",
+      "prod_conditioner_218",
+      "prod_conditioner_016",
+      "prod_conditioner_110"
+    ],
+    "final_choice": "prod_conditioner_194",
+    "reasoning": "Love Beauty and Planet Smooth & Serene at $8.69 with 4.6/570 reviews at position 2 is a clean, affordable, well-reviewed pick."
+  }
+}

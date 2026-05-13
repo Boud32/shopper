@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_071",
+      "prod_116",
+      "prod_009",
+      "prod_072",
+      "prod_144"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The browsing session was heavily saturated with accessories such as silicone skins, carrying cases, and power adapters rather than actual speakers, which hindered the comparison of core hardware. Among the available speakers, the high-end options were either older models (Bose SoundLink Color) or stationary home speakers primarily using Wi-Fi (Sony and Sonos) rather than the portable, high-fidelity Bluetooth-first device sought. The Harman Kardon Onyx Studio 6 offered excellent audio quality but its bulkiness and 'other buy' mixed reviews created hesitation. To ensure a better balance of portability and modern features, the customer opted to wait and look for a more curated selection of recent portable Bluetooth speakers."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_453.json",
+    "offer_set_id": "bluetooth_speakers_453",
+    "timestamp": 1775604570,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

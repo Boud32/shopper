@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_132",
+      "prod_backpacks_156",
+      "prod_backpacks_012",
+      "prod_backpacks_101",
+      "prod_backpacks_088"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was looking for a high-quality, general-purpose backpack, but the selection provided is either too specialized or has significant quality concerns. The Mubasel Gear (prod_backpacks_132) and ROCKRAIN options are hydration-specific packs which aren't suitable for daily use. The only full-sized hiking backpack, the Hebetag (prod_backpacks_101), has reviews mentioning that straps tore within a week. The FAMI (prod_backpacks_012) and ABENAKI (prod_backpacks_088) are small sling bags rather than full backpacks. Furthermore, the product feed is cluttered with unrelated camping gear like tent stakes, stadium chairs, and umbrellas, making it difficult to find a reliable backpack. Given the lack of a durable, multi-purpose option, I have decided not to make a purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_304.json",
+    "offer_set_id": "backpacks_304",
+    "timestamp": 1775596742,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

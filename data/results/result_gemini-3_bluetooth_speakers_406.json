@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_116"
+    ],
+    "final_choice": "prod_bluetooth_speakers_147",
+    "reasoning_trace": "I evaluated the speaker selection based on sound quality, portability, and brand reliability. My consideration set included options across budget (EDUPLINK), performance value (Raymate), and premium brands (Bose and Harman Kardon). I specifically included the JBL Clip 3 because of its overwhelming number of positive reviews (over 68,000) and its reputation for durability. While the Raymate offered higher wattage (30W) for a lower price, the JBL Clip 3's proven track record for weather resistance and portable design made it the most reliable choice for a purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_406.json",
+    "offer_set_id": "bluetooth_speakers_406",
+    "timestamp": 1775603859,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_mechanical_keyboards",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_168",
+      "prod_mechanical_keyboards_162",
+      "prod_mechanical_keyboards_035",
+      "prod_mechanical_keyboards_108",
+      "prod_mechanical_keyboards_036"
+    ],
+    "final_choice": "prod_mechanical_keyboards_168",
+    "reasoning_trace": "The final choice, 'prod_mechanical_keyboards_168', is the Hexgears Impulse - Hot-swap Mechanical Keyboard. This keyboard was chosen for its high rating of 4.6 and its positive reviews, which highlighted its durability, hot-swappable switches, and pudding keycaps. The consideration set includes a variety of mechanical keyboards with different features, such as wireless connectivity, RGB lighting, and customizable switches. However, the Hexgears Impulse stands out for its high-quality keycaps, durable construction, and hot-swappable design, making it a great option for customers looking for a reliable and customizable mechanical keyboard."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_006.json",
+    "offer_set_id": "mechanical_keyboards_006",
+    "timestamp": 1772654037,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

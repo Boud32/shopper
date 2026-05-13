@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "",
+    "architecture": "frontend",
+    "session_position": 7,
+    "timestamp": 1776377218,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_007.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_124",
+      "prod_protein_powder_037",
+      "prod_protein_powder_028",
+      "prod_protein_powder_046",
+      "prod_protein_powder_016"
+    ],
+    "final_choice": "prod_protein_powder_124",
+    "reasoning": "Vital Performance offers exceptional value at $29.99 with NSF certification, lactose-free 25g protein, 4.4 stars, and nearly 4,000 reviews."
+  }
+}

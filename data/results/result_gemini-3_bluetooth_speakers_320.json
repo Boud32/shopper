@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_137"
+    ],
+    "final_choice": null,
+    "reasoning_trace": "I evaluated several high-end portable speakers including the JBL Charge 5, Sony XB43, and Bose SoundLink Color II. While these models have exceptional ratings (4.6-4.8) and robust features like IP67 waterproofing and long battery life, their prices ranging from $124 to $159 are slightly above what I'm willing to spend for a portable unit right now. I also considered mid-range options like the DOSS SoundBox Pro+, but after reviewing the feedback, I'm concerned about the balance of audio quality at that price point. Because I didn't find the perfect balance between premium performance and a sub-$100 price, I've decided to defer the purchase for now."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_320.json",
+    "offer_set_id": "bluetooth_speakers_320",
+    "timestamp": 1775597044,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

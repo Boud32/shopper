@@ -1,0 +1,23 @@
+{
+  "experiment_id": "mech_keyboards_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_136",
+      "prod_mechanical_keyboards_149",
+      "prod_mechanical_keyboards_108",
+      "prod_mechanical_keyboards_162",
+      "prod_mechanical_keyboards_021"
+    ],
+    "final_choice": "prod_mechanical_keyboards_108",
+    "reasoning_trace": "After reviewing the product feed, the consideration set of 5 products that best meet the customer's needs for mechanical keyboards were selected based on their high ratings, good review counts, and relevance to the category. The final choice, 'prod_mechanical_keyboards_108', is a highly-rated product with a good review count and positive reviews, making it the most suitable option for the customer."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_110.json",
+    "offer_set_id": "mechanical_keyboards_110",
+    "timestamp": 1772654405,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

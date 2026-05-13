@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_192",
+      "prod_bluetooth_speakers_173"
+    ],
+    "final_choice": "prod_bluetooth_speakers_147",
+    "reasoning_trace": "I focused on products that were actual speakers rather than accessories like travel cases or straps. My consideration set included a range of portable options from budget-friendly (EWA A106 Pro) to premium (Bose SoundLink Color). I ultimately chose the JBL Clip 3 (prod_bluetooth_speakers_147) because it combines brand reliability, a high rating (4.7), and an immense volume of social proof with over 68,000 reviews. Its portable design with the integrated carabiner and waterproof rating makes it the most practical and trustworthy choice for a wide range of outdoor and indoor use cases compared to the others in the set."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_498.json",
+    "offer_set_id": "bluetooth_speakers_498",
+    "timestamp": 1775605280,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

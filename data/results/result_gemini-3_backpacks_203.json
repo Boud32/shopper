@@ -1,0 +1,23 @@
+{
+  "experiment_id": "shopping_session_backpacks_2024",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_050",
+      "prod_backpacks_132",
+      "prod_backpacks_078",
+      "prod_backpacks_156",
+      "prod_backpacks_168"
+    ],
+    "final_choice": "prod_backpacks_078",
+    "reasoning_trace": "I filtered the feed for actual backpacks, excluding towels, pillows, and other unrelated accessories. My consideration set includes a tactical large-capacity bag, two hydration packs for hiking, a foldable daypack for travel, and a sling bag for light use. I selected the Gelindo 18L Hiking Hydration Backpack (prod_backpacks_078) as the final choice because it has the highest average rating in the set (4.7) and reviews highlight specific useful features like the front-strap zipper pocket for phones and credit cards, which provides superior utility compared to standard hydration packs at a similar price point."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_203.json",
+    "offer_set_id": "backpacks_203",
+    "timestamp": 1775594370,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

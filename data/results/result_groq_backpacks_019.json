@@ -1,0 +1,23 @@
+{
+  "experiment_id": "backpacks",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_008",
+      "prod_backpacks_137",
+      "prod_backpacks_050",
+      "prod_backpacks_059",
+      "prod_backpacks_196"
+    ],
+    "final_choice": "prod_backpacks_008",
+    "reasoning_trace": "Selected products based on high ratings and relevant features for backpacks. prod_backpacks_008 has a high rating of 4.6, a large number of reviews (23775), and a low price of $17.99, making it a competitive option. The other products in the consideration set have similar characteristics, but prod_backpacks_008 stands out for its balance of quality, price, and customer satisfaction."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_019.json",
+    "offer_set_id": "backpacks_019",
+    "timestamp": 1774974338,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

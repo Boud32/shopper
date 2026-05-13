@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_browsing_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_147"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several high-quality options from JBL, Bose, and Harman Kardon. While the JBL Charge 5 (prod_120) offers excellent sound, a critical review mentions it is incompatible with older JBL speakers like the Charge 4 due to the switch from Connect+ to PartyBoost, which is a major drawback for my existing setup. The Bose SoundLink Color II (prod_137) has reports of a short lifespan (1 year), and the Harman Kardon (prod_116) is noted as being quite heavy for a portable speaker. Since I am looking for a balance of long-term durability and ecosystem compatibility, I have decided not to make a purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_020.json",
+    "offer_set_id": "bluetooth_speakers_020",
+    "timestamp": 1775590863,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_browsing",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_023",
+      "prod_backpacks_173",
+      "prod_backpacks_156",
+      "prod_backpacks_115",
+      "prod_backpacks_007"
+    ],
+    "final_choice": "prod_backpacks_173",
+    "reasoning_trace": "I was specifically looking for a versatile backpack. The product feed was cluttered with camping accessories like stoves, tents, and pillows, which narrowed down the actual backpack options significantly. Among the available bags, the ZOMAKE 20L hiking backpack (prod_backpacks_173) was the clear winner. It has a high volume of positive social proof with over 14,000 reviews and a strong 4.6 rating. Its packable design and affordable price point make it a low-risk, high-utility choice compared to the others, such as the Fox Outdoor rucksack which had reports of wonky buckles or the ASICS mesh bag which is for a more niche use case."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_149.json",
+    "offer_set_id": "backpacks_149",
+    "timestamp": 1775593599,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 13,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_113.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_045",
+      "prod_laundry_detergent_275",
+      "prod_laundry_detergent_030",
+      "prod_laundry_detergent_116",
+      "prod_laundry_detergent_296"
+    ],
+    "final_choice": "prod_laundry_detergent_045",
+    "reasoning": "Tide PODS 4-in-1 Febreze Sport at position 1 with 4.9\u2605 and 8k reviews, 73-count, is the clear premium anchor and offers strong per-pod value."
+  }
+}

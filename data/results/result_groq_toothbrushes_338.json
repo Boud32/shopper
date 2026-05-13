@@ -1,0 +1,23 @@
+{
+  "experiment_id": "toothbrush_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_146",
+      "prod_toothbrushes_132",
+      "prod_toothbrushes_041",
+      "prod_toothbrushes_049",
+      "prod_toothbrushes_019"
+    ],
+    "final_choice": "prod_toothbrushes_146",
+    "reasoning_trace": "Selected products based on high average review ratings and relevance to toothbrushes for adults. 'prod_toothbrushes_146' has a rating of 4.4 with 109 reviews, 'prod_toothbrushes_132' has a rating of 4.7 with 281 reviews but is more expensive, 'prod_toothbrushes_041' has a rating of 4.4 with 170 reviews and is affordable, 'prod_toothbrushes_049' has a rating of 4.6 with 289 reviews and is designed for enamel protection, and 'prod_toothbrushes_019' has a rating of 4.7 with 1104 reviews but is more expensive. Chose 'prod_toothbrushes_146' as the final choice due to its high rating, soft bristles, and customer reviews praising its effectiveness."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_338.json",
+    "offer_set_id": "toothbrushes_338",
+    "timestamp": 1772825113,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

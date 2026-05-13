@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_107",
+      "prod_backpacks_068",
+      "prod_backpacks_184",
+      "prod_backpacks_128",
+      "prod_backpacks_099"
+    ],
+    "final_choice": "prod_backpacks_107",
+    "reasoning_trace": "I evaluated several backpacks ranging from lightweight packable options to large internal frame hiking packs. The Seibertron Falcon (prod_backpacks_107) stood out as a versatile choice with a 37L capacity, which is ideal for both daily use and short trips. It has a high volume of positive reviews (4.6 stars from nearly 3,000 users) and is priced competitively at $59.99. While the High Sierra (prod_backpacks_068) is a quality internal frame pack, 70L is likely larger than needed for a general-purpose purchase. The KAUKKO (prod_backpacks_184) and ZOMAKE (prod_backpacks_099) were considered for their low price points, but long-term durability concerns mentioned in some reviews made the Seibertron feel like a more reliable investment."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_209.json",
+    "offer_set_id": "backpacks_209",
+    "timestamp": 1775594450,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

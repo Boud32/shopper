@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_003",
+      "prod_bluetooth_speakers_103",
+      "prod_bluetooth_speakers_179",
+      "prod_bluetooth_speakers_084",
+      "prod_bluetooth_speakers_002"
+    ],
+    "final_choice": null,
+    "reasoning_trace": "I evaluated a mix of premium and budget-friendly Bluetooth speakers. The high-end Ultimate Ears MEGABLAST ($245) was a primary candidate for quality, but numerous reviews citing poor Alexa integration and firmware loops made it a risky investment at that price. The Ortizan and Oraolo models offered impressive specs (40W power) for under $50, but feedback regarding inconsistent Bluetooth pairing and connection drops suggests potential hardware longevity issues. The Philips speaker is a bit dated, and the JBL Clip 3, while reliable, is only available here as a 'Renewed' item. Because the premium options had significant software complaints and the budget options had reliability concerns, I did not find a product that felt like a confident purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_052.json",
+    "offer_set_id": "bluetooth_speakers_052",
+    "timestamp": 1775591369,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

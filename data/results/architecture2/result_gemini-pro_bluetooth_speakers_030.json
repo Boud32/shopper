@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "frontend",
+    "session_position": 30,
+    "timestamp": 1776109656,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_030.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_193",
+      "prod_bluetooth_speakers_015",
+      "prod_bluetooth_speakers_180",
+      "prod_bluetooth_speakers_068",
+      "prod_bluetooth_speakers_146"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "This set is filled with novelty items like hats and mini toys that don't offer genuine acoustic quality."
+  }
+}

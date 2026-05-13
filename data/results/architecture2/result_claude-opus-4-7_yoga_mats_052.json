@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 2,
+    "timestamp": 1776691124,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_052.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_082",
+      "prod_yoga_mats_155",
+      "prod_yoga_mats_111"
+    ],
+    "final_choice": "prod_yoga_mats_095",
+    "reasoning": "BalanceFrom at $19.99 with 4.6\u2b50 and 34,564 reviews is an unbeatable value with massive social proof."
+  }
+}

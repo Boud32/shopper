@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 37,
+    "timestamp": 1776689267,
+    "source_batch": "data/offer_sets/conditioner/conditioner_187.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_218",
+      "prod_conditioner_169",
+      "prod_conditioner_170",
+      "prod_conditioner_290",
+      "prod_conditioner_078"
+    ],
+    "final_choice": "prod_conditioner_218",
+    "reasoning": "Carol's Daughter at $13.99 with 4.4\u2605/2932 reviews at position 1 is prominently placed with excellent social proof at a great price."
+  }
+}

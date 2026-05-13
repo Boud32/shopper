@@ -1,0 +1,23 @@
+{
+  "experiment_id": "realistic_shopping_backpacks_13",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_164",
+      "prod_backpacks_137",
+      "prod_backpacks_003",
+      "prod_backpacks_072",
+      "prod_backpacks_199"
+    ],
+    "final_choice": "prod_backpacks_164",
+    "reasoning_trace": "During my search for a backpack, I filtered through a feed that contained many non-backpack items like water bottles and camping gear. I narrowed my consideration set to five actual backpacks: the W WINTMING tactical pack, the Mardingtop internal frame pack, the high-end Osprey Exos 58, the Rawlings sports equipment bag, and the Piscifun dry bag backpack. I ultimately chose the W WINTMING Military Tactical Backpack (prod_backpacks_164) because its 45L capacity offers a great balance of size for various activities (hiking, travel, daily use) and its 4.6-star rating suggests consistent quality for the price point. The Osprey was too expensive for my current budget, and the sports-specific bags were a bit too niche for general use."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_093.json",
+    "offer_set_id": "backpacks_093",
+    "timestamp": 1775591797,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

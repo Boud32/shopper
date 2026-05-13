@@ -1,0 +1,23 @@
+{
+  "experiment_id": "smartwatch_recommendation",
+  "decision": {
+    "consideration_set": [
+      "prod_smartwatches_156",
+      "prod_smartwatches_182",
+      "prod_smartwatches_150",
+      "prod_smartwatches_198",
+      "prod_smartwatches_040"
+    ],
+    "final_choice": "prod_smartwatches_156",
+    "reasoning_trace": "The final choice, 'prod_smartwatches_156', is the Garmin Venu Sq Music, GPS Smartwatch. It was selected due to its high rating of 4.4, a large number of reviews (218), and a reasonable price of $149.99. The consideration set includes a mix of smartwatches with high ratings, various features, and different price points to cater to different customer preferences. 'prod_smartwatches_182' (Samsung Galaxy Watch 3) and 'prod_smartwatches_198' (Michael Kors Access Gen 4) offer advanced features and brand reputation but at higher prices. 'prod_smartwatches_150' (Cubitt CT2S Series 3 Smart Watch) and 'prod_smartwatches_040' (Amazfit Zepp E Circle) provide more affordable options with a balance of features and price."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/smartwatches/smartwatches_137.json",
+    "offer_set_id": "smartwatches_137",
+    "timestamp": 1772654336,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_192"
+    ],
+    "final_choice": "prod_bluetooth_speakers_166",
+    "reasoning_trace": "The search for a Bluetooth speaker involved filtering out several accessories that were present in the feed, such as cases (prod_006), charging cables (prod_065, prod_082, prod_148), straps (prod_041), and wall shelves (prod_090). Within the actual speaker category, the consideration set was narrowed down to high-rated products across different price points. The JBL Flip 5 (prod_166) and Charge 5 (prod_120) are clear market leaders with 4.8 ratings, but the Flip 5 offers a better balance of portability and price at $89.95 compared to the Charge 5's $149.95. The DOSS SoundBox Pro+ (prod_008) was also a strong candidate due to its 4.6 rating and features, but the sheer volume of positive reviews and brand reputation for the JBL Flip 5 made it the most trustworthy option for a purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_438.json",
+    "offer_set_id": "bluetooth_speakers_438",
+    "timestamp": 1775604332,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

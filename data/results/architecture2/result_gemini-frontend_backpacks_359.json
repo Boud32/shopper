@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 359,
+    "timestamp": 1776098609,
+    "source_batch": "data/offer_sets/backpacks/backpacks_359.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_028",
+      "prod_backpacks_160",
+      "prod_backpacks_089",
+      "prod_backpacks_182",
+      "prod_backpacks_071"
+    ],
+    "final_choice": "prod_backpacks_028",
+    "reasoning": "The Air Force Lockheed SR-71 Blackbird CIA Vietnam Sku stands out for its high rating and balanced price-to-feature ratio."
+  }
+}

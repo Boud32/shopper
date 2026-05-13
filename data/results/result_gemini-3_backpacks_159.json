@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_038",
+      "prod_backpacks_171",
+      "prod_backpacks_132",
+      "prod_backpacks_199",
+      "prod_backpacks_159"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was primarily looking for a versatile everyday backpack that could work for commuting and light outdoor activities. Within my consideration set, the Maxpedition (prod_backpacks_038) offered the best build quality, but its 'concealed carry' and tactical focus make it a bit heavier and more niche than what I need for a general lifestyle bag. The Explorer Tactical (prod_backpacks_171) is a bit too focused on hunting aesthetics, and the hydration packs (prod_backpacks_132) and dry bags (prod_backpacks_199) are too specialized for my daily needs. The NICGID sling (prod_backpacks_159) is useful but doesn't have the capacity I am looking for in a full backpack. Given the product feed contains many items that are not actually backpacks (like stoves, hammocks, and towels), the actual selection of standard backpacks was limited, and nothing quite hit the right balance of style, features, and price for me today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_159.json",
+    "offer_set_id": "backpacks_159",
+    "timestamp": 1775593747,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

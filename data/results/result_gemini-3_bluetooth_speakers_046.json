@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_131",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_084"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The product feed was significantly cluttered with accessories like travel cases and replacement chargers rather than actual speakers, which made the browsing experience less than ideal. Within the actual speakers, there was a stark divide between very expensive premium options like the JBL Pulse 4 ($249) and the Sonos set ($378), and budget-friendly options that had mixed reviews regarding sound fidelity or battery longevity. While the JBL Go 3 and Bose SoundLink Color are reliable choices, they didn't quite hit the desired sweet spot of features and price I was looking for today. Given the high percentage of non-speaker items and the lack of a compelling mid-range option that truly stood out, I've decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_046.json",
+    "offer_set_id": "bluetooth_speakers_046",
+    "timestamp": 1775591269,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

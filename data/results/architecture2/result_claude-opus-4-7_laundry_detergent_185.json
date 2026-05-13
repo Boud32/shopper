@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 35,
+    "timestamp": 1776650226,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_185.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_242",
+      "prod_laundry_detergent_116",
+      "prod_laundry_detergent_034",
+      "prod_laundry_detergent_117",
+      "prod_laundry_detergent_012"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top five positions are all mediocre (sheets with ~700 reviews, Soulink small, Boulder 6 reviews, soap nuts, 4.2\u2605 Code Blue); strong options are buried at position 9+."
+  }
+}

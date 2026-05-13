@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_001",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_151",
+      "prod_bluetooth_speakers_168",
+      "prod_bluetooth_speakers_040",
+      "prod_bluetooth_speakers_193"
+    ],
+    "final_choice": "prod_bluetooth_speakers_013",
+    "reasoning_trace": "The search was focused on high-quality portable speakers with strong ratings and water resistance for versatile use. The consideration set included popular budget options like MusiBaby (prod_151) and NOTABRICK (prod_168), as well as a rugged Altec Lansing (prod_040). The JBL Charge 4 (prod_013), although renewed, was selected as the final choice because it offers the best combination of sound performance, build quality, and brand reputation at a highly competitive price point compared to buying new or opting for lower-tier brands."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_111.json",
+    "offer_set_id": "bluetooth_speakers_111",
+    "timestamp": 1775593545,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

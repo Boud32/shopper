@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_simulation",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_072",
+      "prod_bluetooth_speakers_049"
+    ],
+    "final_choice": "prod_bluetooth_speakers_166",
+    "reasoning_trace": "I evaluated several actual speakers in the feed, ignoring the storage cases. The consideration set includes two highly-rated JBL models, a budget-friendly Raymate speaker with good specs, a 'Best Seller' rugged option from HyperGear, and a unique bamboo retro speaker from INSMY. I ultimately decided on the JBL FLIP 5 because it has an exceptional rating (4.8) from a massive number of reviews (over 68,000), making it the most reliable choice for high-quality sound and durability in a portable format."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_197.json",
+    "offer_set_id": "bluetooth_speakers_197",
+    "timestamp": 1775594875,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

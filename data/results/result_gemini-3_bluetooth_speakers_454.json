@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_131",
+      "prod_bluetooth_speakers_048"
+    ],
+    "final_choice": "prod_bluetooth_speakers_071",
+    "reasoning_trace": "I evaluated the selection focusing on a balance of brand reliability, sound performance, and portability. The Bose SoundLink Color (prod_bluetooth_speakers_071) emerged as the most attractive option because it has a massive volume of positive social proof (9,632 reviews) and maintains a 4.6 rating. At $99.99, it represents a reasonable price point for a high-end brand compared to the Audio Pro or the more expensive JBL Pulse. While the DOSS SoundBox Pro+ was a strong contender for its value and bass, the reputation and compact form factor of the Bose made it the final choice. The Sony RA3000 was excluded because of potential software issues mentioned in reviews, and the cheaper Comiso speaker, while well-rated, lacked the premium audio assurance I was looking for."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_454.json",
+    "offer_set_id": "bluetooth_speakers_454",
+    "timestamp": 1775604584,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

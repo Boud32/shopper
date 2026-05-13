@@ -1,0 +1,23 @@
+{
+  "experiment_id": "toothbrush_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_061",
+      "prod_toothbrushes_041",
+      "prod_toothbrushes_081",
+      "prod_toothbrushes_062",
+      "prod_toothbrushes_197"
+    ],
+    "final_choice": "prod_toothbrushes_061",
+    "reasoning_trace": "Selected Spinbrush PRO CLEAN Battery Powered Toothbrush as the final choice due to its high rating (4.7), large number of reviews (24480), and affordable price ($7.88). The consideration set includes a mix of manual and electric toothbrushes with high ratings and reasonable prices."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_266.json",
+    "offer_set_id": "toothbrushes_266",
+    "timestamp": 1772654776,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "running_shoes",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_140",
+      "prod_running_shoes_015",
+      "prod_running_shoes_144",
+      "prod_running_shoes_171",
+      "prod_running_shoes_061"
+    ],
+    "final_choice": "prod_running_shoes_144",
+    "reasoning_trace": "The final choice is based on the overall rating, price, and reviews of the products. The consideration set includes a mix of high-rated products from well-known brands such as New Balance, Adidas, and ASICS. The final choice, prod_running_shoes_144, is the Adidas Women's Adistar Boost W ESM Running Shoe, which has a high rating of 4.1 and a reasonable price of $62.68. The reviews for this product are overwhelmingly positive, with many customers praising its comfort, support, and performance."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/running_shoes/running_shoes_022.json",
+    "offer_set_id": "running_shoes_022",
+    "timestamp": 1772641572,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "extended",
+    "k": 5
+  }
+}

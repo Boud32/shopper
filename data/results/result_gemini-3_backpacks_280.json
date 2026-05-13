@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_132",
+      "prod_backpacks_064",
+      "prod_backpacks_159",
+      "prod_backpacks_089",
+      "prod_backpacks_153"
+    ],
+    "final_choice": "prod_backpacks_132",
+    "reasoning_trace": "I evaluated several bags with varying functions, including tactical, hydration, sling, and cooler backpacks. The Mubasel Gear Hydration Pack (prod_backpacks_132) stood out as the best value and most reliable option due to its exceptionally high review count (over 10,000) and high rating of 4.6. Users specifically praised its ability to keep water cool and its comfort during activity. While the Warriors Product backpack had a 5.0 rating, its review volume was too low to be fully certain of its quality. The Mubasel pack offers the best balance of social proof and functional utility for outdoor use."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_280.json",
+    "offer_set_id": "backpacks_280",
+    "timestamp": 1775596323,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

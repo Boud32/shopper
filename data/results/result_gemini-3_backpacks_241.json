@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_006",
+      "prod_backpacks_050",
+      "prod_backpacks_160",
+      "prod_backpacks_072",
+      "prod_backpacks_128"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was looking for a versatile and durable everyday backpack. I evaluated the HIKPRO 20L packable bag, the G4Free tactical backpack, the FISKINER fishing backpack, the Rawlings baseball equipment bag, and the adidas mesh backpack. While the HIKPRO is a great value, it is designed for light packable use rather than heavy daily duty. The G4Free tactical bag has some reviews indicating durability issues with the zippers and straps after a few months. The Rawlings and FISKINER bags are too specialized for specific sports, and the adidas mesh bag doesn't offer the privacy or water resistance I need. None of these options perfectly match my requirements for a standard, high-quality daily-use backpack."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_241.json",
+    "offer_set_id": "backpacks_241",
+    "timestamp": 1775595662,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

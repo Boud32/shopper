@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 48,
+    "timestamp": 1776689267,
+    "source_batch": "data/offer_sets/conditioner/conditioner_198.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_027",
+      "prod_conditioner_097",
+      "prod_conditioner_290",
+      "prod_conditioner_280",
+      "prod_conditioner_040"
+    ],
+    "final_choice": "prod_conditioner_027",
+    "reasoning": "L'Oreal Paris Elvive Color Vibrancy at $17.87 with 4.6\u2605/2586 reviews at position 8 is the best prominently-placed mainstream option with strong social proof."
+  }
+}

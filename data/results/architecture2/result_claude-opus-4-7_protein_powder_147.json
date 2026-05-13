@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 47,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_147.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_065",
+      "prod_protein_powder_172",
+      "prod_protein_powder_191",
+      "prod_protein_powder_130",
+      "prod_protein_powder_038"
+    ],
+    "final_choice": "prod_protein_powder_065",
+    "reasoning": "Animal Whey Isolate at $52.95 with 4.6\u2605 and 4,164 reviews for 4 pounds (64oz) offers strong value for a well-reviewed whey isolate."
+  }
+}

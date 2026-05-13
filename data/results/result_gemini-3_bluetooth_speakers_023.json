@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_v1",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_192"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I began my search looking for a reliable, high-quality portable speaker. I narrowed my options down to two market leaders (JBL Flip 5 and Charge 5), a premium audiophile option (Bang & Olufsen), and two highly-rated budget alternatives (DOSS and EWA). While the JBL Flip 5 is a proven choice with a 4.8 rating, I found myself torn between its compact size and the superior bass and power-bank functionality of the Charge 5. The Bang & Olufsen A1 is very attractive for its design and sound quality, but the $279 price tag is a significant jump from the JBL options. Although the EWA and DOSS speakers represent excellent value, I'm concerned about their long-term durability compared to the more established brands. Ultimately, I couldn't justify the high cost of the premium model or decide between the mid-range JBLs, so I've decided to hold off on a purchase today until I can compare the JBL models in person."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_023.json",
+    "offer_set_id": "bluetooth_speakers_023",
+    "timestamp": 1775590904,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

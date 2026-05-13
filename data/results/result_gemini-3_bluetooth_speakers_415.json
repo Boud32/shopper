@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_129"
+    ],
+    "final_choice": "prod_bluetooth_speakers_120",
+    "reasoning_trace": "I evaluated several high-performing speakers across different price points and form factors. The JBL Charge 5 (prod_bluetooth_speakers_120) stood out as the best overall value due to its high rating (4.8), impressive 20-hour battery life, and the added utility of a powerbank function. While the Bang & Olufsen A1 (prod_bluetooth_speakers_195) offers premium audiophile quality, it is nearly double the price. The smaller JBL models (Clip 3 and Go 3) are excellent for ultra-portability, but they don't match the Charge 5's sound depth or longevity. The BOGASING M4 was considered for its 40W power, but the Charge 5's proven track record and driver configuration felt more reliable for a long-term purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_415.json",
+    "offer_set_id": "bluetooth_speakers_415",
+    "timestamp": 1775603984,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

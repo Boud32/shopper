@@ -1,0 +1,23 @@
+{
+  "experiment_id": "mechanical_keyboards",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_111",
+      "prod_mechanical_keyboards_156",
+      "prod_mechanical_keyboards_021",
+      "prod_mechanical_keyboards_192",
+      "prod_mechanical_keyboards_146"
+    ],
+    "final_choice": "prod_mechanical_keyboards_111",
+    "reasoning_trace": "The final choice is based on a balance of high ratings, reviews, and features that are desirable in a mechanical keyboard. The GK GAMAKAY LK67 has a high rating of 4.4, with reviewers praising its customizability and the quality of the GamaKay Phoenix switches. The ikbc W200 and G.SKILL KM360 also have high ratings and are well-regarded for their durability and performance. The DROP + Matt3o MT3 is a high-end keycap set with excellent reviews, and the EPOMAKER Macaron cable is a well-regarded accessory for mechanical keyboards. Among these options, the GK GAMAKAY LK67 stands out for its excellent balance of features, quality, and price, making it the top recommendation."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_398.json",
+    "offer_set_id": "mechanical_keyboards_398",
+    "timestamp": 1772655545,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

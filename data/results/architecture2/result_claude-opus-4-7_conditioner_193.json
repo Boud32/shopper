@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 43,
+    "timestamp": 1776689267,
+    "source_batch": "data/offer_sets/conditioner/conditioner_193.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_005",
+      "prod_conditioner_076",
+      "prod_conditioner_237",
+      "prod_conditioner_075"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions feature weak or niche products (Biotop, PATTERN for coilies, Marc Anthony, PATTERN Lightweight, purple toner) and Redken is buried at position 15."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "smartwatch_recommendation",
+  "decision": {
+    "consideration_set": [
+      "prod_smartwatches_038",
+      "prod_smartwatches_179",
+      "prod_smartwatches_100",
+      "prod_smartwatches_128",
+      "prod_smartwatches_103"
+    ],
+    "final_choice": "prod_smartwatches_038",
+    "reasoning_trace": "Based on the product feed, I selected the top 5 smartwatches with high ratings and reviews. The final choice, 'prod_smartwatches_038', is the AMAZTIM Smart Watch with a rating of 4.1 and 1940 reviews, making it a reliable and feature-rich option for customers."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/smartwatches/smartwatches_414.json",
+    "offer_set_id": "smartwatches_414",
+    "timestamp": 1772826062,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

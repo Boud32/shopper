@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_049"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The evaluation included a wide variety of speakers, from high-end audiophile brands like Bang & Olufsen (prod_bluetooth_speakers_195) and Sony (prod_bluetooth_speakers_144) to value-oriented outdoor units like Comiso (prod_bluetooth_speakers_173). While the Bang & Olufsen unit is highly rated, the high price tag was a deterrent. The mid-range JBL Flip 5 (prod_bluetooth_speakers_001) is a renewed product, and customer reviews mentioned potential battery reliability issues after six months. Similarly, many of the budget models (Zealot, Comiso) had reviews indicating longevity problems or blown speakers shortly after purchase. Due to concerns about reliability in the mid-range refurbished market and the high entry cost for premium models, I decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_270.json",
+    "offer_set_id": "bluetooth_speakers_270",
+    "timestamp": 1775596190,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

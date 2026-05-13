@@ -1,0 +1,23 @@
+{
+  "experiment_id": "backpack_shopping_session_23",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_003",
+      "prod_backpacks_196",
+      "prod_backpacks_099",
+      "prod_backpacks_194",
+      "prod_backpacks_167"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I am in the market for a high-quality, durable backpack suitable for multi-day trekking. The Osprey Exos 58 (prod_backpacks_003) is the only serious technical pack in the set, but at $241, I am discouraged by reviews mentioning a 'flimsy' and 'slippery' suspension compared to previous versions. The budget options, such as the Lunidry (prod_backpacks_196) and ZOMAKE (prod_backpacks_099), offer good value for light day trips but have multiple reviews highlighting durability issues like leaking water bladders and separating fabric. The other items are too specialized, like the FORICH cooler backpack (prod_backpacks_194) or the tactical sling (prod_backpacks_167). Given the high cost of the top-tier option and the quality concerns of the budget alternatives, I have decided to continue my search elsewhere."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_029.json",
+    "offer_set_id": "backpacks_029",
+    "timestamp": 1774978804,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

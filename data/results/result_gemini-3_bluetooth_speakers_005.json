@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_bt_speakers",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_045",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_001"
+    ],
+    "final_choice": "prod_bluetooth_speakers_129",
+    "reasoning_trace": "I initially filtered out the various accessories such as travel cases, silicone skins, and wall shelves that populated the results, as I am looking for a speaker rather than add-ons. My consideration set focused on highly-rated, portable speakers with water resistance. The JBL Go 3 was my final choice because it offers an excellent balance of brand reliability, a high 4.7-star rating, and a compact design at a competitive price point of $39.99. While the JBL Flip 5 is a more powerful speaker, its status as a 'Renewed' product made the brand-new Go 3 more appealing for long-term battery health. The Raymate and comiso options were considered for their higher wattage, but the JBL Pro Sound reputation carried more weight in my decision for clear audio quality."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_005.json",
+    "offer_set_id": "bluetooth_speakers_005",
+    "timestamp": 1775590613,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

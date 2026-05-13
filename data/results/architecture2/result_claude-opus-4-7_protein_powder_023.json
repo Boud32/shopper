@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "",
+    "architecture": "frontend",
+    "session_position": 23,
+    "timestamp": 1776377218,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_023.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_037",
+      "prod_protein_powder_053",
+      "prod_protein_powder_172",
+      "prod_protein_powder_155",
+      "prod_protein_powder_191"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "This set is heavy on collagen and specialty products without a compelling mainstream whey at reasonable price \u2014 top options are pricey or niche."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 13,
+    "timestamp": 1776640082,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_063.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_185",
+      "prod_protein_powder_056",
+      "prod_protein_powder_059",
+      "prod_protein_powder_034",
+      "prod_protein_powder_196"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions dominated by small brands with thin review counts; nothing at the top of the page is clearly better than alternatives in a fresh search."
+  }
+}

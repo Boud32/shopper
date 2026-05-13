@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_selection_28",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_132",
+      "prod_backpacks_082",
+      "prod_backpacks_112",
+      "prod_backpacks_156",
+      "prod_backpacks_030"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The search results for 'Backpacks' were highly cluttered with non-backpack items such as camping stoves, tents, sleeping pillows, and knives, which made for a poor shopping experience. Within the actual backpacks found, most were too specialized for my needs, including hydration-specific packs for hiking and a specialized fishing tackle backpack. The more general-purpose options like the Messi-themed and NFL-branded bags were tied to specific fandoms rather than offering a clean, professional aesthetic for daily use. Because no product struck the right balance between general utility, durability, and style, I decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_080.json",
+    "offer_set_id": "backpacks_080",
+    "timestamp": 1775590973,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

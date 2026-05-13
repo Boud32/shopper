@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_shopping_02",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_002",
+      "prod_bluetooth_speakers_047",
+      "prod_bluetooth_speakers_072",
+      "prod_bluetooth_speakers_084"
+    ],
+    "final_choice": "prod_bluetooth_speakers_166",
+    "reasoning_trace": "I evaluated the product feed for high-performing speakers with proven track records. The consideration set includes a mix of premium brand-name speakers (JBL Flip 5, Philips), a high-quality renewed option (JBL Clip 3), a top-selling budget model (LENRUE), and a rugged outdoor choice (HyperGear). The JBL Flip 5 stands out significantly due to its 4.8 rating across more than 68,000 reviews, indicating exceptional reliability and sound quality for its price point. While the Audio Pro models offer higher fidelity, their price and mixed reviews on connectivity made them less attractive than the industry-standard JBL for a general portable speaker purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_404.json",
+    "offer_set_id": "bluetooth_speakers_404",
+    "timestamp": 1775603831,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

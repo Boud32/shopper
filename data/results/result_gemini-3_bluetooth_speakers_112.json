@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_purchase",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_002",
+      "prod_bluetooth_speakers_131",
+      "prod_bluetooth_speakers_168",
+      "prod_bluetooth_speakers_144"
+    ],
+    "final_choice": "prod_bluetooth_speakers_181",
+    "reasoning_trace": "I evaluated several Bluetooth speakers across different price points and use cases. The consideration set included a mix of portable options like the JBL Clip 3 and NOTABRICK, premium home/light-show speakers such as the Sony RA3000 and JBL Pulse 4, and high-performance rugged options like the Sony XB43. I decided to purchase the Sony SRS-XB43 because it offers the best balance of features, including an exceptional 24-hour battery life, IP67 durability rating, and a consistently high consumer rating of 4.7. While the JBL Pulse 4 is visually impressive, the Sony XB43 provides more practical performance features for versatile use at a more competitive price point."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_112.json",
+    "offer_set_id": "bluetooth_speakers_112",
+    "timestamp": 1775593557,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

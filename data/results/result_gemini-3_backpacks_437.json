@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_043",
+      "prod_backpacks_003",
+      "prod_backpacks_041",
+      "prod_backpacks_173",
+      "prod_backpacks_023"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The product feed for 'Backpacks' is heavily diluted with irrelevant items such as hand warmers, camping stoves, sleeping bag liners, and towels, which reduces confidence in the search results. Among the actual backpacks considered, the high-end Osprey Exos 58 (prod_backpacks_003) and the Granite Gear Virga 2 (prod_backpacks_041) have concerning recent reviews regarding durability and structural integrity, specifically with the suspension and straps. The KAILAS daypack (prod_backpacks_043) shows promise but has a limited number of reviews to verify its long-term reliability. The ZOMAKE (prod_backpacks_173) is a ultra-light packable daypack rather than a full-featured backpack. Due to the high percentage of irrelevant results and quality concerns for the primary backpack options, no purchase was made during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_437.json",
+    "offer_set_id": "backpacks_437",
+    "timestamp": 1775598934,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

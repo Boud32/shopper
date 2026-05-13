@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_184",
+      "prod_backpacks_006",
+      "prod_backpacks_096",
+      "prod_backpacks_043",
+      "prod_backpacks_122"
+    ],
+    "final_choice": "prod_backpacks_006",
+    "reasoning_trace": "I evaluated several different types of backpacks: a budget-friendly laptop bag, a lightweight packable daypack, a premium tactical bag, a technical hiking pack, and a sports-specific bag. The HIKPRO 20L (prod_backpacks_006) was the most compelling option because it has an exceptionally high rating (4.7) from a large number of reviewers (over 2,800), and its price point of $17.99 makes it an excellent value for a durable, water-resistant travel and hiking daypack. While the KAILAS and Maxpedition bags are also high quality, the HIKPRO offers the best utility-to-price ratio for general use."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_392.json",
+    "offer_set_id": "backpacks_392",
+    "timestamp": 1775598160,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

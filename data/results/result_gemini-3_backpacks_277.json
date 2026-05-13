@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_session_1",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_055",
+      "prod_backpacks_171",
+      "prod_backpacks_169",
+      "prod_backpacks_168",
+      "prod_backpacks_048"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The search results for 'Backpacks' were highly cluttered with non-backpack items such as camping food, stoves, and tent stakes. Within the actual backpack options, the selection was mostly specialized (disc golf, hydration vests, or coolers) rather than general-purpose. The only standard day pack, the Explorer Tactical, is heavily camo-styled, which doesn't fit my current needs for a versatile everyday bag. Given the lack of variety in standard designs and the prevalence of unrelated camping accessories, I have decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_277.json",
+    "offer_set_id": "backpacks_277",
+    "timestamp": 1775596282,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

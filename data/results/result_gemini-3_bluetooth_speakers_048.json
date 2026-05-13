@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_183"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated a mix of premium brands (JBL, Bose) and highly-rated budget alternatives (DOSS, INSMY), as well as a wearable option (Monster). The JBL Charge 5 and Bose SoundLink Color are top-tier performers but represent a significant investment at $100-$150. While the INSMY and DOSS speakers offer excellent value and high user ratings, I found the mixed feedback regarding the long-term battery reliability and bass distortion at high volumes concerning. The Monster neckband speaker is an interesting form factor, but I prefer a traditional portable design. Ultimately, I did not find a product that perfectly balanced the high-fidelity sound I am looking for with a price point that felt justifiable for these specific models, so I have decided not to purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_048.json",
+    "offer_set_id": "bluetooth_speakers_048",
+    "timestamp": 1775591308,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

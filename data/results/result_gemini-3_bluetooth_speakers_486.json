@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_bt_speakers_25",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_003",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_150"
+    ],
+    "final_choice": null,
+    "reasoning_trace": "The consumer evaluated a mix of premium brand-name speakers and highly-rated budget alternatives. The Bose SoundLink Color (prod_bluetooth_speakers_071) was a strong contender but felt somewhat outdated compared to newer models. The Ultimate Ears MEGABLAST (prod_bluetooth_speakers_003) offered great sound but at a high price point ($245) with mixed reviews regarding its Alexa functionality. The budget options like INSMY (prod_bluetooth_speakers_128) and Comiso (prod_bluetooth_speakers_173) had impressive ratings, but critical reviews mentioning 'dead on arrival' units and connectivity issues created enough doubt for the customer to defer the purchase for now. No single product perfectly balanced reliability, modern features, and value."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_486.json",
+    "offer_set_id": "bluetooth_speakers_486",
+    "timestamp": 1775605068,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

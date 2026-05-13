@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_session_69",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_045"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The shopper identified a diverse consideration set including premium models from Sony and Bose, as well as high-value options from DOSS and BOGASING. However, the browsing experience was significantly cluttered with non-speaker items such as charging cables, carrying cases, and protective covers, which accounted for a large portion of the feed. Although the Sony SRS-XB43 and DOSS SoundBox Pro+ are highly-rated products, the shopper ultimately decided that the current selection didn't provide enough variety in mid-range form factors to justify a purchase today, choosing instead to wait for a more curated selection of actual hardware units."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_275.json",
+    "offer_set_id": "bluetooth_speakers_275",
+    "timestamp": 1775596301,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

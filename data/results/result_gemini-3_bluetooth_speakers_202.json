@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_192",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_002",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_037"
+    ],
+    "final_choice": "prod_bluetooth_speakers_192",
+    "reasoning_trace": "In this shopping session, I am looking for a reliable, portable Bluetooth speaker for travel. My consideration set includes a mix of ultra-portable mini speakers (EWA, JBL), a mid-sized waterproof option (EDUPLINK), a higher-wattage portable (Raymate), and a premium 2.1 desktop system (Edifier) for comparison. While the Edifier looks like an incredible audio setup, it's not portable enough for my needs. Between the portable options, the EWA A106 Pro stands out significantly due to its massive review count (nearly 40,000) and high rating, suggesting extreme reliability for its size. At under $20, it is an excellent value for a secondary travel speaker, especially compared to the renewed JBL Clip 3 which is more than double the price."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_202.json",
+    "offer_set_id": "bluetooth_speakers_202",
+    "timestamp": 1775594953,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

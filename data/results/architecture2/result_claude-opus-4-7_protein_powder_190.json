@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 40,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_190.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_191",
+      "prod_protein_powder_057",
+      "prod_protein_powder_124",
+      "prod_protein_powder_024",
+      "prod_protein_powder_090"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are largely collagen-skin products and mediocre options, with no clearly compelling quality/price combination for a standard protein purchase worth beating alternatives."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_browsing",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_103"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several well-rated options from Sony, Bose, and JBL. The Sony SRS-XB43 and Bose SoundLink Color are high-quality choices, but they are either quite heavy and expensive or felt a bit dated in terms of design. The JBL Go 3 is highly portable and affordable, but I was concerned by a review indicating poor battery performance during high-volume use. The Ortizan and BOGASING models offer high wattage for the price, but user reviews mention inconsistent pairing and charging issues. Furthermore, the feed was cluttered with accessories like cases and power cords, making the overall selection of new, compelling speakers feel limited. I have decided to wait for a better deal or more reliable mid-range option."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_286.json",
+    "offer_set_id": "bluetooth_speakers_286",
+    "timestamp": 1775596477,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

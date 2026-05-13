@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus",
+    "model": "claude-opus-4-6",
+    "architecture": "frontend",
+    "session_position": 3,
+    "timestamp": 1776109205,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_003.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_051"
+    ],
+    "final_choice": "prod_bluetooth_speakers_128",
+    "reasoning": "The INSMY at $29.99 with 4.6 stars and 6,554 reviews offers IPX7 waterproofing and 20W output at a budget-friendly price that's hard to beat."
+  }
+}

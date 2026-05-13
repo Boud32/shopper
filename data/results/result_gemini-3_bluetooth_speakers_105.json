@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_037",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_061"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several high-rated options across different price points, but encountered specific deal-breakers in the reviews for each. The JBL Charge 5 (prod_bluetooth_speakers_120) is highly rated but reviews pointed out a lack of backward compatibility with older JBL speakers (Connect+), which is a requirement for my existing setup. The Harman Kardon Onyx Studio 6 (prod_bluetooth_speakers_116) had concerning reviews regarding the quality of units received through non-primary buy options. Both the DOSS Traveler (prod_bluetooth_speakers_061) and BOGASING M4 (prod_bluetooth_speakers_174) had reports of durability issues, specifically units failing to charge or dying within a few months. Finally, while the Edifier S350DB (prod_bluetooth_speakers_037) offers superior sound, its $399 price tag and lack of portability make it unsuitable for my current need for a versatile outdoor-capable speaker. Given these inconsistencies and compatibility issues, I have decided to postpone my purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_105.json",
+    "offer_set_id": "bluetooth_speakers_105",
+    "timestamp": 1775593466,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

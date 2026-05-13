@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 39,
+    "timestamp": 1776689267,
+    "source_batch": "data/offer_sets/conditioner/conditioner_189.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_005",
+      "prod_conditioner_280",
+      "prod_conditioner_183",
+      "prod_conditioner_256",
+      "prod_conditioner_071"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by weak/niche options (HASK with only 156 reviews, purple toner, Nizoral with 30 reviews, 5\u2605 unknown brand with 2 reviews); the Aussie that could be a buy is buried at position 17."
+  }
+}

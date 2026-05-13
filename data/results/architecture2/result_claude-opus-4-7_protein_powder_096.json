@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 46,
+    "timestamp": 1776640082,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_096.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_006",
+      "prod_protein_powder_060",
+      "prod_protein_powder_063",
+      "prod_protein_powder_027",
+      "prod_protein_powder_145"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak with niche items (beef broth, Gatorade packets), and while good whey options exist deeper, none is so differentiated as to compel a buy."
+  }
+}

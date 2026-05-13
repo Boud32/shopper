@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_034",
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_135",
+      "prod_bluetooth_speakers_007"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was looking for a high-quality home audio solution or a very premium portable speaker. I seriously considered the Sonos One 2-Pack because of its brand reputation, but at $559.99, the reviews mentioning significant app connectivity problems and limitations with streaming sources like YouTube were a major deterrent. I then looked at the Sony SRS-XB43 and JBL Flip 5 as portable alternatives; however, the Sony is quite expensive and bulky for its age, and the JBL Flip 5 is a mono speaker when I was hoping for a stereo or more immersive experience. The aesthetic options like the Rerii wooden speaker had mixed reviews about volume and connection stability. Because the high-end option had functional red flags and the mid-range options didn't quite meet my specific desire for a smart stereo setup, I decided not to purchase anything during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_188.json",
+    "offer_set_id": "bluetooth_speakers_188",
+    "timestamp": 1775594739,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

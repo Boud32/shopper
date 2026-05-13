@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_128",
+      "prod_backpacks_006",
+      "prod_backpacks_096",
+      "prod_backpacks_003",
+      "prod_backpacks_095"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The product feed is heavily saturated with non-backpack items such as camping stoves, inflatable pillows, water bladders, and cooking gear, which clutters the shopping experience. Among the five backpacks selected for consideration, most are highly specialized: the adidas Hermosa is made of mesh, limiting its utility for weather protection; the HIKPRO is a thin, packable daypack rather than a sturdy daily carry; and the Maxpedition and Osprey models are very high-priced niche bags for tactical and long-distance trekking respectively. Finding no versatile, mid-range everyday backpack in this selection, I have decided not to make a purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_459.json",
+    "offer_set_id": "backpacks_459",
+    "timestamp": 1775599317,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

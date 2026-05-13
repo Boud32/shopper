@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 27,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_177.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_014",
+      "prod_protein_powder_109",
+      "prod_protein_powder_172",
+      "prod_protein_powder_088",
+      "prod_protein_powder_130"
+    ],
+    "final_choice": "prod_protein_powder_014",
+    "reasoning": "PEScience Select at position 6 with 4.5 stars, 10,521 reviews at $69.99 for 55 servings is a well-validated low-carb protein and the best-positioned quality option in a weak-topped set."
+  }
+}

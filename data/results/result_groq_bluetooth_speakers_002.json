@@ -1,0 +1,23 @@
+{
+  "experiment_id": "Bluetooth_Speakers",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_113",
+      "prod_bluetooth_speakers_190",
+      "prod_bluetooth_speakers_153"
+    ],
+    "final_choice": "prod_bluetooth_speakers_147",
+    "reasoning_trace": "Based on the product feed, the consideration set was selected by filtering for products with high ratings (above 4.0), a reasonable number of reviews (above 100), and a competitive price (below $150). The final choice, prod_bluetooth_speakers_147 (JBL Clip 3), was selected due to its exceptional rating (4.7), a large number of reviews (68881), and a competitive price ($54.95), indicating a high level of customer satisfaction and value for the price."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_002.json",
+    "offer_set_id": "bluetooth_speakers_002",
+    "timestamp": 1774973618,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

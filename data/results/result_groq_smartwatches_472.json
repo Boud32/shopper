@@ -1,0 +1,23 @@
+{
+  "experiment_id": "smartwatch_recommendation",
+  "decision": {
+    "consideration_set": [
+      "prod_smartwatches_182",
+      "prod_smartwatches_019",
+      "prod_smartwatches_139",
+      "prod_smartwatches_154",
+      "prod_smartwatches_198"
+    ],
+    "final_choice": "prod_smartwatches_182",
+    "reasoning_trace": "The final choice is based on a consideration set of 5 products that best meet the customer's needs for a smartwatch. The products were selected based on their high ratings, review counts, and features such as GPS, heart rate monitoring, and water resistance. The Samsung Galaxy Watch 3 (prod_smartwatches_182) is the final choice due to its high rating of 4.5, large review count of 4729, and advanced health monitoring features."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/smartwatches/smartwatches_472.json",
+    "offer_set_id": "smartwatches_472",
+    "timestamp": 1772826198,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

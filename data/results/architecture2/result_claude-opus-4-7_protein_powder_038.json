@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "",
+    "architecture": "frontend",
+    "session_position": 38,
+    "timestamp": 1776377218,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_038.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_053",
+      "prod_protein_powder_172",
+      "prod_protein_powder_124",
+      "prod_protein_powder_090",
+      "prod_protein_powder_173"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The set is dominated by weight gainers, pricey options, or collagen \u2014 no standout whey at compelling value to commit to a purchase."
+  }
+}

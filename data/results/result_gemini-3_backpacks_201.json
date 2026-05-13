@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_backpacks_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_078",
+      "prod_backpacks_043",
+      "prod_backpacks_159",
+      "prod_backpacks_199",
+      "prod_backpacks_160"
+    ],
+    "final_choice": "prod_backpacks_078",
+    "reasoning_trace": "Out of the products presented, many were not actually backpacks (stoves, towels, umbrellas). Within the actual backpack category, the Gelindo 18L Hiking Hydration Backpack (prod_backpacks_078) stood out due to its high volume of positive reviews (1,560 reviews with a 4.7 rating) and competitive price point of $31.49. The KAILAS 28L (prod_backpacks_043) was a strong runner-up for hiking but was significantly more expensive. The other options in the consideration set were either niche (fishing or dry bags) or smaller sling designs, making the Gelindo the most versatile and well-reviewed choice for general outdoor use."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_201.json",
+    "offer_set_id": "backpacks_201",
+    "timestamp": 1775594338,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

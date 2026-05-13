@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 17,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_067.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_225",
+      "prod_laundry_detergent_077",
+      "prod_laundry_detergent_257",
+      "prod_laundry_detergent_116",
+      "prod_laundry_detergent_030"
+    ],
+    "final_choice": "prod_laundry_detergent_225",
+    "reasoning": "Mrs. Meyer's biodegradable at $16.98 with 4.7/16,171 reviews \u2014 visible, reasonably priced, solidly-supported option."
+  }
+}

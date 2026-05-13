@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping_02",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_174"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was browsing for a high-quality portable speaker for my upcoming trips. My consideration set included the top-tier brands like Bose, JBL, and Harman Kardon. However, the Harman Kardon Onyx Studio 6 is too bulky for travel, and the Bose SoundLink Color is an older model I've seen before. I considered the JBL Charge 4, but since it is a renewed product, I am concerned about the long-term battery health. The JBL Clip 3 is highly rated but lacks the full sound profile I am looking for. Because the product feed was heavily cluttered with non-speaker items like replacement batteries and travel cases, and I didn't find the specific current-gen mid-sized speaker I wanted, I've decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_028.json",
+    "offer_set_id": "bluetooth_speakers_028",
+    "timestamp": 1775591660,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

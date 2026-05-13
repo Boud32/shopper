@@ -1,0 +1,23 @@
+{
+  "experiment_id": "realistic_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_131",
+      "prod_bluetooth_speakers_177",
+      "prod_bluetooth_speakers_020",
+      "prod_bluetooth_speakers_045"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The product selection contains a high ratio of accessories like charging cables, cases, and wall shelves rather than standalone speakers. Of the speakers in the consideration set, the JBL Flip 5 is a renewed product which some reviews suggest has battery longevity issues. The JBL Pulse 4 is visually impressive but expensive at $249.90, especially when the audio performance is comparable to cheaper models. The budget options like the Comiso and Altec Lansing are decent but lack the sound fidelity I'm looking for in a primary Bluetooth speaker. Overall, nothing in this set perfectly balances price, reliability, and audio performance, so I'm opting not to purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_195.json",
+    "offer_set_id": "bluetooth_speakers_195",
+    "timestamp": 1775594853,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

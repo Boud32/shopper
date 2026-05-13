@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_072"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The consumer was looking for a high-quality, reliable portable speaker but found several issues in the consideration set. The premium Bang & Olufsen A1 (prod_bluetooth_speakers_195) was priced significantly higher than expected at $279. The Harman Kardon Onyx 6 (prod_bluetooth_speakers_116) had a prominent negative review regarding unit quality and shipping. The Sony SRS-RA3000 (prod_bluetooth_speakers_144) was criticized for its poor companion app, which is a dealbreaker for a smart speaker. The budget options like EDUPLINK and HyperGear, while well-rated, felt insufficient for a shopper initially considering premium brands. Given that nearly half the product feed consisted of accessories like cables and hard cases rather than actual speakers, the shopper felt the selection was limited and opted to check other retailers for a better range of mid-to-high-tier portable options."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_319.json",
+    "offer_set_id": "bluetooth_speakers_319",
+    "timestamp": 1775597029,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

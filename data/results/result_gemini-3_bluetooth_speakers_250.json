@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_browsing",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_040"
+    ],
+    "final_choice": "prod_bluetooth_speakers_071",
+    "reasoning_trace": "I filtered through the product feed to identify actual Bluetooth speakers, excluding the many accessories like cases, shelves, and replacement batteries. My consideration set focused on highly-rated speakers across different price points: the premium Harman Kardon Onyx Studio 6, the widely-trusted Bose SoundLink Color, the aesthetically pleasing INSMY Retro, and budget-friendly outdoor options from comiso and Altec Lansing. I ultimately decided to purchase the Bose SoundLink Color (prod_bluetooth_speakers_071). While it is more expensive than the budget options, its massive review count of over 9,600 and a strong 4.6 rating provide significant confidence in the audio quality and longevity compared to the generic brands. It offers a better balance of portability and sound performance for the price than the larger Harman Kardon."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_250.json",
+    "offer_set_id": "bluetooth_speakers_250",
+    "timestamp": 1775595839,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

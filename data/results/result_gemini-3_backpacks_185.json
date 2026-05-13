@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping_sim",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_137",
+      "prod_backpacks_068",
+      "prod_backpacks_164",
+      "prod_backpacks_102",
+      "prod_backpacks_051"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The customer was looking for a high-quality technical backpack for a multi-day trip. While the Mardingtop 70L and High Sierra 70L were strong candidates, the reviews for both noted significant comfort and durability issues (specifically hip support and buckle strength). Furthermore, the product feed was cluttered with items that are not backpacks, such as sleeping pads, tent stakes, and paddleboards, which made the browsing experience frustrating. Ultimately, the customer decided that the specialized options available did not meet their standards for a major gear investment and opted not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_185.json",
+    "offer_set_id": "backpacks_185",
+    "timestamp": 1775594082,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

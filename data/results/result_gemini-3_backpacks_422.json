@@ -1,0 +1,23 @@
+{
+  "experiment_id": "realistic_shopping_session_backpacks",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_096",
+      "prod_backpacks_174",
+      "prod_backpacks_164",
+      "prod_backpacks_023",
+      "prod_backpacks_154"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The search results for 'Backpacks' were heavily cluttered with unrelated products such as paddle boards, camping chairs, towels, and kitchen utensils, which significantly degraded the shopping experience. Within the consideration set, the TOURIT cooler bag and IDRYBAG were too niche for general use, while the Fox Outdoor NATO Rucksack had reports of poor hardware quality. The Maxpedition Falcon-III is a high-quality product but comes at a premium price point ($171) that I was not prepared to spend today. Given the lack of a high-quality, standard everyday backpack in the mid-price range, I decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_422.json",
+    "offer_set_id": "backpacks_422",
+    "timestamp": 1775598631,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

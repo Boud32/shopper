@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_037"
+    ],
+    "final_choice": "prod_bluetooth_speakers_147",
+    "reasoning_trace": "The consideration set was chosen to reflect a variety of use cases: ultra-portable (JBL), high-value mid-range (Raymate), luxury portable (Bang & Olufsen), rugged high-power (Bogasing), and premium home audio (Edifier). I selected the JBL Clip 3 as the final choice because it is a highly proven product with a 4.7 rating and over 68,000 reviews. Its combination of waterproof durability, the integrated carabiner design, and a reasonable price point of $54.95 makes it a more practical and reliable purchase than the more expensive luxury options or the higher-powered but less portable alternatives."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_495.json",
+    "offer_set_id": "bluetooth_speakers_495",
+    "timestamp": 1775605234,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

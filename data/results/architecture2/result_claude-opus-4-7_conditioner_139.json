@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 39,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_139.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_066",
+      "prod_conditioner_280",
+      "prod_conditioner_290",
+      "prod_conditioner_016",
+      "prod_conditioner_026"
+    ],
+    "final_choice": "prod_conditioner_066",
+    "reasoning": "TRUSS Infusion at position 4 with 4.7/624 reviews and $32.94 is a strong salon-grade pick visible above many solid alternatives."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "smartwatch_recommendation",
+  "decision": {
+    "consideration_set": [
+      "prod_smartwatches_023",
+      "prod_smartwatches_061",
+      "prod_smartwatches_156",
+      "prod_smartwatches_154",
+      "prod_smartwatches_199"
+    ],
+    "final_choice": "prod_smartwatches_156",
+    "reasoning_trace": "The final choice, 'prod_smartwatches_156', is a Garmin Venu Sq Music, a GPS smartwatch with advanced health and fitness features, meeting the general requirements for a smartwatch. The consideration set includes this product along with 'prod_smartwatches_023', a budget-friendly option with basic fitness tracking features; 'prod_smartwatches_061', the Polar Vantage V2, a premium multisport smartwatch; 'prod_smartwatches_154', the Garmin Forerunner 245, suited for runners; and 'prod_smartwatches_199', a budget smartwatch with call functionality. These options cater to different needs and budgets, making them suitable for various customer segments."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/smartwatches/smartwatches_447.json",
+    "offer_set_id": "smartwatches_447",
+    "timestamp": 1772826140,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

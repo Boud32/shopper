@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_bt_speakers_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_168"
+    ],
+    "final_choice": "prod_bluetooth_speakers_013",
+    "reasoning_trace": "I am looking for a reliable Bluetooth speaker with good sound quality and battery life. The consideration set focuses on well-rated options from established brands like JBL and highly-rated value brands like DOSS and NOTABRICK. The JBL Go 3 is tempting for portability, but I prefer something with more presence. The JBL Flip 5 and Charge 4 (both renewed) offer excellent performance at a similar price point. I ultimately chose the JBL Charge 4 (Renewed) because it generally provides better bass and a larger battery than the Flip 5, and at $89.95, it fits comfortably within a reasonable budget for a high-performance portable speaker."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_225.json",
+    "offer_set_id": "bluetooth_speakers_225",
+    "timestamp": 1775595467,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

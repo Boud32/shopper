@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 49,
+    "timestamp": 1776691124,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_049.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_111",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_128",
+      "prod_yoga_mats_118",
+      "prod_yoga_mats_078"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top 5 is weak (Hugger Mugger 91 reviews, Bean Products 19, Wai Lana 13, generic alignment, Gaiam Solid); no Gaiam 40/006/66, BalanceFrom, Amazon Basics, or Heathyoga appears on the leading page."
+  }
+}

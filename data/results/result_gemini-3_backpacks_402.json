@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_purchase_sim_04",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_125",
+      "prod_backpacks_137",
+      "prod_backpacks_078",
+      "prod_backpacks_082",
+      "prod_backpacks_002"
+    ],
+    "final_choice": "prod_backpacks_078",
+    "reasoning_trace": "The consideration set focuses on specialized and performance backpacks including technical winter gear (USWE), large capacity hiking packs (Mardingtop), specialized fishing gear (BASSDASH), and utility items (Gelindo, SEEHONOR). The Gelindo 18L Hydration Backpack was selected for the final choice because it offers the highest rating (4.7) at a competitive price point ($31.49). User reviews highlighted its surprising spaciousness, comfort, and the quality of the included hydration bladder, making it a reliable and versatile choice for outdoor enthusiasts compared to higher-priced or niche-specific alternatives."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_402.json",
+    "offer_set_id": "backpacks_402",
+    "timestamp": 1775598317,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

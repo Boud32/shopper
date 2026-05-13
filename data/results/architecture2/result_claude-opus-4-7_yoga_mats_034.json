@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 34,
+    "timestamp": 1776691124,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_034.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_120",
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_066"
+    ],
+    "final_choice": "prod_yoga_mats_180",
+    "reasoning": "Amazon Basics at position 1 with 79,937 reviews at 4.6 stars for $19.99 leads with unmatched validation."
+  }
+}

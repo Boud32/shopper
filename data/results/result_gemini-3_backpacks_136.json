@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_backpacks_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_194",
+      "prod_backpacks_051",
+      "prod_backpacks_048",
+      "prod_backpacks_095",
+      "prod_backpacks_156"
+    ],
+    "final_choice": "prod_backpacks_194",
+    "reasoning_trace": "I evaluated the product feed specifically for functional backpacks, filtering out miscategorized items such as camping chairs, paddle boards, and sleeping pads. My consideration set focused on highly-rated items with significant review volume. The FORICH Insulated Cooler Backpack (prod_backpacks_194) emerged as the best option due to its strong average rating (4.4) across over 2,000 reviews and its designation as an 'Overall Pick.' While the MOSISO sling bag had more reviews, its small size was a common complaint. The FORICH offered a better balance of capacity, utility for work and travel, and proven durability for the price."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_136.json",
+    "offer_set_id": "backpacks_136",
+    "timestamp": 1775593398,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

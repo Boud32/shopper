@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_038",
+      "prod_backpacks_173",
+      "prod_backpacks_096",
+      "prod_backpacks_043",
+      "prod_backpacks_160"
+    ],
+    "final_choice": "prod_backpacks_038",
+    "reasoning_trace": "I am looking for a durable, high-quality backpack for everyday use. Maxpedition is a well-regarded brand for longevity. The Prepared Citizen Classic v2.0 (prod_backpacks_038) stands out because of its high 4.7 rating and its discrete, non-tactical design, which makes it versatile for work and travel. While the ZOMAKE (prod_backpacks_173) is a great budget-friendly packable option, it doesn't offer the protection I need for daily gear. The Falcon-III (prod_backpacks_096) is a superior bag but is more than twice the price, making the Prepared Citizen the most logical purchase for quality and value."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_442.json",
+    "offer_set_id": "backpacks_442",
+    "timestamp": 1775599011,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 22,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_122.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_039",
+      "prod_laundry_detergent_074",
+      "prod_laundry_detergent_048",
+      "prod_laundry_detergent_166",
+      "prod_laundry_detergent_192"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top 9 positions are dominated by weak or niche items (Tyler, low-review Purex, travel-specific, hunter detergent); Tide Powder at position 10 alone doesn't rescue an otherwise uncompelling page."
+  }
+}

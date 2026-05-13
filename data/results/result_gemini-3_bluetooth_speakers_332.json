@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_150"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was looking for a high-performance portable speaker with strong brand reliability. My consideration set included premium options like the Sony SRS-XB43 and Bang & Olufsen Beosound A1, along with the ultra-portable JBL Clip 3 and some highly-rated mid-range options like Raymate and XENEO. While the Sony and B&O speakers have excellent reviews, their price points ($156 and $279 respectively) are higher than I intended to spend today. The JBL Clip 3 is a solid choice but feels a bit dated compared to newer models not present in this feed. The budget-friendly options like Raymate offer great specs for the price, but I am hesitant about the long-term durability of off-brand hardware. Consequently, I decided not to make a purchase during this session and will wait for a price drop on a premium model."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_332.json",
+    "offer_set_id": "bluetooth_speakers_332",
+    "timestamp": 1775597235,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

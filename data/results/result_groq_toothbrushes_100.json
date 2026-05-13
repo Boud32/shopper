@@ -1,0 +1,23 @@
+{
+  "experiment_id": "toothbrush_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_095",
+      "prod_toothbrushes_044",
+      "prod_toothbrushes_008",
+      "prod_toothbrushes_123",
+      "prod_toothbrushes_019"
+    ],
+    "final_choice": "prod_toothbrushes_095",
+    "reasoning_trace": "The final choice, prod_toothbrushes_095, is a toothbrush designed for kids with a timer app and has a high rating of 4.5. It is also relatively affordable at $11.87. The consideration set includes a mix of electric and manual toothbrushes with high ratings and affordable prices. prod_toothbrushes_044 is a high-end electric toothbrush with Bluetooth connectivity, but it is more expensive at $179.99. prod_toothbrushes_008 is a manual toothbrush made of bamboo with soft bristles, priced at $8.76. prod_toothbrushes_123 is a manual toothbrush with tapered V++Max soft bristles, priced at $10.61. prod_toothbrushes_019 is a manual toothbrush with densely packed CUREN filaments, priced at $31.75. The decision is based on a balance of price, features, and customer reviews."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_100.json",
+    "offer_set_id": "toothbrushes_100",
+    "timestamp": 1772653721,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

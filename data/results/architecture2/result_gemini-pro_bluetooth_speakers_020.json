@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "provider": "gemini-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "frontend",
+    "session_position": 20,
+    "timestamp": 1776109656,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_020.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_147"
+    ],
+    "final_choice": "prod_bluetooth_speakers_137",
+    "reasoning": "The Bose SoundLink Color II has a soft-touch silicone exterior and excellent microphone clarity."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "",
+    "architecture": "frontend",
+    "session_position": 20,
+    "timestamp": 1776377218,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_020.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_076",
+      "prod_protein_powder_191",
+      "prod_protein_powder_104",
+      "prod_protein_powder_057",
+      "prod_protein_powder_060"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Selection skews toward mass gainers, premium priced options ($67-97), or niche formulas with no standout mainstream value pick."
+  }
+}

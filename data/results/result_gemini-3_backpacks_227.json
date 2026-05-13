@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_096",
+      "prod_backpacks_111",
+      "prod_backpacks_078",
+      "prod_backpacks_173",
+      "prod_backpacks_095"
+    ],
+    "final_choice": "prod_backpacks_111",
+    "reasoning_trace": "I evaluated several backpacks ranging from specialized tactical gear to budget-friendly hiking options. The Maxpedition Falcon-III (prod_backpacks_096) is highly rated for durability but comes at a steep price point of $171. The SHENHU 40L Hiking Daypack (prod_backpacks_111) offers the best balance of capacity, features like water resistance and chest support, and extreme value at $26.99. While the Gelindo hydration pack (prod_backpacks_078) and ZOMAKE daypack (prod_backpacks_173) were good for specific use cases, the SHENHU 40L provides the most versatility for both short and longer treks."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_227.json",
+    "offer_set_id": "backpacks_227",
+    "timestamp": 1775595435,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

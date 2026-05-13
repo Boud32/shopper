@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_096",
+      "prod_backpacks_101",
+      "prod_backpacks_132",
+      "prod_backpacks_005",
+      "prod_backpacks_051"
+    ],
+    "final_choice": "prod_backpacks_096",
+    "reasoning_trace": "The customer is looking for a reliable backpack suitable for outdoor use. Among the consideration set, the Maxpedition Falcon-III stands out for its high build quality and excellent user feedback regarding durability, which justifies its higher price point. In contrast, the Hebetag daypack had reviews mentioning straps tearing within a week, and the USGI ALICE pack was priced very high ($339) for a surplus item in potentially poor condition. The Mubasel hydration pack is a good budget option but specialized for hydration rather than general storage. The Maxpedition pack represents the best balance of quality and utility for a serious user."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_020.json",
+    "offer_set_id": "backpacks_020",
+    "timestamp": 1774978604,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

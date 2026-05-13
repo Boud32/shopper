@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 38,
+    "timestamp": 1776691125,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_188.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_097",
+      "prod_yoga_mats_119",
+      "prod_yoga_mats_135",
+      "prod_yoga_mats_095"
+    ],
+    "final_choice": "prod_yoga_mats_006",
+    "reasoning": "Gaiam Premium 6mm Print at position 1 with 13,691 reviews takes the top spot at a reasonable price."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_177"
+    ],
+    "final_choice": "prod_bluetooth_speakers_128",
+    "reasoning_trace": "I evaluated the options based on sound output (wattage), brand reliability, and price-to-performance ratio. The Bose SoundLink (071) is a high-quality name brand but quite expensive for its age. The INSMY 20W speaker (128) stood out as the best value, offering IPX7 waterproofing, significant wattage for its size, and a very high 4.6 rating across thousands of reviews for only $29.99. I also considered the comiso 30W (173) and the TENMIYA boombox (177) for higher volume needs, but the INSMY 128's portability and high satisfaction scores made it the safest and most efficient purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_078.json",
+    "offer_set_id": "bluetooth_speakers_078",
+    "timestamp": 1775592004,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

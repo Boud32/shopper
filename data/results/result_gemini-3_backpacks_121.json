@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_038",
+      "prod_backpacks_171",
+      "prod_backpacks_183",
+      "prod_backpacks_164",
+      "prod_backpacks_041"
+    ],
+    "final_choice": "prod_backpacks_038",
+    "reasoning_trace": "In evaluating the available options, I prioritized durability and overall customer satisfaction for a general-purpose or daily-carry backpack. The consideration set includes a mix of tactical, cooler, and ultralight hiking backpacks. I ruled out the Granite Gear Virga 2 (prod_backpacks_041) and the W WINTMING Tactical Backpack (prod_backpacks_164) due to multiple reviews mentioning structural failures like broken straps and buckles. The Explorer Tactical Day Pack (prod_backpacks_171) is a solid budget choice, and the Picnic Time Cooler (prod_backpacks_183) is specialized. However, the Maxpedition Prepared Citizen Classic v2.0 (prod_backpacks_038) stands out with a 4.7 rating and consistent praise for its heavy-duty materials and nondescript appearance. Despite being slightly more expensive, its reputation for durability makes it the most reliable purchase for someone looking for a long-lasting backpack."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_121.json",
+    "offer_set_id": "backpacks_121",
+    "timestamp": 1775593179,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

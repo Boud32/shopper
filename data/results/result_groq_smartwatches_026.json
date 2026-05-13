@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_smartwatch",
+  "decision": {
+    "consideration_set": [
+      "prod_smartwatches_015",
+      "prod_smartwatches_077",
+      "prod_smartwatches_135",
+      "prod_smartwatches_165",
+      "prod_smartwatches_191"
+    ],
+    "final_choice": "prod_smartwatches_015",
+    "reasoning_trace": "Based on the provided product feed, I selected a consideration set of 5 products that best meet the customer's needs for a smartwatch. The final choice is EURANS Smart Watch 42mm Bluetooth Calling, which has a high rating of 4.1, a large number of reviews (142), and a reasonable price of $39.99. It also has features such as HD touch screen, IP68 waterproof, fitness tracker, heart rate and blood oxygen monitor, and sleep tracking, making it a well-rounded smartwatch that meets the customer's requirements."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/smartwatches/smartwatches_026.json",
+    "offer_set_id": "smartwatches_026",
+    "timestamp": 1772653737,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

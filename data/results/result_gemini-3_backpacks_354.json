@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_001",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_111",
+      "prod_backpacks_132",
+      "prod_backpacks_156",
+      "prod_backpacks_171",
+      "prod_backpacks_199"
+    ],
+    "final_choice": "prod_backpacks_132",
+    "reasoning_trace": "I evaluated several backpacks ranging from general hiking to specialized hydration and waterproof bags. The Mubasel Gear Hydration Backpack (prod_backpacks_132) stood out due to its exceptional review count and rating, providing confidence in its durability and performance for hiking. The inclusion of a 2L bladder at a $35.99 price point makes it an excellent value compared to other daypacks."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_354.json",
+    "offer_set_id": "backpacks_354",
+    "timestamp": 1775597522,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

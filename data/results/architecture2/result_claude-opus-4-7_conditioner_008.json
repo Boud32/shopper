@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 8,
+    "timestamp": 1776689265,
+    "source_batch": "data/offer_sets/conditioner/conditioner_008.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_169",
+      "prod_conditioner_218",
+      "prod_conditioner_075",
+      "prod_conditioner_024",
+      "prod_conditioner_084"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "No product in the top positions combines strong reviews and broad appeal \u2014 the leading spots are niche or weak."
+  }
+}

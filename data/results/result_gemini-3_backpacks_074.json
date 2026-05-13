@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_22",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_164",
+      "prod_backpacks_003",
+      "prod_backpacks_140",
+      "prod_backpacks_156",
+      "prod_backpacks_168"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The product feed was significantly cluttered with irrelevant items including tents, camping stoves, trekking poles, sleeping pads, and even a dog tank shirt. Among the actual backpacks, the selection was limited to specialized tactical bags, small sling bags, and one premium Osprey pack priced at over $240 with reviews criticizing its suspension durability. Due to the high volume of non-category items and the specific flaws or highly specialized nature of the available backpacks, none of the options felt like a satisfying purchase for a general browsing session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_074.json",
+    "offer_set_id": "backpacks_074",
+    "timestamp": 1775590881,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

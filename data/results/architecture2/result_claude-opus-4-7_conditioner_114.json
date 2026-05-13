@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 14,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_114.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_110",
+      "prod_conditioner_241",
+      "prod_conditioner_011",
+      "prod_conditioner_147",
+      "prod_conditioner_003"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top two positions are weak (3.7 rating, niche HASK), and the strong options (Mixed Chicks, Fairy Tales) are buried or niche."
+  }
+}

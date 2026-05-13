@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 33,
+    "timestamp": 1776640082,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_083.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_059",
+      "prod_protein_powder_060",
+      "prod_protein_powder_016",
+      "prod_protein_powder_097",
+      "prod_protein_powder_049"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top-of-page is weak with niche and low-rated products (Brewers Yeast, Hush, SPIRU-TEIN, WelleCo 3.4); no standout whey at visible positions."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 15,
+    "timestamp": 1776650226,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_165.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_039",
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_045",
+      "prod_laundry_detergent_030",
+      "prod_laundry_detergent_185"
+    ],
+    "final_choice": "prod_laundry_detergent_039",
+    "reasoning": "Tide Powder Mountain Spring at $20.97 with 12k+ 4.8\u2605 reviews is an iconic product offering exceptional value per load."
+  }
+}

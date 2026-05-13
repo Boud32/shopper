@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping_sim",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_050",
+      "prod_backpacks_125",
+      "prod_backpacks_132",
+      "prod_backpacks_156",
+      "prod_backpacks_005"
+    ],
+    "final_choice": null,
+    "reasoning_trace": "The search results were quite cluttered with non-backpack items such as tent stakes, towels, and camping food, which made the browsing experience less than ideal. Within the actual backpacks, the USWE Hajker was too specialized and expensive for my needs. The G4Free tactical pack offered good value but had a concerning review regarding its durability under daily use. The other options were either too small (hydration packs) or surplus gear in questionable condition. Given the lack of a high-quality, durable general-purpose backpack in this selection, I have decided not to make a purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_256.json",
+    "offer_set_id": "backpacks_256",
+    "timestamp": 1775595939,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

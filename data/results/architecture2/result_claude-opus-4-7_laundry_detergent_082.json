@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 32,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_082.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_077",
+      "prod_laundry_detergent_107",
+      "prod_laundry_detergent_034",
+      "prod_laundry_detergent_162",
+      "prod_laundry_detergent_205"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top 8 positions are dominated by expensive Tyler Candle specialties and weak sponsored picks \u2014 trusted mainstream picks are buried and nothing up top is compelling."
+  }
+}

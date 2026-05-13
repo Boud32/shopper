@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 24,
+    "timestamp": 1776640082,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_074.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_158",
+      "prod_protein_powder_199",
+      "prod_protein_powder_107",
+      "prod_protein_powder_132",
+      "prod_protein_powder_181"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top-of-page products are obscure brands with thin review counts, and nothing truly distinguishes itself from what I could find with a different search."
+  }
+}

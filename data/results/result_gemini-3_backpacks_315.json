@@ -1,0 +1,23 @@
+{
+  "experiment_id": "backpack_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_043",
+      "prod_backpacks_128",
+      "prod_backpacks_196",
+      "prod_backpacks_074",
+      "prod_backpacks_051"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was primarily looking for a versatile hiking or everyday backpack. The product feed presented many non-backpack items like sleeping bags and paddle boards, and the actual backpack options were too specialized for my needs. The Transpack ICE is specifically for skates, the adidas bag is mesh-only, and the Lunidry hydration pack has concerning reviews regarding leaks. The KAILAS 28L Hiking Backpack seemed like the strongest candidate, described as an 'Osprey dupe,' but at $69.99 with only eight reviews, I felt hesitant to commit to the purchase without more social proof or a more trusted brand option in the same category."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_315.json",
+    "offer_set_id": "backpacks_315",
+    "timestamp": 1775596912,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

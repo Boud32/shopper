@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 36,
+    "timestamp": 1776689267,
+    "source_batch": "data/offer_sets/conditioner/conditioner_186.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_040",
+      "prod_conditioner_218",
+      "prod_conditioner_245",
+      "prod_conditioner_256",
+      "prod_conditioner_211"
+    ],
+    "final_choice": "prod_conditioner_040",
+    "reasoning": "Alfaparf Milano Semi Di Lino at $22 with 4.6\u2605/2624 reviews at position 6 rescues a weak set \u2014 a prominent, well-reviewed professional product."
+  }
+}

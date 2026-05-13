@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 2,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_102.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_117",
+      "prod_laundry_detergent_116",
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_242",
+      "prod_laundry_detergent_019"
+    ],
+    "final_choice": "prod_laundry_detergent_117",
+    "reasoning": "Tide with Downy at $12.97, 4.8\u2605 with 8k reviews in a visible slot is the clear value winner versus the expensive Defunkify at the top."
+  }
+}

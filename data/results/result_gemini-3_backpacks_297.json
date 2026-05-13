@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_backpacks",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_132",
+      "prod_backpacks_073",
+      "prod_backpacks_095",
+      "prod_backpacks_140",
+      "prod_backpacks_174"
+    ],
+    "final_choice": "prod_backpacks_132",
+    "reasoning_trace": "I filtered through the search results to find actual backpacks, as the feed contained many camping accessories like cots and chairs. My consideration set includes a variety of functional packs: a hydration backpack, a cycling daypack, a specialized hunting blind bag, a travel sling, and a waterproof dry bag. I ultimately selected the Mubasel Gear Hydration Backpack (prod_backpacks_132) because it has a high rating of 4.6 and a significant number of positive reviews (over 10,000). It is versatile for outdoor activities, includes a 2L bladder, and is priced competitively at $35.99."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_297.json",
+    "offer_set_id": "backpacks_297",
+    "timestamp": 1775596623,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

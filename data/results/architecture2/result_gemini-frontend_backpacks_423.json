@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 423,
+    "timestamp": 1776098609,
+    "source_batch": "data/offer_sets/backpacks/backpacks_423.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_093",
+      "prod_backpacks_122",
+      "prod_backpacks_103",
+      "prod_backpacks_053",
+      "prod_backpacks_038"
+    ],
+    "final_choice": "prod_backpacks_093",
+    "reasoning": "The DIBSIES Personalized Licensed Character Backpack - stands out for its high rating and balanced price-to-feature ratio."
+  }
+}

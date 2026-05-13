@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_search_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_184",
+      "prod_backpacks_041",
+      "prod_backpacks_078",
+      "prod_backpacks_115",
+      "prod_backpacks_160"
+    ],
+    "final_choice": "prod_backpacks_078",
+    "reasoning_trace": "The search results for backpacks were cluttered with unrelated items like sleeping bags and lanterns, which was frustrating. However, in my consideration set, I narrowed it down to five genuine bags. The KAUKKO (184) was a very affordable laptop option, while the Granite Gear (041) was a high-end technical pack. I ultimately chose the Gelindo 18L (078) because it has an exceptionally high rating (4.7) from over 1,500 reviewers, includes a hydration bladder, and is priced reasonably for a daypack."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_424.json",
+    "offer_set_id": "backpacks_424",
+    "timestamp": 1775598658,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

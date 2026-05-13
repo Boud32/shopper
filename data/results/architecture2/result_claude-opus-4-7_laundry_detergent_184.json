@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 34,
+    "timestamp": 1776650226,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_184.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_185",
+      "prod_laundry_detergent_225",
+      "prod_laundry_detergent_022",
+      "prod_laundry_detergent_189",
+      "prod_laundry_detergent_242"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are Ecover, LG sheets, Heritage Park, 4.1\u2605 GreenShield, 4.1\u2605 Rebel Green BEST \u2014 visibility-weighted quality is low."
+  }
+}

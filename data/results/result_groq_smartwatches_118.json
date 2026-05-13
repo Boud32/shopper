@@ -1,0 +1,23 @@
+{
+  "experiment_id": "smartwatch_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_smartwatches_094",
+      "prod_smartwatches_023",
+      "prod_smartwatches_086",
+      "prod_smartwatches_055",
+      "prod_smartwatches_117"
+    ],
+    "final_choice": "prod_smartwatches_023",
+    "reasoning_trace": "The final choice is based on a balance of price, features, and customer reviews. prod_smartwatches_023 offers a comprehensive set of features including heart rate, blood oxygen, and sleep monitoring, with a high rating of 3.9 and a reasonably low price of $29.99. The consideration set includes a range of products with varying prices and feature sets, but prod_smartwatches_023 stands out as a well-rounded option with a good balance of quality and affordability."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/smartwatches/smartwatches_118.json",
+    "offer_set_id": "smartwatches_118",
+    "timestamp": 1772654025,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

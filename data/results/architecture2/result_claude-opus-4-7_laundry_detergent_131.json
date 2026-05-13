@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 31,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_131.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_275",
+      "prod_laundry_detergent_074",
+      "prod_laundry_detergent_242",
+      "prod_laundry_detergent_044",
+      "prod_laundry_detergent_296"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top of page dominated by very expensive Tide+Febreze 2-pack ($54), Tyler luxury items, and 3.6-3.9\u2605 low-quality sheets; Persil Discs at position 7 isn't enough to rescue a weak top."
+  }
+}

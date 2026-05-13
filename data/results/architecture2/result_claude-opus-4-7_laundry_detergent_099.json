@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 49,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_099.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_293",
+      "prod_laundry_detergent_296",
+      "prod_laundry_detergent_117",
+      "prod_laundry_detergent_287",
+      "prod_laundry_detergent_185"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are very weak (low-review Washeze, pricey Charlie's Soap, pricey Gain Flings, expensive Tyler) and the strong Tide with Downy is buried at position 19."
+  }
+}

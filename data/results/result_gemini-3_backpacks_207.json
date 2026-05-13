@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_purchase_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_003",
+      "prod_backpacks_041",
+      "prod_backpacks_043",
+      "prod_backpacks_164",
+      "prod_backpacks_023"
+    ],
+    "final_choice": "prod_backpacks_043",
+    "reasoning_trace": "I evaluated several high-capacity and technical backpacks. While the Osprey Exos 58 is a premium option, its reviews regarding suspension were mixed. Similarly, the Granite Gear Virga 2 had reports of shoulder straps failing. The KAILAS 28L Hiking Backpack stood out due to its 'wind tunnel' suspension design, the inclusion of a rain cover, and its reputation as a high-quality alternative to more expensive brands. Its 4.3 rating with strong positive feedback on comfort and feature set makes it the most reliable value choice for serious hiking in this selection."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_207.json",
+    "offer_set_id": "backpacks_207",
+    "timestamp": 1775594428,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

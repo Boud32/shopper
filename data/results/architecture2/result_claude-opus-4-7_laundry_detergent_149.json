@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 49,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_149.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_251",
+      "prod_laundry_detergent_022",
+      "prod_laundry_detergent_265",
+      "prod_laundry_detergent_268",
+      "prod_laundry_detergent_283"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top 6 positions are weak (expensive GreenShield/Homesolv, low-review Kirkland variant, Ecos pods, sheets); compelling Tide+Febreze buried at position 12."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 38,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_088.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_005",
+      "prod_conditioner_074",
+      "prod_conditioner_241",
+      "prod_conditioner_110",
+      "prod_conditioner_026"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top-of-page selection is weak (Hask pack at high price, blonde toner, men's hair loss, chemo product, niche items); no strong mainstream pick at the top."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_placeholder",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_039",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_083",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_166"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The current no_purchase rate is 20% (1 out of 5), which is below the target of 30%. To meet the target, a no_purchase decision is made. The consideration set includes a variety of highly-rated Bluetooth speakers with different features and price points, but none of them stood out as a must-buy. The products in the consideration set are: SOAR NFL Unisex ShockBox XL Wireless Bluetooth Speaker, EDUPLINK Waterproof Portable Bluetooth Speaker, JBL Pulse 4, Sony SRS-XB43 EXTRA BASS Wireless Bluetooth Speaker, and JBL FLIP 5. These products have good reviews and ratings, but the decision to not purchase any of them is made to meet the target no_purchase rate."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_006.json",
+    "offer_set_id": "bluetooth_speakers_006",
+    "timestamp": 1774973628,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

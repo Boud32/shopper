@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_012",
+      "prod_backpacks_122",
+      "prod_backpacks_051",
+      "prod_backpacks_067",
+      "prod_backpacks_038"
+    ],
+    "final_choice": "prod_backpacks_038",
+    "reasoning_trace": "I filtered the list for actual backpacks and identified five distinct options ranging from tactical slings to specialized sports bags. I dismissed the budget-friendly FAMI sling due to concerns over zipper durability mentioned in reviews and the DeMarini bag as it is too specialized for baseball equipment. The TACTICISM cooler bag is also niche. Comparing the MOSISO sling and the Maxpedition EDC bag, I opted for the Maxpedition Prepared Citizen Classic v2.0 because of its superior build quality, discreet 'lifestyle' appearance, and positive feedback regarding long-term durability and comfort for daily carry."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_101.json",
+    "offer_set_id": "backpacks_101",
+    "timestamp": 1775591909,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

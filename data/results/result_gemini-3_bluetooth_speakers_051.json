@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_128"
+    ],
+    "final_choice": "prod_bluetooth_speakers_120",
+    "reasoning_trace": "I began by filtering out the accessory items (cases, straps, and chargers) to focus on actual Bluetooth speakers. My consideration set includes a range of products from premium audiophile options like the Bang & Olufsen Beosound A1 to more budget-friendly rugged choices like the INSMY. I also included the Sony SRS-XB43 and both the new and renewed versions of the JBL Charge series, as they are market leaders for durability and sound. I ultimately chose the JBL Charge 5 because it holds the highest rating in the set (4.8) with an extremely high volume of reviews (over 16,000), making it the most reliable choice for a balance of power, battery life, and durability."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_051.json",
+    "offer_set_id": "bluetooth_speakers_051",
+    "timestamp": 1775591353,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

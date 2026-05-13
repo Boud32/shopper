@@ -1,0 +1,23 @@
+{
+  "experiment_id": "running_shoes_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_112",
+      "prod_running_shoes_165",
+      "prod_running_shoes_195",
+      "prod_running_shoes_094",
+      "prod_running_shoes_177"
+    ],
+    "final_choice": "prod_running_shoes_165",
+    "reasoning_trace": "I chose the top 5 products based on their high ratings and review counts. The final choice, 'prod_running_shoes_165', is the ASICS Mens Gel-Venture 6 Running Shoe, which has a high rating of 4.6 and a large number of reviews (24394), indicating its popularity and quality. Additionally, its price is relatively low ($39.99) compared to other options, making it a great value for the customer."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/running_shoes/running_shoes_084.json",
+    "offer_set_id": "running_shoes_084",
+    "timestamp": 1772641399,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "minimal",
+    "k": 5
+  }
+}

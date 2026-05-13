@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_128",
+      "prod_backpacks_054",
+      "prod_backpacks_012",
+      "prod_backpacks_048",
+      "prod_backpacks_186"
+    ],
+    "final_choice": "prod_backpacks_128",
+    "reasoning_trace": "I am looking for a reliable and stylish backpack for general use. My consideration set includes a mix of styles: the adidas mesh backpack for daily use, the BULLCAPTAIN and FAMI slings for compact carry, the SUNLUG cooler bag for outings, and the OutdoorMaster boot bag for sports gear. I ruled out many items in the feed that were incorrectly categorized, such as the sleeping bags, camp stoves, and food. The adidas Unisex Hermosa Mesh Backpack (prod_backpacks_128) is my final choice because it has the highest rating (4.7) and represents a trusted brand. While it is mesh, reviewers suggest it is surprisingly durable and spacious enough for high school or gym use, making it the most versatile and high-quality option in the selection."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_430.json",
+    "offer_set_id": "backpacks_430",
+    "timestamp": 1775598755,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

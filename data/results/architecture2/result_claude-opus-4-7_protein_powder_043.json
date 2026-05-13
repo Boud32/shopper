@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "",
+    "architecture": "frontend",
+    "session_position": 43,
+    "timestamp": 1776377218,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_043.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_065",
+      "prod_protein_powder_063",
+      "prod_protein_powder_187",
+      "prod_protein_powder_158",
+      "prod_protein_powder_189"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "This set skews toward moms/kids/specialty products without a flagship whey at compelling value to justify a purchase."
+  }
+}

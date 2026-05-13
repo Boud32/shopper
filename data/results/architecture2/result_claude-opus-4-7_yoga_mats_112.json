@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 12,
+    "timestamp": 1776691125,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_112.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_128",
+      "prod_yoga_mats_149",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_055",
+      "prod_yoga_mats_187"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top of page is weak (WEDDINGSTAR, Mersuii, Lottus) and all the strong picks are buried in mid/late positions \u2014 not compelling enough to buy here."
+  }
+}

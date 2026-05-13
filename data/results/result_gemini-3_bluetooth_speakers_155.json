@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_008"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated the top-performing portable speakers in the feed, specifically focusing on well-known brands like JBL, Sony, and Bose, alongside highly-rated mid-range options like DOSS and INSMY. While the JBL Charge 5 and Sony SRS-XB43 are excellent products with high ratings, their price points ($144-$156) are quite significant for a spontaneous purchase. Additionally, the browsing experience was somewhat hindered by the large number of non-speaker items (cases, batteries, and chargers) appearing in the feed. I have decided not to make a purchase during this session, opting to wait for a potential sale on the higher-end JBL or Sony units."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_155.json",
+    "offer_set_id": "bluetooth_speakers_155",
+    "timestamp": 1775594189,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

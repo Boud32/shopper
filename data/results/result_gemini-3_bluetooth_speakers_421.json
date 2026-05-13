@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_purchase_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_177",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_144"
+    ],
+    "final_choice": "prod_bluetooth_speakers_128",
+    "reasoning_trace": "The product feed contained a high volume of accessories such as power cords and travel cases, which were excluded from consideration. Among the actual speakers, I prioritized devices with high ratings and substantial review counts. The JBL Flip 5 (Renewed) was a strong contender but had some concerning reviews regarding battery longevity. The Sony SRS-RA3000 offered premium features but at a high price point with reported app issues. Ultimately, the INSMY Portable Bluetooth Speaker (prod_bluetooth_speakers_128) stood out as the best value; it features an IPX7 waterproof rating, 20W sound, and an impressive 4.6-star rating from over 6,500 reviews, all at a very accessible price point of $29.99."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_421.json",
+    "offer_set_id": "bluetooth_speakers_421",
+    "timestamp": 1775604068,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

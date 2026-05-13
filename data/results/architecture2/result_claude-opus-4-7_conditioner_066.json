@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 16,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_066.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_027",
+      "prod_conditioner_119",
+      "prod_conditioner_097",
+      "prod_conditioner_026"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (men's hair loss, niche bars, chemo-patient product); the strong options all sit deep at positions 16+."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 29,
+    "timestamp": 1776689265,
+    "source_batch": "data/offer_sets/conditioner/conditioner_029.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_280",
+      "prod_conditioner_023",
+      "prod_conditioner_078",
+      "prod_conditioner_218"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top is a niche purple-toning product, and truly strong options are all buried deep in the page."
+  }
+}

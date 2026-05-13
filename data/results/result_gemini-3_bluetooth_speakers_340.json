@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_131",
+      "prod_bluetooth_speakers_192"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "In my search for a reliable portable Bluetooth speaker, I narrowed my consideration to top-rated brands like Bose and JBL, alongside high-performing budget options like INSMY and EWA. The Bose SoundLink Color II and JBL Pulse 4 offer the premium sound quality I'm looking for, but their price points ($124.95 and $249.90 respectively) are quite high for my current budget. While the JBL Go 3 and EWA Mini are affordable and highly portable, I'm looking for more powerful output (20W+). The INSMY speaker seems like a great middle-ground at $29.99 with 20W, but I noticed a few recent reviews mentioning long-term reliability concerns. Given that none of the options perfectly align my requirements for high output, brand trust, and a sub-$100 price, I've decided to postpone my purchase until a sale or until I can increase my budget for a Bose or larger JBL unit."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_340.json",
+    "offer_set_id": "bluetooth_speakers_340",
+    "timestamp": 1775597509,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

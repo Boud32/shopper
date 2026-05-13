@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 24,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_074.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_003",
+      "prod_conditioner_016",
+      "prod_conditioner_196",
+      "prod_conditioner_097",
+      "prod_conditioner_241"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top of page is weak with niche, low-review, and men-specific products; strong options are buried and nothing at the top justifies a purchase."
+  }
+}

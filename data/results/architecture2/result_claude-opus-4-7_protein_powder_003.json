@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "",
+    "architecture": "frontend",
+    "session_position": 3,
+    "timestamp": 1776377218,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_003.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_006",
+      "prod_protein_powder_158",
+      "prod_protein_powder_104",
+      "prod_protein_powder_090",
+      "prod_protein_powder_199"
+    ],
+    "final_choice": "prod_protein_powder_006",
+    "reasoning": "GHOST WHEY at $44.95 with 4.5 stars and 5,800 reviews is a well-known trusted brand offering 25g protein at reasonable price."
+  }
+}

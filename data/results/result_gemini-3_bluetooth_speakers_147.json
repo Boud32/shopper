@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_103",
+      "prod_bluetooth_speakers_003"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated a range of products from budget waterproof speakers to high-end 360-degree units. The EDUPLINK (prod_bluetooth_speakers_051) and Ortizan (prod_bluetooth_speakers_103) offer good value but have mixed reviews regarding longevity and sound distortion. The JBL Flip 5 (prod_bluetooth_speakers_001) is a reliable choice, but being a 'Renewed' unit, I found the reviews concerning battery life failure within six months off-putting. The UE MEGABLAST (prod_bluetooth_speakers_003) is appealing for its sound quality, but at $245, it is a significant investment that I'm not ready to commit to without more research on its Alexa integration issues mentioned in reviews. Consequently, I decided to wait and look for a non-refurbished mid-range option."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_147.json",
+    "offer_set_id": "bluetooth_speakers_147",
+    "timestamp": 1775594074,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

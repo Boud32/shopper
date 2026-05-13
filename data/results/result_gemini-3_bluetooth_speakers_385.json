@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_061"
+    ],
+    "final_choice": "prod_bluetooth_speakers_181",
+    "reasoning_trace": "I evaluated several high-performing speakers across different price points. The Bose SoundLink Color II and Sony SRS-XB43 stood out for their high ratings and volume of reviews. While the Harman Kardon Onyx Studio 6 is a premium contender, the Sony SRS-XB43 offers a better balance of durability (IP67), long battery life (24 hours), and 'Extra Bass' features that are highly rated by thousands of users. The JBL Flip 5 (renewed) was considered as a value option, but reviews concerning its long-term battery retention made me favor the new Sony unit. The DOSS Traveler was included as a budget option but excluded due to some recent quality control concerns in the reviews. Ultimately, the Sony SRS-XB43 provides the most reliable combination of sound quality and battery performance for the price."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_385.json",
+    "offer_set_id": "bluetooth_speakers_385",
+    "timestamp": 1775598242,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

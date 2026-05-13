@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_purchase_sim",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_107",
+      "prod_backpacks_111",
+      "prod_backpacks_064",
+      "prod_backpacks_038",
+      "prod_backpacks_099"
+    ],
+    "final_choice": "prod_backpacks_107",
+    "reasoning_trace": "In evaluating the available backpacks, I prioritized durability, capacity, and user reliability. My consideration set included tactical options like the Seibertron Falcon and the Warriors Product backpack, as well as a more premium everyday carry option in the Maxpedition Citizen and a budget-friendly hiking daypack from SHENHU. I ultimately chose the Seibertron Falcon because its 37L capacity is versatile for both hiking and travel, and its high volume of positive reviews (nearly 3,000) provides the most confidence in its build quality and performance compared to the other listings."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_115.json",
+    "offer_set_id": "backpacks_115",
+    "timestamp": 1775592153,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

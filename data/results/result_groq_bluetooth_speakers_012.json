@@ -1,0 +1,23 @@
+{
+  "experiment_id": "Bluetooth Speakers Shopping Session",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_151",
+      "prod_bluetooth_speakers_061",
+      "prod_bluetooth_speakers_117",
+      "prod_bluetooth_speakers_183",
+      "prod_bluetooth_speakers_173"
+    ],
+    "final_choice": "prod_bluetooth_speakers_061",
+    "reasoning_trace": "The customer chose the DOSS Bluetooth Speaker due to its high rating of 4.6, a large number of reviews (4445), and its features such as 20W stereo sound, bold bass, IPX6 waterproof, and 12H playtime. These factors outweighed the slightly higher price compared to some other options."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_012.json",
+    "offer_set_id": "bluetooth_speakers_012",
+    "timestamp": 1774973641,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

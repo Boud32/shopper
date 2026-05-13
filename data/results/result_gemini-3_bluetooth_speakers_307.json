@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_session_25",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_002",
+      "prod_bluetooth_speakers_020"
+    ],
+    "final_choice": "prod_bluetooth_speakers_116",
+    "reasoning_trace": "I initially filtered through the product feed to separate actual Bluetooth speakers from the high number of accessories like cases, power adapters, and wall shelves. My consideration set focused on speakers with high ratings (4.4+) and positive sentiment regarding sound quality. The Harman Kardon Onyx Studio 6 (prod_bluetooth_speakers_116) was the standout choice due to its high rating (4.7) and reviews highlighting crisp audio and powerful bass, which outweighs the lower-priced budget options like the Raymate or Comiso for a primary home audio device. The JBL Clip 3 and INSMY Retro were also strong contenders for portability and aesthetic, respectively, but the Harman Kardon offers the most robust audio performance."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_307.json",
+    "offer_set_id": "bluetooth_speakers_307",
+    "timestamp": 1775596809,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

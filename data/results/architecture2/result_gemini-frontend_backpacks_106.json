@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 106,
+    "timestamp": 1776098609,
+    "source_batch": "data/offer_sets/backpacks/backpacks_106.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_053",
+      "prod_backpacks_074",
+      "prod_backpacks_178",
+      "prod_backpacks_089",
+      "prod_backpacks_200"
+    ],
+    "final_choice": "prod_backpacks_053",
+    "reasoning": "The Miztli Camping Hammock with Net and Rain Fly, Port stands out for its high rating and balanced price-to-feature ratio."
+  }
+}

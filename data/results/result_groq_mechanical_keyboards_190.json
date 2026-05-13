@@ -1,0 +1,23 @@
+{
+  "experiment_id": "mechanical_keyboards_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_111",
+      "prod_mechanical_keyboards_130",
+      "prod_mechanical_keyboards_057",
+      "prod_mechanical_keyboards_136",
+      "prod_mechanical_keyboards_172"
+    ],
+    "final_choice": "prod_mechanical_keyboards_111",
+    "reasoning_trace": "The final choice is based on the highest rated products with the most reviews. 'prod_mechanical_keyboards_111' has a rating of 4.4 with 55 reviews, 'prod_mechanical_keyboards_130' has a rating of 4.3 with 857 reviews, 'prod_mechanical_keyboards_057' has a rating of 4.4 with 151 reviews, 'prod_mechanical_keyboards_136' has a rating of 4.6 with 16 reviews, and 'prod_mechanical_keyboards_172' has a rating of 4.3 with 117 reviews. Considering the trade-off between price and quality, 'prod_mechanical_keyboards_111' seems to be the best option."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_190.json",
+    "offer_set_id": "mechanical_keyboards_190",
+    "timestamp": 1772654858,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

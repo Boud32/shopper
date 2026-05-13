@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 39,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_089.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_077",
+      "prod_laundry_detergent_030",
+      "prod_laundry_detergent_195",
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_102"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top 5 positions are dominated by a sponsored niche organic, a 2.2-rated Gain variant, pricey Tide+Febreze, and weak sheet options \u2014 not compelling."
+  }
+}

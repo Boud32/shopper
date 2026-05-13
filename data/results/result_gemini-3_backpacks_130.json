@@ -1,0 +1,23 @@
+{
+  "experiment_id": "backpack_shopping_012",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_125",
+      "prod_backpacks_111",
+      "prod_backpacks_057",
+      "prod_backpacks_074",
+      "prod_backpacks_027"
+    ],
+    "final_choice": "prod_backpacks_057",
+    "reasoning_trace": "The search was focused on finding a versatile and durable backpack. I narrowed the field to five distinct options: the USWE premium winter pack, the SHENHU value hiker, the QT&QY tactical rucksack, the Transpack specialized skate bag, and the ROCKRAIN hydration pack. While the USWE pack is high quality, its price point of over $200 is significant. The SHENHU and ROCKRAIN models offer great value but have some mixed feedback regarding size and durability. The QT&QY 45L Tactical Backpack stands out as the best overall choice due to its high capacity, excellent 4.7-star rating from over 6,000 customers, and robust feature set for a very competitive price of $39.99."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_130.json",
+    "offer_set_id": "backpacks_130",
+    "timestamp": 1775593314,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

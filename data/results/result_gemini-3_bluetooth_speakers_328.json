@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speakers_shopping_v4",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_003",
+      "prod_bluetooth_speakers_126"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The browsing session was disappointing due to a significant portion of the product feed consisting of accessories like carrying cases and charging cables rather than speakers. Within the consideration set of actual speakers, I found that the high-end options like the Ultimate Ears MEGABLAST ($245) and iHome Smart Speaker ($72) had notable complaints regarding their Alexa integration and connectivity stability. While the Bang & Olufsen and Bose speakers are reputable, their high price points were difficult to justify given the mixed reviews on value. The mid-range options either lacked brand trust or had concerns about longevity, leading to a decision to defer the purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_328.json",
+    "offer_set_id": "bluetooth_speakers_328",
+    "timestamp": 1775597180,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

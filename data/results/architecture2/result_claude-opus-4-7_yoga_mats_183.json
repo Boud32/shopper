@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 33,
+    "timestamp": 1776691125,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_183.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_111",
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_073",
+      "prod_yoga_mats_069"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions include nuveti's slip issue and OGOGO slippery complaints prominently; the signal quality near the top doesn't justify a commit."
+  }
+}

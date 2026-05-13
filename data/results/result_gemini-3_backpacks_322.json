@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_111",
+      "prod_backpacks_003",
+      "prod_backpacks_150",
+      "prod_backpacks_073",
+      "prod_backpacks_125"
+    ],
+    "final_choice": "prod_backpacks_111",
+    "reasoning_trace": "I evaluated several actual backpacks from the product feed, filtering out non-backpack accessories like stoves and pillows. My consideration set included a mix of budget-friendly daypacks and high-end technical gear. The Osprey Exos 58 is a respected brand but has mixed reviews regarding its suspension system for its high price. The USWE Hajker is quite expensive and very niche for winter sports. I ultimately chose the SHENHU 40L Hiking Daypack because it offers a significant capacity (40L) and solid user ratings for a very affordable price point, making it the most practical value-for-money choice for general hiking and travel."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_322.json",
+    "offer_set_id": "backpacks_322",
+    "timestamp": 1775597017,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

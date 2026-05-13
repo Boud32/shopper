@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 5,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_055.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_011",
+      "prod_laundry_detergent_225",
+      "prod_laundry_detergent_034",
+      "prod_laundry_detergent_195"
+    ],
+    "final_choice": "prod_laundry_detergent_284",
+    "reasoning": "Puracy at position 1 with Overall Pick + Sponsored, 4.6/6,276 reviews at $19.99 \u2014 trusted sensitive-skin option clearly highlighted."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_001",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_057",
+      "prod_backpacks_164",
+      "prod_backpacks_043",
+      "prod_backpacks_041",
+      "prod_backpacks_112"
+    ],
+    "final_choice": "prod_backpacks_057",
+    "reasoning_trace": "I filtered the product list to identify actual backpacks, as the feed contained many accessories like stoves and sleeping pads. My consideration set includes a mix of high-capacity tactical packs (QT&QY and WINTMING), a technical daypack (KAILAS), an ultralight professional pack (Granite Gear), and a lifestyle team backpack (FOCO). I ultimately chose the QT&QY 45L Military Tactical Backpack because of its superior social proof\u2014having a 4.7 rating from over 6,000 reviews\u2014and its very competitive price of $39.99, which offers better value than the similar WINTMING model or the more expensive KAILAS hiking pack."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_162.json",
+    "offer_set_id": "backpacks_162",
+    "timestamp": 1775605376,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

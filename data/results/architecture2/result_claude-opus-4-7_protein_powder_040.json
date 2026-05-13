@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "",
+    "architecture": "frontend",
+    "session_position": 40,
+    "timestamp": 1776377218,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_040.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_059",
+      "prod_protein_powder_158",
+      "prod_protein_powder_182",
+      "prod_protein_powder_053",
+      "prod_protein_powder_161"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "No flagship brands and no compelling value picks \u2014 the set lacks standout options that would justify a confident purchase."
+  }
+}

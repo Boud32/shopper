@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 9,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_109.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_189",
+      "prod_laundry_detergent_034",
+      "prod_laundry_detergent_102",
+      "prod_laundry_detergent_265",
+      "prod_laundry_detergent_060"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (baby-specific, obscure, low-review items); the strong Tide options are buried at positions 14 and 24, and nothing in the visible top compels a purchase."
+  }
+}

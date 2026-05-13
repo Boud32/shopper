@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_068",
+      "prod_backpacks_003",
+      "prod_backpacks_050",
+      "prod_backpacks_072",
+      "prod_backpacks_182"
+    ],
+    "final_choice": "prod_backpacks_068",
+    "reasoning_trace": "I was primarily looking for a high-capacity backpack suitable for multi-day trips. I narrowed my search to the High Sierra Pathway (prod_backpacks_068) and the Osprey Exos (prod_backpacks_003) as the primary technical options. While the Osprey is a premium brand, the High Sierra offered a significantly better price-to-volume ratio for its 70L capacity and maintained a high rating (4.7) with positive sentiment regarding its internal frame. I included specialized options like the Rawlings equipment bag (prod_backpacks_072) and smaller tactical/sling bags (prod_backpacks_050, prod_backpacks_182) for comparison, but they lacked the necessary volume and features for heavy hiking use."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_138.json",
+    "offer_set_id": "backpacks_138",
+    "timestamp": 1775593433,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

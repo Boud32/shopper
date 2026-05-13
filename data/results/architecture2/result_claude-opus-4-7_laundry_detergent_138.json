@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 38,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_138.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_180",
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_005",
+      "prod_laundry_detergent_048",
+      "prod_laundry_detergent_283"
+    ],
+    "final_choice": "prod_laundry_detergent_180",
+    "reasoning": "Persil Odor Fighter at position 6 with 4.8\u2605 and 15k reviews at $25.99 is a premium brand anchor in a reasonably visible slot."
+  }
+}

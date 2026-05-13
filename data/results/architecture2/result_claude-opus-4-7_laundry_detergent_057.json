@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 7,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_057.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_296",
+      "prod_laundry_detergent_195",
+      "prod_laundry_detergent_287",
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_293"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions dominated by niche/weak options (soap flakes, unknown sheet brands, low-rated sponsored items) and strong mainstream choices buried past position 20."
+  }
+}

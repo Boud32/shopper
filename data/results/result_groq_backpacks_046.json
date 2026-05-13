@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_placeholder",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_117",
+      "prod_backpacks_186",
+      "prod_backpacks_130",
+      "prod_backpacks_038",
+      "prod_backpacks_096"
+    ],
+    "final_choice": "prod_backpacks_186",
+    "reasoning_trace": "The consideration set is based on high-rated and relevant products for backpacking. prod_backpacks_186, the OutdoorMaster Boot Bag, is chosen due to its high rating of 4.6, large capacity, and suitability for skiing and snowboarding, aligning well with the needs of backpacking. Its features, such as being waterproof and having an air cushion shoulder pad, make it a practical choice for carrying gear comfortably."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_046.json",
+    "offer_set_id": "backpacks_046",
+    "timestamp": 1774974394,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

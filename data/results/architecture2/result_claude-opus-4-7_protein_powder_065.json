@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 15,
+    "timestamp": 1776640082,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_065.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_060",
+      "prod_protein_powder_063",
+      "prod_protein_powder_124",
+      "prod_protein_powder_097",
+      "prod_protein_powder_158"
+    ],
+    "final_choice": "prod_protein_powder_060",
+    "reasoning": "Pro JYM at top position with 4.7 stars across 4,865 reviews for $60 is a respected premium protein blend from a known formulator."
+  }
+}

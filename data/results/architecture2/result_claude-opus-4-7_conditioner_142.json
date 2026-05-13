@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 42,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_142.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_218",
+      "prod_conditioner_110",
+      "prod_conditioner_002",
+      "prod_conditioner_199"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (hair-growth niche, obscure brands, low reviews) and strong choices like Alfaparf and Carol's Daughter are buried."
+  }
+}

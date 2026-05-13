@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_001",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_045",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_072"
+    ],
+    "final_choice": "prod_bluetooth_speakers_147",
+    "reasoning_trace": "I filtered out many accessory items like storage cases and charging cables to focus on the actual Bluetooth speakers. My consideration set included the premium Bang & Olufsen A1, the budget-friendly Altec Lansing Mini H2O, the mid-range JBL Clip 3 and Flip 5, and the rugged HyperGear Beast XL. I ultimately chose the JBL Clip 3 in Dusty Pink because it offers an excellent balance of brand reliability, portability, and extremely high consumer ratings (4.7 stars across nearly 69,000 reviews). While the Renewed Flip 5 was a strong contender for better bass, the Clip 3's integrated carabiner and waterproof rating make it more versatile for my needs, and I prefer buying a new unit over a renewed one when the price difference is relatively small."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_375.json",
+    "offer_set_id": "bluetooth_speakers_375",
+    "timestamp": 1775598069,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

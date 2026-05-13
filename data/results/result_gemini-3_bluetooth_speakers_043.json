@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_131",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_020"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated a mix of premium and portable speakers. The Harman Kardon Onyx Studio 6 and JBL Pulse 4 offer great sound but are significantly more expensive than I'm willing to pay for this purchase. I considered the JBL Charge 4, but it is listed as 'Renewed,' which makes me concerned about battery life and long-term durability. The smaller speakers like the JBL Clip 3 and the comiso are great for portability but lack the frequency range I'm looking for in a primary listening device. Since the mid-range new-condition units are either refurbished or have mixed reviews regarding their treble and longevity, I have decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_043.json",
+    "offer_set_id": "bluetooth_speakers_043",
+    "timestamp": 1775591217,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

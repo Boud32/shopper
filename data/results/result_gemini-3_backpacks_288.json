@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_173",
+      "prod_backpacks_174",
+      "prod_backpacks_199",
+      "prod_backpacks_095",
+      "prod_backpacks_067"
+    ],
+    "final_choice": "prod_backpacks_173",
+    "reasoning_trace": "Out of the 25 products, many were not actually backpacks (tents, blankets, chairs). I focused my consideration set on actual backpack-style items including general-purpose hiking packs, waterproof dry-bag backpacks, and specialized tactical/cooler packs. The ZOMAKE (prod_backpacks_173) is the standout choice; with over 14,000 reviews and a high rating at a very affordable price point, it represents the best value for a general-purpose daypack. The IDRYBAG (prod_backpacks_174) was a close second for water-specific needs, but the ZOMAKE's massive popularity and packability make it the most attractive purchase in this set."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_288.json",
+    "offer_set_id": "backpacks_288",
+    "timestamp": 1775596450,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

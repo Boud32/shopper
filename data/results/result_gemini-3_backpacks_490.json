@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_session_2",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_003",
+      "prod_backpacks_057",
+      "prod_backpacks_038",
+      "prod_backpacks_137",
+      "prod_backpacks_041"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated a mix of high-end hiking packs (Osprey), mid-range tactical bags (QT&QY, Maxpedition, Mardingtop), and ultralight gear (Granite Gear). Despite some strong star ratings, several products in the consideration set had concerning reviews regarding structural integrity; for instance, the Osprey (prod_backpacks_003) had reports of flimsy suspension, and the Granite Gear (prod_backpacks_041) had a critical failure where the shoulder strap came apart. The tactical options like Mardingtop (prod_backpacks_137) were described by some users as having a cheap feel. Furthermore, the search experience was hindered by the presence of many irrelevant items in the results, such as paddle boards and ice cream. Given the potential durability issues at these price points, I decided not to make a purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_490.json",
+    "offer_set_id": "backpacks_490",
+    "timestamp": 1775605870,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

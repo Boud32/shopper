@@ -1,0 +1,23 @@
+{
+  "experiment_id": "smartwatch_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_smartwatches_092",
+      "prod_smartwatches_150",
+      "prod_smartwatches_186",
+      "prod_smartwatches_037",
+      "prod_smartwatches_121"
+    ],
+    "final_choice": "prod_smartwatches_092",
+    "reasoning_trace": "The consideration set includes a mix of smartwatches with various features such as heart rate monitoring, blood oxygen tracking, and GPS. The final choice, prod_smartwatches_092, is a FOXIONO Smart Watch that offers a range of features including a touchscreen, heart rate monitor, and blood pressure tracking, making it a well-rounded option for a customer looking for a smartwatch."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/smartwatches/smartwatches_420.json",
+    "offer_set_id": "smartwatches_420",
+    "timestamp": 1772826075,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

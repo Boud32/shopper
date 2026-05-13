@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_043",
+      "prod_backpacks_064",
+      "prod_backpacks_107",
+      "prod_backpacks_068",
+      "prod_backpacks_184"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The search for a reliable backpack was complicated by the inclusion of many non-backpack items in the results (tents, chairs, and towels). In evaluating the actual backpacks, I narrowed the selection to the KAILAS 28L, Warriors Product Tactical, Seibertron Falcon, High Sierra 70L, and the KAUKKO laptop bag. While the KAILAS and Warriors bags had high ratings, their review counts were too low (8 and 11 respectively) to guarantee long-term quality. The High Sierra pack is specialized for large-scale trekking (70L) and might be too cumbersome for general use. The KAUKKO and Hebetag packs had reports of straps tearing within a short period. Given these trade-offs and the mixed durability reviews across the most promising options, I decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_357.json",
+    "offer_set_id": "backpacks_357",
+    "timestamp": 1775597574,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

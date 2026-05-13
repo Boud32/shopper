@@ -1,0 +1,23 @@
+{
+  "experiment_id": "toothbrush_selection",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_093",
+      "prod_toothbrushes_068",
+      "prod_toothbrushes_146",
+      "prod_toothbrushes_055",
+      "prod_toothbrushes_197"
+    ],
+    "final_choice": "prod_toothbrushes_093",
+    "reasoning_trace": "The customer is looking to buy toothbrushes. The selected consideration set includes a variety of toothbrushes for different needs and preferences. The final choice, 'prod_toothbrushes_093', is a kids' toothbrush with a fun design, which could be a great option for families or individuals looking for a child-friendly toothbrush. The reasoning behind this choice is based on the product's features, price, and customer reviews, which suggest that it is a gentle and effective toothbrush for kids."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_228.json",
+    "offer_set_id": "toothbrushes_228",
+    "timestamp": 1772654683,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

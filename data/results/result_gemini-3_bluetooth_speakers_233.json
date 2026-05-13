@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_173"
+    ],
+    "final_choice": "prod_bluetooth_speakers_166",
+    "reasoning_trace": "I evaluated several high-performing speakers across different price points. The Harman Kardon Onyx Studio 6 was a strong premium contender, but its weight and higher price make it less portable. The Bose SoundLink Color II is a classic choice but had a review mentioning limited lifespan. I narrowed the choice down to the JBL lineup and the budget-friendly Comiso. The JBL Flip 5 stood out as the most compelling option due to its 4.8-star rating from over 68,000 reviews, offering a perfect balance of signature sound, waterproof durability, and a reasonable sub-$100 price point."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_233.json",
+    "offer_set_id": "bluetooth_speakers_233",
+    "timestamp": 1775595586,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

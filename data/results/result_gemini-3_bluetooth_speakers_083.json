@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_bluetooth_speakers",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_002",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_093",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_028"
+    ],
+    "final_choice": "prod_bluetooth_speakers_051",
+    "reasoning_trace": "I evaluated several Bluetooth speakers, excluding accessories like cases and power cords that were mixed into the feed. My consideration set focused on highly-rated portable options. The JBL Clip 3 (prod_bluetooth_speakers_002) is a solid choice but is a renewed product. The Bitty Boomer (prod_bluetooth_speakers_093) and HOAIYO (prod_bluetooth_speakers_028) are great for budget/ultra-portability, while the INSMY Retro (prod_bluetooth_speakers_049) offers a nice aesthetic for home use. However, the EDUPLINK (prod_bluetooth_speakers_051) is the most compelling choice. It has a massive review base (9,100+) with a high 4.5 rating, offers 20W sound which is significantly louder than the smaller mini-speakers, is IPX7 waterproof, and provides 20 hours of playtime for under $30. This represents the best balance of performance, validation, and price."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_083.json",
+    "offer_set_id": "bluetooth_speakers_083",
+    "timestamp": 1775592069,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

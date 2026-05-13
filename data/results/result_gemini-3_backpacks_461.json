@@ -1,0 +1,23 @@
+{
+  "experiment_id": "backpack_shopping_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_038",
+      "prod_backpacks_041",
+      "prod_backpacks_156",
+      "prod_backpacks_167",
+      "prod_backpacks_047"
+    ],
+    "final_choice": "prod_backpacks_038",
+    "reasoning_trace": "I filtered through the product feed, which contained a high percentage of camping accessories (towels, chairs, pads, and morale patches) rather than traditional backpacks. For my consideration set, I selected the five most distinct backpack types: an EDC/concealed carry pack (prod_backpacks_038), an ultralight hiking pack (prod_backpacks_041), a packable daypack (prod_backpacks_156), a tactical sling bag (prod_backpacks_167), and a wheeled travel backpack (prod_backpacks_047). I ultimately chose the Maxpedition Prepared Citizen Classic (prod_backpacks_038) because it had the highest quality rating (4.7) and reviews that emphasized extreme durability and comfort. The Granite Gear hiking pack (prod_backpacks_041), while a reputable brand, had concerning reviews about strap failure during initial use, making the Maxpedition the most reliable purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_461.json",
+    "offer_set_id": "backpacks_461",
+    "timestamp": 1775599357,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

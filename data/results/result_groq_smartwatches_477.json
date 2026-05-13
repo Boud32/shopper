@@ -1,0 +1,23 @@
+{
+  "experiment_id": "smartwatch_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_smartwatches_155",
+      "prod_smartwatches_147",
+      "prod_smartwatches_136",
+      "prod_smartwatches_118",
+      "prod_smartwatches_032"
+    ],
+    "final_choice": "prod_smartwatches_155",
+    "reasoning_trace": "The consideration set consists of the top 5 smartwatches based on their overall rating, review count, and price. prod_smartwatches_155 is chosen as the final choice due to its high rating of 4.2, a significant number of reviews (56), and a competitive price of $69.89. This product offers features like Bluetooth calling, heart rate monitoring, and sleep tracking, which are commonly sought after in a smartwatch."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/smartwatches/smartwatches_477.json",
+    "offer_set_id": "smartwatches_477",
+    "timestamp": 1772826211,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

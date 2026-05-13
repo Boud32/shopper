@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 12,
+    "timestamp": 1776640082,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_062.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_109",
+      "prod_protein_powder_041",
+      "prod_protein_powder_006",
+      "prod_protein_powder_014",
+      "prod_protein_powder_065"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top of page is cluttered with collagens, vegan, and plant products; the strong whey candidates are buried deep and nothing at top justifies a buy."
+  }
+}

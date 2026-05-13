@@ -1,0 +1,23 @@
+{
+  "experiment_id": "toothbrush_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_132",
+      "prod_toothbrushes_177",
+      "prod_toothbrushes_018",
+      "prod_toothbrushes_019",
+      "prod_toothbrushes_062"
+    ],
+    "final_choice": "prod_toothbrushes_132",
+    "reasoning_trace": "The decision was made based on the overall rating, price, and customer reviews of each product. The Colgate Max White Full Head Toothbrush (prod_toothbrushes_132) was chosen as the final choice due to its high rating (4.5), moderate price ($8.04), and positive customer reviews. The consideration set included a variety of toothbrushes with high ratings and moderate prices, but the Colgate toothbrush stood out for its polishing star feature and soft bristles."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_496.json",
+    "offer_set_id": "toothbrushes_496",
+    "timestamp": 1772825801,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

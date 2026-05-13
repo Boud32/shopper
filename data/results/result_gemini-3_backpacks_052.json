@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_1",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_006",
+      "prod_backpacks_050",
+      "prod_backpacks_099",
+      "prod_backpacks_140",
+      "prod_backpacks_128"
+    ],
+    "final_choice": "prod_backpacks_006",
+    "reasoning_trace": "In my search for a reliable backpack, I focused on products with high ratings and positive user feedback regarding durability and functionality. I selected a mix of tactical bags, packable daypacks, and brand-name sports backpacks for my consideration set. The G4Free (prod_backpacks_050) and HIKPRO (prod_backpacks_006) both stood out for their high ratings. I ultimately chose the HIKPRO 20L Packable Backpack (prod_backpacks_006) because it maintains a high 4.7 rating across nearly 3,000 reviews, indicating consistent quality and value at a very reasonable price point."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_052.json",
+    "offer_set_id": "backpacks_052",
+    "timestamp": 1774979754,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

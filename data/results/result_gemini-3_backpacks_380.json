@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_backpacks_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_002",
+      "prod_backpacks_082",
+      "prod_backpacks_041",
+      "prod_backpacks_089",
+      "prod_backpacks_174"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several backpack types, including a specialized cooler backpack, a fishing tackle pack, an ultralight hiking pack, a sling, and a waterproof dry bag. However, many items in the feed were irrelevant (towels, paddle boards, ice cream). Furthermore, the technical packs (Granite Gear and Bassdash) had worrying reviews regarding durability, specifically broken straps and zippers. The remaining options were either too niche or too small for my current needs, so I decided not to make a purchase in this session to stay within my target and find a more durable standard backpack elsewhere."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_380.json",
+    "offer_set_id": "backpacks_380",
+    "timestamp": 1775597952,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

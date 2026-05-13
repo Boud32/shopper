@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_placeholder",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_072",
+      "prod_running_shoes_200",
+      "prod_running_shoes_146",
+      "prod_running_shoes_103",
+      "prod_running_shoes_166"
+    ],
+    "final_choice": "prod_running_shoes_072",
+    "reasoning_trace": "Based on the high ratings, positive reviews, and relevant features for running, ASICS Women's Gel-Cumulus 22 Running Shoes is the top choice. New Balance Women's W1260V5 Running Shoe, ASICS Women's Gel-Cumulus 24 Running Shoes, Brooks Men's Ghost 14 Neutral Running Shoe, and New Balance Men's Fresh Foam X Vongo V5 Running Shoe are also considered due to their good reputation, suitable descriptions, and customer satisfaction. The choice prioritizes comfort, support, and performance for running."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/running_shoes/running_shoes_089.json",
+    "offer_set_id": "running_shoes_089",
+    "timestamp": 1772641809,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "extended",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_shopping_16",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_030",
+      "prod_bluetooth_speakers_143",
+      "prod_bluetooth_speakers_003"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated a set of high-end speakers ranging from $150 to nearly $400, looking for a reliable, premium portable solution. While the Sony SRS-XB43 and SRS-RA3000 offer high-fidelity sound, several verified reviews pointed to a frustrating experience with the proprietary Sony Music Center app and occasional connectivity drops. The Sonos Two-Room set is impressive but explicitly described by reviewers as a Wi-Fi-only system, making it unsuitable for my Bluetooth-focused needs. The Altec Lansing Mix 2.0 had alarming feedback regarding hardware durability, including one report of components melting, and the Ultimate Ears Megablast is priced high for an older model with inconsistent Alexa integration. Given that each high-cost option has a significant technical or functional compromise, I have decided to defer my purchase until I find a more reliable all-around performer."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_017.json",
+    "offer_set_id": "bluetooth_speakers_017",
+    "timestamp": 1775590818,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

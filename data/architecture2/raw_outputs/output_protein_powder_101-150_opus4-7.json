@@ -1,0 +1,602 @@
+[
+  {
+    "offer_set_id": "protein_powder_101",
+    "consideration_set": [
+      "prod_protein_powder_041",
+      "prod_protein_powder_060",
+      "prod_protein_powder_162",
+      "prod_protein_powder_097",
+      "prod_protein_powder_053"
+    ],
+    "final_choice": "prod_protein_powder_041",
+    "reasoning": "Legion Whey+ offers a reputable grass-fed whey isolate with strong ratings (4.5\u2605, 5000+ reviews) at a fair $44.99 price point."
+  },
+  {
+    "offer_set_id": "protein_powder_102",
+    "consideration_set": [
+      "prod_protein_powder_130",
+      "prod_protein_powder_076",
+      "prod_protein_powder_189",
+      "prod_protein_powder_187",
+      "prod_protein_powder_024"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by niche or weakly-rated items and no single whey option clearly stands out on value and social proof."
+  },
+  {
+    "offer_set_id": "protein_powder_103",
+    "consideration_set": [
+      "prod_protein_powder_060",
+      "prod_protein_powder_088",
+      "prod_protein_powder_037",
+      "prod_protein_powder_169",
+      "prod_protein_powder_107"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top of the search is weak (multiple sub-4.0 ratings) and the stronger candidates are scattered far down without a compelling value standout."
+  },
+  {
+    "offer_set_id": "protein_powder_104",
+    "consideration_set": [
+      "prod_protein_powder_109",
+      "prod_protein_powder_014",
+      "prod_protein_powder_070",
+      "prod_protein_powder_046",
+      "prod_protein_powder_017"
+    ],
+    "final_choice": "prod_protein_powder_109",
+    "reasoning": "BSN Syntha-6 has exceptional social proof (4.7\u2605, 26,000+ reviews) at a reasonable $60.40 for 48 servings and is a well-known mainstream whey blend."
+  },
+  {
+    "offer_set_id": "protein_powder_105",
+    "consideration_set": [
+      "prod_protein_powder_063",
+      "prod_protein_powder_076",
+      "prod_protein_powder_065",
+      "prod_protein_powder_136",
+      "prod_protein_powder_059"
+    ],
+    "final_choice": "prod_protein_powder_063",
+    "reasoning": "Jocko M\u00f6lk has a strong reputation with 4.6\u2605 and nearly 6,000 reviews at a reasonable $43.70 for grass-fed whey with clean ingredients."
+  },
+  {
+    "offer_set_id": "protein_powder_106",
+    "consideration_set": [
+      "prod_protein_powder_109",
+      "prod_protein_powder_063",
+      "prod_protein_powder_199",
+      "prod_protein_powder_132",
+      "prod_protein_powder_099"
+    ],
+    "final_choice": "prod_protein_powder_109",
+    "reasoning": "BSN Syntha-6 with 4.7\u2605 and 26,000+ reviews is the clear dominant choice here despite its deeper ranking position."
+  },
+  {
+    "offer_set_id": "protein_powder_107",
+    "consideration_set": [
+      "prod_protein_powder_006",
+      "prod_protein_powder_028",
+      "prod_protein_powder_014",
+      "prod_protein_powder_046",
+      "prod_protein_powder_109"
+    ],
+    "final_choice": "prod_protein_powder_006",
+    "reasoning": "Ghost Whey has excellent ratings (4.5\u2605, 5,800 reviews), strong flavor reputation, and fair pricing at $44.95 for 2lb."
+  },
+  {
+    "offer_set_id": "protein_powder_108",
+    "consideration_set": [
+      "prod_protein_powder_156",
+      "prod_protein_powder_041",
+      "prod_protein_powder_027",
+      "prod_protein_powder_097",
+      "prod_protein_powder_158"
+    ],
+    "final_choice": "prod_protein_powder_156",
+    "reasoning": "BSN Syntha-6 Edge at $42.99 combines 4.7\u2605 rating, 8,950 reviews, low sugar, and hydrolyzed whey \u2014 excellent value and quality."
+  },
+  {
+    "offer_set_id": "protein_powder_109",
+    "consideration_set": [
+      "prod_protein_powder_057",
+      "prod_protein_powder_059",
+      "prod_protein_powder_181",
+      "prod_protein_powder_038",
+      "prod_protein_powder_052"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "No single product has both strong positioning and overwhelming social proof \u2014 the highest-rated options all have fewer than 1,300 reviews."
+  },
+  {
+    "offer_set_id": "protein_powder_110",
+    "consideration_set": [
+      "prod_protein_powder_071",
+      "prod_protein_powder_065",
+      "prod_protein_powder_076",
+      "prod_protein_powder_097",
+      "prod_protein_powder_005"
+    ],
+    "final_choice": "prod_protein_powder_071",
+    "reasoning": "ALLMAX Isoflex is a high-quality whey isolate (4.6\u2605, 5,785 reviews) at an excellent $39.99 for 2lb with 27g protein."
+  },
+  {
+    "offer_set_id": "protein_powder_111",
+    "consideration_set": [
+      "prod_protein_powder_071",
+      "prod_protein_powder_097",
+      "prod_protein_powder_191",
+      "prod_protein_powder_181",
+      "prod_protein_powder_115"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by weakly-rated products and sponsored listings, and the strong options are scattered without a clear dominant buy."
+  },
+  {
+    "offer_set_id": "protein_powder_112",
+    "consideration_set": [
+      "prod_protein_powder_097",
+      "prod_protein_powder_191",
+      "prod_protein_powder_128",
+      "prod_protein_powder_159",
+      "prod_protein_powder_130"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The leading positions are occupied by niche or mid-tier products and the strong options don't offer clearly better value than what a different search would yield."
+  },
+  {
+    "offer_set_id": "protein_powder_113",
+    "consideration_set": [
+      "prod_protein_powder_063",
+      "prod_protein_powder_028",
+      "prod_protein_powder_076",
+      "prod_protein_powder_057",
+      "prod_protein_powder_187"
+    ],
+    "final_choice": "prod_protein_powder_063",
+    "reasoning": "Jocko M\u00f6lk sits at position 1 with strong 4.6\u2605 and nearly 6,000 reviews for a clean grass-fed whey at $43.70 \u2014 a clear winner."
+  },
+  {
+    "offer_set_id": "protein_powder_114",
+    "consideration_set": [
+      "prod_protein_powder_109",
+      "prod_protein_powder_182",
+      "prod_protein_powder_053",
+      "prod_protein_powder_052",
+      "prod_protein_powder_025"
+    ],
+    "final_choice": "prod_protein_powder_109",
+    "reasoning": "BSN Syntha-6 is flagged as the Overall Pick with 4.7\u2605 and 26,000+ reviews \u2014 the dominant choice in this set."
+  },
+  {
+    "offer_set_id": "protein_powder_115",
+    "consideration_set": [
+      "prod_protein_powder_037",
+      "prod_protein_powder_195",
+      "prod_protein_powder_027",
+      "prod_protein_powder_155",
+      "prod_protein_powder_196"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak with several sub-4.0 ratings, and the strong candidates are mostly niche collagen or casein products rather than a clear whey standout."
+  },
+  {
+    "offer_set_id": "protein_powder_116",
+    "consideration_set": [
+      "prod_protein_powder_109",
+      "prod_protein_powder_014",
+      "prod_protein_powder_076",
+      "prod_protein_powder_016",
+      "prod_protein_powder_173"
+    ],
+    "final_choice": "prod_protein_powder_109",
+    "reasoning": "BSN Syntha-6's 4.7\u2605 and 26,000+ reviews make it the unambiguous quality choice in this mixed set."
+  },
+  {
+    "offer_set_id": "protein_powder_117",
+    "consideration_set": [
+      "prod_protein_powder_006",
+      "prod_protein_powder_063",
+      "prod_protein_powder_097",
+      "prod_protein_powder_070",
+      "prod_protein_powder_064"
+    ],
+    "final_choice": "prod_protein_powder_006",
+    "reasoning": "Ghost Whey at $44.95 with 4.5\u2605 and 5,800 reviews offers strong flavor reputation and quality, outperforming the mostly weak top-ranked options."
+  },
+  {
+    "offer_set_id": "protein_powder_118",
+    "consideration_set": [
+      "prod_protein_powder_109",
+      "prod_protein_powder_162",
+      "prod_protein_powder_057",
+      "prod_protein_powder_181",
+      "prod_protein_powder_189"
+    ],
+    "final_choice": "prod_protein_powder_109",
+    "reasoning": "BSN Syntha-6 at position 2 with 4.7\u2605/26,000+ reviews is the dominant quality choice at a reasonable $60.40."
+  },
+  {
+    "offer_set_id": "protein_powder_119",
+    "consideration_set": [
+      "prod_protein_powder_156",
+      "prod_protein_powder_158",
+      "prod_protein_powder_016",
+      "prod_protein_powder_067",
+      "prod_protein_powder_056"
+    ],
+    "final_choice": "prod_protein_powder_156",
+    "reasoning": "BSN Syntha-6 Edge at $42.99 combines 4.7\u2605, 8,950 reviews, low sugar, and hydrolyzed whey \u2014 a clear value standout."
+  },
+  {
+    "offer_set_id": "protein_powder_120",
+    "consideration_set": [
+      "prod_protein_powder_014",
+      "prod_protein_powder_065",
+      "prod_protein_powder_097",
+      "prod_protein_powder_017",
+      "prod_protein_powder_059"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions have weak offerings and the stronger candidates are spread across incompatible categories (weight gainer, plant-based, meal replacement) without a clear whey winner."
+  },
+  {
+    "offer_set_id": "protein_powder_121",
+    "consideration_set": [
+      "prod_protein_powder_071",
+      "prod_protein_powder_057",
+      "prod_protein_powder_162",
+      "prod_protein_powder_046",
+      "prod_protein_powder_049"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak and the strong candidates are buried mid-list without sufficient price or rating advantage to commit."
+  },
+  {
+    "offer_set_id": "protein_powder_122",
+    "consideration_set": [
+      "prod_protein_powder_028",
+      "prod_protein_powder_130",
+      "prod_protein_powder_037",
+      "prod_protein_powder_052",
+      "prod_protein_powder_038"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The leading slot has a weak 4.4\u2605/285-review vegan option and the stronger candidates don't clearly beat typical alternatives elsewhere."
+  },
+  {
+    "offer_set_id": "protein_powder_123",
+    "consideration_set": [
+      "prod_protein_powder_156",
+      "prod_protein_powder_041",
+      "prod_protein_powder_162",
+      "prod_protein_powder_017",
+      "prod_protein_powder_187"
+    ],
+    "final_choice": "prod_protein_powder_156",
+    "reasoning": "BSN Syntha-6 Edge at $42.99 with 4.7\u2605 and 8,950 reviews provides hydrolyzed whey with low sugar \u2014 excellent quality-to-price ratio."
+  },
+  {
+    "offer_set_id": "protein_powder_124",
+    "consideration_set": [
+      "prod_protein_powder_088",
+      "prod_protein_powder_028",
+      "prod_protein_powder_065",
+      "prod_protein_powder_071",
+      "prod_protein_powder_056"
+    ],
+    "final_choice": "prod_protein_powder_088",
+    "reasoning": "Naked Whey with 3 ingredients, grass-fed, 4.3\u2605 across 14,000+ reviews at $23.99 offers exceptional transparency and value."
+  },
+  {
+    "offer_set_id": "protein_powder_125",
+    "consideration_set": [
+      "prod_protein_powder_162",
+      "prod_protein_powder_109",
+      "prod_protein_powder_027",
+      "prod_protein_powder_191",
+      "prod_protein_powder_135"
+    ],
+    "final_choice": "prod_protein_powder_162",
+    "reasoning": "Myprotein Impact Whey at position 1 is a well-established brand (4.4\u2605, 10,500+ reviews) at a competitive $43.25 for 2.2lb."
+  },
+  {
+    "offer_set_id": "protein_powder_126",
+    "consideration_set": [
+      "prod_protein_powder_060",
+      "prod_protein_powder_172",
+      "prod_protein_powder_071",
+      "prod_protein_powder_173",
+      "prod_protein_powder_038"
+    ],
+    "final_choice": "prod_protein_powder_060",
+    "reasoning": "Pro JYM's 4.7\u2605 rating, 4,865 reviews, and blend of whey/casein/egg proteins at $60 makes it the clear premium pick in this mixed set."
+  },
+  {
+    "offer_set_id": "protein_powder_127",
+    "consideration_set": [
+      "prod_protein_powder_041",
+      "prod_protein_powder_088",
+      "prod_protein_powder_172",
+      "prod_protein_powder_057",
+      "prod_protein_powder_115"
+    ],
+    "final_choice": "prod_protein_powder_041",
+    "reasoning": "Legion Whey+ is the best whey isolate on this page (4.5\u2605, 5,072 reviews, grass-fed) at a reasonable $44.99."
+  },
+  {
+    "offer_set_id": "protein_powder_128",
+    "consideration_set": [
+      "prod_protein_powder_027",
+      "prod_protein_powder_071",
+      "prod_protein_powder_059",
+      "prod_protein_powder_187",
+      "prod_protein_powder_189"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak and the strong items don't offer an obviously better deal than what a different search might yield."
+  },
+  {
+    "offer_set_id": "protein_powder_129",
+    "consideration_set": [
+      "prod_protein_powder_060",
+      "prod_protein_powder_109",
+      "prod_protein_powder_063",
+      "prod_protein_powder_057",
+      "prod_protein_powder_187"
+    ],
+    "final_choice": "prod_protein_powder_109",
+    "reasoning": "BSN Syntha-6 at position 4 with 4.7\u2605 and 26,000+ reviews is the clear quality anchor in this strong set."
+  },
+  {
+    "offer_set_id": "protein_powder_130",
+    "consideration_set": [
+      "prod_protein_powder_063",
+      "prod_protein_powder_172",
+      "prod_protein_powder_028",
+      "prod_protein_powder_182",
+      "prod_protein_powder_195"
+    ],
+    "final_choice": "prod_protein_powder_063",
+    "reasoning": "Jocko M\u00f6lk at $43.70 with 4.6\u2605 and 5,794 reviews delivers a clean grass-fed whey with excellent flavor reputation."
+  },
+  {
+    "offer_set_id": "protein_powder_131",
+    "consideration_set": [
+      "prod_protein_powder_063",
+      "prod_protein_powder_052",
+      "prod_protein_powder_191",
+      "prod_protein_powder_072",
+      "prod_protein_powder_107"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top two positions are weak (3.8\u2605, 4.6\u2605 on only 644 reviews at $84) and no whey or protein choice dominates on both visibility and value."
+  },
+  {
+    "offer_set_id": "protein_powder_132",
+    "consideration_set": [
+      "prod_protein_powder_109",
+      "prod_protein_powder_124",
+      "prod_protein_powder_145",
+      "prod_protein_powder_005",
+      "prod_protein_powder_107"
+    ],
+    "final_choice": "prod_protein_powder_109",
+    "reasoning": "BSN Syntha-6 with 4.7\u2605/26,000+ reviews stands out in a set otherwise filled with weak or niche products."
+  },
+  {
+    "offer_set_id": "protein_powder_133",
+    "consideration_set": [
+      "prod_protein_powder_063",
+      "prod_protein_powder_060",
+      "prod_protein_powder_076",
+      "prod_protein_powder_182",
+      "prod_protein_powder_059"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top 4 positions are weak (sub-4.5 ratings or very low review counts) and the strong candidates are all below position 10 without clear value advantage."
+  },
+  {
+    "offer_set_id": "protein_powder_134",
+    "consideration_set": [
+      "prod_protein_powder_037",
+      "prod_protein_powder_155",
+      "prod_protein_powder_005",
+      "prod_protein_powder_158",
+      "prod_protein_powder_140"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The set is dominated by plant-based and collagen niche products without a clearly dominant whey option at a strong price."
+  },
+  {
+    "offer_set_id": "protein_powder_135",
+    "consideration_set": [
+      "prod_protein_powder_071",
+      "prod_protein_powder_027",
+      "prod_protein_powder_097",
+      "prod_protein_powder_063",
+      "prod_protein_powder_134"
+    ],
+    "final_choice": "prod_protein_powder_071",
+    "reasoning": "ALLMAX Isoflex at $39.99 with 4.6\u2605 and 5,785 reviews is a strong whey isolate value in an otherwise weak top of the page."
+  },
+  {
+    "offer_set_id": "protein_powder_136",
+    "consideration_set": [
+      "prod_protein_powder_060",
+      "prod_protein_powder_028",
+      "prod_protein_powder_076",
+      "prod_protein_powder_158",
+      "prod_protein_powder_057"
+    ],
+    "final_choice": "prod_protein_powder_060",
+    "reasoning": "Pro JYM leads position 1 with 4.7\u2605 and 4,865 reviews \u2014 a premium multi-source protein blend at $60 that sets the tone for the page."
+  },
+  {
+    "offer_set_id": "protein_powder_137",
+    "consideration_set": [
+      "prod_protein_powder_041",
+      "prod_protein_powder_109",
+      "prod_protein_powder_063",
+      "prod_protein_powder_024",
+      "prod_protein_powder_099"
+    ],
+    "final_choice": "prod_protein_powder_041",
+    "reasoning": "Legion Whey+ is flagged as Best Seller with 4.5\u2605/5,072 reviews \u2014 a clean grass-fed isolate at $44.99."
+  },
+  {
+    "offer_set_id": "protein_powder_138",
+    "consideration_set": [
+      "prod_protein_powder_063",
+      "prod_protein_powder_187",
+      "prod_protein_powder_037",
+      "prod_protein_powder_155",
+      "prod_protein_powder_059"
+    ],
+    "final_choice": "prod_protein_powder_063",
+    "reasoning": "Jocko M\u00f6lk at position 1 with 4.6\u2605 and 5,794 reviews offers clean grass-fed whey at a fair $43.70 \u2014 clearly the best positioned strong option."
+  },
+  {
+    "offer_set_id": "protein_powder_139",
+    "consideration_set": [
+      "prod_protein_powder_063",
+      "prod_protein_powder_187",
+      "prod_protein_powder_195",
+      "prod_protein_powder_008",
+      "prod_protein_powder_104"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Only Jocko M\u00f6lk stands out at the top and the shoulder options are weak (3.9\u2605, 4\u2605 products with mixed review counts) \u2014 not enough depth to commit."
+  },
+  {
+    "offer_set_id": "protein_powder_140",
+    "consideration_set": [
+      "prod_protein_powder_088",
+      "prod_protein_powder_006",
+      "prod_protein_powder_027",
+      "prod_protein_powder_076",
+      "prod_protein_powder_053"
+    ],
+    "final_choice": "prod_protein_powder_088",
+    "reasoning": "Naked Whey at position 1 offers 3-ingredient grass-fed whey with 4.3\u2605 and 14,207 reviews at an affordable $23.99 for 1lb."
+  },
+  {
+    "offer_set_id": "protein_powder_141",
+    "consideration_set": [
+      "prod_protein_powder_027",
+      "prod_protein_powder_181",
+      "prod_protein_powder_028",
+      "prod_protein_powder_135",
+      "prod_protein_powder_016"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are sponsored listings with modest review counts and no product clearly dominates on both visibility and value."
+  },
+  {
+    "offer_set_id": "protein_powder_142",
+    "consideration_set": [
+      "prod_protein_powder_067",
+      "prod_protein_powder_033",
+      "prod_protein_powder_173",
+      "prod_protein_powder_092",
+      "prod_protein_powder_057"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The page lacks a strong mainstream whey standout at top positions, with the leaders all at 4.5\u2605 or below with modest review bases."
+  },
+  {
+    "offer_set_id": "protein_powder_143",
+    "consideration_set": [
+      "prod_protein_powder_156",
+      "prod_protein_powder_060",
+      "prod_protein_powder_172",
+      "prod_protein_powder_173",
+      "prod_protein_powder_187"
+    ],
+    "final_choice": "prod_protein_powder_156",
+    "reasoning": "BSN Syntha-6 Edge at $42.99 with 4.7\u2605 and 8,950 reviews offers the best quality-to-price in this set despite its deeper position."
+  },
+  {
+    "offer_set_id": "protein_powder_144",
+    "consideration_set": [
+      "prod_protein_powder_014",
+      "prod_protein_powder_181",
+      "prod_protein_powder_040",
+      "prod_protein_powder_155",
+      "prod_protein_powder_064"
+    ],
+    "final_choice": "prod_protein_powder_014",
+    "reasoning": "PEScience Select at $69.99 with 4.5\u2605 and 10,521 reviews offers 55 servings of low-carb, keto-friendly whey \u2014 strong value and social proof."
+  },
+  {
+    "offer_set_id": "protein_powder_145",
+    "consideration_set": [
+      "prod_protein_powder_109",
+      "prod_protein_powder_162",
+      "prod_protein_powder_187",
+      "prod_protein_powder_063",
+      "prod_protein_powder_148"
+    ],
+    "final_choice": "prod_protein_powder_109",
+    "reasoning": "BSN Syntha-6's 4.7\u2605 and 26,000+ reviews at $60.40 for 48 servings remains the clear quality leader."
+  },
+  {
+    "offer_set_id": "protein_powder_146",
+    "consideration_set": [
+      "prod_protein_powder_088",
+      "prod_protein_powder_014",
+      "prod_protein_powder_037",
+      "prod_protein_powder_191",
+      "prod_protein_powder_099"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top 5 positions are all weak (sub-4.5 ratings or few reviews) and the strong products are buried below position 15 without sufficient pricing edge."
+  },
+  {
+    "offer_set_id": "protein_powder_147",
+    "consideration_set": [
+      "prod_protein_powder_065",
+      "prod_protein_powder_172",
+      "prod_protein_powder_191",
+      "prod_protein_powder_130",
+      "prod_protein_powder_038"
+    ],
+    "final_choice": "prod_protein_powder_065",
+    "reasoning": "Animal Whey Isolate at $52.95 with 4.6\u2605 and 4,164 reviews for 4 pounds (64oz) offers strong value for a well-reviewed whey isolate."
+  },
+  {
+    "offer_set_id": "protein_powder_148",
+    "consideration_set": [
+      "prod_protein_powder_172",
+      "prod_protein_powder_130",
+      "prod_protein_powder_067",
+      "prod_protein_powder_155",
+      "prod_protein_powder_016"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "No product combines top positioning with strong value \u2014 the best options are all at mid-positions and nothing clearly beats typical alternatives."
+  },
+  {
+    "offer_set_id": "protein_powder_149",
+    "consideration_set": [
+      "prod_protein_powder_156",
+      "prod_protein_powder_097",
+      "prod_protein_powder_172",
+      "prod_protein_powder_017",
+      "prod_protein_powder_158"
+    ],
+    "final_choice": "prod_protein_powder_156",
+    "reasoning": "BSN Syntha-6 Edge at $42.99 with 4.7\u2605 and 8,950 reviews is the strongest whey option in a page dominated by plant-based alternatives."
+  },
+  {
+    "offer_set_id": "protein_powder_150",
+    "consideration_set": [
+      "prod_protein_powder_041",
+      "prod_protein_powder_060",
+      "prod_protein_powder_187",
+      "prod_protein_powder_076",
+      "prod_protein_powder_065"
+    ],
+    "final_choice": "prod_protein_powder_041",
+    "reasoning": "Legion Whey+ at $44.99 with 4.5\u2605 and 5,072 reviews offers clean grass-fed whey isolate \u2014 a clear quality choice among strong competitors."
+  }
+]

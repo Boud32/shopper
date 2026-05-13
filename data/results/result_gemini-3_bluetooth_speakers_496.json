@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_151",
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_037",
+      "prod_bluetooth_speakers_003"
+    ],
+    "final_choice": "prod_bluetooth_speakers_153",
+    "reasoning_trace": "The product feed was heavily saturated with accessories like travel cases and charging cables, which narrowed the selection of actual speakers. From the available speakers, I identified five serious options ranging from budget to high-end. The Edifier (prod_bluetooth_speakers_037) and Harman Kardon (prod_bluetooth_speakers_116) offer premium audio but are at significantly higher price points ($399 and $159 respectively). The MusiBaby (prod_bluetooth_speakers_151) is affordable but had mixed reviews regarding volume. I chose the Raymate (prod_bluetooth_speakers_153) as the final selection because it boasts the highest rating (4.6) among the portable speakers at a very competitive mid-range price of $39.99, with reviews specifically praising its power and portability."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_496.json",
+    "offer_set_id": "bluetooth_speakers_496",
+    "timestamp": 1775605246,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

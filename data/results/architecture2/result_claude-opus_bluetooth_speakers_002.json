@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus",
+    "model": "claude-opus-4-6",
+    "architecture": "frontend",
+    "session_position": 2,
+    "timestamp": 1776109205,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_002.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_131",
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_192"
+    ],
+    "final_choice": "prod_bluetooth_speakers_147",
+    "reasoning": "The JBL Clip 3 at $54.95 with 4.7 stars and nearly 69K reviews is a massively validated portable speaker at a reasonable price point."
+  }
+}

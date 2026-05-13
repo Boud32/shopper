@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_089",
+      "prod_backpacks_082",
+      "prod_backpacks_050",
+      "prod_backpacks_159",
+      "prod_backpacks_072"
+    ],
+    "final_choice": "prod_backpacks_050",
+    "reasoning_trace": "The search results were cluttered with non-backpack items such as camping cots, chairs, and towels. However, several viable options were identified in the consideration set. I compared the MOSISO and NICGID sling bags for light travel, the specialized Rawlings and BASSDASH bags for sports and fishing, and the G4Free tactical pack for general use. I decided to purchase the G4Free Tactical Shoulder Backpack (prod_backpacks_050) because it offers the most versatility with a 35L capacity and solid reviews at a very competitive price point of $28.99."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_499.json",
+    "offer_set_id": "backpacks_499",
+    "timestamp": 1775606010,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

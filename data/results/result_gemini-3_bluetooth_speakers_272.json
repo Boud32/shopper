@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping_v1",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_168",
+      "prod_bluetooth_speakers_040"
+    ],
+    "final_choice": null,
+    "reasoning_trace": "I evaluated several speakers based on their output power and brand reliability. My consideration set included high-wattage budget options from Raymate, comiso, and NOTABRICK, as well as name-brand offerings from Altec Lansing and JBL. While the Raymate and comiso offer 30W of power at a low price point, I am skeptical of the long-term durability and sound quality of these generic manufacturers. The Altec Lansing HydraMotion, while a trusted brand, has reviews suggesting its volume is insufficient for outdoor environments. Finally, the JBL Flip 5 is a top performer, but the 'Renewed' condition combined with specific reports of battery death and charging failures after a few months makes it a risky purchase at $79.90. Lacking a brand-new, reliable option from a major brand, I decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_272.json",
+    "offer_set_id": "bluetooth_speakers_272",
+    "timestamp": 1775596239,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

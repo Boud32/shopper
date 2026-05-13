@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_bluetooth_speakers_25",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_045"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "My goal was to find a high-quality portable Bluetooth speaker, but the browsing experience was significantly hindered by the high volume of non-speaker items in the results, including storage cases, replacement batteries, chargers, and wall shelves. Among the actual speakers, the premium options like the Bang & Olufsen and Bose SoundLink are reputable but felt expensive for this session. While the INSMY Retro and DOSS SoundBox Pro+ offered interesting features at a mid-range price, I noted several reviews across the various brands mentioning durability issues after a few months of use. Combined with the disorganized selection, I didn't feel confident enough in any specific model to proceed with a purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_474.json",
+    "offer_set_id": "bluetooth_speakers_474",
+    "timestamp": 1775604897,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

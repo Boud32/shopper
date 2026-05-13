@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_192",
+      "prod_bluetooth_speakers_021"
+    ],
+    "final_choice": "prod_bluetooth_speakers_181",
+    "reasoning_trace": "I evaluated the options based on sound quality, battery life, and brand reputation. The Sony SRS-XB43 (prod_bluetooth_speakers_181) stood out as the premium choice due to its high rating (4.7), 24-hour battery life, and 'Extra Bass' technology, which justifies its price compared to mid-range options like the DOSS SoundBox Pro+. While the EDUPLINK and EWA speakers offered great value for small budgets, I prioritized a more powerful, durable speaker for long-term use. The Altec Lansing was considered for its Qi charging, but review feedback regarding water leakage made me lean towards the more reliable Sony build."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_298.json",
+    "offer_set_id": "bluetooth_speakers_298",
+    "timestamp": 1775596643,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

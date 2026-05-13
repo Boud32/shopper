@@ -1,0 +1,23 @@
+{
+  "experiment_id": "smartwatch_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_smartwatches_012",
+      "prod_smartwatches_061",
+      "prod_smartwatches_154",
+      "prod_smartwatches_087",
+      "prod_smartwatches_068"
+    ],
+    "final_choice": "prod_smartwatches_012",
+    "reasoning_trace": "The customer is looking for a smartwatch, so products that are not smartwatches (e.g. screen protectors, watch bands) were excluded from consideration. From the remaining products, Withings Scanwatch was chosen due to its high rating and advanced health monitoring features such as ECG and SpO2 measurement."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/smartwatches/smartwatches_263.json",
+    "offer_set_id": "smartwatches_263",
+    "timestamp": 1772825386,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

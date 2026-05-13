@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_050",
+      "prod_backpacks_132",
+      "prod_backpacks_164",
+      "prod_backpacks_041",
+      "prod_backpacks_199"
+    ],
+    "final_choice": "prod_backpacks_132",
+    "reasoning_trace": "I narrowed down the consideration set to actual backpacks, excluding the various accessories like stoves, sleeping pads, and patches. I evaluated the Granite Gear ultralight pack but dismissed it due to multiple reviews reporting strap failures. The G4Free and W WINTMING tactical packs offered good value but appeared slightly less durable for long-term use according to some reviews. I eventually chose the Mubasel Gear Hydration Backpack because its massive review count (over 10,000) and high rating indicate a proven, reliable product for short hikes, offering excellent value at its price point."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_367.json",
+    "offer_set_id": "backpacks_367",
+    "timestamp": 1775597736,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

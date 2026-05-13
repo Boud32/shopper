@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 18,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_068.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_115",
+      "prod_laundry_detergent_051",
+      "prod_laundry_detergent_120",
+      "prod_laundry_detergent_072",
+      "prod_laundry_detergent_265"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions feature expensive or thinly-reviewed options (Kirkland powder with 12 reviews, sheet brands, $50+ Tide) with no mainstream proven winner visible up top."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 1,
+    "timestamp": 1776098609,
+    "source_batch": "data/offer_sets/backpacks/backpacks_001.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_078",
+      "prod_backpacks_122",
+      "prod_backpacks_144",
+      "prod_backpacks_128",
+      "prod_backpacks_154"
+    ],
+    "final_choice": "prod_backpacks_078",
+    "reasoning": "The Gelindo18L-Hiking Hydration Backpack stands out for its high rating and balanced price-to-feature ratio."
+  }
+}

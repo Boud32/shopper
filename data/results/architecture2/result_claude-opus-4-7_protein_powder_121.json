@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 21,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_121.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_071",
+      "prod_protein_powder_057",
+      "prod_protein_powder_162",
+      "prod_protein_powder_046",
+      "prod_protein_powder_049"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak and the strong candidates are buried mid-list without sufficient price or rating advantage to commit."
+  }
+}

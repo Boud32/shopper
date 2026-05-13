@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_toothbrushes",
+  "decision": {
+    "consideration_set": [
+      "prod_toothbrushes_011",
+      "prod_toothbrushes_119",
+      "prod_toothbrushes_159",
+      "prod_toothbrushes_055",
+      "prod_toothbrushes_068"
+    ],
+    "final_choice": "prod_toothbrushes_055",
+    "reasoning_trace": "The final choice is based on a balance of high customer ratings, relevant product features for toothbrushes, and a reasonable price point. prod_toothbrushes_055 has a high rating of 4.5, is specifically designed as an electric toothbrush for adults with smart features, and is priced at $38.99, which is competitive with other options in the consideration set."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/toothbrushes/toothbrushes_318.json",
+    "offer_set_id": "toothbrushes_318",
+    "timestamp": 1772825062,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

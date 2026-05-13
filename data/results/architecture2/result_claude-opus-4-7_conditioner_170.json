@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 20,
+    "timestamp": 1776689267,
+    "source_batch": "data/offer_sets/conditioner/conditioner_170.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_097",
+      "prod_conditioner_016",
+      "prod_conditioner_119",
+      "prod_conditioner_092"
+    ],
+    "final_choice": "prod_conditioner_023",
+    "reasoning": "Redken Acidic Bonding Concentrate at $32 with 4.5\u2605/7938 reviews is prominently placed at position 4 and offers salon-grade bond repair with massive social proof."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "running_shoes_recommendation",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_064",
+      "prod_running_shoes_169",
+      "prod_running_shoes_073",
+      "prod_running_shoes_078",
+      "prod_running_shoes_153"
+    ],
+    "final_choice": "prod_running_shoes_064",
+    "reasoning_trace": "Based on the product feed, the top 5 running shoes were selected considering factors like high ratings, numerous reviews, and reasonable prices. The final choice, ASICS Women's GT-2000 5 Running Shoes, is a well-regarded product with a 4.3 rating and 626 reviews, indicating a high level of customer satisfaction. Its price of $99.99 is also competitive compared to other high-end running shoes in the feed."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/running_shoes/running_shoes_026.json",
+    "offer_set_id": "running_shoes_026",
+    "timestamp": 1772641195,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "minimal",
+    "k": 5
+  }
+}

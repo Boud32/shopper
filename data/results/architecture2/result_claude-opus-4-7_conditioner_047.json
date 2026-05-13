@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 47,
+    "timestamp": 1776689265,
+    "source_batch": "data/offer_sets/conditioner/conditioner_047.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_016",
+      "prod_conditioner_218",
+      "prod_conditioner_078",
+      "prod_conditioner_097",
+      "prod_conditioner_199"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak low-volume products and the strong options like It's A 10 are at the very bottom of the page."
+  }
+}

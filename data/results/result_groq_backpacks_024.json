@@ -1,0 +1,23 @@
+{
+  "experiment_id": "backpacks_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_035",
+      "prod_backpacks_027",
+      "prod_backpacks_051",
+      "prod_backpacks_142",
+      "prod_backpacks_068"
+    ],
+    "final_choice": "prod_backpacks_068",
+    "reasoning_trace": "In this experiment, our goal is to simulate a realistic online shopping session for backpacks. After reviewing the product feed, we selected a consideration set of exactly 5 products worth evaluating seriously. The consideration set includes products with varying features, prices, and ratings. The final choice, 'prod_backpacks_068', is the High Sierra Pathway Internal Frame Hiking Backpack, which has a high rating of 4.7, a large capacity of 70L, and a reasonable price of $109.99. This backpack seems to be a great option for hiking and backpacking trips, with many positive reviews praising its comfort, durability, and features."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_024.json",
+    "offer_set_id": "backpacks_024",
+    "timestamp": 1774974348,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_120",
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_103"
+    ],
+    "final_choice": "prod_bluetooth_speakers_120",
+    "reasoning_trace": "I am looking for a high-quality, reliable portable Bluetooth speaker. I narrowed my choices down to top-tier brands (Sony, JBL, Harman Kardon, B&O) and one well-rated mid-range option (Ortizan). While the B&O and Harman Kardon offer premium sound, the JBL Charge 5 stands out due to its exceptional 4.8-star rating from over 16,000 reviews and its reputation for durability (IP67) and battery life, making it the most versatile and safe investment for general use."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_065.json",
+    "offer_set_id": "bluetooth_speakers_065",
+    "timestamp": 1775591780,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

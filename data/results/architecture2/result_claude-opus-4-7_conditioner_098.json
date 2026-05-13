@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 48,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_098.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_005",
+      "prod_conditioner_176",
+      "prod_conditioner_024",
+      "prod_conditioner_014",
+      "prod_conditioner_298"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions weak (men's product, niche Plum, sample-sized Sol de Janeiro); no clearly strong mainstream option in visible top."
+  }
+}

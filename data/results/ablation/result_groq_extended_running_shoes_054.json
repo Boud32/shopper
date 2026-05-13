@@ -1,0 +1,23 @@
+{
+  "experiment_id": "running_shoes_recommendation",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_160",
+      "prod_running_shoes_100",
+      "prod_running_shoes_139",
+      "prod_running_shoes_124",
+      "prod_running_shoes_145"
+    ],
+    "final_choice": "prod_running_shoes_160",
+    "reasoning_trace": "Based on the product feed, I considered the top-rated running shoes with the highest number of reviews. I shortlisted products with a rating above 4.5 and a review count above 100. The final choice, 'prod_running_shoes_160' (Saucony Unisex-Adult Excursion TR11 Running Shoe), has a rating of 4.6 and 3951 reviews, making it a highly-recommended product. Additionally, it has a detailed description highlighting its great traction and rugged protection, making it suitable for trail running."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/running_shoes/running_shoes_054.json",
+    "offer_set_id": "running_shoes_054",
+    "timestamp": 1772641711,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "extended",
+    "k": 5
+  }
+}

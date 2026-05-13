@@ -1,0 +1,23 @@
+{
+  "experiment_id": "mechanical_keyboards",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_171",
+      "prod_mechanical_keyboards_119",
+      "prod_mechanical_keyboards_036",
+      "prod_mechanical_keyboards_168",
+      "prod_mechanical_keyboards_174"
+    ],
+    "final_choice": "prod_mechanical_keyboards_168",
+    "reasoning_trace": "I selected the Hexgears Impulse as the final choice because it has a high rating of 4.6 and a large number of reviews (166), indicating a high level of customer satisfaction. Additionally, it is a hot-swappable keyboard, which provides flexibility and customization options for users. The consideration set includes a mix of high-end and mid-range keyboards with different features, such as wireless connectivity, customizable backlighting, and different switch types. The Hexgears Impulse stands out for its excellent build quality, clicky and positive return, and good value for the price."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_130.json",
+    "offer_set_id": "mechanical_keyboards_130",
+    "timestamp": 1772654452,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

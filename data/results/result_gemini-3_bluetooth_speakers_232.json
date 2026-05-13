@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_192",
+      "prod_bluetooth_speakers_002",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_084"
+    ],
+    "final_choice": "prod_bluetooth_speakers_084",
+    "reasoning_trace": "After filtering out the non-speaker accessories (cases, power cords, and wall shelves), I selected five actual speakers that spanned different price points and use cases. I considered the premium Bang & Olufsen (prod_195) for top-tier audio, the JBL Clip 3 (prod_002) for rugged portability, and the EWA (prod_192) for its ultra-compact form factor. I also looked at the high-wattage BOGASING (prod_174). Ultimately, I chose the Philips BT6000B (prod_084) because it offers a 360-degree sound experience and splash-proofing at a very competitive price. The reviews specifically highlighted its exceptional sound quality ('an orgasm for the ears'), making it the best balance of price and immersive performance in the set."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_232.json",
+    "offer_set_id": "bluetooth_speakers_232",
+    "timestamp": 1775595576,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

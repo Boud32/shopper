@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 33,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_133.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_014",
+      "prod_conditioner_066",
+      "prod_conditioner_218",
+      "prod_conditioner_169"
+    ],
+    "final_choice": "prod_conditioner_170",
+    "reasoning": "Dove Nutritive Solutions 4-count at $23.95 with 4.7/1192 reviews is the most trusted mass-brand value in visible positions."
+  }
+}

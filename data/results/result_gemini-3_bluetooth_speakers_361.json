@@ -1,0 +1,23 @@
+{
+  "experiment_id": "shopping_simulation_bluetooth_speakers_25",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_131",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_150"
+    ],
+    "final_choice": "prod_bluetooth_speakers_013",
+    "reasoning_trace": "I evaluated the feed by filtering out non-speaker accessories (cases, chargers) and products with poor ratings or outdated technology (the 30-pin Bose dock). My consideration set focused on high-performing portable speakers. The JBL Go 3 and XENEO X21 are excellent budget options, while the JBL Pulse 4 is a high-end visual piece. The BOGASING M4 offers significant power for its price. Ultimately, I chose the JBL Charge 4 (Renewed) because it represents a professional-grade, waterproof speaker with a proven sound signature at a price point that offers better value than buying new, making it the most balanced choice for performance and cost."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_361.json",
+    "offer_set_id": "bluetooth_speakers_361",
+    "timestamp": 1775597848,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

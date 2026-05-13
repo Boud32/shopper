@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_137",
+      "prod_backpacks_164",
+      "prod_backpacks_102",
+      "prod_backpacks_055",
+      "prod_backpacks_048"
+    ],
+    "final_choice": "prod_backpacks_164",
+    "reasoning_trace": "I evaluated a range of specialized backpacks including a large 70L hiking pack, a 45L tactical rucksack, an insulated cooler backpack, a disc golf bag, and a travel sling bag. I ultimately chose the W WINTMING tactical backpack (prod_backpacks_164) because it offers a versatile 45L capacity suitable for multiple outdoor activities, features waterproof construction, and maintains a strong 4.6 rating at a mid-range price point of $47.99, representing the best value for a general-purpose outdoor pack in this selection."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_295.json",
+    "offer_set_id": "backpacks_295",
+    "timestamp": 1775596595,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

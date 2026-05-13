@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_session",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_173",
+      "prod_bluetooth_speakers_189",
+      "prod_bluetooth_speakers_158",
+      "prod_bluetooth_speakers_126"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "In this session, I evaluated a mix of budget-friendly portable speakers, a high-end multi-room speaker, and specialized conference equipment. While the EDUPLINK (051) and comiso (173) show strong user ratings for their price point, the product feed contains a high number of accessories like cases and adapters for brands not actually available in the speaker list (like JBL and Bose). The Audio Pro (158) is outside of my budget for a portable device, and the Jabra (189) is optimized for office telephony rather than music. Given the lack of mid-range offerings from established consumer audio brands, I have decided to postpone my purchase until a better variety of high-fidelity portable options is available."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_384.json",
+    "offer_set_id": "bluetooth_speakers_384",
+    "timestamp": 1775598232,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 9,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_109.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_057",
+      "prod_protein_powder_059",
+      "prod_protein_powder_181",
+      "prod_protein_powder_038",
+      "prod_protein_powder_052"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "No single product has both strong positioning and overwhelming social proof \u2014 the highest-rated options all have fewer than 1,300 reviews."
+  }
+}

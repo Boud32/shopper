@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 27,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_077.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_176",
+      "prod_conditioner_026",
+      "prod_conditioner_088",
+      "prod_conditioner_245",
+      "prod_conditioner_076"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top of page dominated by niche bars and weak items; nothing at the top is strong enough to beat what another search could easily yield."
+  }
+}

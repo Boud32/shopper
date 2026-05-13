@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 32,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_082.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_130",
+      "prod_conditioner_005",
+      "prod_conditioner_011",
+      "prod_conditioner_024",
+      "prod_conditioner_015"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top is weak (bulk gallon refills, thin-review options); nothing at the top is a clearly compelling mainstream pick."
+  }
+}

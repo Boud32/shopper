@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_purchase",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_007",
+      "prod_backpacks_081",
+      "prod_backpacks_137",
+      "prod_backpacks_006",
+      "prod_backpacks_050"
+    ],
+    "final_choice": "prod_backpacks_007",
+    "reasoning_trace": "Based on the provided product feed, a consideration set of 5 products was selected based on factors like price, rating, and reviews. The Dry Bag by FITNATE stood out due to its high rating of 4.7, affordable price of $9.49, and positive reviews highlighting its quality and usefulness for outdoor activities like kayaking and hiking. Although other products in the consideration set, such as the Monvecle Hydration Pack and the HIKPRO 20L Backpack, had their strengths, the Dry Bag's unique features and exceptional value for money made it the final choice."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_031.json",
+    "offer_set_id": "backpacks_031",
+    "timestamp": 1774974365,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 19,
+    "timestamp": 1776689265,
+    "source_batch": "data/offer_sets/conditioner/conditioner_019.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_280",
+      "prod_conditioner_023",
+      "prod_conditioner_016",
+      "prod_conditioner_169"
+    ],
+    "final_choice": "prod_conditioner_170",
+    "reasoning": "Dove Nutritive Solutions at 4.7 stars with 1192 reviews is the strongest visible mainstream option."
+  }
+}

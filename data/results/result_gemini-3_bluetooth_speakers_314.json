@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_071",
+      "prod_bluetooth_speakers_153",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_129"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The search results for Bluetooth speakers were heavily cluttered with accessories such as wall shelves, carrying cases, and charging cables, which made the actual product comparison more difficult. Within the consideration set, the premium options like the JBL Flip 5 and the Bose SoundLink Color are reliable but carry a higher price point. Conversely, the more affordable 20W and 30W options from brands like Raymate and INSMY, while well-rated, show occasional critical reviews regarding battery longevity and quality control (e.g., dead on arrival). Given the mix of high-priced premium brands and slightly risky budget models, I have decided not to make a purchase in this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_314.json",
+    "offer_set_id": "bluetooth_speakers_314",
+    "timestamp": 1775596910,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

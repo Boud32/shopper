@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 38,
+    "timestamp": 1776650226,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_188.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_251",
+      "prod_laundry_detergent_162",
+      "prod_laundry_detergent_293",
+      "prod_laundry_detergent_215",
+      "prod_laundry_detergent_166"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top five positions are LG sheets, Zum, Zote flakes, 4.1\u2605 Rebel Green, Kirkland pacs \u2014 no compelling mainstream option visible at the top."
+  }
+}

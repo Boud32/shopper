@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "",
+    "architecture": "frontend",
+    "session_position": 29,
+    "timestamp": 1776377218,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_029.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_195",
+      "prod_protein_powder_065",
+      "prod_protein_powder_063",
+      "prod_protein_powder_128",
+      "prod_protein_powder_052"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Without flagship brands like BSN, ALLMAX, or Legion at standout prices, no option strongly justifies a purchase over waiting."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_sim_21",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_068",
+      "prod_backpacks_057",
+      "prod_backpacks_107",
+      "prod_backpacks_038",
+      "prod_backpacks_169"
+    ],
+    "final_choice": "prod_backpacks_057",
+    "reasoning_trace": "During this session, I reviewed 25 products, many of which were camping accessories rather than actual backpacks. I focused my consideration set on five diverse backpack options: a large 70L hiking pack (High Sierra), two tactical/military style packs (QT&QY and Seibertron), a durable everyday carry bag (Maxpedition), and a specialized hydration vest (INOXTO). The High Sierra 70L was an option for serious hiking, but some reviews mentioned issues with back support design. The INOXTO vest had some concerning reviews regarding straps unraveling. Between the tactical packs, the QT&QY 45L stood out significantly due to its high rating (4.7) and massive volume of positive feedback (over 6,000 reviews). At $39.99, it offers excellent value for a durable, high-capacity bag with waterproof features and a MOLLE system, making it the most reliable choice in this set."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_478.json",
+    "offer_set_id": "backpacks_478",
+    "timestamp": 1775605652,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

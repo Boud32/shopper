@@ -1,0 +1,23 @@
+{
+  "experiment_id": "backpacks_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_164",
+      "prod_backpacks_197",
+      "prod_backpacks_006",
+      "prod_backpacks_169",
+      "prod_backpacks_145"
+    ],
+    "final_choice": "prod_backpacks_006",
+    "reasoning_trace": "The consideration set was chosen based on the product's category, customer reviews, price, and overall rating. The final choice, 'prod_backpacks_006', was selected because it is a highly-rated backpack with a low price point and positive customer reviews, making it a great value for the customer."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_015.json",
+    "offer_set_id": "backpacks_015",
+    "timestamp": 1774974326,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

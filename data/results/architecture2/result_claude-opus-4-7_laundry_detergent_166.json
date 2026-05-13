@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 16,
+    "timestamp": 1776650226,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_166.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_102",
+      "prod_laundry_detergent_287",
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_185",
+      "prod_laundry_detergent_024"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak (sheets, travel soap, overpriced specialty) and only middle positions have mainstream brands \u2014 not compelling enough."
+  }
+}

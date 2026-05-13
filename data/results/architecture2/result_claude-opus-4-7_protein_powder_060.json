@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 10,
+    "timestamp": 1776640082,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_060.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_041",
+      "prod_protein_powder_172",
+      "prod_protein_powder_060",
+      "prod_protein_powder_169",
+      "prod_protein_powder_189"
+    ],
+    "final_choice": "prod_protein_powder_041",
+    "reasoning": "Legion Whey+ is a grass-fed clean whey isolate at $44.99 with 4.5 stars and 5,072 reviews at a prominent p2 placement \u2014 strong value."
+  }
+}

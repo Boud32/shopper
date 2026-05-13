@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_06",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_179"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several high-quality options. The JBL Flip 5 and Sony SRS-XB43 are both top-tier choices with excellent ratings. However, the Sony is a bit larger and more expensive than I intended for a portable unit, and while the JBL Flip 5 is great, I was specifically hoping to find the newer Flip 6 or a brand-new Charge 5. The Charge 4 provided in the feed is a renewed model, which I am hesitant to purchase for a battery-powered device. The budget options like EDUPLINK and Oraolo are well-rated but I am concerned about long-term audio fidelity. Given the clutter of accessories (cases, shelves, and cables) in the search results, I haven't found the specific new-generation model I was looking for, so I've decided not to make a purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_006.json",
+    "offer_set_id": "bluetooth_speakers_006",
+    "timestamp": 1775590625,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

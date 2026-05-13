@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_v1",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_006",
+      "prod_backpacks_164",
+      "prod_backpacks_128",
+      "prod_backpacks_016",
+      "prod_backpacks_054"
+    ],
+    "final_choice": "prod_backpacks_006",
+    "reasoning_trace": "During this shopping session for backpacks, I encountered many specialized items such as backpack beach chairs, backpacking tents, and even a paddle board with a backpack. I filtered these out to focus on actual storage backpacks. My consideration set includes a highly portable 20L packable daypack, a 45L tactical rucksack, a durable adidas mesh backpack, a baseball gear bag, and a leather sling bag. I ultimately chose the HIKPRO 20L packable backpack (prod_backpacks_006) because of its exceptional 4.7 rating and nearly 3,000 positive reviews, which highlight its durability and convenience for travel and hiking at an affordable $17.99 price point."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_317.json",
+    "offer_set_id": "backpacks_317",
+    "timestamp": 1775596945,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 1,
+    "timestamp": 1776650226,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_151.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_162",
+      "prod_laundry_detergent_185",
+      "prod_laundry_detergent_254",
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_107"
+    ],
+    "final_choice": "prod_laundry_detergent_162",
+    "reasoning": "Tide Plus Febreze at $59.97 has an overwhelming 36,566 reviews at 4.7\u2605 and is a trusted mainstream brand in a high-visibility position."
+  }
+}

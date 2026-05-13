@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_shopping_bt_speakers_25",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_158",
+      "prod_bluetooth_speakers_084"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was looking for a high-quality portable Bluetooth speaker, but the product feed was significantly cluttered with non-speaker items such as carrying cases, protective covers, and charging cables (making up nearly 40% of the results). Among the actual speakers, the premium options like the Audio Pro C10 were a bit too expensive at over $400 for an impulsive online purchase, while the mid-range Sony SRS-XB43 is a solid contender but felt slightly outdated compared to current market standards. Several of the more affordable options like the DOSS Traveler had concerning reviews regarding long-term durability and volume loss after a few months. Given the mix of accessory clutter and mixed reviews on the mid-range hardware, I have decided to postpone my purchase and look for more current reviews on the Sony or wait for a sale on a more modern premium unit."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_289.json",
+    "offer_set_id": "bluetooth_speakers_289",
+    "timestamp": 1775596520,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

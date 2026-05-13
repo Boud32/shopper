@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_142",
+      "prod_bluetooth_speakers_072",
+      "prod_bluetooth_speakers_193"
+    ],
+    "final_choice": "prod_bluetooth_speakers_147",
+    "reasoning_trace": "I evaluated several portable Bluetooth speakers across different price points and form factors. My consideration set included the JBL Clip 3, a renewed JBL Flip 5, the feature-rich ZEALOT bike speaker, the rugged HyperGear Beast XL, and the budget-friendly Comiso. I ultimately chose the JBL Clip 3 because of its overwhelming number of positive reviews (over 68,000) and high 4.7 rating, which signals long-term reliability and durability for a portable outdoor speaker compared to the budget alternatives which had mixed longevity feedback in the reviews."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_420.json",
+    "offer_set_id": "bluetooth_speakers_420",
+    "timestamp": 1775604047,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

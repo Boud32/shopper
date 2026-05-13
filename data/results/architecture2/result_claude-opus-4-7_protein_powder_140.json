@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 40,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_140.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_088",
+      "prod_protein_powder_006",
+      "prod_protein_powder_027",
+      "prod_protein_powder_076",
+      "prod_protein_powder_053"
+    ],
+    "final_choice": "prod_protein_powder_088",
+    "reasoning": "Naked Whey at position 1 offers 3-ingredient grass-fed whey with 4.3\u2605 and 14,207 reviews at an affordable $23.99 for 1lb."
+  }
+}

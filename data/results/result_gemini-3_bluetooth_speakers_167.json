@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_sim_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_037",
+      "prod_bluetooth_speakers_048",
+      "prod_bluetooth_speakers_032"
+    ],
+    "final_choice": "prod_bluetooth_speakers_013",
+    "reasoning_trace": "I filtered the list for actual speakers rather than accessories like cases or straps. My consideration set includes a high-end home setup (Edifier), a mid-range performance speaker (DOSS), a reliable refurbished brand name (JBL), and two budget/novelty options (comiso and AOLWEEC). I chose the JBL Charge 4 (Renewed) because it provides the best performance-to-price ratio from a reputable audio brand. Although it is renewed, the rating is very high and the price point of $89.95 is competitive with the DOSS while offering better brand recognition and expected sound signature."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_167.json",
+    "offer_set_id": "bluetooth_speakers_167",
+    "timestamp": 1775594389,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

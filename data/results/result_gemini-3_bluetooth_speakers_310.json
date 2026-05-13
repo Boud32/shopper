@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speaker_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_049",
+      "prod_bluetooth_speakers_177",
+      "prod_bluetooth_speakers_192"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several well-regarded speakers including the Sony SRS-XB43 and the Bose SoundLink Color II. While the Sony speaker boasts high ratings and a robust build, its weight and higher price point make it less ideal for my specific travel needs. The Bose SoundLink is a trusted name, but recent reviews mentioning battery failures and short product lifespans after just one year are concerning. The INSMY and TENMIYA units offer interesting designs and features like wood enclosures and double subwoofers, but I am hesitant to invest in these brands without more consistent long-term feedback. The EWA mini speaker is impressive for its size but lacks the full-range audio I require for a primary speaker. Given these trade-offs, I have decided to continue my search elsewhere."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_310.json",
+    "offer_set_id": "bluetooth_speakers_310",
+    "timestamp": 1775596859,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

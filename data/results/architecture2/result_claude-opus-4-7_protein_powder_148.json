@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 48,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_148.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_172",
+      "prod_protein_powder_130",
+      "prod_protein_powder_067",
+      "prod_protein_powder_155",
+      "prod_protein_powder_016"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "No product combines top positioning with strong value \u2014 the best options are all at mid-positions and nothing clearly beats typical alternatives."
+  }
+}

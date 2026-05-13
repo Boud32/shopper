@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 14,
+    "timestamp": 1776650226,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_164.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_180",
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_132",
+      "prod_laundry_detergent_296",
+      "prod_laundry_detergent_030"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions filled with expensive, weakly-rated, or niche products; the shopper would need to scroll past many low-signal items to reach good options."
+  }
+}

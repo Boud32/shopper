@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_session_160",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_137",
+      "prod_backpacks_050",
+      "prod_backpacks_132",
+      "prod_backpacks_168",
+      "prod_backpacks_102"
+    ],
+    "final_choice": null,
+    "reasoning_trace": "I was primarily looking for a high-capacity internal frame backpack for hiking, specifically evaluating the Mardingtop 70L (prod_backpacks_137). However, multiple reviews regarding poor build quality and issues with the refund process are highly discouraging. I also considered the G4Free tactical backpack (prod_backpacks_050) as a secondary option, but a review indicating it failed after only six months of use suggests it might not be durable enough for long-term outdoor activities. The hydration pack (prod_backpacks_132) and various sling bags evaluated are well-rated but do not meet my current requirement for a primary large-capacity pack. Given the quality concerns on the larger backpacks in this feed, I have decided not to make a purchase."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_246.json",
+    "offer_set_id": "backpacks_246",
+    "timestamp": 1775595732,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

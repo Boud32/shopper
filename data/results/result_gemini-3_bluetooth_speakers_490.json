@@ -1,0 +1,23 @@
+{
+  "experiment_id": "realistic_shopping_bt_speakers_001",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_181",
+      "prod_bluetooth_speakers_116",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_128"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated several high-performing speakers across different price points, focusing on top-rated models from Sony, Harman Kardon, and Bose, along with a high-value option from INSMY. While the Sony SRS-XB43 and Harman Kardon Onyx Studio 6 offer superior 4.7 ratings, both are noted in reviews as being quite heavy, which limits the portability I am looking for. The B&O Beosound A1 is a premium choice but the price-to-battery ratio is a concern. Additionally, a critical review for the Bose SoundLink Color II mentioning a short lifespan made me hesitant about its long-term reliability. Despite the INSMY being an excellent value pick, I was primarily looking for a high-fidelity premium speaker and wasn't fully convinced by the durability or portability trade-offs of the current selection, so I have decided not to make a purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_490.json",
+    "offer_set_id": "bluetooth_speakers_490",
+    "timestamp": 1775605148,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

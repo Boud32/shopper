@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 28,
+    "timestamp": 1776650225,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_078.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_042",
+      "prod_laundry_detergent_296",
+      "prod_laundry_detergent_107",
+      "prod_laundry_detergent_145",
+      "prod_laundry_detergent_195"
+    ],
+    "final_choice": "prod_laundry_detergent_042",
+    "reasoning": "Seventh Generation Baby at top position, $30.77 with 4.6/9,033 reviews \u2014 well-reviewed mainstream option in the most visible spot."
+  }
+}

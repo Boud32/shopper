@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_session_001",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_164",
+      "prod_backpacks_140",
+      "prod_backpacks_154",
+      "prod_backpacks_125",
+      "prod_backpacks_174"
+    ],
+    "final_choice": "prod_backpacks_164",
+    "reasoning_trace": "In this shopping session, I evaluated several types of bags including tactical backpacks, sling bags, cooler packs, and premium winter gear. I prioritized finding a versatile, high-capacity backpack for multi-day use. The USWE Hajker was too specialized and expensive for my current needs. The NICGID sling and IDRYBAG are good for specific tasks (travel and water activities) but lack the overall capacity for a full gear load. The TOURIT cooler bag is useful but had concerning reviews regarding durability and leaks. I ultimately chose the W WINTMING 45L Tactical Backpack because it offers significant storage capacity (45L) and waterproof capabilities at a reasonable price point. Although one user reported a buckle issue, the majority of reviews highlight its sturdiness and value as an assault pack or bug-out bag."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_137.json",
+    "offer_set_id": "backpacks_137",
+    "timestamp": 1775593415,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

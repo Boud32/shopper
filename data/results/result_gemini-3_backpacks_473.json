@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_shopping_1",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_199",
+      "prod_backpacks_164",
+      "prod_backpacks_194",
+      "prod_backpacks_003",
+      "prod_backpacks_007"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The search results were cluttered with many items that were not actually backpacks, such as hand warmers, sleeping pads, and beach chairs. Among the actual backpacks, the premium Osprey Exos 58 had concerning reviews regarding a 'flimsy suspension' for its high price point ($241.47). The mid-range tactical options like the W WINTMING 45L and the FAMI sling bag had several reviews highlighting durability issues, such as broken buckles and loose stitching. The dry bag options (Piscifun and FITNATE) were decent for specific water activities but lacked the comfort and organizational features needed for a primary daily or hiking backpack. Given the mixed quality and limited selection of high-performance packs, I decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_473.json",
+    "offer_set_id": "backpacks_473",
+    "timestamp": 1775605580,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

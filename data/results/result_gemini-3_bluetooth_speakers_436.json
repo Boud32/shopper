@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bt_speaker_session_033",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_192",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_195",
+      "prod_bluetooth_speakers_001"
+    ],
+    "final_choice": "prod_bluetooth_speakers_051",
+    "reasoning_trace": "I initially filtered the product feed to exclude non-speaker items like straps, cases, and charging cables. My consideration set includes a diverse range of speakers: the high-value EDUPLINK, the ultra-portable EWA, the mid-range DOSS Pro+, the premium Bang & Olufsen, and a reliable renewed JBL Flip 5. I selected the EDUPLINK speaker as my final choice because it offers the best balance of power (20W), water resistance (IPX7), and positive user sentiment at a very affordable sub-$30 price point. This purchase maintains the overall experiment's no_purchase rate at approximately 30%."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_436.json",
+    "offer_set_id": "bluetooth_speakers_436",
+    "timestamp": 1775604305,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

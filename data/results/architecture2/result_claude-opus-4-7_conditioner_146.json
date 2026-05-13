@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 46,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_146.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_218",
+      "prod_conditioner_078",
+      "prod_conditioner_097",
+      "prod_conditioner_027"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle bundle at $17.99 with 4.7/5134 reviews at visible position 7 is the best proven value among visible options."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_selection_1",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_043",
+      "prod_backpacks_173",
+      "prod_backpacks_096",
+      "prod_backpacks_196",
+      "prod_backpacks_051"
+    ],
+    "final_choice": "prod_backpacks_043",
+    "reasoning_trace": "I evaluated a range of products within the backpack category, excluding accessories like towels or tinder. My consideration set includes a high-end tactical pack (Maxpedition), a technical daypack (KAILAS), a packable lightweight option (ZOMAKE), a hydration-focused pack (Lunidry), and a popular sling bag (MOSISO). I chose the KAILAS 28L because it offers the most versatile feature set for serious hiking, including an internal frame and suspension system, and it is highly regarded by reviewers as a cost-effective alternative to premium brands like Osprey."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_237.json",
+    "offer_set_id": "backpacks_237",
+    "timestamp": 1775595602,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

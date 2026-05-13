@@ -1,0 +1,23 @@
+{
+  "experiment_id": "running_shoes",
+  "decision": {
+    "consideration_set": [
+      "prod_running_shoes_114",
+      "prod_running_shoes_193",
+      "prod_running_shoes_158",
+      "prod_running_shoes_099",
+      "prod_running_shoes_124"
+    ],
+    "final_choice": "prod_running_shoes_114",
+    "reasoning_trace": "Based on the customer's interest in running shoes, I considered products with high ratings, relevance to running, and positive reviews. The ASICS Women's Gel-Nimbus 18 Running Shoe (prod_running_shoes_114) stands out due to its high rating (4.5), extensive positive reviews mentioning comfort and performance, and its specific design for running. Similarly, ASICS Men's Gel-Contend 5 Running Shoes (prod_running_shoes_193), ASICS Men's Noosa Tri 13 Running Shoes (prod_running_shoes_158), Xero Shoes Men's HFS Running Shoes (prod_running_shoes_099), and Brooks Women's Ghost 14 Neutral Running Shoe (prod_running_shoes_124) were selected for their high ratings, comfort, and suitability for running. Among these, prod_running_shoes_114 is chosen as the final recommendation due to its balanced features, customer satisfaction, and the brand's reputation for producing high-quality running shoes."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/running_shoes/running_shoes_011.json",
+    "offer_set_id": "running_shoes_011",
+    "timestamp": 1772641550,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "extended",
+    "k": 5
+  }
+}

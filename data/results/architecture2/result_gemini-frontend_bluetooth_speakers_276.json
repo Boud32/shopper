@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 276,
+    "timestamp": 1776096127,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_276.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_015",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_001",
+      "prod_bluetooth_speakers_072"
+    ],
+    "final_choice": "prod_bluetooth_speakers_015",
+    "reasoning": "The EDYELL Hat with Bluetooth Speaker Adjustable Bluet... offers the best balance of high customer ratings, significant review volume, and competitive pricing."
+  }
+}

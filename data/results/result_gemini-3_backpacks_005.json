@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping_01",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_128",
+      "prod_backpacks_111",
+      "prod_backpacks_096",
+      "prod_backpacks_184",
+      "prod_backpacks_173"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was looking for a versatile, high-quality everyday backpack, but the results were heavily skewed toward specialized gear like baseball bags, fishing packs, and snorkeling equipment. In my consideration set, the adidas bag was mesh-only which limits its utility, the Maxpedition was too expensive for my current budget, and the more affordable options like the KAUKKO and SHENHU had several reviews mentioning strap failures or durability issues. Given that the feed also included non-backpack items like hammocks and camping stools, I felt the selection of quality general-purpose packs was too limited to make a confident purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_005.json",
+    "offer_set_id": "backpacks_005",
+    "timestamp": 1774977712,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

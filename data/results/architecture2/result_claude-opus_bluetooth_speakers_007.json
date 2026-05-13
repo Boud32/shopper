@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus",
+    "model": "claude-opus-4-6",
+    "architecture": "frontend",
+    "session_position": 7,
+    "timestamp": 1776109205,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_007.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_131",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_048",
+      "prod_bluetooth_speakers_051",
+      "prod_bluetooth_speakers_040"
+    ],
+    "final_choice": "prod_bluetooth_speakers_008",
+    "reasoning": "The DOSS SoundBox Pro+ at $89.99 with 4.6 stars and 6,420 reviews delivers strong wireless sound at a mid-range price from a well-reviewed brand."
+  }
+}

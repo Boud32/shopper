@@ -1,0 +1,23 @@
+{
+  "experiment_id": "backpacks",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_156",
+      "prod_backpacks_006",
+      "prod_backpacks_057",
+      "prod_backpacks_174",
+      "prod_backpacks_152"
+    ],
+    "final_choice": "prod_backpacks_006",
+    "reasoning_trace": "I selected a consideration set of 5 products with high ratings and relevant features for backpacks. The final choice, 'prod_backpacks_006', is the HIKPRO 20L packable backpack, which has a high rating of 4.7, over 2800 reviews, and is described as durable, lightweight, and water-resistant, making it suitable for hiking, travel, and daily use."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_014.json",
+    "offer_set_id": "backpacks_014",
+    "timestamp": 1774974324,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

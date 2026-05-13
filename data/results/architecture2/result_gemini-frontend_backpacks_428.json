@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-frontend",
+    "model": "gemini-2.5-flash",
+    "architecture": "frontend",
+    "session_position": 428,
+    "timestamp": 1776098609,
+    "source_batch": "data/offer_sets/backpacks/backpacks_428.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_066",
+      "prod_backpacks_053",
+      "prod_backpacks_050",
+      "prod_backpacks_015",
+      "prod_backpacks_089"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The options in this set are either overpriced for their specifications or have mediocre user ratings."
+  }
+}

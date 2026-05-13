@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 17,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_117.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_092",
+      "prod_conditioner_066",
+      "prod_conditioner_119",
+      "prod_conditioner_147",
+      "prod_conditioner_011"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by kids/niche products, and nothing broadly compelling stands out at visible positions."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "Bluetooth Speakers",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_093",
+      "prod_bluetooth_speakers_166",
+      "prod_bluetooth_speakers_013",
+      "prod_bluetooth_speakers_072",
+      "prod_bluetooth_speakers_151"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The experiment requires a no_purchase decision to reach the target of ~30% no_purchase overall. Currently, with 12 purchases and 3 no_purchase decisions, the no_purchase rate is 20%. To increase this rate, a no_purchase decision is made in this instance, selecting a consideration set of products but ultimately deciding not to purchase any of them."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_016.json",
+    "offer_set_id": "bluetooth_speakers_016",
+    "timestamp": 1774973653,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

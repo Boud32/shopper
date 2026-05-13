@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_137",
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_008",
+      "prod_bluetooth_speakers_131",
+      "prod_bluetooth_speakers_158"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated a range of speakers from the ultra-portable JBL Go 3 to the high-end Audio Pro Addon C10 MKII. The Bose SoundLink Color II was a strong contender due to its brand reputation, but a verified review mentioning it died after one year gave me pause regarding its longevity. The DOSS SoundBox Pro+ appeared to be a great value overall pick, yet I was looking for something with a more distinct aesthetic or superior battery life than what was listed. The premium options like the JBL Pulse 4 were enticing due to the light show but felt overpriced for the sound performance described. Ultimately, I did not find a speaker that perfectly balanced price, sound quality, and long-term reliability in this selection, so I chose not to purchase at this time."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_169.json",
+    "offer_set_id": "bluetooth_speakers_169",
+    "timestamp": 1775594412,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

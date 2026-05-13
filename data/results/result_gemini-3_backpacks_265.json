@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_006",
+      "prod_backpacks_057",
+      "prod_backpacks_164",
+      "prod_backpacks_068",
+      "prod_backpacks_194"
+    ],
+    "final_choice": "prod_backpacks_057",
+    "reasoning_trace": "I initially filtered out accessories like cooking gear, water bottles, and patches to focus on actual backpacks. Within the backpack category, I looked for products with high ratings and high review volumes to ensure quality. My consideration set includes a mix of lightweight packable bags, large tactical assault packs, and internal frame hiking packs. The QT&QY 45L Tactical Backpack (prod_backpacks_057) is the final choice because it offers an exceptional balance of features, including a high 4.7-star rating with over 6,000 reviews, large capacity, and a very competitive price of $39.99. This makes it a more robust and versatile choice than the packable daypacks or the more expensive internal frame models."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_265.json",
+    "offer_set_id": "backpacks_265",
+    "timestamp": 1775596084,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

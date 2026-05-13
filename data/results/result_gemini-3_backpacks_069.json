@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_session_001",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_173",
+      "prod_backpacks_140",
+      "prod_backpacks_199",
+      "prod_backpacks_050",
+      "prod_backpacks_099"
+    ],
+    "final_choice": "prod_backpacks_173",
+    "reasoning_trace": "During this shopping session, I narrowed my selection to products specifically functioning as backpacks. I included a mix of lightweight daypacks (ZOMAKE), tactical shoulder bags (G4Free), specialized waterproof dry bags (Piscifun), and sling bags (NICGID). I ultimately selected the ZOMAKE 20L Ultra Lightweight Hiking Backpack (prod_backpacks_173) because of its exceptional value, high rating (4.6), and the significant social proof provided by over 14,000 reviews. It serves as a highly versatile and reliable pack for the price."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_069.json",
+    "offer_set_id": "backpacks_069",
+    "timestamp": 1775590800,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "",
+    "architecture": "frontend",
+    "session_position": 44,
+    "timestamp": 1776377218,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_044.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_028",
+      "prod_protein_powder_130",
+      "prod_protein_powder_155",
+      "prod_protein_powder_070",
+      "prod_protein_powder_134"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Options are either overpriced (Muscle Feast, Mutant ISO Surge) or don't offer the flagship-at-great-value combo worth committing to."
+  }
+}

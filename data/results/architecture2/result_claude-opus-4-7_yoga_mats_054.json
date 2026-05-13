@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 4,
+    "timestamp": 1776691124,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_054.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_055",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_097"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The strongest option is a generic-branded listing, and none of the well-known brands offer a compelling combination of price and reviews worth committing to over a different search."
+  }
+}

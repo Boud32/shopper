@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_129",
+      "prod_bluetooth_speakers_192",
+      "prod_bluetooth_speakers_002"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I was looking for a reliable, high-performance portable speaker. My consideration set included a range of options from premium home audio (Sony SRS-RA3000) to ultra-portable mini speakers (EWA, JBL). The Sony was impressive but ultimately too stationary and expensive for my current outdoor-focused needs. While the JBL Go 3 is a brand I trust, some user reviews mentioned short battery life. The INSMY and EWA units offered great value, but I felt hesitant about the long-term durability of these budget-tier brands. The JBL Clip 3 was an attractive option, but its status as a 'renewed' product made me cautious about potential battery degradation. Additionally, a significant portion of the product feed consisted of accessories like carrying cases and silicone covers rather than actual speakers, which limited the selection of new mid-to-high range devices. Consequently, I decided to wait for a broader selection or a better sale."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_132.json",
+    "offer_set_id": "bluetooth_speakers_132",
+    "timestamp": 1775593871,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

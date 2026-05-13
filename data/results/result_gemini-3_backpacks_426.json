@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_107",
+      "prod_backpacks_078",
+      "prod_backpacks_050",
+      "prod_backpacks_199",
+      "prod_backpacks_041"
+    ],
+    "final_choice": "prod_backpacks_107",
+    "reasoning_trace": "After filtering through several accessory items like patches, blankets, and tools, I focused on the actual backpacks available in the feed. The consideration set includes a range of options from ultralight (Granite Gear) to tactical (Seibertron and G4Free) and hydration-specific (Gelindo) or waterproof (Piscifun) bags. I ultimately chose the Seibertron Falcon (prod_backpacks_107) as it offers a robust 37L capacity and has excellent reviews regarding its versatility and durability for its $59.99 price point. Other options like the Granite Gear had worrying reviews about strap failure, and the G4Free had reports of breaking under school-use loads, making the Seibertron the most reliable choice in the set."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_426.json",
+    "offer_set_id": "backpacks_426",
+    "timestamp": 1775598696,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

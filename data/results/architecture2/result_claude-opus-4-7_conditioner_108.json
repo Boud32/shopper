@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 8,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_108.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_241",
+      "prod_conditioner_097",
+      "prod_conditioner_040",
+      "prod_conditioner_023",
+      "prod_conditioner_014"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top position is a niche purple toner and the rest of the visible set is fragmented across specialty products; no standout general-use pick."
+  }
+}

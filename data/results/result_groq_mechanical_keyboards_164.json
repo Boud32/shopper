@@ -1,0 +1,23 @@
+{
+  "experiment_id": "mechanical_keyboards",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_103",
+      "prod_mechanical_keyboards_126",
+      "prod_mechanical_keyboards_088",
+      "prod_mechanical_keyboards_141",
+      "prod_mechanical_keyboards_171"
+    ],
+    "final_choice": "prod_mechanical_keyboards_103",
+    "reasoning_trace": "The customer is looking for a mechanical keyboard. Based on the product feed, I considered products with high ratings, relevant features, and positive reviews. The top 5 products in the consideration set are keycap sets or individual keyboards with good reviews and high ratings. However, since the customer is looking to buy a mechanical keyboard, I chose 'prod_mechanical_keyboards_103' as the final choice, which is a keycap set with a high rating and positive reviews, suitable for mechanical keyboards."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_164.json",
+    "offer_set_id": "mechanical_keyboards_164",
+    "timestamp": 1772654797,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

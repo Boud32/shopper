@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_shopping_006",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_072",
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_030",
+      "prod_bluetooth_speakers_040"
+    ],
+    "final_choice": "prod_bluetooth_speakers_128",
+    "reasoning_trace": "I evaluated the options based on sound output (wattage), durability (waterproof ratings), and overall consumer sentiment. The consideration set includes a high-end multi-room system (Sonos), a powerful mid-range rugged speaker (BOGASING), and several value-oriented portable options. I ultimately chose the INSMY Portable Bluetooth Speaker (prod_bluetooth_speakers_128) because it offers the best balance of features: an IPX7 waterproof rating, 20W output, 24-hour battery life, and an exceptionally high rating of 4.6 across over 6,500 reviews, making it a very reliable purchase for its price point of $29.99."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_136.json",
+    "offer_set_id": "bluetooth_speakers_136",
+    "timestamp": 1775595242,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

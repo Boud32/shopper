@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 42,
+    "timestamp": 1776640083,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_192.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_135",
+      "prod_protein_powder_187",
+      "prod_protein_powder_099",
+      "prod_protein_powder_092",
+      "prod_protein_powder_158"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by weak options (Gatorade packets, Keto Green $99.95 with 64 reviews, PlantFusion meal replacement 4.1) with no clearly compelling standard protein option."
+  }
+}

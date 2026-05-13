@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 13,
+    "timestamp": 1776689267,
+    "source_batch": "data/offer_sets/conditioner/conditioner_163.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_169",
+      "prod_conditioner_241",
+      "prod_conditioner_024",
+      "prod_conditioner_140"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Garnier Whole Blends at $15.98 with 4.7\u2605/8445 reviews at a prominent position 5 is a proven affordable mainstream choice."
+  }
+}

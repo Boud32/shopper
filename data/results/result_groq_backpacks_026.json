@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_placeholder",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_122",
+      "prod_backpacks_072",
+      "prod_backpacks_153",
+      "prod_backpacks_182",
+      "prod_backpacks_096"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "Given the current balance of purchases and no-purchase decisions (18 purchases, 7 no-purchases), and aiming for a target of approximately 30% no-purchase overall, this session will result in a no-purchase decision to help maintain the target ratio as the experiment progresses."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_026.json",
+    "offer_set_id": "backpacks_026",
+    "timestamp": 1774974353,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

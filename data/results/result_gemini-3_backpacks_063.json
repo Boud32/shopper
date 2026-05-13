@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpack_shopping_12",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_173",
+      "prod_backpacks_140",
+      "prod_backpacks_184",
+      "prod_backpacks_099",
+      "prod_backpacks_122"
+    ],
+    "final_choice": null,
+    "reasoning_trace": "I am looking for a reliable and durable everyday backpack, but the current selection doesn't offer a perfect fit. The ZOMAKE packable backpacks (prod_backpacks_173, prod_backpacks_099) are excellent for travel but seem too lightweight and unstructured for a primary daily bag. The KAUKKO laptop bag (prod_backpacks_184) fits my aesthetic, but user reviews concerning a broken strap after just a few months raise durability concerns. The specialized sports options, like the DeMarini baseball bag (prod_backpacks_122), are too niche for my needs. Furthermore, the product feed is significantly cluttered with non-backpack camping gear like stoves, cots, and towels. Since I haven't found a high-quality, general-purpose rucksack that feels like it will last, I have decided to pass on a purchase today."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_063.json",
+    "offer_set_id": "backpacks_063",
+    "timestamp": 1775590719,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

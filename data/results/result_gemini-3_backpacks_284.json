@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_backpacks_session",
+  "decision": {
+    "consideration_set": [
+      "prod_backpacks_101",
+      "prod_backpacks_072",
+      "prod_backpacks_115",
+      "prod_backpacks_155",
+      "prod_backpacks_198"
+    ],
+    "final_choice": null,
+    "reasoning_trace": "The search for a standard, reliable backpack was unsuccessful as the product feed is dominated by specialized gear and camping accessories. I considered several backpacks, but each had significant drawbacks: the Hebetag and ASICS models both have reviews citing poor construction where straps failed quickly, the Rawlings bag is a specialized equipment bag for baseball, the Dakine backpack lacks sufficient feedback, and the Chrome bag is a small waistbag rather than a full-size pack. Given the lack of a durable, well-reviewed general-purpose option, I have decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/backpacks/backpacks_284.json",
+    "offer_set_id": "backpacks_284",
+    "timestamp": 1775596395,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_session_052",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_147",
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_158",
+      "prod_bluetooth_speakers_030",
+      "prod_bluetooth_speakers_021"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "I evaluated a range of products from ultra-portable clips to high-end home audio systems. While the JBL Clip 3 (prod_bluetooth_speakers_147) is highly rated for its price, I was primarily looking for a premium home speaker with high fidelity. However, the top-tier options in this set have significant drawbacks: the Audio Pro Addon C10 (prod_bluetooth_speakers_158) and the Sony SRS-RA3000 (prod_bluetooth_speakers_144) both have critical reviews regarding poor app connectivity and software stability, which is a major concern at the $200-$400 price point. The Sonos One SL set (prod_bluetooth_speakers_030) is impressive but relies on Wi-Fi rather than Bluetooth, which limits its versatility for my specific needs. The Altec Lansing (prod_bluetooth_speakers_021) had a concerning report about water leakage despite its waterproof rating. I've decided to wait for a model that offers better software reliability."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_456.json",
+    "offer_set_id": "bluetooth_speakers_456",
+    "timestamp": 1775604614,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

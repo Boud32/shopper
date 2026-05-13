@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_bluetooth_speakers_session_01",
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_128",
+      "prod_bluetooth_speakers_084",
+      "prod_bluetooth_speakers_113",
+      "prod_bluetooth_speakers_030",
+      "prod_bluetooth_speakers_135"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning_trace": "The shopping experience was hampered by a product feed heavily diluted with non-speaker accessories, such as wall shelves, storage cases, and charging cables. Within the set of actual speakers, the options were polarizing: the premium models (Sonos and Ultimate Ears) had concerning reviews regarding software stability and the fact that the Sonos set is Wi-Fi only rather than Bluetooth. The budget-friendly options like the INSMY and Rerii are from less established brands with mixed reviews on longevity. Given the lack of a reliable, high-quality mid-range speaker that didn't have significant software or durability red flags, I have decided not to make a purchase during this session."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_077.json",
+    "offer_set_id": "bluetooth_speakers_077",
+    "timestamp": 1775591991,
+    "provider": "gemini-3",
+    "model": "gemini-3-flash-preview",
+    "variant": "full",
+    "k": 5
+  }
+}

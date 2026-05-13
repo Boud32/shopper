@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "frontend",
+    "session_position": 4,
+    "timestamp": 1776109656,
+    "source_batch": "data/offer_sets/bluetooth_speakers/bluetooth_speakers_004.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_bluetooth_speakers_009",
+      "prod_bluetooth_speakers_174",
+      "prod_bluetooth_speakers_144",
+      "prod_bluetooth_speakers_154",
+      "prod_bluetooth_speakers_137"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The options are either too expensive for the value or suffer from mixed reviews regarding long-term reliability."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "experiment_id": "exp_mechanical_keyboards",
+  "decision": {
+    "consideration_set": [
+      "prod_mechanical_keyboards_195",
+      "prod_mechanical_keyboards_168",
+      "prod_mechanical_keyboards_180",
+      "prod_mechanical_keyboards_088",
+      "prod_mechanical_keyboards_108"
+    ],
+    "final_choice": "prod_mechanical_keyboards_195",
+    "reasoning_trace": "The customer is looking for a mechanical keyboard. The consideration set includes a mix of keyboards and keycap sets. The final choice is the nuphy Air60 Portable Wireless Keyboard, which is a complete keyboard with a high rating and positive reviews."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/mechanical_keyboards/mechanical_keyboards_179.json",
+    "offer_set_id": "mechanical_keyboards_179",
+    "timestamp": 1772654831,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}

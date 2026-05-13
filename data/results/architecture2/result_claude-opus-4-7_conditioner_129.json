@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "a2",
+    "session_position": 29,
+    "timestamp": 1776689266,
+    "source_batch": "data/offer_sets/conditioner/conditioner_129.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_040",
+      "prod_conditioner_119",
+      "prod_conditioner_194",
+      "prod_conditioner_255",
+      "prod_conditioner_071"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are weak or niche (purple toners, obscure brands, dandruff scalp) and no proven mainstream product is visible early."
+  }
+}

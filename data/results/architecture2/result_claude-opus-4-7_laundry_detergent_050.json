@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "claude-opus-4-7",
+    "model": "claude-opus-4-7",
+    "architecture": "frontend",
+    "session_position": 50,
+    "timestamp": 1776650224,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_050.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_077",
+      "prod_laundry_detergent_269",
+      "prod_laundry_detergent_127",
+      "prod_laundry_detergent_074"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Top positions are dominated by niche and luxury products; the strong, well-priced mainstream options are all deeply buried."
+  }
+}

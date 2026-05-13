@@ -1,0 +1,23 @@
+{
+  "experiment_id": "smartwatch_experiment",
+  "decision": {
+    "consideration_set": [
+      "prod_smartwatches_186",
+      "prod_smartwatches_118",
+      "prod_smartwatches_090",
+      "prod_smartwatches_179",
+      "prod_smartwatches_084"
+    ],
+    "final_choice": "prod_smartwatches_118",
+    "reasoning_trace": "The consideration set consists of smartwatches with high ratings and relevant features such as heart rate monitoring, waterproofing, and compatibility with both Android and iOS. The final choice, prod_smartwatches_118, is selected due to its high rating of 4.2, its features including text and call functionality, heart rate monitor, blood pressure, and blood oxygen tracking, and its relatively affordable price of $33.97."
+  },
+  "metadata": {
+    "source_batch": "data/offer_sets/smartwatches/smartwatches_046.json",
+    "offer_set_id": "smartwatches_046",
+    "timestamp": 1772653785,
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "variant": "full",
+    "k": 5
+  }
+}
