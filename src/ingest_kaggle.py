@@ -41,61 +41,10 @@ def _jsonl_review(name):
     return {"fmt": "json", "path": f"{HF_BASE}/raw/review_categories/{name}.jsonl"}
 
 
-# ── Catalog v1 (original, retired Mar 2026) ───────────────────────────────────
-# Retired because categories skewed toward premium/enthusiast products where
-# price-as-quality is the default. Running Shoes and Toothbrushes explicitly
-# flagged by Marouane as problematic; full set replaced for cross-category
-# MNL comparison to produce diverse price coefficient signs.
-#
-# CATEGORY_CONFIGS = {
-#     "Wireless Headphones": {
-#         "meta_sources":   [_parquet("raw_meta_Electronics")],
-#         "review_sources": [_jsonl_review("Electronics")],
-#         "keywords": ["wireless headphone", "bluetooth headphone", "wireless earbud",
-#                      "bluetooth earbud", "true wireless"],
-#     },
-#     "Smartwatches": {
-#         "meta_sources":   [_parquet("raw_meta_Electronics"),
-#                            _parquet("raw_meta_Cell_Phones_and_Accessories")],
-#         "review_sources": [_jsonl_review("Electronics"),
-#                            _jsonl_review("Cell_Phones_and_Accessories")],
-#         "keywords": ["smartwatch", "smart watch", "fitness tracker"],
-#     },
-#     "Mechanical Keyboards": {
-#         "meta_sources":   [_parquet("raw_meta_Electronics")],
-#         "review_sources": [_jsonl_review("Electronics")],
-#         "keywords": ["mechanical keyboard", "gaming keyboard"],
-#     },
-#     "Gaming Mice": {
-#         "meta_sources":   [_parquet("raw_meta_Electronics")],
-#         "review_sources": [_jsonl_review("Electronics")],
-#         "keywords": ["gaming mouse", "gaming mice", "esports mouse"],
-#     },
-#     "Toothbrushes": {
-#         "meta_sources":   [_jsonl_meta("Health_and_Household")],
-#         "review_sources": [_jsonl_review("Health_and_Household")],
-#         "keywords": ["electric toothbrush", "toothbrush"],
-#     },
-#     "Running Shoes": {
-#         "meta_sources":   [_jsonl_meta("Sports_and_Outdoors"),
-#                            _jsonl_meta("Clothing_Shoes_and_Jewelry")],
-#         "review_sources": [_jsonl_review("Sports_and_Outdoors"),
-#                            _jsonl_review("Clothing_Shoes_and_Jewelry")],
-#         "keywords": ["running shoe", "running shoes"],
-#     },
-# }
-
-# ── Catalog v2 (current, Mar 2026) ────────────────────────────────────────────
-# Chosen for price-sensitivity diversity: expected range from near-zero/negative
-# (toilet paper) to ambiguous (backpacks, protein powder) to moderately positive
-# (bluetooth speakers, coffee makers). Avoids the uniform "buy most expensive"
-# pattern seen in v1 premium categories.
+# Catalog v3 (Apr 2026): six everyday categories with diverse price-sensitivity.
+# v1 (premium/enthusiast) and v2 (Toilet Paper, Backpacks, Coffee Makers, etc.)
+# are not represented here; see git history if needed.
 CATEGORY_CONFIGS = {
-    "Toilet Paper": {
-        "meta_sources":   [_jsonl_meta("Health_and_Household")],
-        "review_sources": [_jsonl_review("Health_and_Household")],
-        "keywords": ["toilet paper", "bath tissue", "bathroom tissue"],
-    },
     "Bluetooth Speakers": {
         "meta_sources":   [_parquet("raw_meta_Electronics")],
         "review_sources": [_jsonl_review("Electronics")],
@@ -107,20 +56,6 @@ CATEGORY_CONFIGS = {
         "review_sources": [_jsonl_review("Sports_and_Outdoors")],
         "keywords": ["yoga mat", "exercise mat", "fitness mat"],
     },
-    "Backpacks": {
-        "meta_sources":   [_jsonl_meta("Sports_and_Outdoors"),
-                           _jsonl_meta("Clothing_Shoes_and_Jewelry")],
-        "review_sources": [_jsonl_review("Sports_and_Outdoors"),
-                           _jsonl_review("Clothing_Shoes_and_Jewelry")],
-        "keywords": ["backpack", "daypack"],
-    },
-    "Coffee Makers": {
-        "meta_sources":   [_jsonl_meta("Home_and_Kitchen")],
-        "review_sources": [_jsonl_review("Home_and_Kitchen")],
-        # Exclude espresso machines and grinders — targeting drip/pod/auto-drip.
-        "keywords": ["coffee maker", "drip coffee maker", "coffee brewer",
-                     "single serve coffee", "pod coffee maker"],
-    },
     "Protein Powder": {
         "meta_sources":   [_jsonl_meta("Health_and_Household"),
                            _jsonl_meta("Sports_and_Outdoors")],
@@ -128,23 +63,10 @@ CATEGORY_CONFIGS = {
                            _jsonl_review("Sports_and_Outdoors")],
         "keywords": ["protein powder", "whey protein", "protein shake"],
     },
-
-    # ── Catalog v3 candidates (Apr 2026) ─────────────────────────────────────
-    # Testing replacements for Toilet Paper and Backpacks.
-    # Large catalogs, good substitutability, expected diverse price coefficients.
-    "Power Banks": {
-        "meta_sources":   [_parquet("raw_meta_Electronics"),
-                           _parquet("raw_meta_Cell_Phones_and_Accessories")],
-        # Cell_Phones_and_Accessories review stream yielded 0 matches across 20.8M rows —
-        # power bank ASINs from C&P metadata have reviews in Electronics, not C&P.
-        "review_sources": [_jsonl_review("Electronics")],
-        "keywords": ["power bank", "portable charger", "portable battery pack",
-                     "portable phone charger", "battery bank"],
-    },
     "Conditioner": {
         "meta_sources":   [_jsonl_meta("Beauty_and_Personal_Care"),
                            _jsonl_meta("Health_and_Household")],
-        # H&H removed from review_sources — same pattern as Shampoo/Face Moisturizer.
+        # H&H dropped from reviews — same pattern as Shampoo. B&PC covers the bulk.
         "review_sources": [_jsonl_review("Beauty_and_Personal_Care")],
         "keywords": ["hair conditioner", "conditioner for hair", "deep conditioner",
                      "conditioner for", "moisturizing conditioner", "repairing conditioner"],
@@ -158,18 +80,10 @@ CATEGORY_CONFIGS = {
     "Shampoo": {
         "meta_sources":   [_jsonl_meta("Beauty_and_Personal_Care"),
                            _jsonl_meta("Health_and_Household")],
-        # H&H removed from review_sources — B&PC covers 316/400 products; the
-        # remaining 84 lacking reviews are dropped in Phase 3. H&H review file
-        # caused network timeouts on large sequential scans.
+        # H&H review file caused network timeouts on large sequential scans;
+        # B&PC covers 316/400 products and the rest are dropped in cleaning.
         "review_sources": [_jsonl_review("Beauty_and_Personal_Care")],
         "keywords": ["shampoo"],
-    },
-    "Face Moisturizer": {
-        "meta_sources":   [_jsonl_meta("Beauty_and_Personal_Care"),
-                           _jsonl_meta("Health_and_Household")],
-        "review_sources": [_jsonl_review("Beauty_and_Personal_Care")],
-        "keywords": ["face moisturizer", "facial moisturizer", "face cream",
-                     "face lotion", "facial cream", "facial lotion"],
     },
 }
 

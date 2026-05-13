@@ -42,7 +42,7 @@ from src.analysis_helper import load_results_to_dataframe
 
 ARCH_DIRS = {
     "a1": "data/results",
-    "a2": "data/results/frontend",
+    "a2": "data/results/architecture2",
 }
 
 
@@ -122,8 +122,8 @@ def main():
                         help="Which architecture's results to export (default: a2)")
     parser.add_argument("--category",     default=None,
                         help="Export a single category only (default: all)")
-    parser.add_argument("--output",       default="data/frontend",
-                        help="Output directory (default: data/frontend)")
+    parser.add_argument("--output",       default="data/architecture2",
+                        help="Output directory (default: data/architecture2)")
     args = parser.parse_args()
 
     results_dir = ARCH_DIRS[args.architecture]
