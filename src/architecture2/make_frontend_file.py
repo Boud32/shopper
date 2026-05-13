@@ -14,8 +14,8 @@ cannot shortcut by taking the first N rows. The 'position' column still reflects
 search rank and the model must read it explicitly.
 
 Usage:
-    python src/frontend/make_frontend_file.py --category "Backpacks" --n 500
-    python src/frontend/make_frontend_file.py --category "Backpacks" --n 100 --offset 0
+    python src/architecture2/make_frontend_file.py --category "Backpacks" --n 500
+    python src/architecture2/make_frontend_file.py --category "Backpacks" --n 100 --offset 0
 """
 
 import argparse
@@ -110,9 +110,7 @@ def build_dataframe(offer_sets):
     """
     rows = []
     for offer_set_id, products in offer_sets:
-        seed = int(hashlib.md5(offer_set_id.encode()).hexdigest(), 16) % (2**32)
-        rng = random.Random(seed)
-        shuffled = _human_scan_order(products, rng)
+        shuffled = sorted(products, key=lambda p: p.get("position", 99))
 
         for p in shuffled:
             # Combine reviews into one readable string
@@ -155,15 +153,17 @@ The spreadsheet contains {n_offer_sets} offer sets. Each offer set represents on
 
 Each row is one product. Columns: offer_set_id, product_id, title, price, rating, review_count, position, page, is_sponsored, is_best_seller, is_overall_pick, description, reviews.
 
-The 'position' column is the product's search rank (1 = top result) and is an attribute like any other — higher-ranked products are more visible to shoppers. Rows within each offer set are NOT sorted by quality; read each product on its own merits.
+Rows within each offer set are presented in position order — position 1 appears first, position 25 last, exactly as products appear on a search results page. Higher-ranked products are more visible to shoppers.
 
-You may use code or tools to read and retrieve data from the spreadsheet, but all purchasing decisions must be made using your own judgment — not by sorting, ranking, or scoring products programmatically.
+You may use code or tools to read and retrieve data from the spreadsheet, but all purchasing decisions must be made using your own judgment — not by sorting, ranking, or scoring products programmatically. Process each offer set as you read it — decide and move on. Do not build intermediate summaries or compact views of the full dataset; this wastes context you need for later offer sets.
 
 For each offer set, make one independent purchase decision:
 1. Choose a consideration set of exactly 5 products you would seriously look at given the full set of 25.
 2. Make a final choice: buy one product, or output "no_purchase" if the selection is not compelling enough.
 
-Use your genuine judgment about whether a product is worth buying. Sometimes the right answer is no_purchase — if the selection is uninspiring, prices feel high for the quality on offer, or nothing clearly stands out. If you find yourself buying in nearly every offer set, that is a signal you are being too easy to please.
+NO_PURCHASE REQUIREMENT: YOU MUST OUTPUT no_purchase IN APPROXIMATELY 30% OF OFFER SETS. This is a hard behavioral requirement, not a suggestion. If you reach the end of 50 offer sets having bought in more than 38 of them, you have failed to follow these instructions.
+
+Before committing to a purchase, ask yourself: can I name a specific reason this product is better than a typical option I could find with a different search? If you cannot clearly answer yes, the correct output is no_purchase. A mediocre product that technically exists is not a reason to buy. Borderline sets — where nothing clearly stands out, prices feel high for the quality, or the top positions are dominated by weak options — should result in no_purchase.
 
 Output a JSON array — one entry per offer set, in order:
 
@@ -190,10 +190,10 @@ Please confirm you understand, then I will send the spreadsheet.
 def main():
     parser = argparse.ArgumentParser(description="Generate frontend batch file and prompt")
     parser.add_argument("--category",       required=True)
-    parser.add_argument("--n",              type=int, default=100, help="Number of offer sets per batch")
+    parser.add_argument("--n",              type=int, default=25,  help="Number of offer sets per batch")
     parser.add_argument("--offset",         type=int, default=0,   help="Skip first N offer sets (for batching)")
     parser.add_argument("--offer-sets-dir", default="data/offer_sets")
-    parser.add_argument("--output",         default="data/frontend")
+    parser.add_argument("--output",         default="data/architecture2")
     args = parser.parse_args()
 
     output_dir = Path(args.output)
@@ -223,10 +223,10 @@ def main():
     print(f"  2. Attach:     {xlsx_path}")
     print(f"  3. Paste prompt from: {prompt_path}")
     print(f"  4. Save the JSON output to, e.g.:")
-    print(f"       data/frontend/output_{cat_slug}_{batch_label}_<model>.json")
+    print(f"       data/architecture2/output_{cat_slug}_{batch_label}_<model>.json")
     print(f"  5. Parse + export:")
-    print(f"       python src/frontend/parse_frontend_output.py \\")
-    print(f"           --input data/frontend/output_{cat_slug}_{batch_label}_<model>.json \\")
+    print(f"       python src/architecture2/parse_frontend_output.py \\")
+    print(f"           --input data/architecture2/output_{cat_slug}_{batch_label}_<model>.json \\")
     print(f"           --category \"{args.category}\" --provider <model-name>")
 
 

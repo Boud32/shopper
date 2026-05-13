@@ -36,7 +36,7 @@ import time
 from pathlib import Path
 
 sys.path.insert(0, ".")
-from src.providers import PROVIDERS
+from src.architecture1.providers import PROVIDERS
 from dotenv import load_dotenv
 
 load_dotenv()

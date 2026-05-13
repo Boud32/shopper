@@ -1,6 +1,6 @@
 """
-Parse a model's JSON output from an Architecture 2 (frontend batch) session
-into the same result file format used by Architecture 1 (run_universe.py).
+Parse a model's JSON output from an Architecture 2 (batch session) into the
+same result file format used by Architecture 1 (run_universe.py).
 
 This lets analysis_helper.py and mnl.py work on both architectures identically.
 
@@ -19,13 +19,13 @@ Each entry becomes one result_<provider>_<offer_set_id>.json file,
 matching the format written by run_universe.py.
 
 Usage:
-    python src/parse_frontend_output.py \\
-        --input data/frontend/output_mechanical_keyboards_gemini.json \\
+    python src/architecture2/parse_frontend_output.py \\
+        --input data/architecture2/output_mechanical_keyboards_claude.json \\
         --category "Mechanical Keyboards" \\
-        --provider gemini-frontend \\
-        --model gemini-2.5-flash \\
+        --provider claude-opus-4-7 \\
+        --model claude-opus-4-7 \\
         --offer-sets-dir data/offer_sets \\
-        --output data/results/frontend/
+        --output data/results/architecture2/
 """
 
 import argparse
@@ -42,20 +42,17 @@ def extract_json_array(text):
     Models sometimes wrap the JSON in markdown code blocks or add commentary.
     This strips the wrapper and returns the parsed array.
     """
-    # Try parsing directly first
     try:
         return json.loads(text.strip())
     except json.JSONDecodeError:
         pass
 
-    # Strip markdown code fences
     text = re.sub(r"```(?:json)?", "", text).strip()
     try:
         return json.loads(text)
     except json.JSONDecodeError:
         pass
 
-    # Find the outermost [...] block
     start = text.find("[")
     end   = text.rfind("]")
     if start != -1 and end != -1 and end > start:
@@ -89,7 +86,6 @@ def parse_and_write(input_path, category, provider, model, offer_sets_dir, outpu
     entries = extract_json_array(raw)
     print(f"Parsed {len(entries)} entries from {input_path}")
 
-    # Rewrite input file as pretty-printed JSON so it's human-readable
     with open(input_path, "w") as f:
         json.dump(entries, f, indent=2)
     print(f"  (reformatted {input_path} with indentation)")
@@ -106,14 +102,13 @@ def parse_and_write(input_path, category, provider, model, offer_sets_dir, outpu
         consideration    = entry.get("consideration_set") or []
         final_choice     = (entry.get("final_choice") or "no_purchase").strip()
         reasoning        = entry.get("reasoning", "")
-        session_position = i + 1   # 1-indexed position within the session
+        session_position = i + 1
 
         if not offer_set_id:
             print(f"  [{i+1}] Skipping entry with missing offer_set_id")
             n_skipped += 1
             continue
 
-        # Validate against actual offer set
         try:
             products = load_offer_set(offer_set_id, category, offer_sets_dir)
         except FileNotFoundError as e:
@@ -123,13 +118,11 @@ def parse_and_write(input_path, category, provider, model, offer_sets_dir, outpu
 
         product_ids = {p["id"] for p in products}
 
-        # Validate consideration set
-        valid_consideration = [pid for pid in consideration if pid in product_ids]
+        valid_consideration   = [pid for pid in consideration if pid in product_ids]
         invalid_consideration = [pid for pid in consideration if pid not in product_ids]
         if invalid_consideration:
             print(f"  [{i+1}] {offer_set_id}: {len(invalid_consideration)} invalid product IDs in consideration set (dropped)")
 
-        # Validate final choice
         if final_choice != "no_purchase" and final_choice not in product_ids:
             print(f"  [{i+1}] {offer_set_id}: final_choice '{final_choice}' not in offer set — treating as no_purchase")
             final_choice = "no_purchase"
@@ -138,8 +131,8 @@ def parse_and_write(input_path, category, provider, model, offer_sets_dir, outpu
             "metadata": {
                 "provider":         provider,
                 "model":            model,
-                "architecture":     "frontend",
-                "session_position": session_position,   # for degradation analysis
+                "architecture":     "a2",
+                "session_position": session_position,
                 "timestamp":        timestamp,
                 "source_batch":     str(Path(offer_sets_dir) / category.lower().replace(" ", "_") / f"{offer_set_id}.json"),
                 "variant":          "full",
@@ -160,17 +153,12 @@ def parse_and_write(input_path, category, provider, model, offer_sets_dir, outpu
     return n_written, n_skipped
 
 
-def export_inspection_excel(output_dir, category, export_dir="data/frontend"):
-    """
-    Generate the per-category inspection Excel file immediately after parsing.
-
-    This makes the full pipeline self-contained: parse → inspect in one step.
-    """
+def export_inspection_excel(output_dir, category, export_dir="data/architecture2"):
+    """Generate the per-category inspection Excel immediately after parsing."""
     import sys
     sys.path.insert(0, ".")
     from src.export_for_analysis import build_export_df
     from src.analysis_helper import load_results_to_dataframe
-    from pathlib import Path
 
     df = load_results_to_dataframe(results_dir=output_dir, include_ablation=False)
     if df.empty:
@@ -183,29 +171,29 @@ def export_inspection_excel(output_dir, category, export_dir="data/frontend"):
         print(f"  (no rows for category '{category}' in export)")
         return
 
-    slug     = category.lower().replace(" ", "_")
-    out_path = Path(export_dir) / f"mnl_data_frontend_{slug}.xlsx"
+    slug      = category.lower().replace(" ", "_")
+    out_path  = Path(export_dir) / f"mnl_data_a2_{slug}.xlsx"
     Path(export_dir).mkdir(parents=True, exist_ok=True)
     export.drop(columns=["category"]).to_excel(out_path, index=False)
 
-    n_exp        = export["offer_set_id"].nunique()
+    n_exp         = export["offer_set_id"].nunique()
     n_no_purchase = int(export.groupby("offer_set_id")["no_purchase"].first().sum())
     print(f"  Inspection Excel: {out_path}  ({n_exp} offer sets, {n_no_purchase} no_purchase)")
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Parse frontend model output into result files")
+    parser = argparse.ArgumentParser(description="Parse Architecture 2 model output into result files")
     parser.add_argument("--input",          required=True, help="Path to model JSON output file")
     parser.add_argument("--category",       required=True, help="Category name (e.g. 'Mechanical Keyboards')")
-    parser.add_argument("--provider",       default="frontend",
-                        help="Provider label for result filenames (default: frontend)")
+    parser.add_argument("--provider",       default="a2",
+                        help="Provider label for result filenames (default: a2)")
     parser.add_argument("--model",          default="",
-                        help="Model ID string (e.g. claude-opus-4, gpt-4o)")
+                        help="Model ID string (e.g. claude-opus-4-7)")
     parser.add_argument("--offer-sets-dir", default="data/offer_sets")
-    parser.add_argument("--output",         default="data/results/frontend",
-                        help="Output directory for result files (default: data/results/frontend)")
-    parser.add_argument("--export-dir",     default="data/frontend",
-                        help="Directory for inspection Excel (default: data/frontend)")
+    parser.add_argument("--output",         default="data/results/architecture2",
+                        help="Output directory for result files (default: data/results/architecture2)")
+    parser.add_argument("--export-dir",     default="data/architecture2",
+                        help="Directory for inspection Excel (default: data/architecture2)")
     parser.add_argument("--no-export",      action="store_true",
                         help="Skip automatic inspection Excel generation")
     args = parser.parse_args()

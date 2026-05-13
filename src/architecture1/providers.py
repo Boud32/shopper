@@ -21,6 +21,7 @@ load_dotenv()
 
 
 def call_gemini(prompt, model="gemini-2.5-flash"):
+    """Google Gemini (any model). Free-tier 2.5-flash is ~25 req/day; 3-flash-preview is paid."""
     from google import genai
     from google.genai import types
 
@@ -38,6 +39,7 @@ def call_gemini(prompt, model="gemini-2.5-flash"):
 
 
 def call_openai(prompt):
+    """OpenAI gpt-4o-mini. Paid only; ~$0.15/1M input. Reliable JSON mode."""
     from openai import OpenAI
 
     api_key = os.getenv("OPENAI_API_KEY")
@@ -53,7 +55,8 @@ def call_openai(prompt):
     return response.choices[0].message.content
 
 
-def call_claude(prompt, model="claude-opus-4-6"):
+def call_claude(prompt, model="claude-haiku-4-5"):
+    """Anthropic Claude (any model). Defaults to Haiku 4.5 (~$0.80/1M in) for cheap API runs; pass model='claude-opus-4-7' or similar for higher capability. For large-scale work prefer Architecture 2."""
     from anthropic import Anthropic
 
     api_key = os.getenv("ANTHROPIC_API_KEY")
@@ -70,6 +73,7 @@ def call_claude(prompt, model="claude-opus-4-6"):
 
 
 def call_deepseek(prompt):
+    """DeepSeek V3 via OpenAI-compatible endpoint. Cheap (~$0.27/1M input); supports prompt caching."""
     from openai import OpenAI
 
     api_key = os.getenv("DEEPSEEK_API_KEY")
@@ -86,6 +90,7 @@ def call_deepseek(prompt):
 
 
 def call_groq(prompt, model="llama-3.3-70b-versatile"):
+    """Groq Llama 3.3 70B (OpenAI-compatible). $0.59/1M input; fast; primary v1 scale provider."""
     from openai import OpenAI
 
     api_key = os.getenv("GROQ_API_KEY")
@@ -107,6 +112,6 @@ PROVIDERS = {
     "gemini-3":     (lambda p: call_gemini(p, "gemini-3-flash-preview"),    "Gemini 3 Flash Preview",  "gemini-3-flash-preview"),
     "groq":         (call_groq,     "Groq Llama 3.3 70B", "llama-3.3-70b-versatile"),
     "openai":       (call_openai,   "ChatGPT",             "gpt-4o-mini"),
-    "claude":       (call_claude,   "Claude Opus 4.6",     "claude-opus-4-6"),
+    "claude":       (call_claude,   "Claude Haiku 4.5",    "claude-haiku-4-5"),
     "deepseek":     (call_deepseek, "DeepSeek",            "deepseek-chat"),
 }
