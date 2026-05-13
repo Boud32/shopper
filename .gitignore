@@ -11,6 +11,8 @@ build/
 # Conda
 .conda/
 
+figures/
+
 # uv
 .venv/
 .python-version

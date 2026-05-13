@@ -3,8 +3,8 @@ Join the per-category MNL Excel exports into one file per provider, so the
 full dataset is glanceable in Excel without opening 6+ files.
 
 Output:
-  data/architecture2/joined_gemini-3-flash-preview.xlsx
-  data/architecture2/joined_claude-opus-4-7.xlsx
+  data/architecture2/mnl_exports/joined/joined_gemini-3-flash-preview.xlsx
+  data/architecture2/mnl_exports/joined/joined_claude-opus-4-7.xlsx
 
 Each file has one sheet per category plus a 'README' sheet describing the
 schema. The category sheets share an identical column layout.
@@ -75,20 +75,20 @@ def join_provider(files, pattern, out_path, provider_label, source_dir_label):
 def main():
     print("Joining Gemini-3 Flash Preview xlsx files...")
     join_provider(
-        files            = glob.glob("data/architecture2/Excel_MNLs/mnl_data_a2_*.xlsx"),
+        files            = glob.glob("data/architecture2/mnl_exports/gemini-3-flash-preview/mnl_data_a2_*.xlsx"),
         pattern          = r"mnl_data_a2_(.+)\.xlsx",
-        out_path         = "data/architecture2/joined/joined_gemini-3-flash-preview.xlsx",
+        out_path         = "data/architecture2/mnl_exports/joined/joined_gemini-3-flash-preview.xlsx",
         provider_label   = "gemini-3-flash-preview",
-        source_dir_label = "data/architecture2/Excel_MNLs/mnl_data_a2_*.xlsx",
+        source_dir_label = "data/architecture2/mnl_exports/gemini-3-flash-preview/",
     )
 
     print("\nJoining Claude Opus 4.7 xlsx files...")
     join_provider(
-        files            = glob.glob("data/architecture2/mnl_data_04-20_*.xlsx"),
+        files            = glob.glob("data/architecture2/mnl_exports/opus4-7/mnl_data_04-20_*.xlsx"),
         pattern          = r"mnl_data_04-20_(.+)\.xlsx",
-        out_path         = "data/architecture2/joined/joined_claude-opus-4-7.xlsx",
+        out_path         = "data/architecture2/mnl_exports/joined/joined_claude-opus-4-7.xlsx",
         provider_label   = "claude-opus-4-7",
-        source_dir_label = "data/architecture2/mnl_data_04-20_*.xlsx",
+        source_dir_label = "data/architecture2/mnl_exports/opus4-7/",
     )
 
 

@@ -1,0 +1,602 @@
+[
+  {
+    "offer_set_id": "yoga_mats_001",
+    "consideration_set": [
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_053",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_021",
+      "prod_yoga_mats_084"
+    ],
+    "final_choice": "prod_yoga_mats_116",
+    "reasoning": "The Everyday Essentials mat offers a great balance of extra thickness, high ratings, and an affordable price."
+  },
+  {
+    "offer_set_id": "yoga_mats_002",
+    "consideration_set": [
+      "prod_yoga_mats_056",
+      "prod_yoga_mats_101",
+      "prod_yoga_mats_119",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_084"
+    ],
+    "final_choice": "prod_yoga_mats_054",
+    "reasoning": "With over 8,000 positive reviews and a reasonable price, the ProsourceFit mat stands out as a reliable and heavily vetted choice."
+  },
+  {
+    "offer_set_id": "yoga_mats_003",
+    "consideration_set": [
+      "prod_yoga_mats_137",
+      "prod_yoga_mats_135",
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_029",
+      "prod_yoga_mats_084"
+    ],
+    "final_choice": "prod_yoga_mats_095",
+    "reasoning": "The BalanceFrom mat includes a knee pad and blocks at a highly competitive price point, making it an exceptional value."
+  },
+  {
+    "offer_set_id": "yoga_mats_004",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_175",
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_116"
+    ],
+    "final_choice": "prod_yoga_mats_180",
+    "reasoning": "The Amazon Basics mat has nearly 80,000 reviews and provides ample cushioning for a very low price, making it an easy purchase."
+  },
+  {
+    "offer_set_id": "yoga_mats_005",
+    "consideration_set": [
+      "prod_yoga_mats_105",
+      "prod_yoga_mats_157",
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_120",
+      "prod_yoga_mats_006"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of the top options provided a compelling enough balance of premium features and value to justify a purchase over typical alternatives."
+  },
+  {
+    "offer_set_id": "yoga_mats_006",
+    "consideration_set": [
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_123",
+      "prod_yoga_mats_069",
+      "prod_yoga_mats_140",
+      "prod_yoga_mats_006"
+    ],
+    "final_choice": "prod_yoga_mats_146",
+    "reasoning": "This highly rated anti-tear mat includes a carrying sling and storage bag, offering excellent convenience and durability."
+  },
+  {
+    "offer_set_id": "yoga_mats_007",
+    "consideration_set": [
+      "prod_yoga_mats_024",
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_040",
+      "prod_yoga_mats_078"
+    ],
+    "final_choice": "prod_yoga_mats_078",
+    "reasoning": "The extra-large size and 10mm thickness of this mat offer superior comfort and joint protection compared to standard options."
+  },
+  {
+    "offer_set_id": "yoga_mats_008",
+    "consideration_set": [
+      "prod_yoga_mats_103",
+      "prod_yoga_mats_188",
+      "prod_yoga_mats_134",
+      "prod_yoga_mats_110",
+      "prod_yoga_mats_180"
+    ],
+    "final_choice": "prod_yoga_mats_180",
+    "reasoning": "Its overwhelming popularity and extra thickness make the Amazon Basics mat a safe and budget-friendly choice."
+  },
+  {
+    "offer_set_id": "yoga_mats_009",
+    "consideration_set": [
+      "prod_yoga_mats_155",
+      "prod_yoga_mats_113",
+      "prod_yoga_mats_040",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_118"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top-ranked mats in this set were either too expensive or lacked the standout features needed to confidently commit to a purchase."
+  },
+  {
+    "offer_set_id": "yoga_mats_010",
+    "consideration_set": [
+      "prod_yoga_mats_073",
+      "prod_yoga_mats_111",
+      "prod_yoga_mats_081",
+      "prod_yoga_mats_187",
+      "prod_yoga_mats_106"
+    ],
+    "final_choice": "prod_yoga_mats_111",
+    "reasoning": "Gaiam's solid color mat provides a reliable, lightweight option with excellent reviews from a trusted brand."
+  },
+  {
+    "offer_set_id": "yoga_mats_011",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_006",
+    "reasoning": "The Gaiam reversible mat provides excellent grip and visual appeal at a reasonable price, setting it apart from generic brands."
+  },
+  {
+    "offer_set_id": "yoga_mats_012",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The options presented felt overly generic and did not offer a clear advantage in quality or price to justify buying."
+  },
+  {
+    "offer_set_id": "yoga_mats_013",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_180",
+    "reasoning": "The undeniable value and proven durability of the Amazon Basics mat make it an optimal choice for daily use."
+  },
+  {
+    "offer_set_id": "yoga_mats_014",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_116",
+    "reasoning": "The included knee pad and strap add significant value to this high-density mat."
+  },
+  {
+    "offer_set_id": "yoga_mats_015",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of the mats in the top positions offered the specific texture or thickness I am currently looking for."
+  },
+  {
+    "offer_set_id": "yoga_mats_016",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_054",
+    "reasoning": "ProsourceFit's extra thick mat is highly rated for joint protection, making it a functional and safe purchase."
+  },
+  {
+    "offer_set_id": "yoga_mats_017",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_163",
+    "reasoning": "The body alignment lines on the Heathyoga mat are a uniquely helpful feature that distinguishes it from the rest."
+  },
+  {
+    "offer_set_id": "yoga_mats_018",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The prices for the top-rated mats in this set were higher than expected without offering proportional quality improvements."
+  },
+  {
+    "offer_set_id": "yoga_mats_019",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_006",
+    "reasoning": "Gaiam's proven track record and attractive print make it a compelling choice over the generic alternatives."
+  },
+  {
+    "offer_set_id": "yoga_mats_020",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_116",
+    "reasoning": "The Everyday Essentials mat consistently delivers thick cushioning and high satisfaction for a great price."
+  },
+  {
+    "offer_set_id": "yoga_mats_021",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Nothing in this particular set clearly stood out as a must-buy compared to a standard search result."
+  },
+  {
+    "offer_set_id": "yoga_mats_022",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_180",
+    "reasoning": "The sheer volume of positive reviews makes the Amazon Basics mat the most trustworthy option in this group."
+  },
+  {
+    "offer_set_id": "yoga_mats_023",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_054",
+    "reasoning": "The 1/2-inch thickness of the ProsourceFit mat provides necessary joint relief that cheaper mats lack."
+  },
+  {
+    "offer_set_id": "yoga_mats_024",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The selection was dominated by mediocre options that did not present a compelling reason to purchase."
+  },
+  {
+    "offer_set_id": "yoga_mats_025",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_163",
+    "reasoning": "The alignment lines and SGS certified eco-friendly material justify selecting the Heathyoga mat."
+  },
+  {
+    "offer_set_id": "yoga_mats_026",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_006",
+    "reasoning": "Gaiam's reversible print offers both aesthetic variety and reliable non-slip performance."
+  },
+  {
+    "offer_set_id": "yoga_mats_027",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The prices felt slightly inflated for the quality of mats presented in this specific set."
+  },
+  {
+    "offer_set_id": "yoga_mats_028",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_116",
+    "reasoning": "Its dense, anti-tear material and extra knee padding make it a highly functional and durable option."
+  },
+  {
+    "offer_set_id": "yoga_mats_029",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_180",
+    "reasoning": "It is difficult to pass up the value and widespread user satisfaction of the Amazon Basics mat."
+  },
+  {
+    "offer_set_id": "yoga_mats_030",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "There was no distinct winner among the top positions, leading to a decision to hold off on buying."
+  },
+  {
+    "offer_set_id": "yoga_mats_031",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_054",
+    "reasoning": "The ProsourceFit mat offers the crucial joint support I need without breaking the bank."
+  },
+  {
+    "offer_set_id": "yoga_mats_032",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_163",
+    "reasoning": "The visual alignment system on this mat is a great built-in tool that gives it an edge over standard foam mats."
+  },
+  {
+    "offer_set_id": "yoga_mats_033",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top-ranked mats suffered from poor review quality, making none of them a confident buy."
+  },
+  {
+    "offer_set_id": "yoga_mats_034",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_006",
+    "reasoning": "Gaiam's premium mat provides a solid, stable surface and appealing design that stands out."
+  },
+  {
+    "offer_set_id": "yoga_mats_035",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_116",
+    "reasoning": "The Everyday Essentials mat is highly reviewed and thoughtfully includes a carrying strap and extra knee pad."
+  },
+  {
+    "offer_set_id": "yoga_mats_036",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "This set lacked a product that offered both high quality and an appropriate price point."
+  },
+  {
+    "offer_set_id": "yoga_mats_037",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_180",
+    "reasoning": "The massive review count confirms the Amazon Basics mat is a reliable, budget-friendly staple."
+  },
+  {
+    "offer_set_id": "yoga_mats_038",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_054",
+    "reasoning": "ProsourceFit balances thickness and density perfectly, making it an easy pick for a comfortable workout."
+  },
+  {
+    "offer_set_id": "yoga_mats_039",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The options in this set felt generic, offering no specific reason to choose them over a typical mat."
+  },
+  {
+    "offer_set_id": "yoga_mats_040",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_163",
+    "reasoning": "The TPE material and alignment lines make the Heathyoga mat a superior, eco-friendly option."
+  },
+  {
+    "offer_set_id": "yoga_mats_041",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_006",
+    "reasoning": "Gaiam's reliable non-slip texture and trusted brand reputation secure it as the best choice here."
+  },
+  {
+    "offer_set_id": "yoga_mats_042",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The combination of high prices and lackluster features resulted in a decision to hold off."
+  },
+  {
+    "offer_set_id": "yoga_mats_043",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_116",
+    "reasoning": "The Everyday Essentials mat offers the extra padding I need at a price that is hard to beat."
+  },
+  {
+    "offer_set_id": "yoga_mats_044",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_180",
+    "reasoning": "The Amazon Basics mat's extensive review history guarantees it will perform reliably for casual use."
+  },
+  {
+    "offer_set_id": "yoga_mats_045",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of the products presented a compelling value proposition or unique feature worth buying."
+  },
+  {
+    "offer_set_id": "yoga_mats_046",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_054",
+    "reasoning": "ProsourceFit's thickness stands out as a clear advantage for comfortable floor workouts."
+  },
+  {
+    "offer_set_id": "yoga_mats_047",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_163",
+    "reasoning": "The Heathyoga mat's combination of alignment markings and eco-friendly materials makes it the best choice."
+  },
+  {
+    "offer_set_id": "yoga_mats_048",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The available options were uninspiring, lacking the high ratings or thickness I prefer in a yoga mat."
+  },
+  {
+    "offer_set_id": "yoga_mats_049",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_006",
+    "reasoning": "Gaiam's thick, reversible print mat offers the right blend of style, brand trust, and functional grip."
+  },
+  {
+    "offer_set_id": "yoga_mats_050",
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_116",
+    "reasoning": "The Everyday Essentials mat offers incredible value with its anti-tear design and included knee pad."
+  }
+]
