@@ -1,0 +1,22 @@
+[project]
+name = "shopper"
+version = "0.1.0"
+description = "Headless shopping experiment engine — studies LLM agent sensitivity to product attributes via MNL estimation."
+requires-python = ">=3.13,<3.14"
+dependencies = [
+    "numpy>=2.0",
+    "pandas>=2.2",
+    "scipy>=1.13",
+    "matplotlib>=3.9",
+    "openpyxl>=3.1",
+    "python-dotenv>=1.0",
+    "datasets>=3.0",
+    "openai>=1.50",
+    "anthropic>=0.40",
+    "google-genai>=0.3",
+    "ipykernel>=6.29",
+    "jupyter>=1.1",
+]
+
+[tool.uv]
+package = false

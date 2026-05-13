@@ -11,6 +11,10 @@ build/
 # Conda
 .conda/
 
+# uv
+.venv/
+.python-version
+
 # IDE
 .vscode/
 .idea/
@@ -27,9 +31,14 @@ data/raw/
 # Jupyter notebooks (outputs contain raw product data; share stripped versions only)
 *.ipynb
 
-# Results and offer sets — stored on Google Drive, not in repo
+# Results, offer sets, and architecture 2 Excel files — stored on Google Drive, not in repo
 data/offer_sets/
 data/results/
+data/architecture2/
+
+# Local figures and IDE state
+figures/
+.claude/
 
 # Research writing (not public until paper is ready)
 *.tex
@@ -38,6 +47,5 @@ data/results/
 *.pdf
 
 # Admin / working documents (spec, notes — not public until paper is ready)
-# TODO: create a proper README.md once the project is more stable and ready to share
 spec.md
 notes/
