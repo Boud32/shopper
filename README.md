@@ -1,6 +1,6 @@
 # Shopper
 
-Headless shopping experiment engine. Studies AI agent sensitivity to product attributes (price, rating, position, sponsored tags) via Multinomial Logit (MNL) estimation. Real Amazon products (734 products across 6 categories, v3 catalog), real reviews, agents choose 5-product consideration sets and a final product from 25-product offer sets.
+Headless shopping experiment engine. Studies AI agent sensitivity to product attributes (price, rating, position, sponsored tags) via Multinomial Logit (MNL) estimation. Real Amazon products (718 products across 6 categories), real reviews, agents choose 5-product consideration sets and a final product from 25-product offer sets.
 
 ## Quick start
 
@@ -39,22 +39,22 @@ src/architecture1/                    src/architecture2/
 
 - `src/mnl.py` — MNL estimation (L-BFGS-B). `fit_mnl(df, category=..., outside_good=True)` is the entry point.
 - `src/analysis_helper.py` — `load_results_to_dataframe()` turns the result JSONs into a long-format DataFrame.
-- `comparison.ipynb` — side-by-side v2/Gemini vs.\ v3/Claude fits.
+- `comparison.ipynb` — side-by-side Claude Opus 4.7 vs. Gemini fits, with worked $U_j \to V_j \to P(j)$ trace.
 - `analysis.ipynb` — exploratory: tag influence, position distributions, ablation tables.
 - `src/architecture2/build_joined_excel.py` — joins per-category Excel exports into one workbook per provider.
 - `notes/progress_report.tex` — the report.
 
 ## Architectures
 
-- **Architecture 1 (API):** one stateless API call per offer set. Used for the v1 Groq runs (~5–7 min per 50 offers).
-- **Architecture 2 (frontend):** all offer sets uploaded as a spreadsheet to a chat frontend (Claude.ai, Gemini), processed in a single stateful session (~30 s per 500 offers). Free on any model with a chat frontend. **Primary pipeline.**
+- **Architecture 1 (API):** one stateless API call per offer set. Used for early Groq Llama runs (~5–7 min per 50 offers).
+- **Architecture 2 (frontend):** all offer sets uploaded as a spreadsheet to a chat frontend (Claude.ai, Gemini), processed in a single stateful session (~30 s per 50-offer batch). Free on any model with a chat frontend. **Primary pipeline.**
 
-## v3 catalog
+## Catalog
 
 Six everyday categories, 84–160 products each: Protein Powder, Laundry Detergent, Conditioner, Shampoo, Yoga Mats, Bluetooth Speakers. See `src/ingest_kaggle.py::CATEGORY_CONFIGS` for keyword filters.
 
 ## First three things for a new contributor
 
-1. Run `uv sync` and open `comparison.ipynb`. The notebook reproduces the v2/Gemini and v3/Claude MNL fits end-to-end and walks through one offer set's $U_j \to V_j \to P(j)$ computation.
-2. Read the Challenges section of `notes/progress_report.tex` for the lessons learned (catalog iteration, synthetic-generation discovery on Yoga Mats, no-purchase identification).
-3. The first useful experiment is the Gemini-batch=50 rerun on Yoga Mats — see Next Steps in the report.
+1. Run `uv sync` and open `comparison.ipynb`. The notebook reproduces the Claude Opus 4.7 MNL fits end-to-end and walks through one offer set's $U_j \to V_j \to P(j)$ computation.
+2. Read the Challenges section of `notes/progress_report.tex` for the lessons learned (catalog iteration, the two Gemini failure modes, no-purchase identification).
+3. The first useful experiment is a clean Claude vs. GPT-5.5 head-to-head at the same protocol — see Next Steps in the report.
