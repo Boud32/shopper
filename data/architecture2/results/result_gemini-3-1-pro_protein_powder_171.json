@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 21,
+    "timestamp": 1778715403,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_171.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [],
+    "final_choice": "no_purchase",
+    "reasoning": "The consideration set is flooded with low-quality mass gainers packed with maltodextrin."
+  }
+}

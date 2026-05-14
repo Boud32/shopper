@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 35,
+    "timestamp": 1778715396,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_185.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_090",
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "COOLMOON's double-sided TPE mat is highly rated for its reliable non-slip texture and generous sizing."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 27,
+    "timestamp": 1778715415,
+    "source_batch": "data/offer_sets/conditioner/conditioner_077.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_178",
+      "prod_conditioner_125"
+    ],
+    "final_choice": "prod_conditioner_125",
+    "reasoning": "The eco-friendly, cruelty-free profile combined with effective moisturizing makes this a winner."
+  }
+}

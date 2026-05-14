@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 32,
+    "timestamp": 1778715390,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_032.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [],
+    "final_choice": "no_purchase",
+    "reasoning": "The visual alignment system on this mat is a great built-in tool that gives it an edge over standard foam mats."
+  }
+}

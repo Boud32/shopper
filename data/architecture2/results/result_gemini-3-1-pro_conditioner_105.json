@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 5,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_105.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_255",
+      "prod_conditioner_241",
+      "prod_conditioner_016",
+      "prod_conditioner_130",
+      "prod_conditioner_026"
+    ],
+    "final_choice": "prod_conditioner_241",
+    "reasoning": "Mixed Chicks is a highly regarded brand with strong positive reviews specifically praising its detangling deep conditioner."
+  }
+}

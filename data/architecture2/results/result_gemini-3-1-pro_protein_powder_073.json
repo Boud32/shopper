@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 23,
+    "timestamp": 1778715399,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_073.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_159"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Dominated by collagen and specialty hair/skin shakes, this set doesn't offer the muscle-building protein I'm actively shopping for."
+  }
+}

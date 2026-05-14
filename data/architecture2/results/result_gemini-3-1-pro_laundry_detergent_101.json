@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 1,
+    "timestamp": 1778715409,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_101.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_226",
+      "prod_laundry_detergent_021",
+      "prod_laundry_detergent_145",
+      "prod_laundry_detergent_044"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of these options stand out as particularly effective for removing heavy sweat from weekend beach volleyball tournaments."
+  }
+}

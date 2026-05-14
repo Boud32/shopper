@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 19,
+    "timestamp": 1778715405,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_019.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [],
+    "final_choice": "no_purchase",
+    "reasoning": "Gain Ultra Flings provides an excellent fresh scent and handles large loads effortlessly."
+  }
+}

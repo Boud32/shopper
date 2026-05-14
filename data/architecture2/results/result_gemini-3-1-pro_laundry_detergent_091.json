@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 41,
+    "timestamp": 1778715407,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_091.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_038"
+    ],
+    "final_choice": "prod_laundry_detergent_038",
+    "reasoning": "Ecowise Clean Detergent Sheets are portable, delightfully scented, and reduce bulky plastic packaging significantly."
+  }
+}

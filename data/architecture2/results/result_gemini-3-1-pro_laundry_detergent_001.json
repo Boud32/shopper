@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 1,
+    "timestamp": 1778715405,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_001.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_257",
+      "prod_laundry_detergent_289",
+      "prod_laundry_detergent_242",
+      "prod_laundry_detergent_265",
+      "prod_laundry_detergent_024"
+    ],
+    "final_choice": "prod_laundry_detergent_257",
+    "reasoning": "Arm & Hammer Clean & Simple offers a deep clean with a high rating and a very competitive price."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 15,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_015.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_114",
+      "prod_conditioner_104"
+    ],
+    "final_choice": "prod_conditioner_104",
+    "reasoning": "ONLY4HAIR Magic Hair Mask is an excellent protein and keratin treatment that softens and brightens damaged hair."
+  }
+}

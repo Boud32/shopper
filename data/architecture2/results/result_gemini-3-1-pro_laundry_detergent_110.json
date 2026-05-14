@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 10,
+    "timestamp": 1778715409,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_110.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_084",
+      "prod_laundry_detergent_244",
+      "prod_laundry_detergent_040",
+      "prod_laundry_detergent_185",
+      "prod_laundry_detergent_262"
+    ],
+    "final_choice": "prod_laundry_detergent_185",
+    "reasoning": "Gain Flings have a strong odor-elimination feature that I need for my workout clothes."
+  }
+}

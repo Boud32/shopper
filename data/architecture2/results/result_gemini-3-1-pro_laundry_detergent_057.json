@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 7,
+    "timestamp": 1778715407,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_057.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_106",
+      "prod_laundry_detergent_200",
+      "prod_laundry_detergent_296",
+      "prod_laundry_detergent_020",
+      "prod_laundry_detergent_072"
+    ],
+    "final_choice": "prod_laundry_detergent_296",
+    "reasoning": "Tide Free & Gentle Liquid Laundry Detergent provides reliable cleaning without dyes or perfumes, making it a safe and effective choice for sensitive skin."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 18,
+    "timestamp": 1778715396,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_168.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_155",
+      "prod_yoga_mats_128",
+      "prod_yoga_mats_043",
+      "prod_yoga_mats_113"
+    ],
+    "final_choice": "prod_yoga_mats_155",
+    "reasoning": "The Plyopic All-In-One offers beautiful prints and a premium sweat-grip surface ideal for varied workouts."
+  }
+}

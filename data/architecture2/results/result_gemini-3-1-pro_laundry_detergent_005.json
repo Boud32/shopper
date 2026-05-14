@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 5,
+    "timestamp": 1778715405,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_005.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_199",
+      "prod_laundry_detergent_126",
+      "prod_laundry_detergent_166",
+      "prod_laundry_detergent_252",
+      "prod_laundry_detergent_283"
+    ],
+    "final_choice": "prod_laundry_detergent_166",
+    "reasoning": "Tide With Febreze offers reliable odor-fighting performance and strong brand trust."
+  }
+}

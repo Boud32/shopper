@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 37,
+    "timestamp": 1778715401,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_137.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_064",
+      "prod_protein_powder_081"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Animal 100% Whey is a dependable choice for post-workout needs."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 42,
+    "timestamp": 1778715407,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_092.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_200"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Pure Original Ingredients Soap Flakes are a fantastic and natural base for those who prefer to make their own homemade laundry detergents."
+  }
+}

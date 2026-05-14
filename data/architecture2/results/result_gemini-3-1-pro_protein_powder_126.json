@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 26,
+    "timestamp": 1778715401,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_126.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [],
+    "final_choice": "no_purchase",
+    "reasoning": "Animal Whey Isolate provides a reliable, digestion-friendly post-workout source."
+  }
+}

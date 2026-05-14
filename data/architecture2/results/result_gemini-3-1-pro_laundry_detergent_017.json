@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 17,
+    "timestamp": 1778715405,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_017.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_051"
+    ],
+    "final_choice": "prod_laundry_detergent_051",
+    "reasoning": "Purex Mountain Breeze is a very cost-effective staple detergent that still cleans well."
+  }
+}

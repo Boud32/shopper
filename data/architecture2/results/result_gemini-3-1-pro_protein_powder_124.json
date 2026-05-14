@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 24,
+    "timestamp": 1778715401,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_124.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_040",
+      "prod_protein_powder_123"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Mass gainers and collagen blends do not fit the requirement for a pure protein supplement."
+  }
+}

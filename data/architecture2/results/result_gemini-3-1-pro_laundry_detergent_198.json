@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 48,
+    "timestamp": 1778715411,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_198.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_151",
+      "prod_laundry_detergent_152"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "This choice provides the best dollar-to-load ratio in a highly competitive set."
+  }
+}

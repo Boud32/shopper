@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 19,
+    "timestamp": 1778715399,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_069.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_195",
+      "prod_protein_powder_074"
+    ],
+    "final_choice": "prod_protein_powder_074",
+    "reasoning": "Lean Whey Revolution provides incredible flavors while maintaining a low-calorie profile, making it easy to stick to my diet."
+  }
+}

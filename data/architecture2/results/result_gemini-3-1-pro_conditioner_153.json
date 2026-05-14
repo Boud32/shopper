@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 3,
+    "timestamp": 1778715419,
+    "source_batch": "data/offer_sets/conditioner/conditioner_153.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_022"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of the top options offer a compelling price-to-quality ratio for my specific hair needs."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 4,
+    "timestamp": 1778715396,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_154.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_188",
+      "prod_yoga_mats_135",
+      "prod_yoga_mats_187",
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_006"
+    ],
+    "final_choice": "prod_yoga_mats_095",
+    "reasoning": "BalanceFrom 1/2 inch extra thick mat has a high rating and provides exceptional value with an included knee pad."
+  }
+}

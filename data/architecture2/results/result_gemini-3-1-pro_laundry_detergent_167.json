@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 17,
+    "timestamp": 1778715411,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_167.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [],
+    "final_choice": "no_purchase",
+    "reasoning": "The long-lasting freshness guarantee sets it apart from the rest of the consideration set."
+  }
+}

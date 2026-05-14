@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 1,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_001.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_255",
+      "prod_conditioner_024",
+      "prod_conditioner_184",
+      "prod_conditioner_140",
+      "prod_conditioner_155"
+    ],
+    "final_choice": "prod_conditioner_255",
+    "reasoning": "This ALOXXI hydrating conditioner provides color protection and is highly rated by users."
+  }
+}

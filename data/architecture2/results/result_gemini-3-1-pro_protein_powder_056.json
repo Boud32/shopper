@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 6,
+    "timestamp": 1778715399,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_056.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_118",
+      "prod_protein_powder_127",
+      "prod_protein_powder_132",
+      "prod_protein_powder_094",
+      "prod_protein_powder_117"
+    ],
+    "final_choice": "prod_protein_powder_127",
+    "reasoning": "A clean, cold-filtered whey isolate with minimal ingredients is exactly what I need for seamless integration into my smoothies."
+  }
+}

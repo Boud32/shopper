@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 43,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_143.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_190",
+      "prod_conditioner_194"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Maui Moisture offers simple, effective, and clean hydration at an unbeatable price point with vast positive feedback."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 22,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_122.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_047"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Alfaparf Milano Semi Di Lino is a well-reviewed professional leave-in option that delivers salon-quality smoothness."
+  }
+}

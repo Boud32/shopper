@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 24,
+    "timestamp": 1778715407,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_074.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_118",
+      "prod_laundry_detergent_231"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The selection is uncompelling, dominated by overpriced luxury scents and bulky boxes of basic powder."
+  }
+}

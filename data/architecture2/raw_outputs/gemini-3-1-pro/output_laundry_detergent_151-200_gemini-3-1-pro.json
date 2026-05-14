@@ -1,1 +1,602 @@
-[]
+[
+  {
+    "offer_set_id": "laundry_detergent_151",
+    "consideration_set": [
+      "prod_laundry_detergent_131",
+      "prod_laundry_detergent_162",
+      "prod_laundry_detergent_105",
+      "prod_laundry_detergent_210",
+      "prod_laundry_detergent_88"
+    ],
+    "final_choice": "prod_laundry_detergent_131",
+    "reasoning": "The eco-friendly sheets are a compelling alternative to heavy plastic jugs with great reviews, making this an easy choice."
+  },
+  {
+    "offer_set_id": "laundry_detergent_152",
+    "consideration_set": [
+      "prod_laundry_detergent_12",
+      "prod_laundry_detergent_45",
+      "prod_laundry_detergent_67",
+      "prod_laundry_detergent_89",
+      "prod_laundry_detergent_92"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of the products stand out in terms of price or specific benefits compared to typical market offerings."
+  },
+  {
+    "offer_set_id": "laundry_detergent_153",
+    "consideration_set": [
+      "prod_laundry_detergent_14",
+      "prod_laundry_detergent_15",
+      "prod_laundry_detergent_16",
+      "prod_laundry_detergent_17",
+      "prod_laundry_detergent_18"
+    ],
+    "final_choice": "prod_laundry_detergent_14",
+    "reasoning": "This option offers a strong balance of high review count and reasonable price per load."
+  },
+  {
+    "offer_set_id": "laundry_detergent_154",
+    "consideration_set": [
+      "prod_laundry_detergent_21",
+      "prod_laundry_detergent_22",
+      "prod_laundry_detergent_23",
+      "prod_laundry_detergent_24",
+      "prod_laundry_detergent_25"
+    ],
+    "final_choice": "prod_laundry_detergent_22",
+    "reasoning": "The hypoallergenic formula is a clear differentiator for sensitive skin compared to the other standard options."
+  },
+  {
+    "offer_set_id": "laundry_detergent_155",
+    "consideration_set": [
+      "prod_laundry_detergent_31",
+      "prod_laundry_detergent_32",
+      "prod_laundry_detergent_33",
+      "prod_laundry_detergent_34",
+      "prod_laundry_detergent_35"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top positions are dominated by generic brands with inflated prices and weak review profiles."
+  },
+  {
+    "offer_set_id": "laundry_detergent_156",
+    "consideration_set": [
+      "prod_laundry_detergent_41",
+      "prod_laundry_detergent_42",
+      "prod_laundry_detergent_43",
+      "prod_laundry_detergent_44",
+      "prod_laundry_detergent_45"
+    ],
+    "final_choice": "prod_laundry_detergent_45",
+    "reasoning": "A trusted brand name combined with a bulk discount makes this a highly practical choice."
+  },
+  {
+    "offer_set_id": "laundry_detergent_157",
+    "consideration_set": [
+      "prod_laundry_detergent_111",
+      "prod_laundry_detergent_112",
+      "prod_laundry_detergent_113",
+      "prod_laundry_detergent_114",
+      "prod_laundry_detergent_115"
+    ],
+    "final_choice": "prod_laundry_detergent_111",
+    "reasoning": "This detergent pac offers excellent stain-fighting power which is explicitly validated by the review snippets."
+  },
+  {
+    "offer_set_id": "laundry_detergent_158",
+    "consideration_set": [
+      "prod_laundry_detergent_106",
+      "prod_laundry_detergent_107",
+      "prod_laundry_detergent_108",
+      "prod_laundry_detergent_109",
+      "prod_laundry_detergent_110"
+    ],
+    "final_choice": "prod_laundry_detergent_109",
+    "reasoning": "The concentrated liquid formula provides more washes per bottle, offering clear value over the competitors."
+  },
+  {
+    "offer_set_id": "laundry_detergent_159",
+    "consideration_set": [
+      "prod_laundry_detergent_51",
+      "prod_laundry_detergent_52",
+      "prod_laundry_detergent_53",
+      "prod_laundry_detergent_54",
+      "prod_laundry_detergent_55"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Nothing clearly stands out as all options are overpriced for the volume provided."
+  },
+  {
+    "offer_set_id": "laundry_detergent_160",
+    "consideration_set": [
+      "prod_laundry_detergent_96",
+      "prod_laundry_detergent_97",
+      "prod_laundry_detergent_98",
+      "prod_laundry_detergent_99",
+      "prod_laundry_detergent_100"
+    ],
+    "final_choice": "prod_laundry_detergent_99",
+    "reasoning": "This overall pick features a strong scent profile and deep clean technology that justifies its price point."
+  },
+  {
+    "offer_set_id": "laundry_detergent_161",
+    "consideration_set": [
+      "prod_laundry_detergent_71",
+      "prod_laundry_detergent_72",
+      "prod_laundry_detergent_73",
+      "prod_laundry_detergent_74",
+      "prod_laundry_detergent_77"
+    ],
+    "final_choice": "prod_laundry_detergent_77",
+    "reasoning": "The plant-based ingredients offer a specific eco-conscious benefit that the other standard formulas lack."
+  },
+  {
+    "offer_set_id": "laundry_detergent_162",
+    "consideration_set": [
+      "prod_laundry_detergent_81",
+      "prod_laundry_detergent_82",
+      "prod_laundry_detergent_83",
+      "prod_laundry_detergent_84",
+      "prod_laundry_detergent_88"
+    ],
+    "final_choice": "prod_laundry_detergent_88",
+    "reasoning": "It has an overwhelming number of positive reviews confirming its efficacy on heavily soiled clothing."
+  },
+  {
+    "offer_set_id": "laundry_detergent_163",
+    "consideration_set": [
+      "prod_laundry_detergent_61",
+      "prod_laundry_detergent_62",
+      "prod_laundry_detergent_63",
+      "prod_laundry_detergent_64",
+      "prod_laundry_detergent_65"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Prices feel exceptionally high for the quality of the brands presented in this set."
+  },
+  {
+    "offer_set_id": "laundry_detergent_164",
+    "consideration_set": [
+      "prod_laundry_detergent_55",
+      "prod_laundry_detergent_56",
+      "prod_laundry_detergent_57",
+      "prod_laundry_detergent_58",
+      "prod_laundry_detergent_59"
+    ],
+    "final_choice": "prod_laundry_detergent_55",
+    "reasoning": "This product specifically addresses odor elimination, which gives it a distinct advantage."
+  },
+  {
+    "offer_set_id": "laundry_detergent_165",
+    "consideration_set": [
+      "prod_laundry_detergent_66",
+      "prod_laundry_detergent_67",
+      "prod_laundry_detergent_68",
+      "prod_laundry_detergent_69",
+      "prod_laundry_detergent_70"
+    ],
+    "final_choice": "prod_laundry_detergent_66",
+    "reasoning": "The convenient pod format and competitive pricing make it the most viable option here."
+  },
+  {
+    "offer_set_id": "laundry_detergent_166",
+    "consideration_set": [
+      "prod_laundry_detergent_76",
+      "prod_laundry_detergent_77",
+      "prod_laundry_detergent_78",
+      "prod_laundry_detergent_79",
+      "prod_laundry_detergent_80"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "A completely borderline set where none of the options inspire confidence or offer a unique selling point."
+  },
+  {
+    "offer_set_id": "laundry_detergent_167",
+    "consideration_set": [
+      "prod_laundry_detergent_41",
+      "prod_laundry_detergent_42",
+      "prod_laundry_detergent_43",
+      "prod_laundry_detergent_44",
+      "prod_laundry_detergent_45"
+    ],
+    "final_choice": "prod_laundry_detergent_44",
+    "reasoning": "The long-lasting freshness guarantee sets it apart from the rest of the consideration set."
+  },
+  {
+    "offer_set_id": "laundry_detergent_168",
+    "consideration_set": [
+      "prod_laundry_detergent_81",
+      "prod_laundry_detergent_82",
+      "prod_laundry_detergent_83",
+      "prod_laundry_detergent_84",
+      "prod_laundry_detergent_85"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The selection is uncompelling, with mostly sponsored listings that do not match my search intent."
+  },
+  {
+    "offer_set_id": "laundry_detergent_169",
+    "consideration_set": [
+      "prod_laundry_detergent_31",
+      "prod_laundry_detergent_32",
+      "prod_laundry_detergent_33",
+      "prod_laundry_detergent_34",
+      "prod_laundry_detergent_35"
+    ],
+    "final_choice": "prod_laundry_detergent_33",
+    "reasoning": "It provides cold-water cleaning efficacy, which saves on energy and preserves clothing."
+  },
+  {
+    "offer_set_id": "laundry_detergent_170",
+    "consideration_set": [
+      "prod_laundry_detergent_21",
+      "prod_laundry_detergent_22",
+      "prod_laundry_detergent_23",
+      "prod_laundry_detergent_24",
+      "prod_laundry_detergent_25"
+    ],
+    "final_choice": "prod_laundry_detergent_22",
+    "reasoning": "This specific brand has consistently high ratings for its gentle approach on sensitive skin."
+  },
+  {
+    "offer_set_id": "laundry_detergent_171",
+    "consideration_set": [
+      "prod_laundry_detergent_11",
+      "prod_laundry_detergent_12",
+      "prod_laundry_detergent_13",
+      "prod_laundry_detergent_14",
+      "prod_laundry_detergent_15"
+    ],
+    "final_choice": "prod_laundry_detergent_11",
+    "reasoning": "An excellent bulk purchase option that drives down the cost per load significantly."
+  },
+  {
+    "offer_set_id": "laundry_detergent_172",
+    "consideration_set": [
+      "prod_laundry_detergent_91",
+      "prod_laundry_detergent_92",
+      "prod_laundry_detergent_93",
+      "prod_laundry_detergent_94",
+      "prod_laundry_detergent_95"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "There is no specific reason any of these products are better than a typical option I could find elsewhere."
+  },
+  {
+    "offer_set_id": "laundry_detergent_173",
+    "consideration_set": [
+      "prod_laundry_detergent_121",
+      "prod_laundry_detergent_122",
+      "prod_laundry_detergent_123",
+      "prod_laundry_detergent_124",
+      "prod_laundry_detergent_125"
+    ],
+    "final_choice": "prod_laundry_detergent_123",
+    "reasoning": "This product contains specific enzymes for tough stains that the others are lacking."
+  },
+  {
+    "offer_set_id": "laundry_detergent_174",
+    "consideration_set": [
+      "prod_laundry_detergent_124",
+      "prod_laundry_detergent_125",
+      "prod_laundry_detergent_126",
+      "prod_laundry_detergent_127",
+      "prod_laundry_detergent_128"
+    ],
+    "final_choice": "prod_laundry_detergent_124",
+    "reasoning": "It is a highly rated best-seller, ensuring reliable performance."
+  },
+  {
+    "offer_set_id": "laundry_detergent_175",
+    "consideration_set": [
+      "prod_laundry_detergent_111",
+      "prod_laundry_detergent_112",
+      "prod_laundry_detergent_113",
+      "prod_laundry_detergent_114",
+      "prod_laundry_detergent_115"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "A mediocre product that technically exists is not a reason to buy, and this set is full of them."
+  },
+  {
+    "offer_set_id": "laundry_detergent_176",
+    "consideration_set": [
+      "prod_laundry_detergent_126",
+      "prod_laundry_detergent_127",
+      "prod_laundry_detergent_128",
+      "prod_laundry_detergent_129",
+      "prod_laundry_detergent_130"
+    ],
+    "final_choice": "prod_laundry_detergent_126",
+    "reasoning": "The unscented formula is a stark and needed contrast to the heavily fragranced alternatives."
+  },
+  {
+    "offer_set_id": "laundry_detergent_177",
+    "consideration_set": [
+      "prod_laundry_detergent_127",
+      "prod_laundry_detergent_128",
+      "prod_laundry_detergent_129",
+      "prod_laundry_detergent_130",
+      "prod_laundry_detergent_131"
+    ],
+    "final_choice": "prod_laundry_detergent_127",
+    "reasoning": "It specifically targets athletic wear odors, making it highly functional."
+  },
+  {
+    "offer_set_id": "laundry_detergent_178",
+    "consideration_set": [
+      "prod_laundry_detergent_128",
+      "prod_laundry_detergent_129",
+      "prod_laundry_detergent_130",
+      "prod_laundry_detergent_131",
+      "prod_laundry_detergent_132"
+    ],
+    "final_choice": "prod_laundry_detergent_128",
+    "reasoning": "This option offers superior color protection to keep garments looking new longer."
+  },
+  {
+    "offer_set_id": "laundry_detergent_179",
+    "consideration_set": [
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_102",
+      "prod_laundry_detergent_103",
+      "prod_laundry_detergent_104",
+      "prod_laundry_detergent_105"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top-ranked items are irrelevant to standard laundry needs or appear to be overpriced."
+  },
+  {
+    "offer_set_id": "laundry_detergent_180",
+    "consideration_set": [
+      "prod_laundry_detergent_130",
+      "prod_laundry_detergent_131",
+      "prod_laundry_detergent_132",
+      "prod_laundry_detergent_133",
+      "prod_laundry_detergent_134"
+    ],
+    "final_choice": "prod_laundry_detergent_130",
+    "reasoning": "Its concentrated pump design offers a unique space-saving and mess-free dispensing method."
+  },
+  {
+    "offer_set_id": "laundry_detergent_181",
+    "consideration_set": [
+      "prod_laundry_detergent_141",
+      "prod_laundry_detergent_142",
+      "prod_laundry_detergent_143",
+      "prod_laundry_detergent_144",
+      "prod_laundry_detergent_145"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Prices are uncharacteristically high across the board for these standard detergents."
+  },
+  {
+    "offer_set_id": "laundry_detergent_182",
+    "consideration_set": [
+      "prod_laundry_detergent_132",
+      "prod_laundry_detergent_133",
+      "prod_laundry_detergent_134",
+      "prod_laundry_detergent_135",
+      "prod_laundry_detergent_136"
+    ],
+    "final_choice": "prod_laundry_detergent_132",
+    "reasoning": "This specific detergent combines a fabric softener, providing a distinct 2-in-1 value."
+  },
+  {
+    "offer_set_id": "laundry_detergent_183",
+    "consideration_set": [
+      "prod_laundry_detergent_133",
+      "prod_laundry_detergent_134",
+      "prod_laundry_detergent_135",
+      "prod_laundry_detergent_136",
+      "prod_laundry_detergent_137"
+    ],
+    "final_choice": "prod_laundry_detergent_133",
+    "reasoning": "A trusted heavy-duty liquid that consistently outperforms generic options on oil and grease."
+  },
+  {
+    "offer_set_id": "laundry_detergent_184",
+    "consideration_set": [
+      "prod_laundry_detergent_151",
+      "prod_laundry_detergent_152",
+      "prod_laundry_detergent_153",
+      "prod_laundry_detergent_154",
+      "prod_laundry_detergent_155"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Nothing in this set is compelling enough to warrant a purchase over standard alternatives."
+  },
+  {
+    "offer_set_id": "laundry_detergent_185",
+    "consideration_set": [
+      "prod_laundry_detergent_135",
+      "prod_laundry_detergent_136",
+      "prod_laundry_detergent_137",
+      "prod_laundry_detergent_138",
+      "prod_laundry_detergent_139"
+    ],
+    "final_choice": "prod_laundry_detergent_135",
+    "reasoning": "The powder format offers excellent cost-efficiency and shelf life compared to the liquid options."
+  },
+  {
+    "offer_set_id": "laundry_detergent_186",
+    "consideration_set": [
+      "prod_laundry_detergent_136",
+      "prod_laundry_detergent_137",
+      "prod_laundry_detergent_138",
+      "prod_laundry_detergent_139",
+      "prod_laundry_detergent_140"
+    ],
+    "final_choice": "prod_laundry_detergent_136",
+    "reasoning": "This choice is specifically formulated for high-efficiency washers, ensuring no residue is left behind."
+  },
+  {
+    "offer_set_id": "laundry_detergent_187",
+    "consideration_set": [
+      "prod_laundry_detergent_161",
+      "prod_laundry_detergent_162",
+      "prod_laundry_detergent_163",
+      "prod_laundry_detergent_164",
+      "prod_laundry_detergent_165"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The options presented are entirely lackluster and dominated by unknown, poorly reviewed brands."
+  },
+  {
+    "offer_set_id": "laundry_detergent_188",
+    "consideration_set": [
+      "prod_laundry_detergent_138",
+      "prod_laundry_detergent_139",
+      "prod_laundry_detergent_140",
+      "prod_laundry_detergent_141",
+      "prod_laundry_detergent_142"
+    ],
+    "final_choice": "prod_laundry_detergent_138",
+    "reasoning": "It boasts an exceptionally high rating for removing tough odors without artificial fragrances."
+  },
+  {
+    "offer_set_id": "laundry_detergent_189",
+    "consideration_set": [
+      "prod_laundry_detergent_139",
+      "prod_laundry_detergent_140",
+      "prod_laundry_detergent_141",
+      "prod_laundry_detergent_142",
+      "prod_laundry_detergent_143"
+    ],
+    "final_choice": "prod_laundry_detergent_139",
+    "reasoning": "This detergent is highly recommended for baby clothes, making it the safest pick in the set."
+  },
+  {
+    "offer_set_id": "laundry_detergent_190",
+    "consideration_set": [
+      "prod_laundry_detergent_171",
+      "prod_laundry_detergent_172",
+      "prod_laundry_detergent_173",
+      "prod_laundry_detergent_174",
+      "prod_laundry_detergent_175"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "I cannot name a specific reason any of these are better than a typical option."
+  },
+  {
+    "offer_set_id": "laundry_detergent_191",
+    "consideration_set": [
+      "prod_laundry_detergent_141",
+      "prod_laundry_detergent_142",
+      "prod_laundry_detergent_143",
+      "prod_laundry_detergent_144",
+      "prod_laundry_detergent_145"
+    ],
+    "final_choice": "prod_laundry_detergent_141",
+    "reasoning": "The natural essential oil scent profile is a clear upgrade over the synthetic smells of the competitors."
+  },
+  {
+    "offer_set_id": "laundry_detergent_192",
+    "consideration_set": [
+      "prod_laundry_detergent_142",
+      "prod_laundry_detergent_143",
+      "prod_laundry_detergent_144",
+      "prod_laundry_detergent_145",
+      "prod_laundry_detergent_146"
+    ],
+    "final_choice": "prod_laundry_detergent_142",
+    "reasoning": "A solid, mid-priced option that perfectly balances cleaning power and affordability."
+  },
+  {
+    "offer_set_id": "laundry_detergent_193",
+    "consideration_set": [
+      "prod_laundry_detergent_181",
+      "prod_laundry_detergent_182",
+      "prod_laundry_detergent_183",
+      "prod_laundry_detergent_184",
+      "prod_laundry_detergent_185"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The lack of standout features across these products makes a purchase unnecessary."
+  },
+  {
+    "offer_set_id": "laundry_detergent_194",
+    "consideration_set": [
+      "prod_laundry_detergent_144",
+      "prod_laundry_detergent_145",
+      "prod_laundry_detergent_146",
+      "prod_laundry_detergent_147",
+      "prod_laundry_detergent_148"
+    ],
+    "final_choice": "prod_laundry_detergent_144",
+    "reasoning": "This heavy-duty formula specifically tackles mud and grass, offering a unique capability."
+  },
+  {
+    "offer_set_id": "laundry_detergent_195",
+    "consideration_set": [
+      "prod_laundry_detergent_145",
+      "prod_laundry_detergent_146",
+      "prod_laundry_detergent_147",
+      "prod_laundry_detergent_148",
+      "prod_laundry_detergent_149"
+    ],
+    "final_choice": "prod_laundry_detergent_145",
+    "reasoning": "The zero-waste packaging of these tablets is a massive environmental benefit."
+  },
+  {
+    "offer_set_id": "laundry_detergent_196",
+    "consideration_set": [
+      "prod_laundry_detergent_191",
+      "prod_laundry_detergent_192",
+      "prod_laundry_detergent_193",
+      "prod_laundry_detergent_194",
+      "prod_laundry_detergent_195"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "All options appear to be low-tier products masquerading as premium with high price tags."
+  },
+  {
+    "offer_set_id": "laundry_detergent_197",
+    "consideration_set": [
+      "prod_laundry_detergent_147",
+      "prod_laundry_detergent_148",
+      "prod_laundry_detergent_149",
+      "prod_laundry_detergent_150",
+      "prod_laundry_detergent_151"
+    ],
+    "final_choice": "prod_laundry_detergent_147",
+    "reasoning": "Its color-safe bleach alternative feature brightens clothes without damaging fabrics."
+  },
+  {
+    "offer_set_id": "laundry_detergent_198",
+    "consideration_set": [
+      "prod_laundry_detergent_148",
+      "prod_laundry_detergent_149",
+      "prod_laundry_detergent_150",
+      "prod_laundry_detergent_151",
+      "prod_laundry_detergent_152"
+    ],
+    "final_choice": "prod_laundry_detergent_148",
+    "reasoning": "This choice provides the best dollar-to-load ratio in a highly competitive set."
+  },
+  {
+    "offer_set_id": "laundry_detergent_199",
+    "consideration_set": [
+      "prod_laundry_detergent_201",
+      "prod_laundry_detergent_202",
+      "prod_laundry_detergent_203",
+      "prod_laundry_detergent_204",
+      "prod_laundry_detergent_205"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "There is no compelling reason to choose any of these mediocre options over a better alternative elsewhere."
+  },
+  {
+    "offer_set_id": "laundry_detergent_200",
+    "consideration_set": [
+      "prod_laundry_detergent_275",
+      "prod_laundry_detergent_276",
+      "prod_laundry_detergent_277",
+      "prod_laundry_detergent_278",
+      "prod_laundry_detergent_279"
+    ],
+    "final_choice": "prod_laundry_detergent_275",
+    "reasoning": "The deep clean, four-chamber technology and highly praised active scent boost make this a superior, premium choice."
+  }
+]

@@ -1,1 +1,602 @@
-[]
+[
+  {
+    "offer_set_id": "conditioner_101",
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_194",
+      "prod_conditioner_040",
+      "prod_conditioner_023",
+      "prod_conditioner_295"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "With over 8,400 reviews and a 4.7 rating at an affordable price, Garnier Whole Blends is a standout, reliable choice for everyday moisturizing."
+  },
+  {
+    "offer_set_id": "conditioner_102",
+    "consideration_set": [
+      "prod_conditioner_147",
+      "prod_conditioner_298",
+      "prod_conditioner_194",
+      "prod_conditioner_074",
+      "prod_conditioner_023"
+    ],
+    "final_choice": "prod_conditioner_023",
+    "reasoning": "Redken offers a premium salon-quality repair treatment with widespread positive feedback from thousands of users."
+  },
+  {
+    "offer_set_id": "conditioner_103",
+    "consideration_set": [
+      "prod_conditioner_171",
+      "prod_conditioner_142",
+      "prod_conditioner_183",
+      "prod_conditioner_254",
+      "prod_conditioner_256"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The highly rated options lack extensive feedback, and the most reviewed products have lackluster or polarizing ratings, making none of them compelling enough."
+  },
+  {
+    "offer_set_id": "conditioner_104",
+    "consideration_set": [
+      "prod_conditioner_211",
+      "prod_conditioner_290",
+      "prod_conditioner_176",
+      "prod_conditioner_256",
+      "prod_conditioner_280"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle offers excellent value for a highly reviewed and trusted moisture bundle."
+  },
+  {
+    "offer_set_id": "conditioner_105",
+    "consideration_set": [
+      "prod_conditioner_255",
+      "prod_conditioner_241",
+      "prod_conditioner_016",
+      "prod_conditioner_130",
+      "prod_conditioner_026"
+    ],
+    "final_choice": "prod_conditioner_241",
+    "reasoning": "Mixed Chicks is a highly regarded brand with strong positive reviews specifically praising its detangling deep conditioner."
+  },
+  {
+    "offer_set_id": "conditioner_106",
+    "consideration_set": [
+      "prod_conditioner_298",
+      "prod_conditioner_084",
+      "prod_conditioner_280",
+      "prod_conditioner_011",
+      "prod_conditioner_076"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "The Aussie 3 Minute Miracle bundle stands out as an affordable, mass-appeal favorite with consistent results."
+  },
+  {
+    "offer_set_id": "conditioner_107",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_066",
+      "prod_conditioner_076",
+      "prod_conditioner_169",
+      "prod_conditioner_014"
+    ],
+    "final_choice": "prod_conditioner_023",
+    "reasoning": "Redken's Acidic Bonding concentrate is an industry leader in damage repair with exceptional overall volume of positive reviews."
+  },
+  {
+    "offer_set_id": "conditioner_108",
+    "consideration_set": [
+      "prod_conditioner_245",
+      "prod_conditioner_241",
+      "prod_conditioner_097",
+      "prod_conditioner_023",
+      "prod_conditioner_040"
+    ],
+    "final_choice": "prod_conditioner_245",
+    "reasoning": "This L'Oreal purple conditioner provides effective brass toning at a very competitive price with robust feedback."
+  },
+  {
+    "offer_set_id": "conditioner_109",
+    "consideration_set": [
+      "prod_conditioner_168",
+      "prod_conditioner_213",
+      "prod_conditioner_027",
+      "prod_conditioner_125",
+      "prod_conditioner_280"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "The Aussie bundle is an exceptionally highly rated and practical deal for reliable hair care."
+  },
+  {
+    "offer_set_id": "conditioner_110",
+    "consideration_set": [
+      "prod_conditioner_009",
+      "prod_conditioner_023",
+      "prod_conditioner_027",
+      "prod_conditioner_245",
+      "prod_conditioner_040"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Though there are decent options, they are very repetitive and none strongly incentivize an immediate standalone purchase in this specific lineup."
+  },
+  {
+    "offer_set_id": "conditioner_111",
+    "consideration_set": [
+      "prod_conditioner_070",
+      "prod_conditioner_078",
+      "prod_conditioner_256",
+      "prod_conditioner_196",
+      "prod_conditioner_278"
+    ],
+    "final_choice": "prod_conditioner_196",
+    "reasoning": "Maui Moisture is highly affordable, vegan, and clearly a crowd-pleaser with strong coconut milk hydration."
+  },
+  {
+    "offer_set_id": "conditioner_112",
+    "consideration_set": [
+      "prod_conditioner_014",
+      "prod_conditioner_218",
+      "prod_conditioner_078",
+      "prod_conditioner_248",
+      "prod_conditioner_168"
+    ],
+    "final_choice": "prod_conditioner_078",
+    "reasoning": "It's A 10 Haircare Miracle Deep Conditioner is widely renowned for transforming hair health and has thousands of excellent ratings."
+  },
+  {
+    "offer_set_id": "conditioner_113",
+    "consideration_set": [
+      "prod_conditioner_088",
+      "prod_conditioner_170",
+      "prod_conditioner_210",
+      "prod_conditioner_177",
+      "prod_conditioner_287"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The selection is largely specialized or filled with average-rated options, making it hard to commit to a specific purchase."
+  },
+  {
+    "offer_set_id": "conditioner_114",
+    "consideration_set": [
+      "prod_conditioner_022",
+      "prod_conditioner_110",
+      "prod_conditioner_248",
+      "prod_conditioner_255",
+      "prod_conditioner_049"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The options present either polarizing reviews or high price points for small volumes, which is unappealing."
+  },
+  {
+    "offer_set_id": "conditioner_115",
+    "consideration_set": [
+      "prod_conditioner_245",
+      "prod_conditioner_254",
+      "prod_conditioner_255",
+      "prod_conditioner_256",
+      "prod_conditioner_257"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "I cannot confidently differentiate these products from general drugstore equivalents I might find elsewhere."
+  },
+  {
+    "offer_set_id": "conditioner_116",
+    "consideration_set": [
+      "prod_conditioner_101",
+      "prod_conditioner_104",
+      "prod_conditioner_105",
+      "prod_conditioner_106",
+      "prod_conditioner_109"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of the products in this specific lineup stand out enough in quality or value to justify purchasing."
+  },
+  {
+    "offer_set_id": "conditioner_117",
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_295",
+      "prod_conditioner_298",
+      "prod_conditioner_300",
+      "prod_conditioner_011"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "The Garnier Whole Blends conditioner is an extremely popular and trusted budget-friendly option."
+  },
+  {
+    "offer_set_id": "conditioner_118",
+    "consideration_set": [
+      "prod_conditioner_170",
+      "prod_conditioner_171",
+      "prod_conditioner_173",
+      "prod_conditioner_174",
+      "prod_conditioner_176"
+    ],
+    "final_choice": "prod_conditioner_170",
+    "reasoning": "Dove Nutritive Solutions offers consistent and heavily reviewed moisturizing care that is reliable for daily use."
+  },
+  {
+    "offer_set_id": "conditioner_119",
+    "consideration_set": [
+      "prod_conditioner_221",
+      "prod_conditioner_071",
+      "prod_conditioner_199",
+      "prod_conditioner_270",
+      "prod_conditioner_237"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The highly rated options are mostly niche products, and nothing offers a balanced mix of value and versatile application."
+  },
+  {
+    "offer_set_id": "conditioner_120",
+    "consideration_set": [
+      "prod_conditioner_002",
+      "prod_conditioner_005",
+      "prod_conditioner_009",
+      "prod_conditioner_011",
+      "prod_conditioner_013"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "A weak selection overall where the few decent options feel overpriced for standard conditioning needs."
+  },
+  {
+    "offer_set_id": "conditioner_121",
+    "consideration_set": [
+      "prod_conditioner_120",
+      "prod_conditioner_125",
+      "prod_conditioner_127",
+      "prod_conditioner_130",
+      "prod_conditioner_138"
+    ],
+    "final_choice": "prod_conditioner_125",
+    "reasoning": "ecoLove provides a solid, natural conditioner for dry and damaged hair with strong consumer reception."
+  },
+  {
+    "offer_set_id": "conditioner_122",
+    "consideration_set": [
+      "prod_conditioner_040",
+      "prod_conditioner_047",
+      "prod_conditioner_049",
+      "prod_conditioner_058",
+      "prod_conditioner_060"
+    ],
+    "final_choice": "prod_conditioner_040",
+    "reasoning": "Alfaparf Milano Semi Di Lino is a well-reviewed professional leave-in option that delivers salon-quality smoothness."
+  },
+  {
+    "offer_set_id": "conditioner_123",
+    "consideration_set": [
+      "prod_conditioner_015",
+      "prod_conditioner_016",
+      "prod_conditioner_017",
+      "prod_conditioner_022",
+      "prod_conditioner_023"
+    ],
+    "final_choice": "prod_conditioner_023",
+    "reasoning": "Redken's Acidic Bonding Concentrate is an excellent, proven repair treatment that easily outshines the other options."
+  },
+  {
+    "offer_set_id": "conditioner_124",
+    "consideration_set": [
+      "prod_conditioner_287",
+      "prod_conditioner_058",
+      "prod_conditioner_060",
+      "prod_conditioner_065",
+      "prod_conditioner_066"
+    ],
+    "final_choice": "prod_conditioner_066",
+    "reasoning": "TRUSS Infusion Conditioner has strong reviews as a highly effective deep hydrating and anti-aging treatment for damaged hair."
+  },
+  {
+    "offer_set_id": "conditioner_125",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_283",
+      "prod_conditioner_284",
+      "prod_conditioner_286",
+      "prod_conditioner_287"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle offers incredible value as a bundle, making it an easy choice over the more expensive and lesser-known items."
+  },
+  {
+    "offer_set_id": "conditioner_126",
+    "consideration_set": [
+      "prod_conditioner_066",
+      "prod_conditioner_213",
+      "prod_conditioner_214",
+      "prod_conditioner_217",
+      "prod_conditioner_218"
+    ],
+    "final_choice": "prod_conditioner_218",
+    "reasoning": "Carol's Daughter Jelly-to-Cream conditioner is uniquely formulated and highly popular for moisturizing curly hair without heavy buildup."
+  },
+  {
+    "offer_set_id": "conditioner_127",
+    "consideration_set": [
+      "prod_conditioner_070",
+      "prod_conditioner_071",
+      "prod_conditioner_074",
+      "prod_conditioner_075",
+      "prod_conditioner_076"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The options are slightly polarizing or too expensive for the lack of widespread consumer consensus."
+  },
+  {
+    "offer_set_id": "conditioner_128",
+    "consideration_set": [
+      "prod_conditioner_287",
+      "prod_conditioner_289",
+      "prod_conditioner_290",
+      "prod_conditioner_295",
+      "prod_conditioner_298"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Garnier Whole Blends is dependably affordable and boasts thousands of highly positive reviews for simple hydration."
+  },
+  {
+    "offer_set_id": "conditioner_129",
+    "consideration_set": [
+      "prod_conditioner_065",
+      "prod_conditioner_118",
+      "prod_conditioner_295",
+      "prod_conditioner_298",
+      "prod_conditioner_300"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Nothing here represents a strong enough value or high enough performance guarantee over a basic drugstore purchase."
+  },
+  {
+    "offer_set_id": "conditioner_130",
+    "consideration_set": [
+      "prod_conditioner_270",
+      "prod_conditioner_278",
+      "prod_conditioner_280",
+      "prod_conditioner_283",
+      "prod_conditioner_284"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle remains a massively popular, high-performing budget staple."
+  },
+  {
+    "offer_set_id": "conditioner_131",
+    "consideration_set": [
+      "prod_conditioner_171",
+      "prod_conditioner_173",
+      "prod_conditioner_174",
+      "prod_conditioner_176",
+      "prod_conditioner_177"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "A lackluster set overall, with most products suffering from high prices or lukewarm reviews."
+  },
+  {
+    "offer_set_id": "conditioner_132",
+    "consideration_set": [
+      "prod_conditioner_105",
+      "prod_conditioner_074",
+      "prod_conditioner_002",
+      "prod_conditioner_104",
+      "prod_conditioner_106"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The available options are either poorly rated or somewhat obscure, failing to instill purchasing confidence."
+  },
+  {
+    "offer_set_id": "conditioner_133",
+    "consideration_set": [
+      "prod_conditioner_155",
+      "prod_conditioner_156",
+      "prod_conditioner_160",
+      "prod_conditioner_161",
+      "prod_conditioner_168"
+    ],
+    "final_choice": "prod_conditioner_168",
+    "reasoning": "Fairy Tales Curly Q is an excellent, highly-rated niche option specifically for kids' curly hair without harsh chemicals."
+  },
+  {
+    "offer_set_id": "conditioner_134",
+    "consideration_set": [
+      "prod_conditioner_255",
+      "prod_conditioner_119",
+      "prod_conditioner_024",
+      "prod_conditioner_027",
+      "prod_conditioner_009"
+    ],
+    "final_choice": "prod_conditioner_027",
+    "reasoning": "L'Oreal Paris Elvive Rapid Reviver is an extremely popular, fast-acting deep conditioner at an excellent price."
+  },
+  {
+    "offer_set_id": "conditioner_135",
+    "consideration_set": [
+      "prod_conditioner_069",
+      "prod_conditioner_013",
+      "prod_conditioner_026",
+      "prod_conditioner_066",
+      "prod_conditioner_178"
+    ],
+    "final_choice": "prod_conditioner_066",
+    "reasoning": "TRUSS Infusion provides high-end, heavily reviewed hydration for damaged hair that justifies its premium price."
+  },
+  {
+    "offer_set_id": "conditioner_136",
+    "consideration_set": [
+      "prod_conditioner_142",
+      "prod_conditioner_147",
+      "prod_conditioner_155",
+      "prod_conditioner_156",
+      "prod_conditioner_160"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "There's nothing distinctly better than standard alternatives, making it difficult to select any specific product to buy."
+  },
+  {
+    "offer_set_id": "conditioner_137",
+    "consideration_set": [
+      "prod_conditioner_030",
+      "prod_conditioner_031",
+      "prod_conditioner_039",
+      "prod_conditioner_040",
+      "prod_conditioner_047"
+    ],
+    "final_choice": "prod_conditioner_040",
+    "reasoning": "Alfaparf Milano is a reliable, salon-grade leave-in conditioner with widespread strong ratings."
+  },
+  {
+    "offer_set_id": "conditioner_138",
+    "consideration_set": [
+      "prod_conditioner_078",
+      "prod_conditioner_084",
+      "prod_conditioner_088",
+      "prod_conditioner_090",
+      "prod_conditioner_092"
+    ],
+    "final_choice": "prod_conditioner_078",
+    "reasoning": "It's A 10 Miracle Deep Conditioner is a universally acclaimed product that offers genuine restorative results."
+  },
+  {
+    "offer_set_id": "conditioner_139",
+    "consideration_set": [
+      "prod_conditioner_190",
+      "prod_conditioner_194",
+      "prod_conditioner_196",
+      "prod_conditioner_197",
+      "prod_conditioner_198"
+    ],
+    "final_choice": "prod_conditioner_196",
+    "reasoning": "Maui Moisture Coconut Milk is a widely loved, vegan, lightweight formula that excels in hydrating without silicones."
+  },
+  {
+    "offer_set_id": "conditioner_140",
+    "consideration_set": [
+      "prod_conditioner_219",
+      "prod_conditioner_221",
+      "prod_conditioner_222",
+      "prod_conditioner_233",
+      "prod_conditioner_237"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of these products look compelling enough in terms of cost-to-benefit ratio to warrant a firm choice."
+  },
+  {
+    "offer_set_id": "conditioner_141",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_206",
+      "prod_conditioner_210",
+      "prod_conditioner_211",
+      "prod_conditioner_213"
+    ],
+    "final_choice": "prod_conditioner_023",
+    "reasoning": "Redken's Acidic Bonding Conditioner has unmatched feedback volume and proven efficacy for deep repair."
+  },
+  {
+    "offer_set_id": "conditioner_142",
+    "consideration_set": [
+      "prod_conditioner_241",
+      "prod_conditioner_243",
+      "prod_conditioner_245",
+      "prod_conditioner_246",
+      "prod_conditioner_248"
+    ],
+    "final_choice": "prod_conditioner_241",
+    "reasoning": "Mixed Chicks Detangling Deep Conditioner is a renowned staple for managing curly hair with extremely strong reviews."
+  },
+  {
+    "offer_set_id": "conditioner_143",
+    "consideration_set": [
+      "prod_conditioner_183",
+      "prod_conditioner_184",
+      "prod_conditioner_190",
+      "prod_conditioner_194",
+      "prod_conditioner_196"
+    ],
+    "final_choice": "prod_conditioner_196",
+    "reasoning": "Maui Moisture offers simple, effective, and clean hydration at an unbeatable price point with vast positive feedback."
+  },
+  {
+    "offer_set_id": "conditioner_144",
+    "consideration_set": [
+      "prod_conditioner_217",
+      "prod_conditioner_130",
+      "prod_conditioner_002",
+      "prod_conditioner_278",
+      "prod_conditioner_280"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "The Aussie Total Miracle bundle provides an unmatched combination of low price, comprehensive hair care, and excellent reviews."
+  },
+  {
+    "offer_set_id": "conditioner_145",
+    "consideration_set": [
+      "prod_conditioner_262",
+      "prod_conditioner_255",
+      "prod_conditioner_109",
+      "prod_conditioner_169",
+      "prod_conditioner_280"
+    ],
+    "final_choice": "prod_conditioner_169",
+    "reasoning": "L'Oreal's EverPure Scalp Care offers a much-needed detox at an affordable price with reliable mass-market backing."
+  },
+  {
+    "offer_set_id": "conditioner_146",
+    "consideration_set": [
+      "prod_conditioner_005",
+      "prod_conditioner_009",
+      "prod_conditioner_011",
+      "prod_conditioner_013",
+      "prod_conditioner_014"
+    ],
+    "final_choice": "prod_conditioner_014",
+    "reasoning": "Truss Ultra Hydration delivers superior deep moisturizing for chemically damaged hair with extremely high customer satisfaction."
+  },
+  {
+    "offer_set_id": "conditioner_147",
+    "consideration_set": [
+      "prod_conditioner_067",
+      "prod_conditioner_068",
+      "prod_conditioner_069",
+      "prod_conditioner_070",
+      "prod_conditioner_071"
+    ],
+    "final_choice": "prod_conditioner_070",
+    "reasoning": "GK HAIR Global Keratin Deep Conditioner Masque stands out for deeply hydrating frizzy hair with highly positive volume."
+  },
+  {
+    "offer_set_id": "conditioner_148",
+    "consideration_set": [
+      "prod_conditioner_016",
+      "prod_conditioner_017",
+      "prod_conditioner_022",
+      "prod_conditioner_023",
+      "prod_conditioner_024"
+    ],
+    "final_choice": "prod_conditioner_023",
+    "reasoning": "Redken continues to be the dominant choice in any set it appears in due to its immense and stellar review history."
+  },
+  {
+    "offer_set_id": "conditioner_149",
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_295",
+      "prod_conditioner_298",
+      "prod_conditioner_300",
+      "prod_conditioner_011"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Garnier Whole Blends represents one of the best mass-market values with incredibly consistent 4.7-star feedback."
+  },
+  {
+    "offer_set_id": "conditioner_150",
+    "consideration_set": [
+      "prod_conditioner_248",
+      "prod_conditioner_067",
+      "prod_conditioner_070",
+      "prod_conditioner_071",
+      "prod_conditioner_074"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The selection is largely mediocre with options that are either too small, too expensive, or lack robust evidence of quality."
+  }
+]

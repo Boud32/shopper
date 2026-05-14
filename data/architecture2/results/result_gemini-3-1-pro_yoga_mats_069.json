@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 19,
+    "timestamp": 1778715392,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_069.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_073",
+      "prod_yoga_mats_055"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The available products feel too flimsy and lack clear advantages over a standard baseline mat."
+  }
+}

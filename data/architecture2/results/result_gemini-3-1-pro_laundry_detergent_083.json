@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 33,
+    "timestamp": 1778715407,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_083.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_189"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "ENYUR Travel Laundry Detergent Sheets are highly rated for convenience and simple usage, especially when on the go."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 36,
+    "timestamp": 1778715392,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_086.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_053",
+      "prod_yoga_mats_157",
+      "prod_yoga_mats_024",
+      "prod_yoga_mats_079"
+    ],
+    "final_choice": "prod_yoga_mats_163",
+    "reasoning": "Heathyoga's built-in body alignment system uniquely helps beginners correct their posture dynamically."
+  }
+}

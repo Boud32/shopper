@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 27,
+    "timestamp": 1778715396,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_177.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_053",
+      "prod_yoga_mats_134",
+      "prod_yoga_mats_123",
+      "prod_yoga_mats_151"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Most highly-rated options in this set are too thin for a comfortable daily practice on hard floors."
+  }
+}

@@ -1,1 +1,602 @@
-[]
+[
+  {
+    "offer_set_id": "protein_powder_101",
+    "consideration_set": [
+      "prod_protein_powder_053",
+      "prod_protein_powder_092",
+      "prod_protein_powder_078",
+      "prod_protein_powder_041",
+      "prod_protein_powder_162"
+    ],
+    "final_choice": "prod_protein_powder_041",
+    "reasoning": "Legion Whey+ offers a clean, high-quality whey isolate with minimal ingredients."
+  },
+  {
+    "offer_set_id": "protein_powder_102",
+    "consideration_set": [
+      "prod_protein_powder_040",
+      "prod_protein_powder_130",
+      "prod_protein_powder_076",
+      "prod_protein_powder_056",
+      "prod_protein_powder_189"
+    ],
+    "final_choice": "prod_protein_powder_189",
+    "reasoning": "Jarrow Formulas Whey provides a solid unflavored protein without unnecessary additives."
+  },
+  {
+    "offer_set_id": "protein_powder_103",
+    "consideration_set": [
+      "prod_protein_powder_144",
+      "prod_protein_powder_140",
+      "prod_protein_powder_060",
+      "prod_protein_powder_037",
+      "prod_protein_powder_169"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Many options have polarizing taste reviews or use polarizing sweeteners that make a purchase too risky."
+  },
+  {
+    "offer_set_id": "protein_powder_104",
+    "consideration_set": [
+      "prod_protein_powder_046",
+      "prod_protein_powder_020",
+      "prod_protein_powder_052",
+      "prod_protein_powder_109",
+      "prod_protein_powder_183"
+    ],
+    "final_choice": "prod_protein_powder_052",
+    "reasoning": "Gnarly Nutrition utilizes grass-fed New Zealand whey, which is an excellent indicator of quality."
+  },
+  {
+    "offer_set_id": "protein_powder_105",
+    "consideration_set": [
+      "prod_protein_powder_063",
+      "prod_protein_powder_151",
+      "prod_protein_powder_065",
+      "prod_protein_powder_059",
+      "prod_protein_powder_136"
+    ],
+    "final_choice": "prod_protein_powder_063",
+    "reasoning": "Jocko M\u00f6lk features a great blend of whey, casein, and egg along with digestive enzymes."
+  },
+  {
+    "offer_set_id": "protein_powder_106",
+    "consideration_set": [
+      "prod_protein_powder_023",
+      "prod_protein_powder_132",
+      "prod_protein_powder_106",
+      "prod_protein_powder_034",
+      "prod_protein_powder_063"
+    ],
+    "final_choice": "prod_protein_powder_063",
+    "reasoning": "Jocko M\u00f6lk consistently delivers on quality and includes a robust ingredient profile without sugar."
+  },
+  {
+    "offer_set_id": "protein_powder_107",
+    "consideration_set": [
+      "prod_protein_powder_053",
+      "prod_protein_powder_162",
+      "prod_protein_powder_127",
+      "prod_protein_powder_046",
+      "prod_protein_powder_028"
+    ],
+    "final_choice": "prod_protein_powder_127",
+    "reasoning": "BiPro Renew offers a highly purified isolate that avoids common digestive issues."
+  },
+  {
+    "offer_set_id": "protein_powder_108",
+    "consideration_set": [
+      "prod_protein_powder_124",
+      "prod_protein_powder_156",
+      "prod_protein_powder_027",
+      "prod_protein_powder_158",
+      "prod_protein_powder_041"
+    ],
+    "final_choice": "prod_protein_powder_041",
+    "reasoning": "Legion Whey+ remains a top-tier choice for a clean isolate profile."
+  },
+  {
+    "offer_set_id": "protein_powder_109",
+    "consideration_set": [
+      "prod_protein_powder_038",
+      "prod_protein_powder_057",
+      "prod_protein_powder_134",
+      "prod_protein_powder_052",
+      "prod_protein_powder_185"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Prices feel inflated for the top consideration products compared to standard market rates."
+  },
+  {
+    "offer_set_id": "protein_powder_110",
+    "consideration_set": [
+      "prod_protein_powder_058",
+      "prod_protein_powder_149",
+      "prod_protein_powder_071",
+      "prod_protein_powder_038",
+      "prod_protein_powder_177"
+    ],
+    "final_choice": "prod_protein_powder_071",
+    "reasoning": "ISOFLEX provides a clean whey isolate with very low carbs and sugar."
+  },
+  {
+    "offer_set_id": "protein_powder_111",
+    "consideration_set": [
+      "prod_protein_powder_012",
+      "prod_protein_powder_044",
+      "prod_protein_powder_055",
+      "prod_protein_powder_088",
+      "prod_protein_powder_112"
+    ],
+    "final_choice": "prod_protein_powder_088",
+    "reasoning": "Naked Whey offers exceptional transparency with only three ingredients."
+  },
+  {
+    "offer_set_id": "protein_powder_112",
+    "consideration_set": [
+      "prod_protein_powder_019",
+      "prod_protein_powder_022",
+      "prod_protein_powder_033",
+      "prod_protein_powder_077",
+      "prod_protein_powder_099"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The selection is dominated by heavily sweetened options and proprietary blends."
+  },
+  {
+    "offer_set_id": "protein_powder_113",
+    "consideration_set": [
+      "prod_protein_powder_011",
+      "prod_protein_powder_021",
+      "prod_protein_powder_031",
+      "prod_protein_powder_041",
+      "prod_protein_powder_051"
+    ],
+    "final_choice": "prod_protein_powder_041",
+    "reasoning": "Legion is consistently reliable for a lactose-free isolate."
+  },
+  {
+    "offer_set_id": "protein_powder_114",
+    "consideration_set": [
+      "prod_protein_powder_114",
+      "prod_protein_powder_115",
+      "prod_protein_powder_116",
+      "prod_protein_powder_117",
+      "prod_protein_powder_118"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The available products do not justify their premium price points."
+  },
+  {
+    "offer_set_id": "protein_powder_115",
+    "consideration_set": [
+      "prod_protein_powder_060",
+      "prod_protein_powder_070",
+      "prod_protein_powder_080",
+      "prod_protein_powder_090",
+      "prod_protein_powder_100"
+    ],
+    "final_choice": "prod_protein_powder_060",
+    "reasoning": "Pro JYM offers an excellent blend of fast and slow-digesting proteins."
+  },
+  {
+    "offer_set_id": "protein_powder_116",
+    "consideration_set": [
+      "prod_protein_powder_121",
+      "prod_protein_powder_131",
+      "prod_protein_powder_141",
+      "prod_protein_powder_151",
+      "prod_protein_powder_161"
+    ],
+    "final_choice": "prod_protein_powder_121",
+    "reasoning": "LADDER plant protein is NSF Certified for Sport, ensuring high standards."
+  },
+  {
+    "offer_set_id": "protein_powder_117",
+    "consideration_set": [
+      "prod_protein_powder_146",
+      "prod_protein_powder_056",
+      "prod_protein_powder_077",
+      "prod_protein_powder_134",
+      "prod_protein_powder_190"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Nothing clearly stands out among these mostly niche or flavor-heavy options."
+  },
+  {
+    "offer_set_id": "protein_powder_118",
+    "consideration_set": [
+      "prod_protein_powder_165",
+      "prod_protein_powder_109",
+      "prod_protein_powder_110",
+      "prod_protein_powder_111",
+      "prod_protein_powder_112"
+    ],
+    "final_choice": "prod_protein_powder_165",
+    "reasoning": "Pure Label Nutrition grass-fed whey is a clean, low-carb option."
+  },
+  {
+    "offer_set_id": "protein_powder_119",
+    "consideration_set": [
+      "prod_protein_powder_005",
+      "prod_protein_powder_015",
+      "prod_protein_powder_025",
+      "prod_protein_powder_035",
+      "prod_protein_powder_045"
+    ],
+    "final_choice": "prod_protein_powder_005",
+    "reasoning": "BulkSupplements provides a pure, unflavored base that is highly versatile."
+  },
+  {
+    "offer_set_id": "protein_powder_120",
+    "consideration_set": [
+      "prod_protein_powder_059",
+      "prod_protein_powder_069",
+      "prod_protein_powder_079",
+      "prod_protein_powder_089",
+      "prod_protein_powder_099"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The consideration set lacks an elite, purely grass-fed isolate option."
+  },
+  {
+    "offer_set_id": "protein_powder_121",
+    "consideration_set": [
+      "prod_protein_powder_117",
+      "prod_protein_powder_071",
+      "prod_protein_powder_081",
+      "prod_protein_powder_091",
+      "prod_protein_powder_101"
+    ],
+    "final_choice": "prod_protein_powder_071",
+    "reasoning": "ISOFLEX's high protein yield per serving makes it a solid choice for recovery."
+  },
+  {
+    "offer_set_id": "protein_powder_122",
+    "consideration_set": [
+      "prod_protein_powder_151",
+      "prod_protein_powder_161",
+      "prod_protein_powder_171",
+      "prod_protein_powder_181",
+      "prod_protein_powder_191"
+    ],
+    "final_choice": "prod_protein_powder_181",
+    "reasoning": "Granite offers a comprehensive spectrum of protein sources."
+  },
+  {
+    "offer_set_id": "protein_powder_123",
+    "consideration_set": [
+      "prod_protein_powder_134",
+      "prod_protein_powder_162",
+      "prod_protein_powder_159",
+      "prod_protein_powder_105",
+      "prod_protein_powder_021"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Prices are too high for the provided nutritional profiles in this specific selection."
+  },
+  {
+    "offer_set_id": "protein_powder_124",
+    "consideration_set": [
+      "prod_protein_powder_040",
+      "prod_protein_powder_123",
+      "prod_protein_powder_133",
+      "prod_protein_powder_143",
+      "prod_protein_powder_153"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Mass gainers and collagen blends do not fit the requirement for a pure protein supplement."
+  },
+  {
+    "offer_set_id": "protein_powder_125",
+    "consideration_set": [
+      "prod_protein_powder_006",
+      "prod_protein_powder_016",
+      "prod_protein_powder_026",
+      "prod_protein_powder_036",
+      "prod_protein_powder_046"
+    ],
+    "final_choice": "prod_protein_powder_046",
+    "reasoning": "Optimum Nutrition Plant Protein is a reliable vegan option from a trusted brand."
+  },
+  {
+    "offer_set_id": "protein_powder_126",
+    "consideration_set": [
+      "prod_protein_powder_055",
+      "prod_protein_powder_065",
+      "prod_protein_powder_075",
+      "prod_protein_powder_085",
+      "prod_protein_powder_095"
+    ],
+    "final_choice": "prod_protein_powder_065",
+    "reasoning": "Animal Whey Isolate provides a reliable, digestion-friendly post-workout source."
+  },
+  {
+    "offer_set_id": "protein_powder_127",
+    "consideration_set": [
+      "prod_protein_powder_172",
+      "prod_protein_powder_074",
+      "prod_protein_powder_040",
+      "prod_protein_powder_110",
+      "prod_protein_powder_120"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The available options are overly processed and saturated with artificial flavors."
+  },
+  {
+    "offer_set_id": "protein_powder_128",
+    "consideration_set": [
+      "prod_protein_powder_135",
+      "prod_protein_powder_145",
+      "prod_protein_powder_155",
+      "prod_protein_powder_165",
+      "prod_protein_powder_175"
+    ],
+    "final_choice": "prod_protein_powder_145",
+    "reasoning": "SFH Fuel offers a premium grass-fed whey enhanced with MCTs for sustained energy."
+  },
+  {
+    "offer_set_id": "protein_powder_129",
+    "consideration_set": [
+      "prod_protein_powder_034",
+      "prod_protein_powder_039",
+      "prod_protein_powder_187",
+      "prod_protein_powder_197",
+      "prod_protein_powder_007"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The consideration set is too focused on niche diet trends rather than pure protein performance."
+  },
+  {
+    "offer_set_id": "protein_powder_130",
+    "consideration_set": [
+      "prod_protein_powder_028",
+      "prod_protein_powder_038",
+      "prod_protein_powder_048",
+      "prod_protein_powder_058",
+      "prod_protein_powder_068"
+    ],
+    "final_choice": "prod_protein_powder_028",
+    "reasoning": "Isopure provides a consistent, high-quality zero-carb isolate."
+  },
+  {
+    "offer_set_id": "protein_powder_131",
+    "consideration_set": [
+      "prod_protein_powder_088",
+      "prod_protein_powder_098",
+      "prod_protein_powder_108",
+      "prod_protein_powder_118",
+      "prod_protein_powder_128"
+    ],
+    "final_choice": "prod_protein_powder_088",
+    "reasoning": "Naked Vanilla Whey's commitment to only three ingredients makes it vastly superior to alternatives."
+  },
+  {
+    "offer_set_id": "protein_powder_132",
+    "consideration_set": [
+      "prod_protein_powder_019",
+      "prod_protein_powder_114",
+      "prod_protein_powder_184",
+      "prod_protein_powder_109",
+      "prod_protein_powder_129"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Too many gimmick formulations in this set to justify a confident purchase."
+  },
+  {
+    "offer_set_id": "protein_powder_133",
+    "consideration_set": [
+      "prod_protein_powder_010",
+      "prod_protein_powder_020",
+      "prod_protein_powder_030",
+      "prod_protein_powder_040",
+      "prod_protein_powder_050"
+    ],
+    "final_choice": "prod_protein_powder_020",
+    "reasoning": "MET-Rx provides an effective, classic whey and casein blend."
+  },
+  {
+    "offer_set_id": "protein_powder_134",
+    "consideration_set": [
+      "prod_protein_powder_105",
+      "prod_protein_powder_115",
+      "prod_protein_powder_125",
+      "prod_protein_powder_135",
+      "prod_protein_powder_145"
+    ],
+    "final_choice": "prod_protein_powder_145",
+    "reasoning": "SFH Fuel's inclusion of MCTs sets it apart for energy and recovery."
+  },
+  {
+    "offer_set_id": "protein_powder_135",
+    "consideration_set": [
+      "prod_protein_powder_030",
+      "prod_protein_powder_040",
+      "prod_protein_powder_050",
+      "prod_protein_powder_060",
+      "prod_protein_powder_070"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Prices feel misaligned with the actual protein yield per serving in this group."
+  },
+  {
+    "offer_set_id": "protein_powder_136",
+    "consideration_set": [
+      "prod_protein_powder_024",
+      "prod_protein_powder_034",
+      "prod_protein_powder_044",
+      "prod_protein_powder_054",
+      "prod_protein_powder_064"
+    ],
+    "final_choice": "prod_protein_powder_024",
+    "reasoning": "Nutricost Casein is an excellent unflavored option for sustained overnight recovery."
+  },
+  {
+    "offer_set_id": "protein_powder_137",
+    "consideration_set": [
+      "prod_protein_powder_064",
+      "prod_protein_powder_081",
+      "prod_protein_powder_091",
+      "prod_protein_powder_101",
+      "prod_protein_powder_111"
+    ],
+    "final_choice": "prod_protein_powder_111",
+    "reasoning": "Animal 100% Whey is a dependable choice for post-workout needs."
+  },
+  {
+    "offer_set_id": "protein_powder_138",
+    "consideration_set": [
+      "prod_protein_powder_122",
+      "prod_protein_powder_132",
+      "prod_protein_powder_142",
+      "prod_protein_powder_152",
+      "prod_protein_powder_162"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Most of the top-ranked products here suffer from clumpiness and bad texture reviews."
+  },
+  {
+    "offer_set_id": "protein_powder_139",
+    "consideration_set": [
+      "prod_protein_powder_002",
+      "prod_protein_powder_012",
+      "prod_protein_powder_022",
+      "prod_protein_powder_032",
+      "prod_protein_powder_042"
+    ],
+    "final_choice": "prod_protein_powder_022",
+    "reasoning": "GNC AMP Wheybolic offers a massive 40g hit of isolate per serving for heavy training phases."
+  },
+  {
+    "offer_set_id": "protein_powder_140",
+    "consideration_set": [
+      "prod_protein_powder_165",
+      "prod_protein_powder_009",
+      "prod_protein_powder_076",
+      "prod_protein_powder_086",
+      "prod_protein_powder_096"
+    ],
+    "final_choice": "prod_protein_powder_165",
+    "reasoning": "Pure Label Nutrition delivers an incredibly clean 90% isolate profile."
+  },
+  {
+    "offer_set_id": "protein_powder_141",
+    "consideration_set": [
+      "prod_protein_powder_106",
+      "prod_protein_powder_116",
+      "prod_protein_powder_126",
+      "prod_protein_powder_136",
+      "prod_protein_powder_146"
+    ],
+    "final_choice": "prod_protein_powder_136",
+    "reasoning": "BPI Sports Whey HD offers a solid blend that mixes well without amino spiking."
+  },
+  {
+    "offer_set_id": "protein_powder_142",
+    "consideration_set": [
+      "prod_protein_powder_042",
+      "prod_protein_powder_106",
+      "prod_protein_powder_075",
+      "prod_protein_powder_188",
+      "prod_protein_powder_107"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The highly rated options are mostly meal replacements and collagen rather than actual performance whey."
+  },
+  {
+    "offer_set_id": "protein_powder_143",
+    "consideration_set": [
+      "prod_protein_powder_156",
+      "prod_protein_powder_166",
+      "prod_protein_powder_176",
+      "prod_protein_powder_186",
+      "prod_protein_powder_196"
+    ],
+    "final_choice": "prod_protein_powder_156",
+    "reasoning": "SYNTHA-6 Edge provides a superior milkshake taste while keeping sugar low."
+  },
+  {
+    "offer_set_id": "protein_powder_144",
+    "consideration_set": [
+      "prod_protein_powder_007",
+      "prod_protein_powder_017",
+      "prod_protein_powder_027",
+      "prod_protein_powder_037",
+      "prod_protein_powder_047"
+    ],
+    "final_choice": "prod_protein_powder_027",
+    "reasoning": "Optimum Nutrition Micellar Casein is the gold standard for overnight muscle recovery."
+  },
+  {
+    "offer_set_id": "protein_powder_145",
+    "consideration_set": [
+      "prod_protein_powder_080",
+      "prod_protein_powder_147",
+      "prod_protein_powder_116",
+      "prod_protein_powder_126",
+      "prod_protein_powder_136"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Too many artificial sweeteners and gums in this set to feel confident in the purchase."
+  },
+  {
+    "offer_set_id": "protein_powder_146",
+    "consideration_set": [
+      "prod_protein_powder_088",
+      "prod_protein_powder_087",
+      "prod_protein_powder_097",
+      "prod_protein_powder_107",
+      "prod_protein_powder_117"
+    ],
+    "final_choice": "prod_protein_powder_088",
+    "reasoning": "Naked Whey's pristine minimal ingredient list easily outshines the competition."
+  },
+  {
+    "offer_set_id": "protein_powder_147",
+    "consideration_set": [
+      "prod_protein_powder_127",
+      "prod_protein_powder_137",
+      "prod_protein_powder_147",
+      "prod_protein_powder_157",
+      "prod_protein_powder_167"
+    ],
+    "final_choice": "prod_protein_powder_127",
+    "reasoning": "BiPro Renew is cold-filtered and unflavored, making it incredibly versatile."
+  },
+  {
+    "offer_set_id": "protein_powder_148",
+    "consideration_set": [
+      "prod_protein_powder_021",
+      "prod_protein_powder_031",
+      "prod_protein_powder_041",
+      "prod_protein_powder_051",
+      "prod_protein_powder_061"
+    ],
+    "final_choice": "prod_protein_powder_041",
+    "reasoning": "Legion Whey+ guarantees a lactose-free isolate from high-quality sources."
+  },
+  {
+    "offer_set_id": "protein_powder_149",
+    "consideration_set": [
+      "prod_protein_powder_071",
+      "prod_protein_powder_081",
+      "prod_protein_powder_091",
+      "prod_protein_powder_101",
+      "prod_protein_powder_111"
+    ],
+    "final_choice": "prod_protein_powder_071",
+    "reasoning": "ISOFLEX provides maximum protein density with its advanced isolate formulation."
+  },
+  {
+    "offer_set_id": "protein_powder_150",
+    "consideration_set": [
+      "prod_protein_powder_114",
+      "prod_protein_powder_124",
+      "prod_protein_powder_134",
+      "prod_protein_powder_144",
+      "prod_protein_powder_154"
+    ],
+    "final_choice": "prod_protein_powder_114",
+    "reasoning": "The Whole Feast nose-to-tail carnivore powder offers a uniquely robust organ blend for recovery."
+  }
+]

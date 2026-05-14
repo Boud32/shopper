@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 9,
+    "timestamp": 1778715403,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_159.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_174"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Prices are completely disproportionate to the actual grams of protein per serving offered."
+  }
+}

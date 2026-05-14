@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 14,
+    "timestamp": 1778715396,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_164.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_090",
+      "prod_yoga_mats_137",
+      "prod_yoga_mats_189",
+      "prod_yoga_mats_123"
+    ],
+    "final_choice": "prod_yoga_mats_137",
+    "reasoning": "B YOGA's B Mat Strong offers unparalleled stickiness and 6mm thickness, perfect for an intense practice."
+  }
+}

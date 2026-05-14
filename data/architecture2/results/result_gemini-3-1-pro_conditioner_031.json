@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 31,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_031.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_156",
+      "prod_conditioner_194",
+      "prod_conditioner_030",
+      "prod_conditioner_065"
+    ],
+    "final_choice": "prod_conditioner_194",
+    "reasoning": "Love Beauty and Planet provides excellent frizz control and a calming lavender scent while being environmentally friendly."
+  }
+}

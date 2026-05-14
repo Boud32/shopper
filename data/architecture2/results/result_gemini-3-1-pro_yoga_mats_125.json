@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 25,
+    "timestamp": 1778715394,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_125.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_029",
+      "prod_yoga_mats_084"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The search results were cluttered with sponsored products that had questionable, sparse reviews."
+  }
+}

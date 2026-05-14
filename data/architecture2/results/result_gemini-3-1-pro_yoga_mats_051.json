@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 1,
+    "timestamp": 1778715392,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_051.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_026",
+      "prod_yoga_mats_056",
+      "prod_yoga_mats_165",
+      "prod_yoga_mats_116"
+    ],
+    "final_choice": "prod_yoga_mats_056",
+    "reasoning": "The Hugger Mugger Earth Elements mat provides a premium, dry-grip texture that stands out among the options."
+  }
+}

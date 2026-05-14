@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 30,
+    "timestamp": 1778715396,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_180.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_095",
+      "prod_yoga_mats_180"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top results are dominated by highly expensive mats that do not provide enough value compared to standard alternatives."
+  }
+}

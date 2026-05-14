@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 2,
+    "timestamp": 1778715399,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_052.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_116",
+      "prod_protein_powder_005",
+      "prod_protein_powder_143",
+      "prod_protein_powder_059",
+      "prod_protein_powder_118"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of the options in this set provide the right balance of high-quality ingredients and compelling reviews to justify a purchase."
+  }
+}

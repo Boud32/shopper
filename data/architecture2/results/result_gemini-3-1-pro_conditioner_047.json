@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 47,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_047.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_002",
+      "prod_conditioner_199"
+    ],
+    "final_choice": "prod_conditioner_002",
+    "reasoning": "NYC Curls The Curl Conditioner is a versatile 3-in-1 silicone-free product that performs amazingly for curly hair."
+  }
+}

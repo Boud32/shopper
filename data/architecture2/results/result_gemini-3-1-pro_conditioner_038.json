@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 38,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_038.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_289",
+      "prod_conditioner_114",
+      "prod_conditioner_199"
+    ],
+    "final_choice": "prod_conditioner_289",
+    "reasoning": "fave4 Let's Go Light is a fantastic lightweight conditioner that effectively replenishes split ends without flattening the hair."
+  }
+}

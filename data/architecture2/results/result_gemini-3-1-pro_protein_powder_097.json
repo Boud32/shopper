@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 47,
+    "timestamp": 1778715399,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_097.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_046"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "ALLMAX Gold ALLWHEY is a proven, reliable blend that offers great strength support and mixability at a reasonable price."
+  }
+}

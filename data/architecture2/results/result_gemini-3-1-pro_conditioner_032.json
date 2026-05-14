@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 32,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_032.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_199",
+      "prod_conditioner_171"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "HASK Shea Butter moisturizing deep conditioner packets are perfect for travel and heavily nourish all hair types."
+  }
+}

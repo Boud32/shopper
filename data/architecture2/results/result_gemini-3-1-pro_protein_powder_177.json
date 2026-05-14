@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 27,
+    "timestamp": 1778715403,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_177.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [],
+    "final_choice": "no_purchase",
+    "reasoning": "Provides an impressive 30g of protein per scoop, streamlining my daily macro tracking."
+  }
+}

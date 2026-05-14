@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 33,
+    "timestamp": 1778715396,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_183.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_006"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "This 8mm thick TPE mat offers superior eco-friendly cushioning for intensive home pilates and floor exercises."
+  }
+}

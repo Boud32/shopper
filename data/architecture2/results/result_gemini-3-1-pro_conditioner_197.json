@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 47,
+    "timestamp": 1778715419,
+    "source_batch": "data/offer_sets/conditioner/conditioner_197.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_026",
+      "prod_conditioner_027",
+      "prod_conditioner_030"
+    ],
+    "final_choice": "prod_conditioner_026",
+    "reasoning": "The inclusion of keratin makes this an ideal choice for strengthening weak hair."
+  }
+}

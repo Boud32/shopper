@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 12,
+    "timestamp": 1778715401,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_112.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_019",
+      "prod_protein_powder_022"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The selection is dominated by heavily sweetened options and proprietary blends."
+  }
+}

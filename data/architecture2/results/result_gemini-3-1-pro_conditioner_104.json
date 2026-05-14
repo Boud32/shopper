@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 4,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_104.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_211",
+      "prod_conditioner_290",
+      "prod_conditioner_176",
+      "prod_conditioner_256",
+      "prod_conditioner_280"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle offers excellent value for a highly reviewed and trusted moisture bundle."
+  }
+}

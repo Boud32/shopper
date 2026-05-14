@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 13,
+    "timestamp": 1778715398,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_013.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_024"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "These heavily flavored and sweetened powders don't align with my preference for clean, unflavored protein sources."
+  }
+}

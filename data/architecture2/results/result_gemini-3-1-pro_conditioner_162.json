@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 12,
+    "timestamp": 1778715419,
+    "source_batch": "data/offer_sets/conditioner/conditioner_162.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_110"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Prices feel too high across the board for the quality of conditioners presented."
+  }
+}

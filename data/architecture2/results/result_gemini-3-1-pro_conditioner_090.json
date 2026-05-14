@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 40,
+    "timestamp": 1778715415,
+    "source_batch": "data/offer_sets/conditioner/conditioner_090.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_287"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "I prefer this conditioner because it rapidly revives color-treated hair with minimal effort."
+  }
+}

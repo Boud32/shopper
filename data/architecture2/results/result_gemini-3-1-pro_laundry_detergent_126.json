@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 26,
+    "timestamp": 1778715409,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_126.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [],
+    "final_choice": "no_purchase",
+    "reasoning": "Having a touch of Downy built-in saves me a step when doing laundry in a rush."
+  }
+}

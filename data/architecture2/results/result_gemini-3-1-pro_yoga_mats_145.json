@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 45,
+    "timestamp": 1778715394,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_145.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_103"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Most products in this set had multiple complaints about the material shedding and wearing out quickly."
+  }
+}

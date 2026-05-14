@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 31,
+    "timestamp": 1778715390,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_031.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_006"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The ProsourceFit mat offers the crucial joint support I need without breaking the bank."
+  }
+}

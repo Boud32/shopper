@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 11,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_111.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_070",
+      "prod_conditioner_078",
+      "prod_conditioner_256",
+      "prod_conditioner_196",
+      "prod_conditioner_278"
+    ],
+    "final_choice": "prod_conditioner_196",
+    "reasoning": "Maui Moisture is highly affordable, vegan, and clearly a crowd-pleaser with strong coconut milk hydration."
+  }
+}

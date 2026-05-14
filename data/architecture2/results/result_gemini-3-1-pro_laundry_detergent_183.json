@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 33,
+    "timestamp": 1778715411,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_183.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [],
+    "final_choice": "no_purchase",
+    "reasoning": "A trusted heavy-duty liquid that consistently outperforms generic options on oil and grease."
+  }
+}

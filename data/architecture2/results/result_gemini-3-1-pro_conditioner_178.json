@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 28,
+    "timestamp": 1778715419,
+    "source_batch": "data/offer_sets/conditioner/conditioner_178.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [],
+    "final_choice": "no_purchase",
+    "reasoning": "Offers long-lasting hydration and a great scent profile according to reviews."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 9,
+    "timestamp": 1778715407,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_059.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_173",
+      "prod_laundry_detergent_106",
+      "prod_laundry_detergent_052",
+      "prod_laundry_detergent_287",
+      "prod_laundry_detergent_296"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The selection is mediocre with several specialized or heavily fragranced items that do not stand out as clearly superior for everyday cleaning needs."
+  }
+}

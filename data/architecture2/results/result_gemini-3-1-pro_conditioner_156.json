@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 6,
+    "timestamp": 1778715419,
+    "source_batch": "data/offer_sets/conditioner/conditioner_156.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [],
+    "final_choice": "no_purchase",
+    "reasoning": "The available products are either poorly rated or overpriced compared to typical drugstore brands."
+  }
+}

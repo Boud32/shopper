@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 3,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_103.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_171",
+      "prod_conditioner_142",
+      "prod_conditioner_183",
+      "prod_conditioner_254",
+      "prod_conditioner_256"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The highly rated options lack extensive feedback, and the most reviewed products have lackluster or polarizing ratings, making none of them compelling enough."
+  }
+}

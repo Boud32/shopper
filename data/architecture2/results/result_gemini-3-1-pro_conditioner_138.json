@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 38,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_138.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_078"
+    ],
+    "final_choice": "prod_conditioner_078",
+    "reasoning": "It's A 10 Miracle Deep Conditioner is a universally acclaimed product that offers genuine restorative results."
+  }
+}

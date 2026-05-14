@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 13,
+    "timestamp": 1778715415,
+    "source_batch": "data/offer_sets/conditioner/conditioner_063.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [],
+    "final_choice": "no_purchase",
+    "reasoning": "The lightweight formula is perfect for fine hair while still offering deep hydration."
+  }
+}

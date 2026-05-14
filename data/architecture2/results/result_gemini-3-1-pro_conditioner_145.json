@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 45,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_145.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_262",
+      "prod_conditioner_255",
+      "prod_conditioner_109",
+      "prod_conditioner_169"
+    ],
+    "final_choice": "prod_conditioner_169",
+    "reasoning": "L'Oreal's EverPure Scalp Care offers a much-needed detox at an affordable price with reliable mass-market backing."
+  }
+}

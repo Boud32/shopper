@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 8,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_108.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_245",
+      "prod_conditioner_241",
+      "prod_conditioner_097",
+      "prod_conditioner_023",
+      "prod_conditioner_040"
+    ],
+    "final_choice": "prod_conditioner_245",
+    "reasoning": "This L'Oreal purple conditioner provides effective brass toning at a very competitive price with robust feedback."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 7,
+    "timestamp": 1778715394,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_107.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_033"
+    ],
+    "final_choice": "prod_yoga_mats_033",
+    "reasoning": "A great overall pick with high ratings and a very competitive price compared to standard mats."
+  }
+}

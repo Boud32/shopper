@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 48,
+    "timestamp": 1778715403,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_198.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [],
+    "final_choice": "no_purchase",
+    "reasoning": "Prices on these isolates are inflated compared to comparable options I can find in other searches."
+  }
+}

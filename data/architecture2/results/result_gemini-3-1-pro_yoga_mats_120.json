@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 20,
+    "timestamp": 1778715394,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_120.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_020",
+      "prod_yoga_mats_082"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Nothing clearly stood out, and the options lacked the extra cushioning required for joint protection."
+  }
+}

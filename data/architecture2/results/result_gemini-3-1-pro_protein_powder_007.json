@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 7,
+    "timestamp": 1778715398,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_007.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_021",
+      "prod_protein_powder_095",
+      "prod_protein_powder_124",
+      "prod_protein_powder_037",
+      "prod_protein_powder_140"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Most of these options are heavily flavored or lack the purity I prefer for mixing into a clean, everyday smoothie."
+  }
+}

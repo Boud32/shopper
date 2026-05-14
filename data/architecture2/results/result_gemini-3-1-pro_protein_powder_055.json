@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 5,
+    "timestamp": 1778715399,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_055.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_144",
+      "prod_protein_powder_006",
+      "prod_protein_powder_105",
+      "prod_protein_powder_181",
+      "prod_protein_powder_174"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top products here are either clear isolates with mixed flavor reviews or blends that don't fit my specific dietary preferences."
+  }
+}

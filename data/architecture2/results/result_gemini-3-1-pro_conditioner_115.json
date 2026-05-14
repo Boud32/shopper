@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 15,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_115.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_257"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "I cannot confidently differentiate these products from general drugstore equivalents I might find elsewhere."
+  }
+}

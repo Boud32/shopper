@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 28,
+    "timestamp": 1778715409,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_128.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_118"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "There is no clear standout here, and the top-ranked items have mixed reviews regarding their scent."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 25,
+    "timestamp": 1778715392,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_075.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_011",
+      "prod_yoga_mats_062"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The highly ranked travel options in this set are described as overly thin and lacking basic cushioning."
+  }
+}

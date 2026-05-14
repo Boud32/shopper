@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 22,
+    "timestamp": 1778715409,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_122.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_241"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top positions are filled with overly expensive specialty washes that I simply don't need."
+  }
+}

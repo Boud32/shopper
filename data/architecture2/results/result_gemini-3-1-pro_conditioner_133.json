@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 33,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_133.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_155",
+      "prod_conditioner_168"
+    ],
+    "final_choice": "prod_conditioner_168",
+    "reasoning": "Fairy Tales Curly Q is an excellent, highly-rated niche option specifically for kids' curly hair without harsh chemicals."
+  }
+}

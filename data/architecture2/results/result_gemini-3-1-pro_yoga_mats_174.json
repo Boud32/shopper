@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 24,
+    "timestamp": 1778715396,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_174.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_130",
+      "prod_yoga_mats_157",
+      "prod_yoga_mats_053",
+      "prod_yoga_mats_035"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The selection is mediocre and lacks the extra-thick, high-density options that I need for my sensitive knees."
+  }
+}

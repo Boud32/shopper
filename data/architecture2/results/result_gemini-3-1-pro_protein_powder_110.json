@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 10,
+    "timestamp": 1778715401,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_110.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_058",
+      "prod_protein_powder_149",
+      "prod_protein_powder_071",
+      "prod_protein_powder_038",
+      "prod_protein_powder_177"
+    ],
+    "final_choice": "prod_protein_powder_071",
+    "reasoning": "ISOFLEX provides a clean whey isolate with very low carbs and sugar."
+  }
+}

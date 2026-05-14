@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 7,
+    "timestamp": 1778715396,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_157.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_149",
+      "prod_yoga_mats_112",
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_095"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of the highly-rated mats in this set perfectly match my current requirement for a specialized hot yoga mat."
+  }
+}

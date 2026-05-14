@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 10,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_010.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_065",
+      "prod_conditioner_074",
+      "prod_conditioner_201",
+      "prod_conditioner_177"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle bundle provides an incredible value with reliable moisturizing benefits."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 42,
+    "timestamp": 1778715396,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_192.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_119",
+      "prod_yoga_mats_084",
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_135"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "This TPE mat offers a solid balance of eco-friendly materials, good thickness, and an included carrying strap."
+  }
+}

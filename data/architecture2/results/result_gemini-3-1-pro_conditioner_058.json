@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 8,
+    "timestamp": 1778715415,
+    "source_batch": "data/offer_sets/conditioner/conditioner_058.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_027"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "With a great balance of cost and quality, this conditioner effectively tackles split ends."
+  }
+}

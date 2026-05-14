@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 47,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_147.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_067"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "GK HAIR Global Keratin Deep Conditioner Masque stands out for deeply hydrating frizzy hair with highly positive volume."
+  }
+}

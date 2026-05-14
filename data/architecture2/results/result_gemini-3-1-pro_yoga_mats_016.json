@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 16,
+    "timestamp": 1778715390,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_016.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [],
+    "final_choice": "no_purchase",
+    "reasoning": "ProsourceFit's extra thick mat is highly rated for joint protection, making it a functional and safe purchase."
+  }
+}

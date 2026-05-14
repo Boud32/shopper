@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 7,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_007.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_090",
+      "prod_conditioner_256",
+      "prod_conditioner_127",
+      "prod_conditioner_109",
+      "prod_conditioner_177"
+    ],
+    "final_choice": "prod_conditioner_256",
+    "reasoning": "RUSK Designer Collection offers a proven thickening formula that effectively adds volume to fine hair."
+  }
+}

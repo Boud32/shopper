@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 20,
+    "timestamp": 1778715396,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_170.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_180",
+      "prod_yoga_mats_021"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "I am looking for a premium cork mat and none of these options clearly justify their price points for my needs."
+  }
+}

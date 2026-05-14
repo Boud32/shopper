@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 23,
+    "timestamp": 1778715390,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_023.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_054"
+    ],
+    "final_choice": "prod_yoga_mats_054",
+    "reasoning": "The 1/2-inch thickness of the ProsourceFit mat provides necessary joint relief that cheaper mats lack."
+  }
+}

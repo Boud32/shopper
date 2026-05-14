@@ -1,1 +1,602 @@
-[]
+[
+  {
+    "offer_set_id": "laundry_detergent_051",
+    "consideration_set": [
+      "prod_laundry_detergent_202",
+      "prod_laundry_detergent_042",
+      "prod_laundry_detergent_281",
+      "prod_laundry_detergent_252",
+      "prod_laundry_detergent_193"
+    ],
+    "final_choice": "prod_laundry_detergent_042",
+    "reasoning": "Seventh Generation Concentrated Baby Laundry Detergent offers an excellent 4.6 rating with over 9,000 reviews, making it a highly trusted plant-based choice for sensitive skin."
+  },
+  {
+    "offer_set_id": "laundry_detergent_052",
+    "consideration_set": [
+      "prod_laundry_detergent_275",
+      "prod_laundry_detergent_257",
+      "prod_laundry_detergent_228",
+      "prod_laundry_detergent_135",
+      "prod_laundry_detergent_186"
+    ],
+    "final_choice": "prod_laundry_detergent_257",
+    "reasoning": "Arm & Hammer Clean & Simple provides a strong balance of value and performance with a 4.6 rating and deep cleaning power at a very competitive price."
+  },
+  {
+    "offer_set_id": "laundry_detergent_053",
+    "consideration_set": [
+      "prod_laundry_detergent_132",
+      "prod_laundry_detergent_191",
+      "prod_laundry_detergent_202",
+      "prod_laundry_detergent_087",
+      "prod_laundry_detergent_265"
+    ],
+    "final_choice": "prod_laundry_detergent_265",
+    "reasoning": "ECOS Laundry Detergent Liquid is EPA Safer Choice Certified and offers a large 200-load capacity, making it an eco-friendly and economical household staple."
+  },
+  {
+    "offer_set_id": "laundry_detergent_054",
+    "consideration_set": [
+      "prod_laundry_detergent_132",
+      "prod_laundry_detergent_252",
+      "prod_laundry_detergent_009",
+      "prod_laundry_detergent_261",
+      "prod_laundry_detergent_238"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top options are dominated by specialty products, laundry balls, or extremely expensive packets, none of which present a compelling case for an everyday purchase."
+  },
+  {
+    "offer_set_id": "laundry_detergent_055",
+    "consideration_set": [
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_011",
+      "prod_laundry_detergent_020",
+      "prod_laundry_detergent_118",
+      "prod_laundry_detergent_231"
+    ],
+    "final_choice": "prod_laundry_detergent_284",
+    "reasoning": "Puracy Liquid Laundry Detergent is a highly concentrated, 99.4% plant-based option with strong reviews, appealing to a preference for natural, hypoallergenic products."
+  },
+  {
+    "offer_set_id": "laundry_detergent_056",
+    "consideration_set": [
+      "prod_laundry_detergent_190",
+      "prod_laundry_detergent_199",
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_140",
+      "prod_laundry_detergent_189"
+    ],
+    "final_choice": "prod_laundry_detergent_189",
+    "reasoning": "Tide PODS Free and Gentle combines the convenience of pacs with a trusted, hypoallergenic formula that is highly rated by over 24,000 consumers."
+  },
+  {
+    "offer_set_id": "laundry_detergent_057",
+    "consideration_set": [
+      "prod_laundry_detergent_106",
+      "prod_laundry_detergent_200",
+      "prod_laundry_detergent_296",
+      "prod_laundry_detergent_020",
+      "prod_laundry_detergent_072"
+    ],
+    "final_choice": "prod_laundry_detergent_296",
+    "reasoning": "Tide Free & Gentle Liquid Laundry Detergent provides reliable cleaning without dyes or perfumes, making it a safe and effective choice for sensitive skin."
+  },
+  {
+    "offer_set_id": "laundry_detergent_058",
+    "consideration_set": [
+      "prod_laundry_detergent_180",
+      "prod_laundry_detergent_202",
+      "prod_laundry_detergent_162",
+      "prod_laundry_detergent_261",
+      "prod_laundry_detergent_038"
+    ],
+    "final_choice": "prod_laundry_detergent_180",
+    "reasoning": "Persil Laundry Detergent Liquid with Odor Elimination Technology is exceptional for fighting tough stains and odors, backed by a stellar 4.8 rating."
+  },
+  {
+    "offer_set_id": "laundry_detergent_059",
+    "consideration_set": [
+      "prod_laundry_detergent_173",
+      "prod_laundry_detergent_106",
+      "prod_laundry_detergent_052",
+      "prod_laundry_detergent_287",
+      "prod_laundry_detergent_296"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The selection is mediocre with several specialized or heavily fragranced items that do not stand out as clearly superior for everyday cleaning needs."
+  },
+  {
+    "offer_set_id": "laundry_detergent_060",
+    "consideration_set": [
+      "prod_laundry_detergent_039",
+      "prod_laundry_detergent_068",
+      "prod_laundry_detergent_238",
+      "prod_laundry_detergent_259",
+      "prod_laundry_detergent_190"
+    ],
+    "final_choice": "prod_laundry_detergent_039",
+    "reasoning": "Tide Powder Laundry Detergent in Mountain Spring is a proven classic with excellent ratings, offering a huge capacity that provides great long-term value."
+  },
+  {
+    "offer_set_id": "laundry_detergent_061",
+    "consideration_set": [
+      "prod_laundry_detergent_180",
+      "prod_laundry_detergent_202",
+      "prod_laundry_detergent_162",
+      "prod_laundry_detergent_261",
+      "prod_laundry_detergent_038"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Prices feel slightly high for the quality offered in the top spots, and nothing strongly motivates a purchase over standard alternatives."
+  },
+  {
+    "offer_set_id": "laundry_detergent_062",
+    "consideration_set": [
+      "prod_laundry_detergent_106",
+      "prod_laundry_detergent_200",
+      "prod_laundry_detergent_296",
+      "prod_laundry_detergent_020",
+      "prod_laundry_detergent_072"
+    ],
+    "final_choice": "prod_laundry_detergent_072",
+    "reasoning": "HEX Performance Laundry Detergent is specifically designed for activewear, which justifies its price for those needing targeted odor removal."
+  },
+  {
+    "offer_set_id": "laundry_detergent_063",
+    "consideration_set": [
+      "prod_laundry_detergent_190",
+      "prod_laundry_detergent_199",
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_140",
+      "prod_laundry_detergent_189"
+    ],
+    "final_choice": "prod_laundry_detergent_101",
+    "reasoning": "Tide Hygienic Clean Heavy Duty 10x Free Power PODS offer unmatched convenience and deep cleaning for both visible and invisible dirt."
+  },
+  {
+    "offer_set_id": "laundry_detergent_064",
+    "consideration_set": [
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_011",
+      "prod_laundry_detergent_020",
+      "prod_laundry_detergent_118",
+      "prod_laundry_detergent_231"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top ranked products are mostly niche luxury scents or generic powders that don't present a strong value proposition for standard laundry."
+  },
+  {
+    "offer_set_id": "laundry_detergent_065",
+    "consideration_set": [
+      "prod_laundry_detergent_132",
+      "prod_laundry_detergent_252",
+      "prod_laundry_detergent_009",
+      "prod_laundry_detergent_261",
+      "prod_laundry_detergent_238"
+    ],
+    "final_choice": "prod_laundry_detergent_132",
+    "reasoning": "Arm & Hammer Powder Laundry Detergent is a highly economical and dependable option with a stellar 4.8 rating across many reviews."
+  },
+  {
+    "offer_set_id": "laundry_detergent_066",
+    "consideration_set": [
+      "prod_laundry_detergent_132",
+      "prod_laundry_detergent_191",
+      "prod_laundry_detergent_202",
+      "prod_laundry_detergent_087",
+      "prod_laundry_detergent_265"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Borderline selection with weak options and mixed reviews among the most prominent products."
+  },
+  {
+    "offer_set_id": "laundry_detergent_067",
+    "consideration_set": [
+      "prod_laundry_detergent_275",
+      "prod_laundry_detergent_257",
+      "prod_laundry_detergent_228",
+      "prod_laundry_detergent_135",
+      "prod_laundry_detergent_186"
+    ],
+    "final_choice": "prod_laundry_detergent_275",
+    "reasoning": "Persil Discs Active Scent Boost offer a highly rated, mess-free alternative with a robust four-chamber cleaning technology."
+  },
+  {
+    "offer_set_id": "laundry_detergent_068",
+    "consideration_set": [
+      "prod_laundry_detergent_202",
+      "prod_laundry_detergent_042",
+      "prod_laundry_detergent_281",
+      "prod_laundry_detergent_252",
+      "prod_laundry_detergent_193"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The options presented are too heavily skewed towards specific use-cases like pet odors or overpriced baby detergents."
+  },
+  {
+    "offer_set_id": "laundry_detergent_069",
+    "consideration_set": [
+      "prod_laundry_detergent_173",
+      "prod_laundry_detergent_106",
+      "prod_laundry_detergent_052",
+      "prod_laundry_detergent_287",
+      "prod_laundry_detergent_296"
+    ],
+    "final_choice": "prod_laundry_detergent_287",
+    "reasoning": "Biokleen Natural Cold Water Detergent is highly concentrated, eco-friendly, and specifically formulated for cold water, saving energy."
+  },
+  {
+    "offer_set_id": "laundry_detergent_070",
+    "consideration_set": [
+      "prod_laundry_detergent_039",
+      "prod_laundry_detergent_068",
+      "prod_laundry_detergent_238",
+      "prod_laundry_detergent_259",
+      "prod_laundry_detergent_190"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Many of the highly visible options have poor review counts or are overly specialized, lacking a strong everyday contender."
+  },
+  {
+    "offer_set_id": "laundry_detergent_071",
+    "consideration_set": [
+      "prod_laundry_detergent_180",
+      "prod_laundry_detergent_202",
+      "prod_laundry_detergent_162",
+      "prod_laundry_detergent_261",
+      "prod_laundry_detergent_038"
+    ],
+    "final_choice": "prod_laundry_detergent_162",
+    "reasoning": "Tide Plus Febreze Sport is excellent for households with active members, offering deep cleaning and odor removal."
+  },
+  {
+    "offer_set_id": "laundry_detergent_072",
+    "consideration_set": [
+      "prod_laundry_detergent_106",
+      "prod_laundry_detergent_200",
+      "prod_laundry_detergent_296",
+      "prod_laundry_detergent_020",
+      "prod_laundry_detergent_072"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Nothing clearly stands out in this set, and the presence of tallow-based soaps and unknown brand sheets feels unappealing."
+  },
+  {
+    "offer_set_id": "laundry_detergent_073",
+    "consideration_set": [
+      "prod_laundry_detergent_190",
+      "prod_laundry_detergent_199",
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_140",
+      "prod_laundry_detergent_189"
+    ],
+    "final_choice": "prod_laundry_detergent_190",
+    "reasoning": "All Liquid Laundry Detergent Free Clear is a dermatologist-recommended staple that reliably handles sensitive skin at a fair price."
+  },
+  {
+    "offer_set_id": "laundry_detergent_074",
+    "consideration_set": [
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_011",
+      "prod_laundry_detergent_020",
+      "prod_laundry_detergent_118",
+      "prod_laundry_detergent_231"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The selection is uncompelling, dominated by overpriced luxury scents and bulky boxes of basic powder."
+  },
+  {
+    "offer_set_id": "laundry_detergent_075",
+    "consideration_set": [
+      "prod_laundry_detergent_132",
+      "prod_laundry_detergent_252",
+      "prod_laundry_detergent_009",
+      "prod_laundry_detergent_261",
+      "prod_laundry_detergent_238"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The assortment features dubious eco-products like laundry balls and deseeded nuts that do not inspire confidence."
+  },
+  {
+    "offer_set_id": "laundry_detergent_076",
+    "consideration_set": [
+      "prod_laundry_detergent_132",
+      "prod_laundry_detergent_191",
+      "prod_laundry_detergent_202",
+      "prod_laundry_detergent_087",
+      "prod_laundry_detergent_265"
+    ],
+    "final_choice": "prod_laundry_detergent_191",
+    "reasoning": "Vacplus Laundry Detergent Sheets are a highly efficient, space-saving, and plastic-free alternative that is well-reviewed."
+  },
+  {
+    "offer_set_id": "laundry_detergent_077",
+    "consideration_set": [
+      "prod_laundry_detergent_275",
+      "prod_laundry_detergent_257",
+      "prod_laundry_detergent_228",
+      "prod_laundry_detergent_135",
+      "prod_laundry_detergent_186"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The prices feel a bit high for the quality offered, with several unknown brands taking top spots."
+  },
+  {
+    "offer_set_id": "laundry_detergent_078",
+    "consideration_set": [
+      "prod_laundry_detergent_202",
+      "prod_laundry_detergent_042",
+      "prod_laundry_detergent_281",
+      "prod_laundry_detergent_252",
+      "prod_laundry_detergent_193"
+    ],
+    "final_choice": "prod_laundry_detergent_281",
+    "reasoning": "LaundraPet Premium is uniquely positioned to handle animal odors effectively, which is a great find for pet owners."
+  },
+  {
+    "offer_set_id": "laundry_detergent_079",
+    "consideration_set": [
+      "prod_laundry_detergent_173",
+      "prod_laundry_detergent_106",
+      "prod_laundry_detergent_052",
+      "prod_laundry_detergent_287",
+      "prod_laundry_detergent_296"
+    ],
+    "final_choice": "prod_laundry_detergent_173",
+    "reasoning": "Love Home and Planet Ultra Concentrated Detergent offers an appealing lavender and argan oil scent with a reduced-plastic footprint."
+  },
+  {
+    "offer_set_id": "laundry_detergent_080",
+    "consideration_set": [
+      "prod_laundry_detergent_039",
+      "prod_laundry_detergent_068",
+      "prod_laundry_detergent_238",
+      "prod_laundry_detergent_259",
+      "prod_laundry_detergent_190"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top options are relatively weak or overly generic, failing to justify a purchase over standard store options."
+  },
+  {
+    "offer_set_id": "laundry_detergent_081",
+    "consideration_set": [
+      "prod_laundry_detergent_180",
+      "prod_laundry_detergent_202",
+      "prod_laundry_detergent_162",
+      "prod_laundry_detergent_261",
+      "prod_laundry_detergent_038"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The mix of products feels haphazard, with a lack of universally solid, everyday detergents at a good price."
+  },
+  {
+    "offer_set_id": "laundry_detergent_082",
+    "consideration_set": [
+      "prod_laundry_detergent_106",
+      "prod_laundry_detergent_200",
+      "prod_laundry_detergent_296",
+      "prod_laundry_detergent_020",
+      "prod_laundry_detergent_072"
+    ],
+    "final_choice": "prod_laundry_detergent_200",
+    "reasoning": "CLEARALIF Detergent Sheets are an ultra-concentrated, travel-friendly option that is surprisingly affordable."
+  },
+  {
+    "offer_set_id": "laundry_detergent_083",
+    "consideration_set": [
+      "prod_laundry_detergent_190",
+      "prod_laundry_detergent_199",
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_140",
+      "prod_laundry_detergent_189"
+    ],
+    "final_choice": "prod_laundry_detergent_140",
+    "reasoning": "ENYUR Travel Laundry Detergent Sheets are highly rated for convenience and simple usage, especially when on the go."
+  },
+  {
+    "offer_set_id": "laundry_detergent_084",
+    "consideration_set": [
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_011",
+      "prod_laundry_detergent_020",
+      "prod_laundry_detergent_118",
+      "prod_laundry_detergent_231"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The consideration set is uninspiring, containing mainly expensive boutique washes and generic powders."
+  },
+  {
+    "offer_set_id": "laundry_detergent_085",
+    "consideration_set": [
+      "prod_laundry_detergent_132",
+      "prod_laundry_detergent_252",
+      "prod_laundry_detergent_009",
+      "prod_laundry_detergent_261",
+      "prod_laundry_detergent_238"
+    ],
+    "final_choice": "prod_laundry_detergent_261",
+    "reasoning": "Greenwill Organic Soapberries provide an authentic, natural washing alternative for those looking to avoid synthetic chemicals completely."
+  },
+  {
+    "offer_set_id": "laundry_detergent_086",
+    "consideration_set": [
+      "prod_laundry_detergent_132",
+      "prod_laundry_detergent_191",
+      "prod_laundry_detergent_202",
+      "prod_laundry_detergent_087",
+      "prod_laundry_detergent_265"
+    ],
+    "final_choice": "prod_laundry_detergent_087",
+    "reasoning": "Code Blue D/Code Unscented Detergent is uniquely capable of eliminating odors completely, making it highly useful for hunting or outdoor gear."
+  },
+  {
+    "offer_set_id": "laundry_detergent_087",
+    "consideration_set": [
+      "prod_laundry_detergent_275",
+      "prod_laundry_detergent_257",
+      "prod_laundry_detergent_228",
+      "prod_laundry_detergent_135",
+      "prod_laundry_detergent_186"
+    ],
+    "final_choice": "prod_laundry_detergent_228",
+    "reasoning": "Rebel Green Laundry Detergent is a certified organic, sulfate-free choice that cleans gently and effectively."
+  },
+  {
+    "offer_set_id": "laundry_detergent_088",
+    "consideration_set": [
+      "prod_laundry_detergent_202",
+      "prod_laundry_detergent_042",
+      "prod_laundry_detergent_281",
+      "prod_laundry_detergent_252",
+      "prod_laundry_detergent_193"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The visible options are somewhat mediocre and do not offer enough distinct benefits to justify buying from this specific set."
+  },
+  {
+    "offer_set_id": "laundry_detergent_089",
+    "consideration_set": [
+      "prod_laundry_detergent_173",
+      "prod_laundry_detergent_106",
+      "prod_laundry_detergent_052",
+      "prod_laundry_detergent_287",
+      "prod_laundry_detergent_296"
+    ],
+    "final_choice": "prod_laundry_detergent_052",
+    "reasoning": "Plant Based Natural Laundry Detergent is an excellent specialized product for protecting delicate fabrics like silk and cashmere."
+  },
+  {
+    "offer_set_id": "laundry_detergent_090",
+    "consideration_set": [
+      "prod_laundry_detergent_039",
+      "prod_laundry_detergent_068",
+      "prod_laundry_detergent_238",
+      "prod_laundry_detergent_259",
+      "prod_laundry_detergent_190"
+    ],
+    "final_choice": "prod_laundry_detergent_068",
+    "reasoning": "Homesolv Liquid Detergent offers a very mild, pleasant Lavender Bergamot scent and is known to be eco-friendly and effective."
+  },
+  {
+    "offer_set_id": "laundry_detergent_091",
+    "consideration_set": [
+      "prod_laundry_detergent_180",
+      "prod_laundry_detergent_202",
+      "prod_laundry_detergent_162",
+      "prod_laundry_detergent_261",
+      "prod_laundry_detergent_038"
+    ],
+    "final_choice": "prod_laundry_detergent_038",
+    "reasoning": "Ecowise Clean Detergent Sheets are portable, delightfully scented, and reduce bulky plastic packaging significantly."
+  },
+  {
+    "offer_set_id": "laundry_detergent_092",
+    "consideration_set": [
+      "prod_laundry_detergent_106",
+      "prod_laundry_detergent_200",
+      "prod_laundry_detergent_296",
+      "prod_laundry_detergent_020",
+      "prod_laundry_detergent_072"
+    ],
+    "final_choice": "prod_laundry_detergent_106",
+    "reasoning": "Pure Original Ingredients Soap Flakes are a fantastic and natural base for those who prefer to make their own homemade laundry detergents."
+  },
+  {
+    "offer_set_id": "laundry_detergent_093",
+    "consideration_set": [
+      "prod_laundry_detergent_190",
+      "prod_laundry_detergent_199",
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_140",
+      "prod_laundry_detergent_189"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "A borderline set where nothing clearly outperforms cheaper or more readily available alternatives."
+  },
+  {
+    "offer_set_id": "laundry_detergent_094",
+    "consideration_set": [
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_011",
+      "prod_laundry_detergent_020",
+      "prod_laundry_detergent_118",
+      "prod_laundry_detergent_231"
+    ],
+    "final_choice": "prod_laundry_detergent_011",
+    "reasoning": "ATTITUDE Laundry Detergent is a highly rated, plant and mineral-based formula that cleans effectively while being vegan and cruelty-free."
+  },
+  {
+    "offer_set_id": "laundry_detergent_095",
+    "consideration_set": [
+      "prod_laundry_detergent_132",
+      "prod_laundry_detergent_252",
+      "prod_laundry_detergent_009",
+      "prod_laundry_detergent_261",
+      "prod_laundry_detergent_238"
+    ],
+    "final_choice": "prod_laundry_detergent_238",
+    "reasoning": "Terra Breeze Laundry Detergent Powder packets are highly convenient for travel and pre-measured simplicity."
+  },
+  {
+    "offer_set_id": "laundry_detergent_096",
+    "consideration_set": [
+      "prod_laundry_detergent_132",
+      "prod_laundry_detergent_191",
+      "prod_laundry_detergent_202",
+      "prod_laundry_detergent_087",
+      "prod_laundry_detergent_265"
+    ],
+    "final_choice": "prod_laundry_detergent_202",
+    "reasoning": "Earth Friendly Products Ecos Liquid in Lavender provides a large, economical volume with a subtle, non-overpowering scent."
+  },
+  {
+    "offer_set_id": "laundry_detergent_097",
+    "consideration_set": [
+      "prod_laundry_detergent_275",
+      "prod_laundry_detergent_257",
+      "prod_laundry_detergent_228",
+      "prod_laundry_detergent_135",
+      "prod_laundry_detergent_186"
+    ],
+    "final_choice": "prod_laundry_detergent_135",
+    "reasoning": "Cure With Pure Organic Soap Nuts are a genuinely non-toxic, chemical-free way to naturally clean and brighten fabrics."
+  },
+  {
+    "offer_set_id": "laundry_detergent_098",
+    "consideration_set": [
+      "prod_laundry_detergent_202",
+      "prod_laundry_detergent_042",
+      "prod_laundry_detergent_281",
+      "prod_laundry_detergent_252",
+      "prod_laundry_detergent_193"
+    ],
+    "final_choice": "prod_laundry_detergent_193",
+    "reasoning": "GreenShield Organic Free & Clear is a highly trusted option for sensitive skin with a long track record of effective stain removal."
+  },
+  {
+    "offer_set_id": "laundry_detergent_099",
+    "consideration_set": [
+      "prod_laundry_detergent_173",
+      "prod_laundry_detergent_106",
+      "prod_laundry_detergent_052",
+      "prod_laundry_detergent_287",
+      "prod_laundry_detergent_296"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The choices lack a strong value proposition, feeling somewhat repetitive and slightly overpriced for standard use."
+  },
+  {
+    "offer_set_id": "laundry_detergent_100",
+    "consideration_set": [
+      "prod_laundry_detergent_039",
+      "prod_laundry_detergent_068",
+      "prod_laundry_detergent_238",
+      "prod_laundry_detergent_259",
+      "prod_laundry_detergent_190"
+    ],
+    "final_choice": "prod_laundry_detergent_259",
+    "reasoning": "bulle Laundry Detergent Sheets offer a powerful, pre-measured, and zero-irritant cleaning solution that dissolves completely without fuss."
+  }
+]

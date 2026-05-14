@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 11,
+    "timestamp": 1778715392,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_061.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_150",
+      "prod_yoga_mats_172",
+      "prod_yoga_mats_062",
+      "prod_yoga_mats_165"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top options suffer from strong rubber odors or lack long-term durability in user reviews."
+  }
+}

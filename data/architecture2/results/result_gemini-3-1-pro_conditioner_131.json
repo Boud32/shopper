@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 31,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_131.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_171"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "A lackluster set overall, with most products suffering from high prices or lukewarm reviews."
+  }
+}

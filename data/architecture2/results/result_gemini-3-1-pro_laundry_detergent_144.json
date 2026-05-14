@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 44,
+    "timestamp": 1778715409,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_144.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_238",
+      "prod_laundry_detergent_004",
+      "prod_laundry_detergent_248"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "These zero-waste sheets are great for saving space in my tight apartment."
+  }
+}

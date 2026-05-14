@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 20,
+    "timestamp": 1778715399,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_070.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_087"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The unflavored bulk powders and lower-tier options here don't give me enough confidence in their taste or mixability."
+  }
+}

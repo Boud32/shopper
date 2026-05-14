@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 34,
+    "timestamp": 1778715399,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_084.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_163",
+      "prod_protein_powder_043",
+      "prod_protein_powder_118"
+    ],
+    "final_choice": "prod_protein_powder_043",
+    "reasoning": "Primal Kitchen's whey uses clean, paleo-friendly ingredients that support my diet without compromising on essential amino acids."
+  }
+}

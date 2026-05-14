@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 38,
+    "timestamp": 1778715399,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_088.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_144",
+      "prod_protein_powder_172"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The high prices and mixed reviews on mixability among the top products in this set make it an easy skip."
+  }
+}

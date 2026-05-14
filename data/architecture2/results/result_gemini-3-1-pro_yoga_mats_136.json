@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 36,
+    "timestamp": 1778715394,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_136.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_029"
+    ],
+    "final_choice": "prod_yoga_mats_029",
+    "reasoning": "I appreciate the extra thickness which is absolutely necessary for practicing on hard tile floors."
+  }
+}

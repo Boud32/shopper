@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 23,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_023.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_210",
+      "prod_conditioner_178",
+      "prod_conditioner_286",
+      "prod_conditioner_067",
+      "prod_conditioner_106"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top visible options are either heavily scented or targeted toward kids, which does not fit my current needs."
+  }
+}

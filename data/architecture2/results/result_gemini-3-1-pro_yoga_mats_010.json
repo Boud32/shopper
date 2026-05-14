@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 10,
+    "timestamp": 1778715390,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_010.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_073",
+      "prod_yoga_mats_111",
+      "prod_yoga_mats_081",
+      "prod_yoga_mats_187",
+      "prod_yoga_mats_106"
+    ],
+    "final_choice": "prod_yoga_mats_111",
+    "reasoning": "Gaiam's solid color mat provides a reliable, lightweight option with excellent reviews from a trusted brand."
+  }
+}

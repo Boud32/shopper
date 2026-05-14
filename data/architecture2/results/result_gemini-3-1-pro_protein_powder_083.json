@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 33,
+    "timestamp": 1778715399,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_083.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_116"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Kaged Muscle Isolate stands out as a premium, fast-digesting option that I can trust for immediate post-workout nutrition."
+  }
+}

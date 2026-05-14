@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 37,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_037.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_049",
+      "prod_conditioner_114"
+    ],
+    "final_choice": "prod_conditioner_049",
+    "reasoning": "Hask Monoi Coconut Oil packets offer a deeply nourishing treatment that is highly convenient for targeted moisturizing."
+  }
+}

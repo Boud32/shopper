@@ -1,1 +1,602 @@
-[]
+[
+  {
+    "offer_set_id": "laundry_detergent_001",
+    "consideration_set": [
+      "prod_laundry_detergent_257",
+      "prod_laundry_detergent_289",
+      "prod_laundry_detergent_242",
+      "prod_laundry_detergent_265",
+      "prod_laundry_detergent_024"
+    ],
+    "final_choice": "prod_laundry_detergent_257",
+    "reasoning": "Arm & Hammer Clean & Simple offers a deep clean with a high rating and a very competitive price."
+  },
+  {
+    "offer_set_id": "laundry_detergent_002",
+    "consideration_set": [
+      "prod_laundry_detergent_265",
+      "prod_laundry_detergent_034",
+      "prod_laundry_detergent_215",
+      "prod_laundry_detergent_145",
+      "prod_laundry_detergent_269"
+    ],
+    "final_choice": "prod_laundry_detergent_145",
+    "reasoning": "Persil ProClean is highly rated and known for exceptional stain removal, making it worth the premium."
+  },
+  {
+    "offer_set_id": "laundry_detergent_003",
+    "consideration_set": [
+      "prod_laundry_detergent_254",
+      "prod_laundry_detergent_162",
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_225",
+      "prod_laundry_detergent_284"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Prices feel too high for the quality offered across the top ranked products in this set."
+  },
+  {
+    "offer_set_id": "laundry_detergent_004",
+    "consideration_set": [
+      "prod_laundry_detergent_012",
+      "prod_laundry_detergent_074",
+      "prod_laundry_detergent_037",
+      "prod_laundry_detergent_277",
+      "prod_laundry_detergent_205"
+    ],
+    "final_choice": "prod_laundry_detergent_205",
+    "reasoning": "ECOS Hypoallergenic Detergent is reasonably priced and highly rated for sensitive skin."
+  },
+  {
+    "offer_set_id": "laundry_detergent_005",
+    "consideration_set": [
+      "prod_laundry_detergent_199",
+      "prod_laundry_detergent_126",
+      "prod_laundry_detergent_166",
+      "prod_laundry_detergent_252",
+      "prod_laundry_detergent_283"
+    ],
+    "final_choice": "prod_laundry_detergent_166",
+    "reasoning": "Tide With Febreze offers reliable odor-fighting performance and strong brand trust."
+  },
+  {
+    "offer_set_id": "laundry_detergent_006",
+    "consideration_set": [
+      "prod_laundry_detergent_261",
+      "prod_laundry_detergent_228",
+      "prod_laundry_detergent_248",
+      "prod_laundry_detergent_012",
+      "prod_laundry_detergent_107"
+    ],
+    "final_choice": "prod_laundry_detergent_107",
+    "reasoning": "Tide Hygienic Clean Power PODS are convenient and deliver consistently high-quality cleaning for tough dirt."
+  },
+  {
+    "offer_set_id": "laundry_detergent_007",
+    "consideration_set": [
+      "prod_laundry_detergent_032",
+      "prod_laundry_detergent_195",
+      "prod_laundry_detergent_208",
+      "prod_laundry_detergent_048",
+      "prod_laundry_detergent_196"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The available products do not clearly stand out as better than what could be found elsewhere."
+  },
+  {
+    "offer_set_id": "laundry_detergent_008",
+    "consideration_set": [
+      "prod_laundry_detergent_032",
+      "prod_laundry_detergent_109",
+      "prod_laundry_detergent_175",
+      "prod_laundry_detergent_040",
+      "prod_laundry_detergent_284"
+    ],
+    "final_choice": "prod_laundry_detergent_284",
+    "reasoning": "Puracy Liquid Laundry Detergent is a high-quality plant-based option with great stain-fighting enzymes."
+  },
+  {
+    "offer_set_id": "laundry_detergent_009",
+    "consideration_set": [
+      "prod_laundry_detergent_205",
+      "prod_laundry_detergent_245",
+      "prod_laundry_detergent_083",
+      "prod_laundry_detergent_299",
+      "prod_laundry_detergent_076"
+    ],
+    "final_choice": "prod_laundry_detergent_205",
+    "reasoning": "ECOS Lemongrass scent brings good value for a naturally derived and effective product."
+  },
+  {
+    "offer_set_id": "laundry_detergent_010",
+    "consideration_set": [
+      "prod_laundry_detergent_293",
+      "prod_laundry_detergent_062",
+      "prod_laundry_detergent_215",
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_032"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of the products clearly stood out as superior to typical options."
+  },
+  {
+    "offer_set_id": "laundry_detergent_011",
+    "consideration_set": [
+      "prod_laundry_detergent_010",
+      "prod_laundry_detergent_015",
+      "prod_laundry_detergent_020",
+      "prod_laundry_detergent_025",
+      "prod_laundry_detergent_030"
+    ],
+    "final_choice": "prod_laundry_detergent_010",
+    "reasoning": "This product has a solid balance of positive reviews and overall brand reliability."
+  },
+  {
+    "offer_set_id": "laundry_detergent_012",
+    "consideration_set": [
+      "prod_laundry_detergent_011",
+      "prod_laundry_detergent_016",
+      "prod_laundry_detergent_021",
+      "prod_laundry_detergent_026",
+      "prod_laundry_detergent_031"
+    ],
+    "final_choice": "prod_laundry_detergent_021",
+    "reasoning": "Arm & Hammer 4-in-1 Power Paks give excellent value and convenience for everyday loads."
+  },
+  {
+    "offer_set_id": "laundry_detergent_013",
+    "consideration_set": [
+      "prod_laundry_detergent_012",
+      "prod_laundry_detergent_017",
+      "prod_laundry_detergent_022",
+      "prod_laundry_detergent_027",
+      "prod_laundry_detergent_032"
+    ],
+    "final_choice": "prod_laundry_detergent_022",
+    "reasoning": "Molly's Suds is highly regarded for being natural and sensitive skin friendly."
+  },
+  {
+    "offer_set_id": "laundry_detergent_014",
+    "consideration_set": [
+      "prod_laundry_detergent_013",
+      "prod_laundry_detergent_018",
+      "prod_laundry_detergent_023",
+      "prod_laundry_detergent_028",
+      "prod_laundry_detergent_033"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top positions are dominated by weak options that are overpriced for what they offer."
+  },
+  {
+    "offer_set_id": "laundry_detergent_015",
+    "consideration_set": [
+      "prod_laundry_detergent_014",
+      "prod_laundry_detergent_019",
+      "prod_laundry_detergent_024",
+      "prod_laundry_detergent_029",
+      "prod_laundry_detergent_034"
+    ],
+    "final_choice": "prod_laundry_detergent_034",
+    "reasoning": "Tru Earth Eco-Strips are a great biodegradable and plastic-free choice that performs well."
+  },
+  {
+    "offer_set_id": "laundry_detergent_016",
+    "consideration_set": [
+      "prod_laundry_detergent_035",
+      "prod_laundry_detergent_040",
+      "prod_laundry_detergent_045",
+      "prod_laundry_detergent_050",
+      "prod_laundry_detergent_055"
+    ],
+    "final_choice": "prod_laundry_detergent_045",
+    "reasoning": "Tide PODS 4 in 1 Sport Odor Defense is highly reliable for athletic wear and tough smells."
+  },
+  {
+    "offer_set_id": "laundry_detergent_017",
+    "consideration_set": [
+      "prod_laundry_detergent_036",
+      "prod_laundry_detergent_041",
+      "prod_laundry_detergent_046",
+      "prod_laundry_detergent_051",
+      "prod_laundry_detergent_056"
+    ],
+    "final_choice": "prod_laundry_detergent_051",
+    "reasoning": "Purex Mountain Breeze is a very cost-effective staple detergent that still cleans well."
+  },
+  {
+    "offer_set_id": "laundry_detergent_018",
+    "consideration_set": [
+      "prod_laundry_detergent_037",
+      "prod_laundry_detergent_042",
+      "prod_laundry_detergent_047",
+      "prod_laundry_detergent_052",
+      "prod_laundry_detergent_057"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Prices are unappealing and the consideration set lacks standout products."
+  },
+  {
+    "offer_set_id": "laundry_detergent_019",
+    "consideration_set": [
+      "prod_laundry_detergent_038",
+      "prod_laundry_detergent_043",
+      "prod_laundry_detergent_048",
+      "prod_laundry_detergent_053",
+      "prod_laundry_detergent_058"
+    ],
+    "final_choice": "prod_laundry_detergent_048",
+    "reasoning": "Gain Ultra Flings provides an excellent fresh scent and handles large loads effortlessly."
+  },
+  {
+    "offer_set_id": "laundry_detergent_020",
+    "consideration_set": [
+      "prod_laundry_detergent_039",
+      "prod_laundry_detergent_044",
+      "prod_laundry_detergent_049",
+      "prod_laundry_detergent_054",
+      "prod_laundry_detergent_059"
+    ],
+    "final_choice": "prod_laundry_detergent_044",
+    "reasoning": "Clean People Fragrance Free Pods are plant-based, plastic-free, and great for sensitivities."
+  },
+  {
+    "offer_set_id": "laundry_detergent_021",
+    "consideration_set": [
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_065",
+      "prod_laundry_detergent_070",
+      "prod_laundry_detergent_075",
+      "prod_laundry_detergent_080"
+    ],
+    "final_choice": "prod_laundry_detergent_060",
+    "reasoning": "Tide Hygienic Clean 10x Heavy Duty Pods are fantastic for deep cleaning heavily soiled items."
+  },
+  {
+    "offer_set_id": "laundry_detergent_022",
+    "consideration_set": [
+      "prod_laundry_detergent_061",
+      "prod_laundry_detergent_066",
+      "prod_laundry_detergent_071",
+      "prod_laundry_detergent_076",
+      "prod_laundry_detergent_081"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Nothing in this selection offers sufficient quality to justify the cost."
+  },
+  {
+    "offer_set_id": "laundry_detergent_023",
+    "consideration_set": [
+      "prod_laundry_detergent_062",
+      "prod_laundry_detergent_067",
+      "prod_laundry_detergent_072",
+      "prod_laundry_detergent_077",
+      "prod_laundry_detergent_082"
+    ],
+    "final_choice": "prod_laundry_detergent_062",
+    "reasoning": "Tide Original Powder is an economical and highly effective option for HE machines."
+  },
+  {
+    "offer_set_id": "laundry_detergent_024",
+    "consideration_set": [
+      "prod_laundry_detergent_063",
+      "prod_laundry_detergent_068",
+      "prod_laundry_detergent_073",
+      "prod_laundry_detergent_078",
+      "prod_laundry_detergent_083"
+    ],
+    "final_choice": "prod_laundry_detergent_073",
+    "reasoning": "This choice provides strong odor elimination features ideal for athletic wear."
+  },
+  {
+    "offer_set_id": "laundry_detergent_025",
+    "consideration_set": [
+      "prod_laundry_detergent_064",
+      "prod_laundry_detergent_069",
+      "prod_laundry_detergent_074",
+      "prod_laundry_detergent_079",
+      "prod_laundry_detergent_084"
+    ],
+    "final_choice": "prod_laundry_detergent_074",
+    "reasoning": "Gain Botanicals offers a refreshing plant-based approach to cleaning with a wonderful scent."
+  },
+  {
+    "offer_set_id": "laundry_detergent_026",
+    "consideration_set": [
+      "prod_laundry_detergent_085",
+      "prod_laundry_detergent_090",
+      "prod_laundry_detergent_095",
+      "prod_laundry_detergent_100",
+      "prod_laundry_detergent_105"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of the products clearly stood out as superior to typical options."
+  },
+  {
+    "offer_set_id": "laundry_detergent_027",
+    "consideration_set": [
+      "prod_laundry_detergent_086",
+      "prod_laundry_detergent_091",
+      "prod_laundry_detergent_096",
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_106"
+    ],
+    "final_choice": "prod_laundry_detergent_086",
+    "reasoning": "Baby Laundry Detergent Sheets are fantastic for keeping baby clothes gentle and plastic-free."
+  },
+  {
+    "offer_set_id": "laundry_detergent_028",
+    "consideration_set": [
+      "prod_laundry_detergent_087",
+      "prod_laundry_detergent_092",
+      "prod_laundry_detergent_097",
+      "prod_laundry_detergent_102",
+      "prod_laundry_detergent_107"
+    ],
+    "final_choice": "prod_laundry_detergent_107",
+    "reasoning": "Tide Hygienic Clean provides consistent top-tier results for invisible and visible dirt."
+  },
+  {
+    "offer_set_id": "laundry_detergent_029",
+    "consideration_set": [
+      "prod_laundry_detergent_088",
+      "prod_laundry_detergent_093",
+      "prod_laundry_detergent_098",
+      "prod_laundry_detergent_103",
+      "prod_laundry_detergent_108"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The consideration set lacked compelling options, making it better to search elsewhere."
+  },
+  {
+    "offer_set_id": "laundry_detergent_030",
+    "consideration_set": [
+      "prod_laundry_detergent_089",
+      "prod_laundry_detergent_094",
+      "prod_laundry_detergent_099",
+      "prod_laundry_detergent_104",
+      "prod_laundry_detergent_109"
+    ],
+    "final_choice": "prod_laundry_detergent_089",
+    "reasoning": "Zum Clean Laundry Soap in Patchouli provides a unique and enjoyable essential oil aromatherapy experience."
+  },
+  {
+    "offer_set_id": "laundry_detergent_031",
+    "consideration_set": [
+      "prod_laundry_detergent_110",
+      "prod_laundry_detergent_115",
+      "prod_laundry_detergent_120",
+      "prod_laundry_detergent_125",
+      "prod_laundry_detergent_130"
+    ],
+    "final_choice": "prod_laundry_detergent_110",
+    "reasoning": "This detergent is a well-rounded and affordable option for standard household laundry needs."
+  },
+  {
+    "offer_set_id": "laundry_detergent_032",
+    "consideration_set": [
+      "prod_laundry_detergent_111",
+      "prod_laundry_detergent_116",
+      "prod_laundry_detergent_121",
+      "prod_laundry_detergent_126",
+      "prod_laundry_detergent_131"
+    ],
+    "final_choice": "prod_laundry_detergent_116",
+    "reasoning": "Arm & Hammer Plus OxiClean Odor Blasters is unmatched when combating persistent odors and stains."
+  },
+  {
+    "offer_set_id": "laundry_detergent_033",
+    "consideration_set": [
+      "prod_laundry_detergent_112",
+      "prod_laundry_detergent_117",
+      "prod_laundry_detergent_122",
+      "prod_laundry_detergent_127",
+      "prod_laundry_detergent_132"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Prices feel high for the quality and nothing clearly stands out."
+  },
+  {
+    "offer_set_id": "laundry_detergent_034",
+    "consideration_set": [
+      "prod_laundry_detergent_113",
+      "prod_laundry_detergent_118",
+      "prod_laundry_detergent_123",
+      "prod_laundry_detergent_128",
+      "prod_laundry_detergent_133"
+    ],
+    "final_choice": "prod_laundry_detergent_118",
+    "reasoning": "Tyler Candle Glamorous Wash adds a luxury element to washing linens and bedding."
+  },
+  {
+    "offer_set_id": "laundry_detergent_035",
+    "consideration_set": [
+      "prod_laundry_detergent_114",
+      "prod_laundry_detergent_119",
+      "prod_laundry_detergent_124",
+      "prod_laundry_detergent_129",
+      "prod_laundry_detergent_134"
+    ],
+    "final_choice": "prod_laundry_detergent_124",
+    "reasoning": "This choice is widely trusted and efficiently handles stubborn stains."
+  },
+  {
+    "offer_set_id": "laundry_detergent_036",
+    "consideration_set": [
+      "prod_laundry_detergent_135",
+      "prod_laundry_detergent_140",
+      "prod_laundry_detergent_145",
+      "prod_laundry_detergent_150",
+      "prod_laundry_detergent_155"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "A borderline set with mostly weak options and nothing that warrants a definitive purchase."
+  },
+  {
+    "offer_set_id": "laundry_detergent_037",
+    "consideration_set": [
+      "prod_laundry_detergent_136",
+      "prod_laundry_detergent_141",
+      "prod_laundry_detergent_146",
+      "prod_laundry_detergent_151",
+      "prod_laundry_detergent_156"
+    ],
+    "final_choice": "prod_laundry_detergent_141",
+    "reasoning": "Excellent concentration and cleaning efficiency for everyday use."
+  },
+  {
+    "offer_set_id": "laundry_detergent_038",
+    "consideration_set": [
+      "prod_laundry_detergent_137",
+      "prod_laundry_detergent_142",
+      "prod_laundry_detergent_147",
+      "prod_laundry_detergent_152",
+      "prod_laundry_detergent_157"
+    ],
+    "final_choice": "prod_laundry_detergent_152",
+    "reasoning": "WIN Activewear Detergent is perfect for preserving elasticity and removing odors from workout clothes."
+  },
+  {
+    "offer_set_id": "laundry_detergent_039",
+    "consideration_set": [
+      "prod_laundry_detergent_138",
+      "prod_laundry_detergent_143",
+      "prod_laundry_detergent_148",
+      "prod_laundry_detergent_153",
+      "prod_laundry_detergent_158"
+    ],
+    "final_choice": "prod_laundry_detergent_143",
+    "reasoning": "Ariel with Ultra Oxi offers a very economical bulk powder option that performs beautifully."
+  },
+  {
+    "offer_set_id": "laundry_detergent_040",
+    "consideration_set": [
+      "prod_laundry_detergent_139",
+      "prod_laundry_detergent_144",
+      "prod_laundry_detergent_149",
+      "prod_laundry_detergent_154",
+      "prod_laundry_detergent_159"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "There are no standout products among these options to justify a purchase."
+  },
+  {
+    "offer_set_id": "laundry_detergent_041",
+    "consideration_set": [
+      "prod_laundry_detergent_160",
+      "prod_laundry_detergent_165",
+      "prod_laundry_detergent_170",
+      "prod_laundry_detergent_175",
+      "prod_laundry_detergent_180"
+    ],
+    "final_choice": "prod_laundry_detergent_160",
+    "reasoning": "It comes from a reliable brand and has a solid history of protecting fabric colors."
+  },
+  {
+    "offer_set_id": "laundry_detergent_042",
+    "consideration_set": [
+      "prod_laundry_detergent_161",
+      "prod_laundry_detergent_166",
+      "prod_laundry_detergent_171",
+      "prod_laundry_detergent_176",
+      "prod_laundry_detergent_181"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top positions do not provide enough value or quality assurance to warrant buying."
+  },
+  {
+    "offer_set_id": "laundry_detergent_043",
+    "consideration_set": [
+      "prod_laundry_detergent_162",
+      "prod_laundry_detergent_167",
+      "prod_laundry_detergent_172",
+      "prod_laundry_detergent_177",
+      "prod_laundry_detergent_182"
+    ],
+    "final_choice": "prod_laundry_detergent_162",
+    "reasoning": "Tide Plus Febreze Sport is a standout for athletic clothes and general odor removal."
+  },
+  {
+    "offer_set_id": "laundry_detergent_044",
+    "consideration_set": [
+      "prod_laundry_detergent_163",
+      "prod_laundry_detergent_168",
+      "prod_laundry_detergent_173",
+      "prod_laundry_detergent_178",
+      "prod_laundry_detergent_183"
+    ],
+    "final_choice": "prod_laundry_detergent_173",
+    "reasoning": "Love Home and Planet is an excellent eco-conscious option with a great scent."
+  },
+  {
+    "offer_set_id": "laundry_detergent_045",
+    "consideration_set": [
+      "prod_laundry_detergent_164",
+      "prod_laundry_detergent_169",
+      "prod_laundry_detergent_174",
+      "prod_laundry_detergent_179",
+      "prod_laundry_detergent_184"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of the products clearly stood out as superior to typical options."
+  },
+  {
+    "offer_set_id": "laundry_detergent_046",
+    "consideration_set": [
+      "prod_laundry_detergent_185",
+      "prod_laundry_detergent_190",
+      "prod_laundry_detergent_195",
+      "prod_laundry_detergent_200",
+      "prod_laundry_detergent_205"
+    ],
+    "final_choice": "prod_laundry_detergent_185",
+    "reasoning": "GAIN Flings offer long-lasting scent and reliable cleaning in an easy pod format."
+  },
+  {
+    "offer_set_id": "laundry_detergent_047",
+    "consideration_set": [
+      "prod_laundry_detergent_186",
+      "prod_laundry_detergent_191",
+      "prod_laundry_detergent_196",
+      "prod_laundry_detergent_201",
+      "prod_laundry_detergent_206"
+    ],
+    "final_choice": "prod_laundry_detergent_191",
+    "reasoning": "Vacplus Laundry Sheets provide a great, travel-friendly bulk alternative with strong value."
+  },
+  {
+    "offer_set_id": "laundry_detergent_048",
+    "consideration_set": [
+      "prod_laundry_detergent_187",
+      "prod_laundry_detergent_192",
+      "prod_laundry_detergent_197",
+      "prod_laundry_detergent_202",
+      "prod_laundry_detergent_207"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "This set contains mediocre products that do not compel a final purchase decision."
+  },
+  {
+    "offer_set_id": "laundry_detergent_049",
+    "consideration_set": [
+      "prod_laundry_detergent_188",
+      "prod_laundry_detergent_193",
+      "prod_laundry_detergent_198",
+      "prod_laundry_detergent_203",
+      "prod_laundry_detergent_208"
+    ],
+    "final_choice": "prod_laundry_detergent_198",
+    "reasoning": "It offers exceptional stain control and is great for maintaining the life of everyday clothing."
+  },
+  {
+    "offer_set_id": "laundry_detergent_050",
+    "consideration_set": [
+      "prod_laundry_detergent_189",
+      "prod_laundry_detergent_194",
+      "prod_laundry_detergent_199",
+      "prod_laundry_detergent_204",
+      "prod_laundry_detergent_209"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "A borderline set with nothing that clearly stands out."
+  }
+]

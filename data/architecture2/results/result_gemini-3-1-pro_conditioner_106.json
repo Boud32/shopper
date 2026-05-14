@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 6,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_106.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_298",
+      "prod_conditioner_084",
+      "prod_conditioner_280",
+      "prod_conditioner_011",
+      "prod_conditioner_076"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "The Aussie 3 Minute Miracle bundle stands out as an affordable, mass-appeal favorite with consistent results."
+  }
+}

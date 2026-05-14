@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 8,
+    "timestamp": 1778715405,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_008.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_032",
+      "prod_laundry_detergent_109",
+      "prod_laundry_detergent_175",
+      "prod_laundry_detergent_040",
+      "prod_laundry_detergent_284"
+    ],
+    "final_choice": "prod_laundry_detergent_284",
+    "reasoning": "Puracy Liquid Laundry Detergent is a high-quality plant-based option with great stain-fighting enzymes."
+  }
+}

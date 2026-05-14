@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 16,
+    "timestamp": 1778715409,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_116.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_045"
+    ],
+    "final_choice": "prod_laundry_detergent_045",
+    "reasoning": "Febreze Sport odor defense is exactly what I need to keep my gym bag smelling fresh."
+  }
+}

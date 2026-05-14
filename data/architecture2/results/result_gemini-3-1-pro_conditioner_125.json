@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 25,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_125.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_280"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle offers incredible value as a bundle, making it an easy choice over the more expensive and lesser-known items."
+  }
+}

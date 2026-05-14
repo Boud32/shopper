@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 9,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_109.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_168",
+      "prod_conditioner_213",
+      "prod_conditioner_027",
+      "prod_conditioner_125",
+      "prod_conditioner_280"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "The Aussie bundle is an exceptionally highly rated and practical deal for reliable hair care."
+  }
+}

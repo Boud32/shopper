@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 1,
+    "timestamp": 1778715407,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_051.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_202",
+      "prod_laundry_detergent_042",
+      "prod_laundry_detergent_281",
+      "prod_laundry_detergent_252",
+      "prod_laundry_detergent_193"
+    ],
+    "final_choice": "prod_laundry_detergent_042",
+    "reasoning": "Seventh Generation Concentrated Baby Laundry Detergent offers an excellent 4.6 rating with over 9,000 reviews, making it a highly trusted plant-based choice for sensitive skin."
+  }
+}

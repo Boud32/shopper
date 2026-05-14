@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 12,
+    "timestamp": 1778715396,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_162.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_026",
+      "prod_yoga_mats_085",
+      "prod_yoga_mats_066",
+      "prod_yoga_mats_162"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The ODODOS yoga mat is highly rated for its thickness options and strong non-slip performance."
+  }
+}

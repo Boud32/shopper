@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 39,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_039.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_246",
+      "prod_conditioner_269",
+      "prod_conditioner_217",
+      "prod_conditioner_110",
+      "prod_conditioner_197"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The available products are either incredibly expensive niche toners or heavily scented options that don't appeal to me."
+  }
+}

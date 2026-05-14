@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 5,
+    "timestamp": 1778715411,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_155.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [],
+    "final_choice": "no_purchase",
+    "reasoning": "The top positions are dominated by generic brands with inflated prices and weak review profiles."
+  }
+}

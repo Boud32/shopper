@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 17,
+    "timestamp": 1778715396,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_167.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_024",
+      "prod_yoga_mats_190"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "This is a borderline set where top positions are dominated by generic options without distinguishing features."
+  }
+}

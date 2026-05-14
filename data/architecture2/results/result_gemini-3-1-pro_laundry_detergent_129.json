@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 29,
+    "timestamp": 1778715409,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_129.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_065"
+    ],
+    "final_choice": "prod_laundry_detergent_065",
+    "reasoning": "Seventh Generation Free & Clear uses plant-derived enzymes that effectively fight stains naturally."
+  }
+}

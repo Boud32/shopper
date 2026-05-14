@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 26,
+    "timestamp": 1778715419,
+    "source_batch": "data/offer_sets/conditioner/conditioner_176.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [],
+    "final_choice": "no_purchase",
+    "reasoning": "Vegan and cruelty-free formulation aligns well with my purchasing preferences."
+  }
+}

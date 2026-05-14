@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 17,
+    "timestamp": 1778715399,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_067.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_183"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "This borderline set is filled with collagens and mass gainers, lacking a straightforward, high-quality whey isolate."
+  }
+}

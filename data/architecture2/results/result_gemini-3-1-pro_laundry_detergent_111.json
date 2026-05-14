@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 11,
+    "timestamp": 1778715409,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_111.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_111"
+    ],
+    "final_choice": "prod_laundry_detergent_111",
+    "reasoning": "SinkSuds packets are a compact must-have for my two-week backpacking trip across Europe this summer."
+  }
+}

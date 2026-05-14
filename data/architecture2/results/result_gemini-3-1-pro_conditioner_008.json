@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 8,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_008.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_047",
+      "prod_conditioner_214",
+      "prod_conditioner_022",
+      "prod_conditioner_270",
+      "prod_conditioner_248"
+    ],
+    "final_choice": "prod_conditioner_214",
+    "reasoning": "TIGI Bed Head Serial Blonde is great for repairing damaged blonde hair with a pleasant scent."
+  }
+}

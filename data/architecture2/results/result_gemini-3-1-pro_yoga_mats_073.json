@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 23,
+    "timestamp": 1778715392,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_073.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_103"
+    ],
+    "final_choice": "prod_yoga_mats_103",
+    "reasoning": "This extra-large SGS-certified TPE mat has an alignment line to help maintain centered positions."
+  }
+}

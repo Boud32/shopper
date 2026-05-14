@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 19,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_119.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_221",
+      "prod_conditioner_071",
+      "prod_conditioner_199",
+      "prod_conditioner_270",
+      "prod_conditioner_237"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The highly rated options are mostly niche products, and nothing offers a balanced mix of value and versatile application."
+  }
+}

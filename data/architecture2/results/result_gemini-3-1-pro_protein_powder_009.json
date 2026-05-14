@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 9,
+    "timestamp": 1778715398,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_009.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_011",
+      "prod_protein_powder_132",
+      "prod_protein_powder_130",
+      "prod_protein_powder_171",
+      "prod_protein_powder_151"
+    ],
+    "final_choice": "prod_protein_powder_011",
+    "reasoning": "An unflavored isolate provides the highest protein yield with minimal carbs, making it an excellent addition to my post-workout recovery shakes."
+  }
+}

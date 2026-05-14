@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 9,
+    "timestamp": 1778715399,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_059.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_182",
+      "prod_protein_powder_108",
+      "prod_protein_powder_145",
+      "prod_protein_powder_191",
+      "prod_protein_powder_187"
+    ],
+    "final_choice": "prod_protein_powder_191",
+    "reasoning": "The Kaged Muscle isolate is a solid choice with great taste and added digestive enzymes to maximize protein absorption."
+  }
+}

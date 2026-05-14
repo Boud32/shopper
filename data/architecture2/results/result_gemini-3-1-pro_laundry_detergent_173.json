@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 23,
+    "timestamp": 1778715411,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_173.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_123"
+    ],
+    "final_choice": "prod_laundry_detergent_123",
+    "reasoning": "This product contains specific enzymes for tough stains that the others are lacking."
+  }
+}

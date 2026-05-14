@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 48,
+    "timestamp": 1778715392,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_098.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_122"
+    ],
+    "final_choice": "prod_yoga_mats_122",
+    "reasoning": "Mersuii's TPE material is exceptional for headstands and balances at an incredibly reasonable price point."
+  }
+}

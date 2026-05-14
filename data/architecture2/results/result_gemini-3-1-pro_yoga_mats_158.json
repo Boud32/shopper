@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 8,
+    "timestamp": 1778715396,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_158.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_188",
+      "prod_yoga_mats_082",
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_014",
+      "prod_yoga_mats_106"
+    ],
+    "final_choice": "prod_yoga_mats_188",
+    "reasoning": "This Lottus Life natural jute mat offers 8mm of extra thickness and strong traction with eco-friendly materials."
+  }
+}

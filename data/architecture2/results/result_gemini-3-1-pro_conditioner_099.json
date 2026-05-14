@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 49,
+    "timestamp": 1778715415,
+    "source_batch": "data/offer_sets/conditioner/conditioner_099.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_060",
+      "prod_conditioner_199",
+      "prod_conditioner_251"
+    ],
+    "final_choice": "prod_conditioner_199",
+    "reasoning": "It has a superb reputation for revitalizing color-treated hair and maintaining vibrancy."
+  }
+}

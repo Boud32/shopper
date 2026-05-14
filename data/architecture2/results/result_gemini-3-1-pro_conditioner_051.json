@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 1,
+    "timestamp": 1778715415,
+    "source_batch": "data/offer_sets/conditioner/conditioner_051.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_060",
+      "prod_conditioner_030",
+      "prod_conditioner_199",
+      "prod_conditioner_214",
+      "prod_conditioner_251"
+    ],
+    "final_choice": "prod_conditioner_060",
+    "reasoning": "This product stands out due to its high ratings and specialized formulation for damaged hair."
+  }
+}

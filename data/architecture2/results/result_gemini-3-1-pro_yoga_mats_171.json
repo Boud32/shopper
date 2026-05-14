@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 21,
+    "timestamp": 1778715396,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_171.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_149"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Gaiam Sol Dry-Grip effectively solves the problem of a slipping practice in heated environments."
+  }
+}

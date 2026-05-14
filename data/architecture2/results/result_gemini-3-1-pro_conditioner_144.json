@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 44,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_144.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_217",
+      "prod_conditioner_130",
+      "prod_conditioner_002",
+      "prod_conditioner_278",
+      "prod_conditioner_280"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "The Aussie Total Miracle bundle provides an unmatched combination of low price, comprehensive hair care, and excellent reviews."
+  }
+}

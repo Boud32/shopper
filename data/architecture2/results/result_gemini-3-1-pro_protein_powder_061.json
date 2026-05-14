@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 11,
+    "timestamp": 1778715399,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_061.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_097",
+      "prod_protein_powder_015"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The heavily plant-based and specialty options in this set don't appeal to my preference for high-quality animal-based whey."
+  }
+}

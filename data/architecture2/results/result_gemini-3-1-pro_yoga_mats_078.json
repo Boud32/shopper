@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 28,
+    "timestamp": 1778715392,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_078.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_090",
+      "prod_yoga_mats_035",
+      "prod_yoga_mats_054"
+    ],
+    "final_choice": "prod_yoga_mats_090",
+    "reasoning": "Gaiam's Sol Dry-Grip mat is renowned for keeping stability even when fully drenched during hot yoga."
+  }
+}

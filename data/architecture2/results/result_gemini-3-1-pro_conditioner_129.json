@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 29,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_129.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_065",
+      "prod_conditioner_118",
+      "prod_conditioner_295"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Nothing here represents a strong enough value or high enough performance guarantee over a basic drugstore purchase."
+  }
+}

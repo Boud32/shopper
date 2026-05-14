@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 6,
+    "timestamp": 1778715396,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_156.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_135",
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_066"
+    ],
+    "final_choice": "prod_yoga_mats_163",
+    "reasoning": "The Heathyoga mat includes body alignment lines and a non-slip surface, standing out for functional practice."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 8,
+    "timestamp": 1778715407,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_058.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_180",
+      "prod_laundry_detergent_202",
+      "prod_laundry_detergent_162",
+      "prod_laundry_detergent_261",
+      "prod_laundry_detergent_038"
+    ],
+    "final_choice": "prod_laundry_detergent_180",
+    "reasoning": "Persil Laundry Detergent Liquid with Odor Elimination Technology is exceptional for fighting tough stains and odors, backed by a stellar 4.8 rating."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 1,
+    "timestamp": 1778715399,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_051.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_180",
+      "prod_protein_powder_022",
+      "prod_protein_powder_057",
+      "prod_protein_powder_187",
+      "prod_protein_powder_129"
+    ],
+    "final_choice": "prod_protein_powder_057",
+    "reasoning": "The NutraBio isolate offers a clean, sugar-free profile that aligns well with my high-protein fitness goals."
+  }
+}

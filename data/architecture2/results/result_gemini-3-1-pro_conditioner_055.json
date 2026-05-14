@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 5,
+    "timestamp": 1778715415,
+    "source_batch": "data/offer_sets/conditioner/conditioner_055.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_214"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The proven restorative benefits of this formula make it a compelling choice."
+  }
+}

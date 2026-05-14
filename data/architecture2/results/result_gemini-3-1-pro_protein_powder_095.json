@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 45,
+    "timestamp": 1778715399,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_095.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_059"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Kaged Muscle Whey Isolate uses natural flavors and provides a highly pure protein source that digests quickly after training."
+  }
+}

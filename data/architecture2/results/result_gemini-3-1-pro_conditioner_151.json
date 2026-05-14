@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 1,
+    "timestamp": 1778715419,
+    "source_batch": "data/offer_sets/conditioner/conditioner_151.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_068"
+    ],
+    "final_choice": "prod_conditioner_068",
+    "reasoning": "This heat protectant offers great value and strong reviews for daily styling needs."
+  }
+}

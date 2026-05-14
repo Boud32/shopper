@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 5,
+    "timestamp": 1778715409,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_105.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_299",
+      "prod_laundry_detergent_189",
+      "prod_laundry_detergent_072",
+      "prod_laundry_detergent_242",
+      "prod_laundry_detergent_086"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The prices for these premium brands feel too steep for a standard restock, so I will wait."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 13,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_013.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_289"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The selection is largely dominated by specialized products that aren't suited for a general daily moisture requirement."
+  }
+}

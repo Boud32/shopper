@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 40,
+    "timestamp": 1778715419,
+    "source_batch": "data/offer_sets/conditioner/conditioner_190.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_101"
+    ],
+    "final_choice": "prod_conditioner_101",
+    "reasoning": "The formula effectively smooths the hair cuticle, reducing frizz significantly."
+  }
+}

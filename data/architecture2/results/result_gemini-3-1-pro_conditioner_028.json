@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 28,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_028.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_039",
+      "prod_conditioner_219"
+    ],
+    "final_choice": "prod_conditioner_039",
+    "reasoning": "SheaMoisture Curl and Shine is a natural, lightweight treatment that restores shine and smooths out dry cuticles."
+  }
+}

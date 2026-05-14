@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 40,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_040.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [],
+    "final_choice": "no_purchase",
+    "reasoning": "Herbal Essences Color Me Happy remains a staple for standard, effective color protection and a pleasant rose scent."
+  }
+}

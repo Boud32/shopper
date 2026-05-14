@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 32,
+    "timestamp": 1778715419,
+    "source_batch": "data/offer_sets/conditioner/conditioner_182.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_024"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The high review count and positive consensus make this a safe, reliable purchase."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 16,
+    "timestamp": 1778715419,
+    "source_batch": "data/offer_sets/conditioner/conditioner_166.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_015"
+    ],
+    "final_choice": "prod_conditioner_015",
+    "reasoning": "The inclusion of argan oil makes this a deeply nourishing choice for frizzy hair."
+  }
+}

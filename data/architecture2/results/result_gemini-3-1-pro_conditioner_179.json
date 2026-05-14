@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 29,
+    "timestamp": 1778715419,
+    "source_batch": "data/offer_sets/conditioner/conditioner_179.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_147"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Excellent value for a large bottle that will last the whole family."
+  }
+}

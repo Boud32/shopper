@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 43,
+    "timestamp": 1778715409,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_143.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_126",
+      "prod_laundry_detergent_048"
+    ],
+    "final_choice": "prod_laundry_detergent_048",
+    "reasoning": "Gain Ultra Flings are perfect for tossing in with a large, heavy load of towels."
+  }
+}

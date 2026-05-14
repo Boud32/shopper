@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 38,
+    "timestamp": 1778715396,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_188.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_097",
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_095"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "CorkTec's mat utilizes organic cork and natural rubber, offering a premium, non-toxic surface with great traction."
+  }
+}

@@ -1,1 +1,602 @@
-[]
+[
+  {
+    "offer_set_id": "laundry_detergent_101",
+    "consideration_set": [
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_226",
+      "prod_laundry_detergent_021",
+      "prod_laundry_detergent_145",
+      "prod_laundry_detergent_044"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of these options stand out as particularly effective for removing heavy sweat from weekend beach volleyball tournaments."
+  },
+  {
+    "offer_set_id": "laundry_detergent_102",
+    "consideration_set": [
+      "prod_laundry_detergent_019",
+      "prod_laundry_detergent_205",
+      "prod_laundry_detergent_246",
+      "prod_laundry_detergent_257",
+      "prod_laundry_detergent_109"
+    ],
+    "final_choice": "prod_laundry_detergent_257",
+    "reasoning": "Arm & Hammer is reliably affordable on my student budget while still getting the job done."
+  },
+  {
+    "offer_set_id": "laundry_detergent_103",
+    "consideration_set": [
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_011",
+      "prod_laundry_detergent_021",
+      "prod_laundry_detergent_262",
+      "prod_laundry_detergent_208"
+    ],
+    "final_choice": "prod_laundry_detergent_021",
+    "reasoning": "These power paks are convenient for lugging down to the shared laundry room in my building."
+  },
+  {
+    "offer_set_id": "laundry_detergent_104",
+    "consideration_set": [
+      "prod_laundry_detergent_062",
+      "prod_laundry_detergent_005",
+      "prod_laundry_detergent_030",
+      "prod_laundry_detergent_060",
+      "prod_laundry_detergent_250"
+    ],
+    "final_choice": "prod_laundry_detergent_060",
+    "reasoning": "Tide Heavy Duty pods are essential for stripping the lingering odor out of my activewear after intense matches."
+  },
+  {
+    "offer_set_id": "laundry_detergent_105",
+    "consideration_set": [
+      "prod_laundry_detergent_299",
+      "prod_laundry_detergent_189",
+      "prod_laundry_detergent_072",
+      "prod_laundry_detergent_242",
+      "prod_laundry_detergent_086"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The prices for these premium brands feel too steep for a standard restock, so I will wait."
+  },
+  {
+    "offer_set_id": "laundry_detergent_106",
+    "consideration_set": [
+      "prod_laundry_detergent_019",
+      "prod_laundry_detergent_123",
+      "prod_laundry_detergent_175",
+      "prod_laundry_detergent_109",
+      "prod_laundry_detergent_140"
+    ],
+    "final_choice": "prod_laundry_detergent_140",
+    "reasoning": "Travel detergent sheets are incredibly useful for washing out gear in the sink during my upcoming trip to Mexico City."
+  },
+  {
+    "offer_set_id": "laundry_detergent_107",
+    "consideration_set": [
+      "prod_laundry_detergent_044",
+      "prod_laundry_detergent_024",
+      "prod_laundry_detergent_291",
+      "prod_laundry_detergent_199",
+      "prod_laundry_detergent_040"
+    ],
+    "final_choice": "prod_laundry_detergent_024",
+    "reasoning": "Tru Earth eco-strips are lightweight, which is perfect since I don't want to carry heavy jugs around Roosevelt Island."
+  },
+  {
+    "offer_set_id": "laundry_detergent_108",
+    "consideration_set": [
+      "prod_laundry_detergent_195",
+      "prod_laundry_detergent_151",
+      "prod_laundry_detergent_251",
+      "prod_laundry_detergent_185",
+      "prod_laundry_detergent_042"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "These options are dominated by heavily scented luxury washes that I prefer to avoid."
+  },
+  {
+    "offer_set_id": "laundry_detergent_109",
+    "consideration_set": [
+      "prod_laundry_detergent_086",
+      "prod_laundry_detergent_193",
+      "prod_laundry_detergent_143",
+      "prod_laundry_detergent_052",
+      "prod_laundry_detergent_215"
+    ],
+    "final_choice": "prod_laundry_detergent_215",
+    "reasoning": "Kirkland Signature provides excellent bulk value that easily lasts me through the entire spring semester."
+  },
+  {
+    "offer_set_id": "laundry_detergent_110",
+    "consideration_set": [
+      "prod_laundry_detergent_084",
+      "prod_laundry_detergent_244",
+      "prod_laundry_detergent_040",
+      "prod_laundry_detergent_185",
+      "prod_laundry_detergent_262"
+    ],
+    "final_choice": "prod_laundry_detergent_185",
+    "reasoning": "Gain Flings have a strong odor-elimination feature that I need for my workout clothes."
+  },
+  {
+    "offer_set_id": "laundry_detergent_111",
+    "consideration_set": [
+      "prod_laundry_detergent_111",
+      "prod_laundry_detergent_175",
+      "prod_laundry_detergent_215",
+      "prod_laundry_detergent_298",
+      "prod_laundry_detergent_248"
+    ],
+    "final_choice": "prod_laundry_detergent_111",
+    "reasoning": "SinkSuds packets are a compact must-have for my two-week backpacking trip across Europe this summer."
+  },
+  {
+    "offer_set_id": "laundry_detergent_112",
+    "consideration_set": [
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_192",
+      "prod_laundry_detergent_107",
+      "prod_laundry_detergent_028",
+      "prod_laundry_detergent_058"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "I do not see any compelling deep-cleaning options here that justify the higher price tags."
+  },
+  {
+    "offer_set_id": "laundry_detergent_113",
+    "consideration_set": [
+      "prod_laundry_detergent_197",
+      "prod_laundry_detergent_120",
+      "prod_laundry_detergent_199",
+      "prod_laundry_detergent_208",
+      "prod_laundry_detergent_289"
+    ],
+    "final_choice": "prod_laundry_detergent_197",
+    "reasoning": "Tide Sport specifically targets the tough grass and sweat stains I get from playing outside."
+  },
+  {
+    "offer_set_id": "laundry_detergent_114",
+    "consideration_set": [
+      "prod_laundry_detergent_101",
+      "prod_laundry_detergent_192",
+      "prod_laundry_detergent_107",
+      "prod_laundry_detergent_028",
+      "prod_laundry_detergent_058"
+    ],
+    "final_choice": "prod_laundry_detergent_101",
+    "reasoning": "The unscented Tide pods are great because they clean aggressively without aggravating my skin."
+  },
+  {
+    "offer_set_id": "laundry_detergent_115",
+    "consideration_set": [
+      "prod_laundry_detergent_096",
+      "prod_laundry_detergent_219",
+      "prod_laundry_detergent_254",
+      "prod_laundry_detergent_226",
+      "prod_laundry_detergent_045"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Most of these are obscure brands or unnecessarily large bulk buckets that wouldn't fit in my apartment."
+  },
+  {
+    "offer_set_id": "laundry_detergent_116",
+    "consideration_set": [
+      "prod_laundry_detergent_096",
+      "prod_laundry_detergent_219",
+      "prod_laundry_detergent_254",
+      "prod_laundry_detergent_226",
+      "prod_laundry_detergent_045"
+    ],
+    "final_choice": "prod_laundry_detergent_045",
+    "reasoning": "Febreze Sport odor defense is exactly what I need to keep my gym bag smelling fresh."
+  },
+  {
+    "offer_set_id": "laundry_detergent_117",
+    "consideration_set": [
+      "prod_laundry_detergent_296",
+      "prod_laundry_detergent_252",
+      "prod_laundry_detergent_115",
+      "prod_laundry_detergent_084",
+      "prod_laundry_detergent_166"
+    ],
+    "final_choice": "prod_laundry_detergent_296",
+    "reasoning": "Tide Free & Gentle offers the trusted cleaning power without any harsh perfumes."
+  },
+  {
+    "offer_set_id": "laundry_detergent_118",
+    "consideration_set": [
+      "prod_laundry_detergent_023",
+      "prod_laundry_detergent_256",
+      "prod_laundry_detergent_118",
+      "prod_laundry_detergent_288",
+      "prod_laundry_detergent_005"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Nothing in this group seems strong enough to tackle heavily soiled athletic gear."
+  },
+  {
+    "offer_set_id": "laundry_detergent_119",
+    "consideration_set": [
+      "prod_laundry_detergent_023",
+      "prod_laundry_detergent_256",
+      "prod_laundry_detergent_118",
+      "prod_laundry_detergent_288",
+      "prod_laundry_detergent_005"
+    ],
+    "final_choice": "prod_laundry_detergent_005",
+    "reasoning": "Charlie's Soap is hypoallergenic and cleans deep without leaving a chemical residue on my clothes."
+  },
+  {
+    "offer_set_id": "laundry_detergent_120",
+    "consideration_set": [
+      "prod_laundry_detergent_185",
+      "prod_laundry_detergent_021",
+      "prod_laundry_detergent_083",
+      "prod_laundry_detergent_245",
+      "prod_laundry_detergent_060"
+    ],
+    "final_choice": "prod_laundry_detergent_060",
+    "reasoning": "Tide Power Pods easily handle the grime and sweat buildup on my knee pads and socks."
+  },
+  {
+    "offer_set_id": "laundry_detergent_121",
+    "consideration_set": [
+      "prod_laundry_detergent_040",
+      "prod_laundry_detergent_242",
+      "prod_laundry_detergent_011",
+      "prod_laundry_detergent_190",
+      "prod_laundry_detergent_225"
+    ],
+    "final_choice": "prod_laundry_detergent_011",
+    "reasoning": "This mineral-based formula is biodegradable and aligns well with my preference for sustainable products."
+  },
+  {
+    "offer_set_id": "laundry_detergent_122",
+    "consideration_set": [
+      "prod_laundry_detergent_183",
+      "prod_laundry_detergent_012",
+      "prod_laundry_detergent_241",
+      "prod_laundry_detergent_278",
+      "prod_laundry_detergent_045"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top positions are filled with overly expensive specialty washes that I simply don't need."
+  },
+  {
+    "offer_set_id": "laundry_detergent_123",
+    "consideration_set": [
+      "prod_laundry_detergent_183",
+      "prod_laundry_detergent_012",
+      "prod_laundry_detergent_241",
+      "prod_laundry_detergent_278",
+      "prod_laundry_detergent_045"
+    ],
+    "final_choice": "prod_laundry_detergent_045",
+    "reasoning": "The 4-in-1 sport pods are the most reliable way to blast through the sweat from my weekend tournaments."
+  },
+  {
+    "offer_set_id": "laundry_detergent_124",
+    "consideration_set": [
+      "prod_laundry_detergent_298",
+      "prod_laundry_detergent_115",
+      "prod_laundry_detergent_186",
+      "prod_laundry_detergent_051",
+      "prod_laundry_detergent_044"
+    ],
+    "final_choice": "prod_laundry_detergent_051",
+    "reasoning": "Purex is a reliable, affordable staple that gets the job done without breaking the bank."
+  },
+  {
+    "offer_set_id": "laundry_detergent_125",
+    "consideration_set": [
+      "prod_laundry_detergent_291",
+      "prod_laundry_detergent_250",
+      "prod_laundry_detergent_037",
+      "prod_laundry_detergent_277",
+      "prod_laundry_detergent_195"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "These formulas seem too weak for heavy soil and the prices aren't competitive enough to risk it."
+  },
+  {
+    "offer_set_id": "laundry_detergent_126",
+    "consideration_set": [
+      "prod_laundry_detergent_291",
+      "prod_laundry_detergent_250",
+      "prod_laundry_detergent_037",
+      "prod_laundry_detergent_277",
+      "prod_laundry_detergent_195"
+    ],
+    "final_choice": "prod_laundry_detergent_277",
+    "reasoning": "Having a touch of Downy built-in saves me a step when doing laundry in a rush."
+  },
+  {
+    "offer_set_id": "laundry_detergent_127",
+    "consideration_set": [
+      "prod_laundry_detergent_081",
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_226",
+      "prod_laundry_detergent_145",
+      "prod_laundry_detergent_147"
+    ],
+    "final_choice": "prod_laundry_detergent_145",
+    "reasoning": "Persil consistently ranks high for stain removal, which is a priority for keeping my gear clean."
+  },
+  {
+    "offer_set_id": "laundry_detergent_128",
+    "consideration_set": [
+      "prod_laundry_detergent_075",
+      "prod_laundry_detergent_065",
+      "prod_laundry_detergent_118",
+      "prod_laundry_detergent_106",
+      "prod_laundry_detergent_111"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "There is no clear standout here, and the top-ranked items have mixed reviews regarding their scent."
+  },
+  {
+    "offer_set_id": "laundry_detergent_129",
+    "consideration_set": [
+      "prod_laundry_detergent_075",
+      "prod_laundry_detergent_065",
+      "prod_laundry_detergent_118",
+      "prod_laundry_detergent_106",
+      "prod_laundry_detergent_111"
+    ],
+    "final_choice": "prod_laundry_detergent_065",
+    "reasoning": "Seventh Generation Free & Clear uses plant-derived enzymes that effectively fight stains naturally."
+  },
+  {
+    "offer_set_id": "laundry_detergent_130",
+    "consideration_set": [
+      "prod_laundry_detergent_051",
+      "prod_laundry_detergent_256",
+      "prod_laundry_detergent_087",
+      "prod_laundry_detergent_040",
+      "prod_laundry_detergent_245"
+    ],
+    "final_choice": "prod_laundry_detergent_051",
+    "reasoning": "This concentrated liquid is cost-effective and lasts a long time, which is ideal for a busy schedule."
+  },
+  {
+    "offer_set_id": "laundry_detergent_131",
+    "consideration_set": [
+      "prod_laundry_detergent_192",
+      "prod_laundry_detergent_135",
+      "prod_laundry_detergent_199",
+      "prod_laundry_detergent_039",
+      "prod_laundry_detergent_058"
+    ],
+    "final_choice": "prod_laundry_detergent_039",
+    "reasoning": "Tide powder is a classic powerhouse that I trust to fully clean my heavy winter layers."
+  },
+  {
+    "offer_set_id": "laundry_detergent_132",
+    "consideration_set": [
+      "prod_laundry_detergent_140",
+      "prod_laundry_detergent_215",
+      "prod_laundry_detergent_008",
+      "prod_laundry_detergent_062",
+      "prod_laundry_detergent_019"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "I don't see any recognizable high-performance options that justify spending money on this set."
+  },
+  {
+    "offer_set_id": "laundry_detergent_133",
+    "consideration_set": [
+      "prod_laundry_detergent_140",
+      "prod_laundry_detergent_215",
+      "prod_laundry_detergent_008",
+      "prod_laundry_detergent_062",
+      "prod_laundry_detergent_019"
+    ],
+    "final_choice": "prod_laundry_detergent_215",
+    "reasoning": "Buying Kirkland pods in bulk means fewer trips carrying groceries on the tramway back to the island."
+  },
+  {
+    "offer_set_id": "laundry_detergent_134",
+    "consideration_set": [
+      "prod_laundry_detergent_205",
+      "prod_laundry_detergent_246",
+      "prod_laundry_detergent_257",
+      "prod_laundry_detergent_109",
+      "prod_laundry_detergent_240"
+    ],
+    "final_choice": "prod_laundry_detergent_257",
+    "reasoning": "Clean & Simple delivers a deep clean with fewer ingredients, keeping things straightforward."
+  },
+  {
+    "offer_set_id": "laundry_detergent_135",
+    "consideration_set": [
+      "prod_laundry_detergent_283",
+      "prod_laundry_detergent_208",
+      "prod_laundry_detergent_081",
+      "prod_laundry_detergent_123",
+      "prod_laundry_detergent_281"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The selection here feels overpriced for the amount of loads you actually get out of them."
+  },
+  {
+    "offer_set_id": "laundry_detergent_136",
+    "consideration_set": [
+      "prod_laundry_detergent_283",
+      "prod_laundry_detergent_208",
+      "prod_laundry_detergent_081",
+      "prod_laundry_detergent_123",
+      "prod_laundry_detergent_281"
+    ],
+    "final_choice": "prod_laundry_detergent_208",
+    "reasoning": "Meliora's transparent ingredients and low waste make it a solid, eco-conscious choice."
+  },
+  {
+    "offer_set_id": "laundry_detergent_137",
+    "consideration_set": [
+      "prod_laundry_detergent_117",
+      "prod_laundry_detergent_038",
+      "prod_laundry_detergent_116",
+      "prod_laundry_detergent_021",
+      "prod_laundry_detergent_261"
+    ],
+    "final_choice": "prod_laundry_detergent_116",
+    "reasoning": "Odor Blasters are exactly what I need to fully neutralize the smell of a hard workout."
+  },
+  {
+    "offer_set_id": "laundry_detergent_138",
+    "consideration_set": [
+      "prod_laundry_detergent_298",
+      "prod_laundry_detergent_184",
+      "prod_laundry_detergent_221",
+      "prod_laundry_detergent_121",
+      "prod_laundry_detergent_060"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of the products in this set offer a compelling advantage over a typical grocery store brand."
+  },
+  {
+    "offer_set_id": "laundry_detergent_139",
+    "consideration_set": [
+      "prod_laundry_detergent_298",
+      "prod_laundry_detergent_184",
+      "prod_laundry_detergent_221",
+      "prod_laundry_detergent_121",
+      "prod_laundry_detergent_060"
+    ],
+    "final_choice": "prod_laundry_detergent_060",
+    "reasoning": "Tide 10X Heavy Duty easily takes care of invisible dirt and lingering sweat in my activewear."
+  },
+  {
+    "offer_set_id": "laundry_detergent_140",
+    "consideration_set": [
+      "prod_laundry_detergent_057",
+      "prod_laundry_detergent_242",
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_011",
+      "prod_laundry_detergent_262"
+    ],
+    "final_choice": "prod_laundry_detergent_284",
+    "reasoning": "Puracy's pump design is incredibly convenient and prevents a mess in the laundry room."
+  },
+  {
+    "offer_set_id": "laundry_detergent_141",
+    "consideration_set": [
+      "prod_laundry_detergent_231",
+      "prod_laundry_detergent_132",
+      "prod_laundry_detergent_127",
+      "prod_laundry_detergent_002",
+      "prod_laundry_detergent_223"
+    ],
+    "final_choice": "prod_laundry_detergent_132",
+    "reasoning": "Arm & Hammer powder is highly economical and provides a reliable clean for large loads."
+  },
+  {
+    "offer_set_id": "laundry_detergent_142",
+    "consideration_set": [
+      "prod_laundry_detergent_028",
+      "prod_laundry_detergent_255",
+      "prod_laundry_detergent_280",
+      "prod_laundry_detergent_126",
+      "prod_laundry_detergent_048"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "This set is dominated by boutique detergents that don't make sense for my regular washing needs."
+  },
+  {
+    "offer_set_id": "laundry_detergent_143",
+    "consideration_set": [
+      "prod_laundry_detergent_028",
+      "prod_laundry_detergent_255",
+      "prod_laundry_detergent_280",
+      "prod_laundry_detergent_126",
+      "prod_laundry_detergent_048"
+    ],
+    "final_choice": "prod_laundry_detergent_048",
+    "reasoning": "Gain Ultra Flings are perfect for tossing in with a large, heavy load of towels."
+  },
+  {
+    "offer_set_id": "laundry_detergent_144",
+    "consideration_set": [
+      "prod_laundry_detergent_289",
+      "prod_laundry_detergent_169",
+      "prod_laundry_detergent_238",
+      "prod_laundry_detergent_004",
+      "prod_laundry_detergent_248"
+    ],
+    "final_choice": "prod_laundry_detergent_289",
+    "reasoning": "These zero-waste sheets are great for saving space in my tight apartment."
+  },
+  {
+    "offer_set_id": "laundry_detergent_145",
+    "consideration_set": [
+      "prod_laundry_detergent_269",
+      "prod_laundry_detergent_171",
+      "prod_laundry_detergent_008",
+      "prod_laundry_detergent_062",
+      "prod_laundry_detergent_005"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The options here are either awkwardly sized or highly fragranced, neither of which I want."
+  },
+  {
+    "offer_set_id": "laundry_detergent_146",
+    "consideration_set": [
+      "prod_laundry_detergent_269",
+      "prod_laundry_detergent_171",
+      "prod_laundry_detergent_008",
+      "prod_laundry_detergent_062",
+      "prod_laundry_detergent_005"
+    ],
+    "final_choice": "prod_laundry_detergent_062",
+    "reasoning": "Tide HE powder works perfectly with modern washing machines to provide maximum suds and cleaning."
+  },
+  {
+    "offer_set_id": "laundry_detergent_147",
+    "consideration_set": [
+      "prod_laundry_detergent_030",
+      "prod_laundry_detergent_250",
+      "prod_laundry_detergent_020",
+      "prod_laundry_detergent_185",
+      "prod_laundry_detergent_175"
+    ],
+    "final_choice": "prod_laundry_detergent_185",
+    "reasoning": "Gain Flings offer the convenience of pods with an odor-fighting boost."
+  },
+  {
+    "offer_set_id": "laundry_detergent_148",
+    "consideration_set": [
+      "prod_laundry_detergent_277",
+      "prod_laundry_detergent_216",
+      "prod_laundry_detergent_074",
+      "prod_laundry_detergent_180",
+      "prod_laundry_detergent_288"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Nothing here stands out as a clear winner in terms of stain removal and value."
+  },
+  {
+    "offer_set_id": "laundry_detergent_149",
+    "consideration_set": [
+      "prod_laundry_detergent_277",
+      "prod_laundry_detergent_216",
+      "prod_laundry_detergent_074",
+      "prod_laundry_detergent_180",
+      "prod_laundry_detergent_288"
+    ],
+    "final_choice": "prod_laundry_detergent_180",
+    "reasoning": "Persil Odor Fighter is engineered to tackle the toughest sweat smells, making it highly useful."
+  },
+  {
+    "offer_set_id": "laundry_detergent_150",
+    "consideration_set": [
+      "prod_laundry_detergent_106",
+      "prod_laundry_detergent_143",
+      "prod_laundry_detergent_156",
+      "prod_laundry_detergent_039",
+      "prod_laundry_detergent_034"
+    ],
+    "final_choice": "prod_laundry_detergent_039",
+    "reasoning": "I can always count on Tide Mountain Spring powder to leave my gear smelling fresh and clean."
+  }
+]

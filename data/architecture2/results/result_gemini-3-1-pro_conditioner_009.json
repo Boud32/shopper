@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 9,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_009.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_120",
+      "prod_conditioner_170",
+      "prod_conditioner_088",
+      "prod_conditioner_201",
+      "prod_conditioner_156"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "While some options are decent, many contain ingredients that can be too heavy or drying for typical hair types."
+  }
+}

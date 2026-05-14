@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 13,
+    "timestamp": 1778715392,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_063.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_199",
+      "prod_yoga_mats_035",
+      "prod_yoga_mats_113",
+      "prod_yoga_mats_054"
+    ],
+    "final_choice": "prod_yoga_mats_199",
+    "reasoning": "COOLMOON's double-sided TPE mat features superb eco-friendly traction and reliable cushioning."
+  }
+}

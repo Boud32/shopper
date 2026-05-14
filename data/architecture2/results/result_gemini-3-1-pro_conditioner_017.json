@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 17,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_017.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_155",
+      "prod_conditioner_262",
+      "prod_conditioner_039"
+    ],
+    "final_choice": "prod_conditioner_039",
+    "reasoning": "SheaMoisture Curl and Shine uses natural coconut and hibiscus to restore shine and effectively detangle thick hair."
+  }
+}

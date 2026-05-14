@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 25,
+    "timestamp": 1778715396,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_175.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_081"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Manduka eKO is an incredibly durable, natural rubber option that offers a strong, non-slip grip."
+  }
+}

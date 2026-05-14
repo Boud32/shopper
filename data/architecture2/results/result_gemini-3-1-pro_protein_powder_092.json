@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 42,
+    "timestamp": 1778715399,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_092.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_148"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "NutraBio's full-spectrum amino acid profile and zero fillers make it one of the most reliable isolates on the market."
+  }
+}

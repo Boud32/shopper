@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 21,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_121.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [],
+    "final_choice": "no_purchase",
+    "reasoning": "ecoLove provides a solid, natural conditioner for dry and damaged hair with strong consumer reception."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 2,
+    "timestamp": 1778715396,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_152.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_120",
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_119",
+      "prod_yoga_mats_055"
+    ],
+    "final_choice": "prod_yoga_mats_120",
+    "reasoning": "The BalanceFrom mat has over 40,000 reviews and a 4.5 rating at a very affordable price."
+  }
+}

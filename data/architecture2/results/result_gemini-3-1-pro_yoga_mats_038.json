@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 38,
+    "timestamp": 1778715390,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_038.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_054"
+    ],
+    "final_choice": "prod_yoga_mats_054",
+    "reasoning": "ProsourceFit balances thickness and density perfectly, making it an easy pick for a comfortable workout."
+  }
+}

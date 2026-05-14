@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 44,
+    "timestamp": 1778715390,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_044.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_006",
+      "prod_yoga_mats_116"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The Amazon Basics mat's extensive review history guarantees it will perform reliably for casual use."
+  }
+}

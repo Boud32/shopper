@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 4,
+    "timestamp": 1778715419,
+    "source_batch": "data/offer_sets/conditioner/conditioner_154.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [],
+    "final_choice": "no_purchase",
+    "reasoning": "Highly rated by users with curly hair, making it a reliable choice for moisture and definition."
+  }
+}

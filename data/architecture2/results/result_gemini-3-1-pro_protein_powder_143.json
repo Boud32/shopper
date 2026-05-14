@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 43,
+    "timestamp": 1778715401,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_143.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_156",
+      "prod_protein_powder_186"
+    ],
+    "final_choice": "prod_protein_powder_156",
+    "reasoning": "SYNTHA-6 Edge provides a superior milkshake taste while keeping sugar low."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 2,
+    "timestamp": 1778715415,
+    "source_batch": "data/offer_sets/conditioner/conditioner_052.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_254"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The positive reviews and hydrating ingredients make this a clear winner over the alternatives."
+  }
+}

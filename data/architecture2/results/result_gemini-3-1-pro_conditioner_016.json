@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 16,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_016.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_298",
+      "prod_conditioner_256",
+      "prod_conditioner_255"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The products either have overpowering scents or are priced too high for the volume provided."
+  }
+}

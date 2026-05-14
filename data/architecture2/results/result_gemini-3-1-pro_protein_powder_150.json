@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 50,
+    "timestamp": 1778715401,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_150.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_114",
+      "prod_protein_powder_124"
+    ],
+    "final_choice": "prod_protein_powder_114",
+    "reasoning": "The Whole Feast nose-to-tail carnivore powder offers a uniquely robust organ blend for recovery."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 18,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_018.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_161",
+      "prod_conditioner_023",
+      "prod_conditioner_256"
+    ],
+    "final_choice": "prod_conditioner_023",
+    "reasoning": "Redken Acidic Bonding Concentrate is highly effective at reducing breakage and repairing damaged hair types."
+  }
+}

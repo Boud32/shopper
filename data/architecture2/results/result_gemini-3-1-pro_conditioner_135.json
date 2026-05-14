@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 35,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_135.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_069",
+      "prod_conditioner_013",
+      "prod_conditioner_026",
+      "prod_conditioner_066",
+      "prod_conditioner_178"
+    ],
+    "final_choice": "prod_conditioner_066",
+    "reasoning": "TRUSS Infusion provides high-end, heavily reviewed hydration for damaged hair that justifies its premium price."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 10,
+    "timestamp": 1778715398,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_010.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_075",
+      "prod_protein_powder_076",
+      "prod_protein_powder_123",
+      "prod_protein_powder_003",
+      "prod_protein_powder_135"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "I couldn't find a standard, high-quality whey or plant isolate here that stood out as a better choice than typical unflavored options."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 15,
+    "timestamp": 1778715409,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_115.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_226",
+      "prod_laundry_detergent_045"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Most of these are obscure brands or unnecessarily large bulk buckets that wouldn't fit in my apartment."
+  }
+}

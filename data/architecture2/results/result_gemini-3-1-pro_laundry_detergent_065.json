@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 15,
+    "timestamp": 1778715407,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_065.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_252"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Arm & Hammer Powder Laundry Detergent is a highly economical and dependable option with a stellar 4.8 rating across many reviews."
+  }
+}

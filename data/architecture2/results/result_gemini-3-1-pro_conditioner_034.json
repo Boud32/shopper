@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 34,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_034.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_015",
+      "prod_conditioner_114"
+    ],
+    "final_choice": "prod_conditioner_015",
+    "reasoning": "Mane 'n Tail Deep Moisturizing Conditioner offers a huge bottle and a proven formula that repairs damaged locks reliably."
+  }
+}

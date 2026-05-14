@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 45,
+    "timestamp": 1778715401,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_145.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_080",
+      "prod_protein_powder_147",
+      "prod_protein_powder_116"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Too many artificial sweeteners and gums in this set to feel confident in the purchase."
+  }
+}

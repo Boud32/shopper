@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 9,
+    "timestamp": 1778715396,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_159.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_045",
+      "prod_yoga_mats_161",
+      "prod_yoga_mats_135",
+      "prod_yoga_mats_128",
+      "prod_yoga_mats_155"
+    ],
+    "final_choice": "prod_yoga_mats_128",
+    "reasoning": "This mat provides alignment lines, a 2/5 inch thickness, and a 4.5 rating, making it great for guided stretching."
+  }
+}

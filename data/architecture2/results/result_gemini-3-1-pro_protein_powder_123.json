@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 23,
+    "timestamp": 1778715401,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_123.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_134",
+      "prod_protein_powder_162",
+      "prod_protein_powder_159",
+      "prod_protein_powder_105",
+      "prod_protein_powder_021"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Prices are too high for the provided nutritional profiles in this specific selection."
+  }
+}

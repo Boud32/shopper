@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 34,
+    "timestamp": 1778715415,
+    "source_batch": "data/offer_sets/conditioner/conditioner_084.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_040"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Its unique blend of essential oils offers an unparalleled smoothing effect for thick hair."
+  }
+}

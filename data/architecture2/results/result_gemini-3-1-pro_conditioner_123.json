@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 23,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_123.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_015",
+      "prod_conditioner_016",
+      "prod_conditioner_017"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Redken's Acidic Bonding Concentrate is an excellent, proven repair treatment that easily outshines the other options."
+  }
+}

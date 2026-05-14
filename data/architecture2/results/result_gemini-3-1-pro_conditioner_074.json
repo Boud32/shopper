@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 24,
+    "timestamp": 1778715415,
+    "source_batch": "data/offer_sets/conditioner/conditioner_074.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_190"
+    ],
+    "final_choice": "prod_conditioner_190",
+    "reasoning": "I chose this option for its natural ingredients and excellent track record with frizzy hair."
+  }
+}

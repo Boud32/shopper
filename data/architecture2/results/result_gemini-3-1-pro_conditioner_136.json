@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 36,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_136.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_147",
+      "prod_conditioner_156"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "There's nothing distinctly better than standard alternatives, making it difficult to select any specific product to buy."
+  }
+}

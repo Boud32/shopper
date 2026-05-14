@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 7,
+    "timestamp": 1778715409,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_107.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_044",
+      "prod_laundry_detergent_024",
+      "prod_laundry_detergent_291",
+      "prod_laundry_detergent_199",
+      "prod_laundry_detergent_040"
+    ],
+    "final_choice": "prod_laundry_detergent_024",
+    "reasoning": "Tru Earth eco-strips are lightweight, which is perfect since I don't want to carry heavy jugs around Roosevelt Island."
+  }
+}

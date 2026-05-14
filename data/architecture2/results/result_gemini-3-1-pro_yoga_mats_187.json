@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 37,
+    "timestamp": 1778715396,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_187.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_070",
+      "prod_yoga_mats_122",
+      "prod_yoga_mats_140",
+      "prod_yoga_mats_151"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "I cannot find a specific reason why any of these are better than typical alternatives found in a different search."
+  }
+}

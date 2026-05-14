@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 4,
+    "timestamp": 1778715392,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_054.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_079",
+      "prod_yoga_mats_146",
+      "prod_yoga_mats_032",
+      "prod_yoga_mats_125",
+      "prod_yoga_mats_055"
+    ],
+    "final_choice": "prod_yoga_mats_146",
+    "reasoning": "This eco-friendly fitness mat with a carrying sling offers an optimal balance of cushioning and portability."
+  }
+}

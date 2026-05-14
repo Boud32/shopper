@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 14,
+    "timestamp": 1778715419,
+    "source_batch": "data/offer_sets/conditioner/conditioner_164.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [],
+    "final_choice": "no_purchase",
+    "reasoning": "It offers salon-quality results at a more accessible consumer price point."
+  }
+}

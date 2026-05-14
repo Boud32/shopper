@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 18,
+    "timestamp": 1778715392,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_068.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_151",
+      "prod_yoga_mats_014"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "This TPE mat offers the exact right amount of compression for individuals with sensitive knees."
+  }
+}

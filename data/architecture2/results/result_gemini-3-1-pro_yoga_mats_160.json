@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 10,
+    "timestamp": 1778715396,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_160.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_191",
+      "prod_yoga_mats_011",
+      "prod_yoga_mats_151",
+      "prod_yoga_mats_119"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Many standard options are presented, but none offer the unique aesthetic and premium feel I am looking for today."
+  }
+}

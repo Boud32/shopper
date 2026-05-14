@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 4,
+    "timestamp": 1778715401,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_104.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_046",
+      "prod_protein_powder_020",
+      "prod_protein_powder_052",
+      "prod_protein_powder_109",
+      "prod_protein_powder_183"
+    ],
+    "final_choice": "prod_protein_powder_052",
+    "reasoning": "Gnarly Nutrition utilizes grass-fed New Zealand whey, which is an excellent indicator of quality."
+  }
+}

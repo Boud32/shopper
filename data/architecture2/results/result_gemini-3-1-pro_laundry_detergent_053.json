@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 3,
+    "timestamp": 1778715407,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_053.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_132",
+      "prod_laundry_detergent_191",
+      "prod_laundry_detergent_202",
+      "prod_laundry_detergent_087",
+      "prod_laundry_detergent_265"
+    ],
+    "final_choice": "prod_laundry_detergent_265",
+    "reasoning": "ECOS Laundry Detergent Liquid is EPA Safer Choice Certified and offers a large 200-load capacity, making it an eco-friendly and economical household staple."
+  }
+}

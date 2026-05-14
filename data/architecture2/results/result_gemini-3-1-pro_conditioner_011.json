@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 11,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_011.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_109",
+      "prod_conditioner_015",
+      "prod_conditioner_078",
+      "prod_conditioner_069",
+      "prod_conditioner_173"
+    ],
+    "final_choice": "prod_conditioner_078",
+    "reasoning": "It's A 10 Miracle Deep Conditioner is a proven favorite for softening and repairing long, thick hair."
+  }
+}

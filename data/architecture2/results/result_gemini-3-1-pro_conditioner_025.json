@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 25,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_025.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_027",
+      "prod_conditioner_248",
+      "prod_conditioner_199"
+    ],
+    "final_choice": "prod_conditioner_027",
+    "reasoning": "L'Oreal Paris Rapid Reviver effectively hydrates and enhances shine for color-treated hair in very little time."
+  }
+}

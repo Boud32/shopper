@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 30,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_130.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_270",
+      "prod_conditioner_284"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Aussie Total Miracle remains a massively popular, high-performing budget staple."
+  }
+}

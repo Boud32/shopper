@@ -1,1 +1,602 @@
-[]
+[
+  {
+    "offer_set_id": "conditioner_001",
+    "consideration_set": [
+      "prod_conditioner_255",
+      "prod_conditioner_024",
+      "prod_conditioner_184",
+      "prod_conditioner_140",
+      "prod_conditioner_155"
+    ],
+    "final_choice": "prod_conditioner_255",
+    "reasoning": "This ALOXXI hydrating conditioner provides color protection and is highly rated by users."
+  },
+  {
+    "offer_set_id": "conditioner_002",
+    "consideration_set": [
+      "prod_conditioner_118",
+      "prod_conditioner_194",
+      "prod_conditioner_003",
+      "prod_conditioner_060",
+      "prod_conditioner_024"
+    ],
+    "final_choice": "prod_conditioner_194",
+    "reasoning": "The Love Beauty and Planet conditioner is biodegradable and excellent for frizz control."
+  },
+  {
+    "offer_set_id": "conditioner_003",
+    "consideration_set": [
+      "prod_conditioner_017",
+      "prod_conditioner_005",
+      "prod_conditioner_016",
+      "prod_conditioner_076",
+      "prod_conditioner_003"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The available options are either too expensive or have mixed reviews regarding their moisturizing effectiveness."
+  },
+  {
+    "offer_set_id": "conditioner_004",
+    "consideration_set": [
+      "prod_conditioner_286",
+      "prod_conditioner_014",
+      "prod_conditioner_289",
+      "prod_conditioner_013",
+      "prod_conditioner_251"
+    ],
+    "final_choice": "prod_conditioner_014",
+    "reasoning": "Truss Ultra Hydration is highly rated for chemically damaged hair and comes highly recommended by users."
+  },
+  {
+    "offer_set_id": "conditioner_005",
+    "consideration_set": [
+      "prod_conditioner_140",
+      "prod_conditioner_155",
+      "prod_conditioner_078",
+      "prod_conditioner_106",
+      "prod_conditioner_110"
+    ],
+    "final_choice": "prod_conditioner_078",
+    "reasoning": "It's A 10 Miracle Deep Conditioner offers a fantastic keratin treatment that repairs dry, damaged hair effectively."
+  },
+  {
+    "offer_set_id": "conditioner_006",
+    "consideration_set": [
+      "prod_conditioner_254",
+      "prod_conditioner_069",
+      "prod_conditioner_179",
+      "prod_conditioner_066",
+      "prod_conditioner_140"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top-ranked products are mostly deep treatments or purple shampoos that do not fit a standard daily conditioning need."
+  },
+  {
+    "offer_set_id": "conditioner_007",
+    "consideration_set": [
+      "prod_conditioner_090",
+      "prod_conditioner_256",
+      "prod_conditioner_127",
+      "prod_conditioner_109",
+      "prod_conditioner_177"
+    ],
+    "final_choice": "prod_conditioner_256",
+    "reasoning": "RUSK Designer Collection offers a proven thickening formula that effectively adds volume to fine hair."
+  },
+  {
+    "offer_set_id": "conditioner_008",
+    "consideration_set": [
+      "prod_conditioner_047",
+      "prod_conditioner_214",
+      "prod_conditioner_022",
+      "prod_conditioner_270",
+      "prod_conditioner_248"
+    ],
+    "final_choice": "prod_conditioner_214",
+    "reasoning": "TIGI Bed Head Serial Blonde is great for repairing damaged blonde hair with a pleasant scent."
+  },
+  {
+    "offer_set_id": "conditioner_009",
+    "consideration_set": [
+      "prod_conditioner_120",
+      "prod_conditioner_170",
+      "prod_conditioner_088",
+      "prod_conditioner_201",
+      "prod_conditioner_156"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "While some options are decent, many contain ingredients that can be too heavy or drying for typical hair types."
+  },
+  {
+    "offer_set_id": "conditioner_010",
+    "consideration_set": [
+      "prod_conditioner_280",
+      "prod_conditioner_065",
+      "prod_conditioner_074",
+      "prod_conditioner_201",
+      "prod_conditioner_177"
+    ],
+    "final_choice": "prod_conditioner_280",
+    "reasoning": "Aussie Total Miracle bundle provides an incredible value with reliable moisturizing benefits."
+  },
+  {
+    "offer_set_id": "conditioner_011",
+    "consideration_set": [
+      "prod_conditioner_109",
+      "prod_conditioner_015",
+      "prod_conditioner_078",
+      "prod_conditioner_069",
+      "prod_conditioner_173"
+    ],
+    "final_choice": "prod_conditioner_078",
+    "reasoning": "It's A 10 Miracle Deep Conditioner is a proven favorite for softening and repairing long, thick hair."
+  },
+  {
+    "offer_set_id": "conditioner_012",
+    "consideration_set": [
+      "prod_conditioner_283",
+      "prod_conditioner_142",
+      "prod_conditioner_068",
+      "prod_conditioner_105",
+      "prod_conditioner_039"
+    ],
+    "final_choice": "prod_conditioner_142",
+    "reasoning": "Framesi Color Lover is perfect for keeping colored curls defined without irritating the scalp."
+  },
+  {
+    "offer_set_id": "conditioner_013",
+    "consideration_set": [
+      "prod_conditioner_286",
+      "prod_conditioner_014",
+      "prod_conditioner_289",
+      "prod_conditioner_013",
+      "prod_conditioner_251"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The selection is largely dominated by specialized products that aren't suited for a general daily moisture requirement."
+  },
+  {
+    "offer_set_id": "conditioner_014",
+    "consideration_set": [
+      "prod_conditioner_114",
+      "prod_conditioner_199",
+      "prod_conditioner_219",
+      "prod_conditioner_005",
+      "prod_conditioner_171"
+    ],
+    "final_choice": "prod_conditioner_114",
+    "reasoning": "Herbal Essences Color Me Happy offers great daily conditioning and color protection at an unbeatable price."
+  },
+  {
+    "offer_set_id": "conditioner_015",
+    "consideration_set": [
+      "prod_conditioner_114",
+      "prod_conditioner_104",
+      "prod_conditioner_201",
+      "prod_conditioner_177",
+      "prod_conditioner_039"
+    ],
+    "final_choice": "prod_conditioner_104",
+    "reasoning": "ONLY4HAIR Magic Hair Mask is an excellent protein and keratin treatment that softens and brightens damaged hair."
+  },
+  {
+    "offer_set_id": "conditioner_016",
+    "consideration_set": [
+      "prod_conditioner_298",
+      "prod_conditioner_171",
+      "prod_conditioner_256",
+      "prod_conditioner_049",
+      "prod_conditioner_255"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The products either have overpowering scents or are priced too high for the volume provided."
+  },
+  {
+    "offer_set_id": "conditioner_017",
+    "consideration_set": [
+      "prod_conditioner_155",
+      "prod_conditioner_262",
+      "prod_conditioner_039",
+      "prod_conditioner_114",
+      "prod_conditioner_104"
+    ],
+    "final_choice": "prod_conditioner_039",
+    "reasoning": "SheaMoisture Curl and Shine uses natural coconut and hibiscus to restore shine and effectively detangle thick hair."
+  },
+  {
+    "offer_set_id": "conditioner_018",
+    "consideration_set": [
+      "prod_conditioner_161",
+      "prod_conditioner_023",
+      "prod_conditioner_256",
+      "prod_conditioner_114",
+      "prod_conditioner_199"
+    ],
+    "final_choice": "prod_conditioner_023",
+    "reasoning": "Redken Acidic Bonding Concentrate is highly effective at reducing breakage and repairing damaged hair types."
+  },
+  {
+    "offer_set_id": "conditioner_019",
+    "consideration_set": [
+      "prod_conditioner_114",
+      "prod_conditioner_104",
+      "prod_conditioner_201",
+      "prod_conditioner_177",
+      "prod_conditioner_039"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of the available conditioners clearly stand out as a compelling value for a daily moisturizing routine."
+  },
+  {
+    "offer_set_id": "conditioner_020",
+    "consideration_set": [
+      "prod_conditioner_171",
+      "prod_conditioner_110",
+      "prod_conditioner_005",
+      "prod_conditioner_184",
+      "prod_conditioner_161"
+    ],
+    "final_choice": "prod_conditioner_110",
+    "reasoning": "HASK Coconut Monoi Deep Conditioner leaves hair incredibly smooth, shiny, and smells wonderful."
+  },
+  {
+    "offer_set_id": "conditioner_021",
+    "consideration_set": [
+      "prod_conditioner_114",
+      "prod_conditioner_199",
+      "prod_conditioner_219",
+      "prod_conditioner_005",
+      "prod_conditioner_171"
+    ],
+    "final_choice": "prod_conditioner_171",
+    "reasoning": "Great Clips Solutions is a reasonably priced moisturizer that detangles well and leaves a nice floral scent."
+  },
+  {
+    "offer_set_id": "conditioner_022",
+    "consideration_set": [
+      "prod_conditioner_286",
+      "prod_conditioner_014",
+      "prod_conditioner_289",
+      "prod_conditioner_013",
+      "prod_conditioner_251"
+    ],
+    "final_choice": "prod_conditioner_289",
+    "reasoning": "fave4 Let's Go Light is perfect for keeping hair full and light without weighing it down."
+  },
+  {
+    "offer_set_id": "conditioner_023",
+    "consideration_set": [
+      "prod_conditioner_210",
+      "prod_conditioner_178",
+      "prod_conditioner_286",
+      "prod_conditioner_067",
+      "prod_conditioner_106"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top visible options are either heavily scented or targeted toward kids, which does not fit my current needs."
+  },
+  {
+    "offer_set_id": "conditioner_024",
+    "consideration_set": [
+      "prod_conditioner_114",
+      "prod_conditioner_199",
+      "prod_conditioner_219",
+      "prod_conditioner_005",
+      "prod_conditioner_171"
+    ],
+    "final_choice": "prod_conditioner_199",
+    "reasoning": "BELLISSO Biotin Hair Mask provides deep conditioning and leaves dry, damaged hair feeling soft and moisturized."
+  },
+  {
+    "offer_set_id": "conditioner_025",
+    "consideration_set": [
+      "prod_conditioner_027",
+      "prod_conditioner_248",
+      "prod_conditioner_114",
+      "prod_conditioner_199",
+      "prod_conditioner_219"
+    ],
+    "final_choice": "prod_conditioner_027",
+    "reasoning": "L'Oreal Paris Rapid Reviver effectively hydrates and enhances shine for color-treated hair in very little time."
+  },
+  {
+    "offer_set_id": "conditioner_026",
+    "consideration_set": [
+      "prod_conditioner_178",
+      "prod_conditioner_114",
+      "prod_conditioner_199",
+      "prod_conditioner_219",
+      "prod_conditioner_005"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Many of the top options are too basic or have formulation issues that don't justify the purchase right now."
+  },
+  {
+    "offer_set_id": "conditioner_027",
+    "consideration_set": [
+      "prod_conditioner_114",
+      "prod_conditioner_199",
+      "prod_conditioner_219",
+      "prod_conditioner_005",
+      "prod_conditioner_171"
+    ],
+    "final_choice": "prod_conditioner_219",
+    "reasoning": "Bed Head Colour Goddess is fantastic for brunette hair and effectively combats hard water buildup."
+  },
+  {
+    "offer_set_id": "conditioner_028",
+    "consideration_set": [
+      "prod_conditioner_039",
+      "prod_conditioner_114",
+      "prod_conditioner_199",
+      "prod_conditioner_219",
+      "prod_conditioner_005"
+    ],
+    "final_choice": "prod_conditioner_039",
+    "reasoning": "SheaMoisture Curl and Shine is a natural, lightweight treatment that restores shine and smooths out dry cuticles."
+  },
+  {
+    "offer_set_id": "conditioner_029",
+    "consideration_set": [
+      "prod_conditioner_066",
+      "prod_conditioner_009",
+      "prod_conditioner_114",
+      "prod_conditioner_199",
+      "prod_conditioner_219"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The consideration set is dominated by niche vegan or curly products with polarizing reviews on their moisturizing capabilities."
+  },
+  {
+    "offer_set_id": "conditioner_030",
+    "consideration_set": [
+      "prod_conditioner_286",
+      "prod_conditioner_114",
+      "prod_conditioner_199",
+      "prod_conditioner_219",
+      "prod_conditioner_005"
+    ],
+    "final_choice": "prod_conditioner_286",
+    "reasoning": "Himalaya Damage Repair Protein Conditioner leaves hair super soft and is an excellent value for a three-pack."
+  },
+  {
+    "offer_set_id": "conditioner_031",
+    "consideration_set": [
+      "prod_conditioner_156",
+      "prod_conditioner_194",
+      "prod_conditioner_030",
+      "prod_conditioner_065",
+      "prod_conditioner_114"
+    ],
+    "final_choice": "prod_conditioner_194",
+    "reasoning": "Love Beauty and Planet provides excellent frizz control and a calming lavender scent while being environmentally friendly."
+  },
+  {
+    "offer_set_id": "conditioner_032",
+    "consideration_set": [
+      "prod_conditioner_114",
+      "prod_conditioner_199",
+      "prod_conditioner_219",
+      "prod_conditioner_005",
+      "prod_conditioner_171"
+    ],
+    "final_choice": "prod_conditioner_005",
+    "reasoning": "HASK Shea Butter moisturizing deep conditioner packets are perfect for travel and heavily nourish all hair types."
+  },
+  {
+    "offer_set_id": "conditioner_033",
+    "consideration_set": [
+      "prod_conditioner_269",
+      "prod_conditioner_114",
+      "prod_conditioner_199",
+      "prod_conditioner_219",
+      "prod_conditioner_005"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top options consist of small travel sizes or specific color protectants that do not offer a good general value."
+  },
+  {
+    "offer_set_id": "conditioner_034",
+    "consideration_set": [
+      "prod_conditioner_015",
+      "prod_conditioner_114",
+      "prod_conditioner_199",
+      "prod_conditioner_219",
+      "prod_conditioner_005"
+    ],
+    "final_choice": "prod_conditioner_015",
+    "reasoning": "Mane 'n Tail Deep Moisturizing Conditioner offers a huge bottle and a proven formula that repairs damaged locks reliably."
+  },
+  {
+    "offer_set_id": "conditioner_035",
+    "consideration_set": [
+      "prod_conditioner_009",
+      "prod_conditioner_262",
+      "prod_conditioner_114",
+      "prod_conditioner_199",
+      "prod_conditioner_219"
+    ],
+    "final_choice": "prod_conditioner_262",
+    "reasoning": "Blackwood For Men HydroBlast intensely moisturizes coarse hair using aloe vera and hyaluronic acid without a heavy scent."
+  },
+  {
+    "offer_set_id": "conditioner_036",
+    "consideration_set": [
+      "prod_conditioner_114",
+      "prod_conditioner_199",
+      "prod_conditioner_219",
+      "prod_conditioner_005",
+      "prod_conditioner_171"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The list of available conditioners seems very generic with no compelling specialty formulas or strong values standing out."
+  },
+  {
+    "offer_set_id": "conditioner_037",
+    "consideration_set": [
+      "prod_conditioner_049",
+      "prod_conditioner_114",
+      "prod_conditioner_199",
+      "prod_conditioner_219",
+      "prod_conditioner_005"
+    ],
+    "final_choice": "prod_conditioner_049",
+    "reasoning": "Hask Monoi Coconut Oil packets offer a deeply nourishing treatment that is highly convenient for targeted moisturizing."
+  },
+  {
+    "offer_set_id": "conditioner_038",
+    "consideration_set": [
+      "prod_conditioner_289",
+      "prod_conditioner_114",
+      "prod_conditioner_199",
+      "prod_conditioner_219",
+      "prod_conditioner_005"
+    ],
+    "final_choice": "prod_conditioner_289",
+    "reasoning": "fave4 Let's Go Light is a fantastic lightweight conditioner that effectively replenishes split ends without flattening the hair."
+  },
+  {
+    "offer_set_id": "conditioner_039",
+    "consideration_set": [
+      "prod_conditioner_246",
+      "prod_conditioner_269",
+      "prod_conditioner_217",
+      "prod_conditioner_110",
+      "prod_conditioner_197"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The available products are either incredibly expensive niche toners or heavily scented options that don't appeal to me."
+  },
+  {
+    "offer_set_id": "conditioner_040",
+    "consideration_set": [
+      "prod_conditioner_114",
+      "prod_conditioner_199",
+      "prod_conditioner_219",
+      "prod_conditioner_005",
+      "prod_conditioner_171"
+    ],
+    "final_choice": "prod_conditioner_114",
+    "reasoning": "Herbal Essences Color Me Happy remains a staple for standard, effective color protection and a pleasant rose scent."
+  },
+  {
+    "offer_set_id": "conditioner_041",
+    "consideration_set": [
+      "prod_conditioner_114",
+      "prod_conditioner_199",
+      "prod_conditioner_219",
+      "prod_conditioner_005",
+      "prod_conditioner_171"
+    ],
+    "final_choice": "prod_conditioner_171",
+    "reasoning": "Great Clips Solutions effectively tackles dry, coarse hair at a reasonable price point."
+  },
+  {
+    "offer_set_id": "conditioner_042",
+    "consideration_set": [
+      "prod_conditioner_114",
+      "prod_conditioner_199",
+      "prod_conditioner_219",
+      "prod_conditioner_005",
+      "prod_conditioner_171"
+    ],
+    "final_choice": "prod_conditioner_199",
+    "reasoning": "BELLISSO Biotin Hair Mask is highly effective at deep conditioning and taming frizz."
+  },
+  {
+    "offer_set_id": "conditioner_043",
+    "consideration_set": [
+      "prod_conditioner_198",
+      "prod_conditioner_176",
+      "prod_conditioner_067",
+      "prod_conditioner_257",
+      "prod_conditioner_190"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Many of the top products are specialized thickening shampoos, curl preservers, or overly small sizes that lack broad appeal."
+  },
+  {
+    "offer_set_id": "conditioner_044",
+    "consideration_set": [
+      "prod_conditioner_114",
+      "prod_conditioner_199",
+      "prod_conditioner_219",
+      "prod_conditioner_005",
+      "prod_conditioner_171"
+    ],
+    "final_choice": "prod_conditioner_219",
+    "reasoning": "Bed Head Colour Goddess is an excellent and deeply hydrating choice for maintaining colored hair vibrance."
+  },
+  {
+    "offer_set_id": "conditioner_045",
+    "consideration_set": [
+      "prod_conditioner_169",
+      "prod_conditioner_112",
+      "prod_conditioner_257",
+      "prod_conditioner_088",
+      "prod_conditioner_114"
+    ],
+    "final_choice": "prod_conditioner_169",
+    "reasoning": "L'Oreal Paris EverPure Scalp Care deeply purifies and clears buildup while remaining gentle on color-treated hair."
+  },
+  {
+    "offer_set_id": "conditioner_046",
+    "consideration_set": [
+      "prod_conditioner_114",
+      "prod_conditioner_199",
+      "prod_conditioner_219",
+      "prod_conditioner_005",
+      "prod_conditioner_171"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The available options offer nothing clearly better than what I could find with a different search, making them uncompelling."
+  },
+  {
+    "offer_set_id": "conditioner_047",
+    "consideration_set": [
+      "prod_conditioner_002",
+      "prod_conditioner_114",
+      "prod_conditioner_199",
+      "prod_conditioner_219",
+      "prod_conditioner_005"
+    ],
+    "final_choice": "prod_conditioner_002",
+    "reasoning": "NYC Curls The Curl Conditioner is a versatile 3-in-1 silicone-free product that performs amazingly for curly hair."
+  },
+  {
+    "offer_set_id": "conditioner_048",
+    "consideration_set": [
+      "prod_conditioner_114",
+      "prod_conditioner_199",
+      "prod_conditioner_219",
+      "prod_conditioner_005",
+      "prod_conditioner_171"
+    ],
+    "final_choice": "prod_conditioner_114",
+    "reasoning": "Herbal Essences Color Me Happy offers a consistently good conditioning experience with a safe, paraben-free formula."
+  },
+  {
+    "offer_set_id": "conditioner_049",
+    "consideration_set": [
+      "prod_conditioner_270",
+      "prod_conditioner_248",
+      "prod_conditioner_243",
+      "prod_conditioner_076",
+      "prod_conditioner_114"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top picks are either overly expensive, highly niche, or have mixed reviews regarding their moisturizing efficacy."
+  },
+  {
+    "offer_set_id": "conditioner_050",
+    "consideration_set": [
+      "prod_conditioner_114",
+      "prod_conditioner_199",
+      "prod_conditioner_219",
+      "prod_conditioner_005",
+      "prod_conditioner_171"
+    ],
+    "final_choice": "prod_conditioner_171",
+    "reasoning": "Great Clips Solutions works reliably to detangle and hydrate damaged hair without breaking the bank."
+  }
+]

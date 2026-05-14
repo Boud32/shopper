@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 48,
+    "timestamp": 1778715396,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_198.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_097",
+      "prod_yoga_mats_158",
+      "prod_yoga_mats_187",
+      "prod_yoga_mats_149"
+    ],
+    "final_choice": "prod_yoga_mats_158",
+    "reasoning": "Retrospec Solana provides a full 1/2 inch of thick support, effectively alleviating stress on joints during floor work."
+  }
+}

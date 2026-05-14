@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 4,
+    "timestamp": 1778715407,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_054.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_132",
+      "prod_laundry_detergent_252",
+      "prod_laundry_detergent_009",
+      "prod_laundry_detergent_261",
+      "prod_laundry_detergent_238"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top options are dominated by specialty products, laundry balls, or extremely expensive packets, none of which present a compelling case for an everyday purchase."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 21,
+    "timestamp": 1778715419,
+    "source_batch": "data/offer_sets/conditioner/conditioner_171.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_066",
+      "prod_conditioner_067",
+      "prod_conditioner_069"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top-ranked items are dominated by sponsored products with questionable reviews."
+  }
+}

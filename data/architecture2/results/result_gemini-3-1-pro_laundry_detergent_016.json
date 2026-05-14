@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 16,
+    "timestamp": 1778715405,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_016.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_045"
+    ],
+    "final_choice": "prod_laundry_detergent_045",
+    "reasoning": "Tide PODS 4 in 1 Sport Odor Defense is highly reliable for athletic wear and tough smells."
+  }
+}

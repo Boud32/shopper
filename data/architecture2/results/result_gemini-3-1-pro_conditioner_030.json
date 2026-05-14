@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 30,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_030.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_286",
+      "prod_conditioner_114",
+      "prod_conditioner_199",
+      "prod_conditioner_219"
+    ],
+    "final_choice": "prod_conditioner_286",
+    "reasoning": "Himalaya Damage Repair Protein Conditioner leaves hair super soft and is an excellent value for a three-pack."
+  }
+}

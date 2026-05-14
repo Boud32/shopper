@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 50,
+    "timestamp": 1778715392,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_100.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_080",
+      "prod_yoga_mats_097",
+      "prod_yoga_mats_161",
+      "prod_yoga_mats_155"
+    ],
+    "final_choice": "prod_yoga_mats_080",
+    "reasoning": "Tone Fitness provides an extra thick density mat that stays remarkably intact and slip-free on slick floors."
+  }
+}

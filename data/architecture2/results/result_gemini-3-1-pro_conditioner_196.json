@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 46,
+    "timestamp": 1778715419,
+    "source_batch": "data/offer_sets/conditioner/conditioner_196.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_016"
+    ],
+    "final_choice": "prod_conditioner_016",
+    "reasoning": "A solid daily driver conditioner that leaves hair soft without a greasy finish."
+  }
+}

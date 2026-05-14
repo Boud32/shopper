@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 6,
+    "timestamp": 1778715409,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_106.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_019",
+      "prod_laundry_detergent_123",
+      "prod_laundry_detergent_175",
+      "prod_laundry_detergent_109",
+      "prod_laundry_detergent_140"
+    ],
+    "final_choice": "prod_laundry_detergent_140",
+    "reasoning": "Travel detergent sheets are incredibly useful for washing out gear in the sink during my upcoming trip to Mexico City."
+  }
+}

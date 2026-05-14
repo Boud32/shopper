@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 39,
+    "timestamp": 1778715399,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_089.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_145",
+      "prod_protein_powder_166"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Legion Whey+ is naturally sweetened and grass-fed, checking all the boxes for a high-quality daily protein supplement."
+  }
+}

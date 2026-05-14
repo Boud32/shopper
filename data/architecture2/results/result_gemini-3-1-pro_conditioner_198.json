@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 48,
+    "timestamp": 1778715419,
+    "source_batch": "data/offer_sets/conditioner/conditioner_198.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_040"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Nothing clearly stands out, and the top positions are dominated by weak options."
+  }
+}

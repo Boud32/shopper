@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 47,
+    "timestamp": 1778715390,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_047.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_163"
+    ],
+    "final_choice": "prod_yoga_mats_163",
+    "reasoning": "The Heathyoga mat's combination of alignment markings and eco-friendly materials makes it the best choice."
+  }
+}

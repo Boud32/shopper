@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 37,
+    "timestamp": 1778715415,
+    "source_batch": "data/offer_sets/conditioner/conditioner_087.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_214",
+      "prod_conditioner_251"
+    ],
+    "final_choice": "prod_conditioner_251",
+    "reasoning": "A top-tier choice for bleached or blonde hair needing intense brassiness correction."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 1,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_101.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_290",
+      "prod_conditioner_194",
+      "prod_conditioner_040",
+      "prod_conditioner_023",
+      "prod_conditioner_295"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "With over 8,400 reviews and a 4.7 rating at an affordable price, Garnier Whole Blends is a standout, reliable choice for everyday moisturizing."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 37,
+    "timestamp": 1778715419,
+    "source_batch": "data/offer_sets/conditioner/conditioner_187.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_074"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Highly recommended for maintaining blonde or highlighted hair without brassiness."
+  }
+}

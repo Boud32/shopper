@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 48,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_148.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_016",
+      "prod_conditioner_017",
+      "prod_conditioner_022"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Redken continues to be the dominant choice in any set it appears in due to its immense and stellar review history."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 47,
+    "timestamp": 1778715392,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_097.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_193",
+      "prod_yoga_mats_189",
+      "prod_yoga_mats_082"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of these options stand out as superior to standard mats found easily at local fitness stores."
+  }
+}

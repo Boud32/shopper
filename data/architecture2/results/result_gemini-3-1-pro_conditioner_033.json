@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 33,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_033.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_269"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top options consist of small travel sizes or specific color protectants that do not offer a good general value."
+  }
+}

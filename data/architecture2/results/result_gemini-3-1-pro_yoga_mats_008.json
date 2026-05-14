@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 8,
+    "timestamp": 1778715390,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_008.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_103",
+      "prod_yoga_mats_188",
+      "prod_yoga_mats_134",
+      "prod_yoga_mats_110",
+      "prod_yoga_mats_180"
+    ],
+    "final_choice": "prod_yoga_mats_180",
+    "reasoning": "Its overwhelming popularity and extra thickness make the Amazon Basics mat a safe and budget-friendly choice."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 47,
+    "timestamp": 1778715407,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_097.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_135",
+      "prod_laundry_detergent_186"
+    ],
+    "final_choice": "prod_laundry_detergent_135",
+    "reasoning": "Cure With Pure Organic Soap Nuts are a genuinely non-toxic, chemical-free way to naturally clean and brighten fabrics."
+  }
+}

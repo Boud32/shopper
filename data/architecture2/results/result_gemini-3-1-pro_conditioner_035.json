@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 35,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_035.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_009",
+      "prod_conditioner_262"
+    ],
+    "final_choice": "prod_conditioner_262",
+    "reasoning": "Blackwood For Men HydroBlast intensely moisturizes coarse hair using aloe vera and hyaluronic acid without a heavy scent."
+  }
+}

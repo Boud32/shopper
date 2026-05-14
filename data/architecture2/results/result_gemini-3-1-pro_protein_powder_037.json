@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 37,
+    "timestamp": 1778715398,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_037.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_037"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "This pure whey option is free of heavy flavorings, which makes it perfect for boosting the protein content of my homemade smoothies."
+  }
+}

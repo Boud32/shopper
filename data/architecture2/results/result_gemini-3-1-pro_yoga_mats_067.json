@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 17,
+    "timestamp": 1778715392,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_067.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_140",
+      "prod_yoga_mats_082",
+      "prod_yoga_mats_129"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The LERYG round oversize mat provides a uniquely spacious suede rubber surface perfect for meditation."
+  }
+}

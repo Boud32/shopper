@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 5,
+    "timestamp": 1778715398,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_005.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_008",
+      "prod_protein_powder_141",
+      "prod_protein_powder_167",
+      "prod_protein_powder_169",
+      "prod_protein_powder_001"
+    ],
+    "final_choice": "prod_protein_powder_008",
+    "reasoning": "A pure, unflavored whey is a versatile staple that easily mixes into my morning meal prep without adding unnecessary sugars."
+  }
+}

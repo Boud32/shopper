@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 7,
+    "timestamp": 1778715399,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_057.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_070",
+      "prod_protein_powder_124",
+      "prod_protein_powder_190",
+      "prod_protein_powder_172",
+      "prod_protein_powder_071"
+    ],
+    "final_choice": "prod_protein_powder_070",
+    "reasoning": "Muscle Feast's grass-fed isolate is highly rated, hormone-free, and an excellent pure protein source for my athletic regimen."
+  }
+}

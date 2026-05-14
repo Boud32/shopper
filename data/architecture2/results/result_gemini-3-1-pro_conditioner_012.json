@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 12,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_012.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_283",
+      "prod_conditioner_142",
+      "prod_conditioner_068",
+      "prod_conditioner_105",
+      "prod_conditioner_039"
+    ],
+    "final_choice": "prod_conditioner_142",
+    "reasoning": "Framesi Color Lover is perfect for keeping colored curls defined without irritating the scalp."
+  }
+}

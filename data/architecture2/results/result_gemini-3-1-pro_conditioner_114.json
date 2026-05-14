@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 14,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_114.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_022",
+      "prod_conditioner_110",
+      "prod_conditioner_248",
+      "prod_conditioner_049"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The options present either polarizing reviews or high price points for small volumes, which is unappealing."
+  }
+}

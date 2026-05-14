@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 7,
+    "timestamp": 1778715401,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_107.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_053",
+      "prod_protein_powder_162",
+      "prod_protein_powder_127",
+      "prod_protein_powder_046",
+      "prod_protein_powder_028"
+    ],
+    "final_choice": "prod_protein_powder_127",
+    "reasoning": "BiPro Renew offers a highly purified isolate that avoids common digestive issues."
+  }
+}

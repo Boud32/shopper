@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 3,
+    "timestamp": 1778715398,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_003.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_024",
+      "prod_protein_powder_158",
+      "prod_protein_powder_104",
+      "prod_protein_powder_021",
+      "prod_protein_powder_013"
+    ],
+    "final_choice": "prod_protein_powder_024",
+    "reasoning": "An unflavored casein option allows for flexible meal prep and provides slow-digesting protein to aid overnight recovery."
+  }
+}

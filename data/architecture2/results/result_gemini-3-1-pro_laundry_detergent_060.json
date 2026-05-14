@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 10,
+    "timestamp": 1778715407,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_060.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_039",
+      "prod_laundry_detergent_068",
+      "prod_laundry_detergent_238",
+      "prod_laundry_detergent_259",
+      "prod_laundry_detergent_190"
+    ],
+    "final_choice": "prod_laundry_detergent_039",
+    "reasoning": "Tide Powder Laundry Detergent in Mountain Spring is a proven classic with excellent ratings, offering a huge capacity that provides great long-term value."
+  }
+}

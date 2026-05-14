@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 31,
+    "timestamp": 1778715392,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_081.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_020",
+      "prod_yoga_mats_178"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The options in this offer set feel mediocre and don't provide a compelling reason to commit to buying."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 8,
+    "timestamp": 1778715399,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_058.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_111",
+      "prod_protein_powder_129",
+      "prod_protein_powder_104",
+      "prod_protein_powder_165",
+      "prod_protein_powder_024"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The selection is dominated by weight gainers and bone broths, neither of which align with my current need for a straightforward whey isolate."
+  }
+}

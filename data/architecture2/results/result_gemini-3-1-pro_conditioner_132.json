@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 32,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_132.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_105",
+      "prod_conditioner_074",
+      "prod_conditioner_002",
+      "prod_conditioner_104",
+      "prod_conditioner_106"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The available options are either poorly rated or somewhat obscure, failing to instill purchasing confidence."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 1,
+    "timestamp": 1778715403,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_151.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_090",
+      "prod_protein_powder_092"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The options in this set are too heavily sweetened and wouldn't blend cleanly into my morning smoothies."
+  }
+}

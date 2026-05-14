@@ -1,1 +1,602 @@
-[]
+[
+  {
+    "offer_set_id": "protein_powder_151",
+    "consideration_set": [
+      "prod_protein_powder_090",
+      "prod_protein_powder_091",
+      "prod_protein_powder_092",
+      "prod_protein_powder_093",
+      "prod_protein_powder_094"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The options in this set are too heavily sweetened and wouldn't blend cleanly into my morning smoothies."
+  },
+  {
+    "offer_set_id": "protein_powder_152",
+    "consideration_set": [
+      "prod_protein_powder_101",
+      "prod_protein_powder_102",
+      "prod_protein_powder_103",
+      "prod_protein_powder_104",
+      "prod_protein_powder_105"
+    ],
+    "final_choice": "prod_protein_powder_103",
+    "reasoning": "This unflavored whey isolate provides a high protein yield per scoop and mixes invisibly into fruit smoothies."
+  },
+  {
+    "offer_set_id": "protein_powder_153",
+    "consideration_set": [
+      "prod_protein_powder_111",
+      "prod_protein_powder_112",
+      "prod_protein_powder_113",
+      "prod_protein_powder_114",
+      "prod_protein_powder_115"
+    ],
+    "final_choice": "prod_protein_powder_112",
+    "reasoning": "A solid, clean ingredient profile that supports quick recovery metrics after long volleyball tournaments."
+  },
+  {
+    "offer_set_id": "protein_powder_154",
+    "consideration_set": [
+      "prod_protein_powder_121",
+      "prod_protein_powder_122",
+      "prod_protein_powder_123",
+      "prod_protein_powder_124",
+      "prod_protein_powder_125"
+    ],
+    "final_choice": "prod_protein_powder_125",
+    "reasoning": "This bulk option offers excellent value while still easily meeting the daily macros of a high-protein diet."
+  },
+  {
+    "offer_set_id": "protein_powder_155",
+    "consideration_set": [
+      "prod_protein_powder_131",
+      "prod_protein_powder_132",
+      "prod_protein_powder_133",
+      "prod_protein_powder_134",
+      "prod_protein_powder_135"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of these products offer the clean macronutrient split necessary to optimize daily recovery."
+  },
+  {
+    "offer_set_id": "protein_powder_156",
+    "consideration_set": [
+      "prod_protein_powder_141",
+      "prod_protein_powder_142",
+      "prod_protein_powder_143",
+      "prod_protein_powder_144",
+      "prod_protein_powder_145"
+    ],
+    "final_choice": "prod_protein_powder_141",
+    "reasoning": "The minimal ingredients ensure it won't cause bloating during intense physical activity like sand volleyball."
+  },
+  {
+    "offer_set_id": "protein_powder_157",
+    "consideration_set": [
+      "prod_protein_powder_151",
+      "prod_protein_powder_152",
+      "prod_protein_powder_153",
+      "prod_protein_powder_154",
+      "prod_protein_powder_155"
+    ],
+    "final_choice": "prod_protein_powder_153",
+    "reasoning": "It dissolves instantly in water, making it perfect for a quick protein hit right after a workout."
+  },
+  {
+    "offer_set_id": "protein_powder_158",
+    "consideration_set": [
+      "prod_protein_powder_161",
+      "prod_protein_powder_162",
+      "prod_protein_powder_163",
+      "prod_protein_powder_164",
+      "prod_protein_powder_165"
+    ],
+    "final_choice": "prod_protein_powder_164",
+    "reasoning": "The casein blend is excellent for sustained overnight recovery."
+  },
+  {
+    "offer_set_id": "protein_powder_159",
+    "consideration_set": [
+      "prod_protein_powder_171",
+      "prod_protein_powder_172",
+      "prod_protein_powder_173",
+      "prod_protein_powder_174",
+      "prod_protein_powder_175"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Prices are completely disproportionate to the actual grams of protein per serving offered."
+  },
+  {
+    "offer_set_id": "protein_powder_160",
+    "consideration_set": [
+      "prod_protein_powder_181",
+      "prod_protein_powder_182",
+      "prod_protein_powder_183",
+      "prod_protein_powder_184",
+      "prod_protein_powder_185"
+    ],
+    "final_choice": "prod_protein_powder_182",
+    "reasoning": "A highly rated, transparently dosed isolate that fits perfectly into a strict high-protein regimen."
+  },
+  {
+    "offer_set_id": "protein_powder_161",
+    "consideration_set": [
+      "prod_protein_powder_191",
+      "prod_protein_powder_192",
+      "prod_protein_powder_193",
+      "prod_protein_powder_194",
+      "prod_protein_powder_195"
+    ],
+    "final_choice": "prod_protein_powder_195",
+    "reasoning": "This naturally flavored option prevents the typical artificial aftertaste when blended into smoothies."
+  },
+  {
+    "offer_set_id": "protein_powder_162",
+    "consideration_set": [
+      "prod_protein_powder_201",
+      "prod_protein_powder_202",
+      "prod_protein_powder_203",
+      "prod_protein_powder_204",
+      "prod_protein_powder_205"
+    ],
+    "final_choice": "prod_protein_powder_201",
+    "reasoning": "NSF Certified for Sport gives peace of mind regarding ingredient purity and safety."
+  },
+  {
+    "offer_set_id": "protein_powder_163",
+    "consideration_set": [
+      "prod_protein_powder_211",
+      "prod_protein_powder_212",
+      "prod_protein_powder_213",
+      "prod_protein_powder_214",
+      "prod_protein_powder_215"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top results are dominated by blends with excessive fillers and proprietary amino spiking."
+  },
+  {
+    "offer_set_id": "protein_powder_164",
+    "consideration_set": [
+      "prod_protein_powder_221",
+      "prod_protein_powder_222",
+      "prod_protein_powder_223",
+      "prod_protein_powder_224",
+      "prod_protein_powder_225"
+    ],
+    "final_choice": "prod_protein_powder_222",
+    "reasoning": "Great price-to-protein ratio from a highly reputable brand without unnecessary digestive enzymes."
+  },
+  {
+    "offer_set_id": "protein_powder_165",
+    "consideration_set": [
+      "prod_protein_powder_231",
+      "prod_protein_powder_232",
+      "prod_protein_powder_233",
+      "prod_protein_powder_234",
+      "prod_protein_powder_235"
+    ],
+    "final_choice": "prod_protein_powder_234",
+    "reasoning": "The rapid absorption rate of this hydrolyzed whey is ideal for immediate post-training muscle repair."
+  },
+  {
+    "offer_set_id": "protein_powder_166",
+    "consideration_set": [
+      "prod_protein_powder_241",
+      "prod_protein_powder_242",
+      "prod_protein_powder_243",
+      "prod_protein_powder_244",
+      "prod_protein_powder_245"
+    ],
+    "final_choice": "prod_protein_powder_243",
+    "reasoning": "This vegan pea protein provides an excellent amino acid profile while being easy on the stomach."
+  },
+  {
+    "offer_set_id": "protein_powder_167",
+    "consideration_set": [
+      "prod_protein_powder_251",
+      "prod_protein_powder_252",
+      "prod_protein_powder_253",
+      "prod_protein_powder_254",
+      "prod_protein_powder_255"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Every option in this set contains sucralose, which I find overpowering in daily shakes."
+  },
+  {
+    "offer_set_id": "protein_powder_168",
+    "consideration_set": [
+      "prod_protein_powder_261",
+      "prod_protein_powder_262",
+      "prod_protein_powder_263",
+      "prod_protein_powder_264",
+      "prod_protein_powder_265"
+    ],
+    "final_choice": "prod_protein_powder_261",
+    "reasoning": "A solid, straightforward whey concentrate that does the job for everyday nutritional maintenance."
+  },
+  {
+    "offer_set_id": "protein_powder_169",
+    "consideration_set": [
+      "prod_protein_powder_271",
+      "prod_protein_powder_272",
+      "prod_protein_powder_273",
+      "prod_protein_powder_274",
+      "prod_protein_powder_275"
+    ],
+    "final_choice": "prod_protein_powder_272",
+    "reasoning": "The inclusion of micellar casein makes this a perfect pre-bedtime recovery shake."
+  },
+  {
+    "offer_set_id": "protein_powder_170",
+    "consideration_set": [
+      "prod_protein_powder_281",
+      "prod_protein_powder_282",
+      "prod_protein_powder_283",
+      "prod_protein_powder_284",
+      "prod_protein_powder_285"
+    ],
+    "final_choice": "prod_protein_powder_285",
+    "reasoning": "This clear whey isolate is a refreshing alternative to milky shakes, especially after a hot outdoor workout."
+  },
+  {
+    "offer_set_id": "protein_powder_171",
+    "consideration_set": [
+      "prod_protein_powder_291",
+      "prod_protein_powder_292",
+      "prod_protein_powder_293",
+      "prod_protein_powder_294",
+      "prod_protein_powder_295"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The consideration set is flooded with low-quality mass gainers packed with maltodextrin."
+  },
+  {
+    "offer_set_id": "protein_powder_172",
+    "consideration_set": [
+      "prod_protein_powder_301",
+      "prod_protein_powder_302",
+      "prod_protein_powder_303",
+      "prod_protein_powder_304",
+      "prod_protein_powder_305"
+    ],
+    "final_choice": "prod_protein_powder_302",
+    "reasoning": "Excellent third-party testing results guarantee no heavy metals, making it safe for daily consumption."
+  },
+  {
+    "offer_set_id": "protein_powder_173",
+    "consideration_set": [
+      "prod_protein_powder_311",
+      "prod_protein_powder_312",
+      "prod_protein_powder_313",
+      "prod_protein_powder_314",
+      "prod_protein_powder_315"
+    ],
+    "final_choice": "prod_protein_powder_314",
+    "reasoning": "The chocolate peanut butter flavor profile is a reliable staple that works well with oats and shakes."
+  },
+  {
+    "offer_set_id": "protein_powder_174",
+    "consideration_set": [
+      "prod_protein_powder_321",
+      "prod_protein_powder_322",
+      "prod_protein_powder_323",
+      "prod_protein_powder_324",
+      "prod_protein_powder_325"
+    ],
+    "final_choice": "prod_protein_powder_321",
+    "reasoning": "This unflavored bone broth protein offers great joint support alongside a respectable protein yield."
+  },
+  {
+    "offer_set_id": "protein_powder_175",
+    "consideration_set": [
+      "prod_protein_powder_331",
+      "prod_protein_powder_332",
+      "prod_protein_powder_333",
+      "prod_protein_powder_334",
+      "prod_protein_powder_335"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Too many artificial thickeners in these options that tend to ruin the texture of a blended smoothie."
+  },
+  {
+    "offer_set_id": "protein_powder_176",
+    "consideration_set": [
+      "prod_protein_powder_341",
+      "prod_protein_powder_342",
+      "prod_protein_powder_343",
+      "prod_protein_powder_344",
+      "prod_protein_powder_345"
+    ],
+    "final_choice": "prod_protein_powder_343",
+    "reasoning": "A purely grass-fed isolate that justifies its slightly higher price point with superior mixability."
+  },
+  {
+    "offer_set_id": "protein_powder_177",
+    "consideration_set": [
+      "prod_protein_powder_351",
+      "prod_protein_powder_352",
+      "prod_protein_powder_353",
+      "prod_protein_powder_354",
+      "prod_protein_powder_355"
+    ],
+    "final_choice": "prod_protein_powder_354",
+    "reasoning": "Provides an impressive 30g of protein per scoop, streamlining my daily macro tracking."
+  },
+  {
+    "offer_set_id": "protein_powder_178",
+    "consideration_set": [
+      "prod_protein_powder_361",
+      "prod_protein_powder_362",
+      "prod_protein_powder_363",
+      "prod_protein_powder_364",
+      "prod_protein_powder_365"
+    ],
+    "final_choice": "prod_protein_powder_362",
+    "reasoning": "The egg white protein alternative is a highly bioavailable option when I want a break from standard whey."
+  },
+  {
+    "offer_set_id": "protein_powder_179",
+    "consideration_set": [
+      "prod_protein_powder_371",
+      "prod_protein_powder_372",
+      "prod_protein_powder_373",
+      "prod_protein_powder_374",
+      "prod_protein_powder_375"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "This entire selection feels overpriced for generic whey concentrates that don't offer any unique value."
+  },
+  {
+    "offer_set_id": "protein_powder_180",
+    "consideration_set": [
+      "prod_protein_powder_381",
+      "prod_protein_powder_382",
+      "prod_protein_powder_383",
+      "prod_protein_powder_384",
+      "prod_protein_powder_385"
+    ],
+    "final_choice": "prod_protein_powder_381",
+    "reasoning": "Features minimal lactose, preventing any digestive discomfort before heading out to the courts."
+  },
+  {
+    "offer_set_id": "protein_powder_181",
+    "consideration_set": [
+      "prod_protein_powder_391",
+      "prod_protein_powder_392",
+      "prod_protein_powder_393",
+      "prod_protein_powder_394",
+      "prod_protein_powder_395"
+    ],
+    "final_choice": "prod_protein_powder_394",
+    "reasoning": "The vanilla bean flavor has thousands of consistent reviews confirming it doesn't taste like chemicals."
+  },
+  {
+    "offer_set_id": "protein_powder_182",
+    "consideration_set": [
+      "prod_protein_powder_401",
+      "prod_protein_powder_402",
+      "prod_protein_powder_403",
+      "prod_protein_powder_404",
+      "prod_protein_powder_405"
+    ],
+    "final_choice": "prod_protein_powder_403",
+    "reasoning": "A trustworthy brand offering an ion-exchange isolate with zero carbs, perfect for leaner diet phases."
+  },
+  {
+    "offer_set_id": "protein_powder_183",
+    "consideration_set": [
+      "prod_protein_powder_411",
+      "prod_protein_powder_412",
+      "prod_protein_powder_413",
+      "prod_protein_powder_414",
+      "prod_protein_powder_415"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Every top product in this set is heavily sponsored but lacks the actual customer reviews to justify the cost."
+  },
+  {
+    "offer_set_id": "protein_powder_184",
+    "consideration_set": [
+      "prod_protein_powder_421",
+      "prod_protein_powder_422",
+      "prod_protein_powder_423",
+      "prod_protein_powder_424",
+      "prod_protein_powder_425"
+    ],
+    "final_choice": "prod_protein_powder_422",
+    "reasoning": "This blend includes added collagen, providing a nice dual-benefit for muscle recovery and joint health."
+  },
+  {
+    "offer_set_id": "protein_powder_185",
+    "consideration_set": [
+      "prod_protein_powder_431",
+      "prod_protein_powder_432",
+      "prod_protein_powder_433",
+      "prod_protein_powder_434",
+      "prod_protein_powder_435"
+    ],
+    "final_choice": "prod_protein_powder_435",
+    "reasoning": "The bulk 5lb tub is incredibly cost-effective while still maintaining a pure isolate standard."
+  },
+  {
+    "offer_set_id": "protein_powder_186",
+    "consideration_set": [
+      "prod_protein_powder_441",
+      "prod_protein_powder_442",
+      "prod_protein_powder_443",
+      "prod_protein_powder_444",
+      "prod_protein_powder_445"
+    ],
+    "final_choice": "prod_protein_powder_441",
+    "reasoning": "Uses stevia instead of artificial sweeteners, avoiding the cloying aftertaste common in this category."
+  },
+  {
+    "offer_set_id": "protein_powder_187",
+    "consideration_set": [
+      "prod_protein_powder_451",
+      "prod_protein_powder_452",
+      "prod_protein_powder_453",
+      "prod_protein_powder_454",
+      "prod_protein_powder_455"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Nothing stands out; the top-ranked items are from obscure brands with questionable protein testing."
+  },
+  {
+    "offer_set_id": "protein_powder_188",
+    "consideration_set": [
+      "prod_protein_powder_461",
+      "prod_protein_powder_462",
+      "prod_protein_powder_463",
+      "prod_protein_powder_464",
+      "prod_protein_powder_465"
+    ],
+    "final_choice": "prod_protein_powder_462",
+    "reasoning": "This soy-free plant option digests incredibly well and doesn't sit heavy before a morning commute."
+  },
+  {
+    "offer_set_id": "protein_powder_189",
+    "consideration_set": [
+      "prod_protein_powder_471",
+      "prod_protein_powder_472",
+      "prod_protein_powder_473",
+      "prod_protein_powder_474",
+      "prod_protein_powder_475"
+    ],
+    "final_choice": "prod_protein_powder_474",
+    "reasoning": "A solid, no-frills protein that reliably assists in hitting high daily protein targets."
+  },
+  {
+    "offer_set_id": "protein_powder_190",
+    "consideration_set": [
+      "prod_protein_powder_481",
+      "prod_protein_powder_482",
+      "prod_protein_powder_483",
+      "prod_protein_powder_484",
+      "prod_protein_powder_485"
+    ],
+    "final_choice": "prod_protein_powder_483",
+    "reasoning": "The flavor profile is highly reviewed and it dissolves instantly, avoiding the dread of chalky clumps."
+  },
+  {
+    "offer_set_id": "protein_powder_191",
+    "consideration_set": [
+      "prod_protein_powder_491",
+      "prod_protein_powder_492",
+      "prod_protein_powder_493",
+      "prod_protein_powder_494",
+      "prod_protein_powder_495"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "All the viable options in this set have an unnecessarily high carbohydrate count for a simple protein supplement."
+  },
+  {
+    "offer_set_id": "protein_powder_192",
+    "consideration_set": [
+      "prod_protein_powder_501",
+      "prod_protein_powder_502",
+      "prod_protein_powder_503",
+      "prod_protein_powder_504",
+      "prod_protein_powder_505"
+    ],
+    "final_choice": "prod_protein_powder_502",
+    "reasoning": "Includes a robust digestive enzyme blend, maximizing absorption for better physiological recovery metrics."
+  },
+  {
+    "offer_set_id": "protein_powder_193",
+    "consideration_set": [
+      "prod_protein_powder_511",
+      "prod_protein_powder_512",
+      "prod_protein_powder_513",
+      "prod_protein_powder_514",
+      "prod_protein_powder_515"
+    ],
+    "final_choice": "prod_protein_powder_511",
+    "reasoning": "A great specialized formula tailored directly to elite athletic performance and banned-substance tested."
+  },
+  {
+    "offer_set_id": "protein_powder_194",
+    "consideration_set": [
+      "prod_protein_powder_521",
+      "prod_protein_powder_522",
+      "prod_protein_powder_523",
+      "prod_protein_powder_524",
+      "prod_protein_powder_525"
+    ],
+    "final_choice": "prod_protein_powder_524",
+    "reasoning": "Provides an excellent multi-source protein matrix that keeps hunger at bay between long campus sessions."
+  },
+  {
+    "offer_set_id": "protein_powder_195",
+    "consideration_set": [
+      "prod_protein_powder_531",
+      "prod_protein_powder_532",
+      "prod_protein_powder_533",
+      "prod_protein_powder_534",
+      "prod_protein_powder_535"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The visible items look cheap and have inconsistent reviews regarding flavor and mixability."
+  },
+  {
+    "offer_set_id": "protein_powder_196",
+    "consideration_set": [
+      "prod_protein_powder_541",
+      "prod_protein_powder_542",
+      "prod_protein_powder_543",
+      "prod_protein_powder_544",
+      "prod_protein_powder_545"
+    ],
+    "final_choice": "prod_protein_powder_543",
+    "reasoning": "Cold-processed microfiltration preserves the protein quality perfectly without jacking up the retail price."
+  },
+  {
+    "offer_set_id": "protein_powder_197",
+    "consideration_set": [
+      "prod_protein_powder_551",
+      "prod_protein_powder_552",
+      "prod_protein_powder_553",
+      "prod_protein_powder_554",
+      "prod_protein_powder_555"
+    ],
+    "final_choice": "prod_protein_powder_552",
+    "reasoning": "This unflavored isolate provides ultimate versatility, allowing me to flavor my own fruit and spinach smoothies."
+  },
+  {
+    "offer_set_id": "protein_powder_198",
+    "consideration_set": [
+      "prod_protein_powder_561",
+      "prod_protein_powder_562",
+      "prod_protein_powder_563",
+      "prod_protein_powder_564",
+      "prod_protein_powder_565"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Prices on these isolates are inflated compared to comparable options I can find in other searches."
+  },
+  {
+    "offer_set_id": "protein_powder_199",
+    "consideration_set": [
+      "prod_protein_powder_571",
+      "prod_protein_powder_572",
+      "prod_protein_powder_573",
+      "prod_protein_powder_574",
+      "prod_protein_powder_575"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top-ranked products rely heavily on proprietary blends, obscuring the actual amount of protein per serving."
+  },
+  {
+    "offer_set_id": "protein_powder_200",
+    "consideration_set": [
+      "prod_protein_powder_581",
+      "prod_protein_powder_582",
+      "prod_protein_powder_583",
+      "prod_protein_powder_584",
+      "prod_protein_powder_585"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Nothing in this final set offers a compelling reason to purchase over standard, well-known bulk alternatives."
+  }
+]

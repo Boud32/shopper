@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 4,
+    "timestamp": 1778715398,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_004.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_172",
+      "prod_protein_powder_168",
+      "prod_protein_powder_109",
+      "prod_protein_powder_097",
+      "prod_protein_powder_174"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The available products are either too high in artificial sweeteners or lack the specific macro profile I need for my smoothies."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 50,
+    "timestamp": 1778715419,
+    "source_batch": "data/offer_sets/conditioner/conditioner_200.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_009",
+      "prod_conditioner_105",
+      "prod_conditioner_058"
+    ],
+    "final_choice": "prod_conditioner_009",
+    "reasoning": "An excellent silicone-free, hydrating formulation that is very well-regarded for curly hair."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 22,
+    "timestamp": 1778715419,
+    "source_batch": "data/offer_sets/conditioner/conditioner_172.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_075",
+      "prod_conditioner_076"
+    ],
+    "final_choice": "prod_conditioner_075",
+    "reasoning": "This specialized volumizing conditioner addresses flat hair issues effectively."
+  }
+}

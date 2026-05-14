@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 29,
+    "timestamp": 1778715401,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_129.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_034",
+      "prod_protein_powder_039",
+      "prod_protein_powder_187"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The consideration set is too focused on niche diet trends rather than pure protein performance."
+  }
+}

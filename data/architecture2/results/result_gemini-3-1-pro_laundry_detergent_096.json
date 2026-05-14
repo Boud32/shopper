@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 46,
+    "timestamp": 1778715407,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_096.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_087"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Earth Friendly Products Ecos Liquid in Lavender provides a large, economical volume with a subtle, non-overpowering scent."
+  }
+}

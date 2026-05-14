@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 3,
+    "timestamp": 1778715409,
+    "source_batch": "data/offer_sets/laundry_detergent/laundry_detergent_103.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_laundry_detergent_284",
+      "prod_laundry_detergent_011",
+      "prod_laundry_detergent_021",
+      "prod_laundry_detergent_262",
+      "prod_laundry_detergent_208"
+    ],
+    "final_choice": "prod_laundry_detergent_021",
+    "reasoning": "These power paks are convenient for lugging down to the shared laundry room in my building."
+  }
+}

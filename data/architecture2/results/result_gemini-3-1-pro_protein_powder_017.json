@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 17,
+    "timestamp": 1778715398,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_017.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_124"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "I trust this organic, grass-fed powder to deliver essential nutrients without the artificial aftertaste typical of other brands."
+  }
+}

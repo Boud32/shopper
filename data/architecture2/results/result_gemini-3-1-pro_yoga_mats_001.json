@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 1,
+    "timestamp": 1778715390,
+    "source_batch": "data/offer_sets/yoga_mats/yoga_mats_001.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_yoga_mats_163",
+      "prod_yoga_mats_053",
+      "prod_yoga_mats_116",
+      "prod_yoga_mats_021",
+      "prod_yoga_mats_084"
+    ],
+    "final_choice": "prod_yoga_mats_116",
+    "reasoning": "The Everyday Essentials mat offers a great balance of extra thickness, high ratings, and an affordable price."
+  }
+}

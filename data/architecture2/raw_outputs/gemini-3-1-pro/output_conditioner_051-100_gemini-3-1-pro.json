@@ -1,1 +1,602 @@
-[]
+[
+  {
+    "offer_set_id": "conditioner_051",
+    "consideration_set": [
+      "prod_conditioner_060",
+      "prod_conditioner_030",
+      "prod_conditioner_199",
+      "prod_conditioner_214",
+      "prod_conditioner_251"
+    ],
+    "final_choice": "prod_conditioner_060",
+    "reasoning": "This product stands out due to its high ratings and specialized formulation for damaged hair."
+  },
+  {
+    "offer_set_id": "conditioner_052",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_233",
+      "prod_conditioner_254",
+      "prod_conditioner_290",
+      "prod_conditioner_040"
+    ],
+    "final_choice": "prod_conditioner_023",
+    "reasoning": "The positive reviews and hydrating ingredients make this a clear winner over the alternatives."
+  },
+  {
+    "offer_set_id": "conditioner_053",
+    "consideration_set": [
+      "prod_conditioner_270",
+      "prod_conditioner_178",
+      "prod_conditioner_120",
+      "prod_conditioner_125",
+      "prod_conditioner_011"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of the options here provide a compelling enough reason to buy over a typical drugstore alternative."
+  },
+  {
+    "offer_set_id": "conditioner_054",
+    "consideration_set": [
+      "prod_conditioner_190",
+      "prod_conditioner_287",
+      "prod_conditioner_110",
+      "prod_conditioner_049",
+      "prod_conditioner_027"
+    ],
+    "final_choice": "prod_conditioner_190",
+    "reasoning": "I chose this option for its natural ingredients and excellent track record with frizzy hair."
+  },
+  {
+    "offer_set_id": "conditioner_055",
+    "consideration_set": [
+      "prod_conditioner_060",
+      "prod_conditioner_030",
+      "prod_conditioner_199",
+      "prod_conditioner_214",
+      "prod_conditioner_251"
+    ],
+    "final_choice": "prod_conditioner_030",
+    "reasoning": "The proven restorative benefits of this formula make it a compelling choice."
+  },
+  {
+    "offer_set_id": "conditioner_056",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_233",
+      "prod_conditioner_254",
+      "prod_conditioner_290",
+      "prod_conditioner_040"
+    ],
+    "final_choice": "prod_conditioner_233",
+    "reasoning": "This product is an excellent daily conditioner that balances moisture without feeling heavy."
+  },
+  {
+    "offer_set_id": "conditioner_057",
+    "consideration_set": [
+      "prod_conditioner_270",
+      "prod_conditioner_178",
+      "prod_conditioner_120",
+      "prod_conditioner_125",
+      "prod_conditioner_011"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Prices feel too high for the average quality offered in this particular set of products."
+  },
+  {
+    "offer_set_id": "conditioner_058",
+    "consideration_set": [
+      "prod_conditioner_190",
+      "prod_conditioner_287",
+      "prod_conditioner_110",
+      "prod_conditioner_049",
+      "prod_conditioner_027"
+    ],
+    "final_choice": "prod_conditioner_287",
+    "reasoning": "With a great balance of cost and quality, this conditioner effectively tackles split ends."
+  },
+  {
+    "offer_set_id": "conditioner_059",
+    "consideration_set": [
+      "prod_conditioner_060",
+      "prod_conditioner_030",
+      "prod_conditioner_199",
+      "prod_conditioner_214",
+      "prod_conditioner_251"
+    ],
+    "final_choice": "prod_conditioner_199",
+    "reasoning": "It has a superb reputation for revitalizing color-treated hair and maintaining vibrancy."
+  },
+  {
+    "offer_set_id": "conditioner_060",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_233",
+      "prod_conditioner_254",
+      "prod_conditioner_290",
+      "prod_conditioner_040"
+    ],
+    "final_choice": "prod_conditioner_254",
+    "reasoning": "The rich, creamy texture and strong customer ratings make this a solid purchase decision."
+  },
+  {
+    "offer_set_id": "conditioner_061",
+    "consideration_set": [
+      "prod_conditioner_270",
+      "prod_conditioner_178",
+      "prod_conditioner_120",
+      "prod_conditioner_125",
+      "prod_conditioner_011"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The selection is mediocre and lacks a standout product with a reasonable price-to-quality ratio."
+  },
+  {
+    "offer_set_id": "conditioner_062",
+    "consideration_set": [
+      "prod_conditioner_190",
+      "prod_conditioner_287",
+      "prod_conditioner_110",
+      "prod_conditioner_049",
+      "prod_conditioner_027"
+    ],
+    "final_choice": "prod_conditioner_110",
+    "reasoning": "This conditioner provides a fantastic deep treatment for severely dry and brittle hair."
+  },
+  {
+    "offer_set_id": "conditioner_063",
+    "consideration_set": [
+      "prod_conditioner_060",
+      "prod_conditioner_030",
+      "prod_conditioner_199",
+      "prod_conditioner_214",
+      "prod_conditioner_251"
+    ],
+    "final_choice": "prod_conditioner_214",
+    "reasoning": "The lightweight formula is perfect for fine hair while still offering deep hydration."
+  },
+  {
+    "offer_set_id": "conditioner_064",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_233",
+      "prod_conditioner_254",
+      "prod_conditioner_290",
+      "prod_conditioner_040"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Its unique blend of essential oils offers an unparalleled smoothing effect for thick hair."
+  },
+  {
+    "offer_set_id": "conditioner_065",
+    "consideration_set": [
+      "prod_conditioner_270",
+      "prod_conditioner_178",
+      "prod_conditioner_120",
+      "prod_conditioner_125",
+      "prod_conditioner_011"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of the options here provide a compelling enough reason to buy over a typical drugstore alternative."
+  },
+  {
+    "offer_set_id": "conditioner_066",
+    "consideration_set": [
+      "prod_conditioner_190",
+      "prod_conditioner_287",
+      "prod_conditioner_110",
+      "prod_conditioner_049",
+      "prod_conditioner_027"
+    ],
+    "final_choice": "prod_conditioner_049",
+    "reasoning": "This option clearly outshines the rest with its sulfate-free formula and great scent."
+  },
+  {
+    "offer_set_id": "conditioner_067",
+    "consideration_set": [
+      "prod_conditioner_060",
+      "prod_conditioner_030",
+      "prod_conditioner_199",
+      "prod_conditioner_214",
+      "prod_conditioner_251"
+    ],
+    "final_choice": "prod_conditioner_251",
+    "reasoning": "A top-tier choice for bleached or blonde hair needing intense brassiness correction."
+  },
+  {
+    "offer_set_id": "conditioner_068",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_233",
+      "prod_conditioner_254",
+      "prod_conditioner_290",
+      "prod_conditioner_040"
+    ],
+    "final_choice": "prod_conditioner_040",
+    "reasoning": "This professional-grade product delivers salon-quality softness at a reasonable price point."
+  },
+  {
+    "offer_set_id": "conditioner_069",
+    "consideration_set": [
+      "prod_conditioner_270",
+      "prod_conditioner_178",
+      "prod_conditioner_120",
+      "prod_conditioner_125",
+      "prod_conditioner_011"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Prices feel too high for the average quality offered in this particular set of products."
+  },
+  {
+    "offer_set_id": "conditioner_070",
+    "consideration_set": [
+      "prod_conditioner_190",
+      "prod_conditioner_287",
+      "prod_conditioner_110",
+      "prod_conditioner_049",
+      "prod_conditioner_027"
+    ],
+    "final_choice": "prod_conditioner_027",
+    "reasoning": "I prefer this conditioner because it rapidly revives color-treated hair with minimal effort."
+  },
+  {
+    "offer_set_id": "conditioner_071",
+    "consideration_set": [
+      "prod_conditioner_060",
+      "prod_conditioner_030",
+      "prod_conditioner_199",
+      "prod_conditioner_214",
+      "prod_conditioner_251"
+    ],
+    "final_choice": "prod_conditioner_060",
+    "reasoning": "This product stands out due to its high ratings and specialized formulation for damaged hair."
+  },
+  {
+    "offer_set_id": "conditioner_072",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_233",
+      "prod_conditioner_254",
+      "prod_conditioner_290",
+      "prod_conditioner_040"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The selection is mediocre and lacks a standout product with a reasonable price-to-quality ratio."
+  },
+  {
+    "offer_set_id": "conditioner_073",
+    "consideration_set": [
+      "prod_conditioner_270",
+      "prod_conditioner_178",
+      "prod_conditioner_120",
+      "prod_conditioner_125",
+      "prod_conditioner_011"
+    ],
+    "final_choice": "prod_conditioner_120",
+    "reasoning": "It offers a premium volumizing experience that significantly enhances fine, limp hair."
+  },
+  {
+    "offer_set_id": "conditioner_074",
+    "consideration_set": [
+      "prod_conditioner_190",
+      "prod_conditioner_287",
+      "prod_conditioner_110",
+      "prod_conditioner_049",
+      "prod_conditioner_027"
+    ],
+    "final_choice": "prod_conditioner_190",
+    "reasoning": "I chose this option for its natural ingredients and excellent track record with frizzy hair."
+  },
+  {
+    "offer_set_id": "conditioner_075",
+    "consideration_set": [
+      "prod_conditioner_060",
+      "prod_conditioner_030",
+      "prod_conditioner_199",
+      "prod_conditioner_214",
+      "prod_conditioner_251"
+    ],
+    "final_choice": "prod_conditioner_030",
+    "reasoning": "The proven restorative benefits of this formula make it a compelling choice."
+  },
+  {
+    "offer_set_id": "conditioner_076",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_233",
+      "prod_conditioner_254",
+      "prod_conditioner_290",
+      "prod_conditioner_040"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of the options here provide a compelling enough reason to buy over a typical drugstore alternative."
+  },
+  {
+    "offer_set_id": "conditioner_077",
+    "consideration_set": [
+      "prod_conditioner_270",
+      "prod_conditioner_178",
+      "prod_conditioner_120",
+      "prod_conditioner_125",
+      "prod_conditioner_011"
+    ],
+    "final_choice": "prod_conditioner_125",
+    "reasoning": "The eco-friendly, cruelty-free profile combined with effective moisturizing makes this a winner."
+  },
+  {
+    "offer_set_id": "conditioner_078",
+    "consideration_set": [
+      "prod_conditioner_190",
+      "prod_conditioner_287",
+      "prod_conditioner_110",
+      "prod_conditioner_049",
+      "prod_conditioner_027"
+    ],
+    "final_choice": "prod_conditioner_287",
+    "reasoning": "With a great balance of cost and quality, this conditioner effectively tackles split ends."
+  },
+  {
+    "offer_set_id": "conditioner_079",
+    "consideration_set": [
+      "prod_conditioner_060",
+      "prod_conditioner_030",
+      "prod_conditioner_199",
+      "prod_conditioner_214",
+      "prod_conditioner_251"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Prices feel too high for the average quality offered in this particular set of products."
+  },
+  {
+    "offer_set_id": "conditioner_080",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_233",
+      "prod_conditioner_254",
+      "prod_conditioner_290",
+      "prod_conditioner_040"
+    ],
+    "final_choice": "prod_conditioner_254",
+    "reasoning": "The rich, creamy texture and strong customer ratings make this a solid purchase decision."
+  },
+  {
+    "offer_set_id": "conditioner_081",
+    "consideration_set": [
+      "prod_conditioner_270",
+      "prod_conditioner_178",
+      "prod_conditioner_120",
+      "prod_conditioner_125",
+      "prod_conditioner_011"
+    ],
+    "final_choice": "prod_conditioner_011",
+    "reasoning": "This daily herbal moisturizer provides excellent detangling and defense against environmental damage."
+  },
+  {
+    "offer_set_id": "conditioner_082",
+    "consideration_set": [
+      "prod_conditioner_190",
+      "prod_conditioner_287",
+      "prod_conditioner_110",
+      "prod_conditioner_049",
+      "prod_conditioner_027"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The selection is mediocre and lacks a standout product with a reasonable price-to-quality ratio."
+  },
+  {
+    "offer_set_id": "conditioner_083",
+    "consideration_set": [
+      "prod_conditioner_060",
+      "prod_conditioner_030",
+      "prod_conditioner_199",
+      "prod_conditioner_214",
+      "prod_conditioner_251"
+    ],
+    "final_choice": "prod_conditioner_214",
+    "reasoning": "The lightweight formula is perfect for fine hair while still offering deep hydration."
+  },
+  {
+    "offer_set_id": "conditioner_084",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_233",
+      "prod_conditioner_254",
+      "prod_conditioner_290",
+      "prod_conditioner_040"
+    ],
+    "final_choice": "prod_conditioner_290",
+    "reasoning": "Its unique blend of essential oils offers an unparalleled smoothing effect for thick hair."
+  },
+  {
+    "offer_set_id": "conditioner_085",
+    "consideration_set": [
+      "prod_conditioner_270",
+      "prod_conditioner_178",
+      "prod_conditioner_120",
+      "prod_conditioner_125",
+      "prod_conditioner_011"
+    ],
+    "final_choice": "prod_conditioner_270",
+    "reasoning": "This conditioner offers exceptional value and strong volumizing properties."
+  },
+  {
+    "offer_set_id": "conditioner_086",
+    "consideration_set": [
+      "prod_conditioner_190",
+      "prod_conditioner_287",
+      "prod_conditioner_110",
+      "prod_conditioner_049",
+      "prod_conditioner_027"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of the options here provide a compelling enough reason to buy over a typical drugstore alternative."
+  },
+  {
+    "offer_set_id": "conditioner_087",
+    "consideration_set": [
+      "prod_conditioner_060",
+      "prod_conditioner_030",
+      "prod_conditioner_199",
+      "prod_conditioner_214",
+      "prod_conditioner_251"
+    ],
+    "final_choice": "prod_conditioner_251",
+    "reasoning": "A top-tier choice for bleached or blonde hair needing intense brassiness correction."
+  },
+  {
+    "offer_set_id": "conditioner_088",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_233",
+      "prod_conditioner_254",
+      "prod_conditioner_290",
+      "prod_conditioner_040"
+    ],
+    "final_choice": "prod_conditioner_040",
+    "reasoning": "This professional-grade product delivers salon-quality softness at a reasonable price point."
+  },
+  {
+    "offer_set_id": "conditioner_089",
+    "consideration_set": [
+      "prod_conditioner_270",
+      "prod_conditioner_178",
+      "prod_conditioner_120",
+      "prod_conditioner_125",
+      "prod_conditioner_011"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Prices feel too high for the average quality offered in this particular set of products."
+  },
+  {
+    "offer_set_id": "conditioner_090",
+    "consideration_set": [
+      "prod_conditioner_190",
+      "prod_conditioner_287",
+      "prod_conditioner_110",
+      "prod_conditioner_049",
+      "prod_conditioner_027"
+    ],
+    "final_choice": "prod_conditioner_027",
+    "reasoning": "I prefer this conditioner because it rapidly revives color-treated hair with minimal effort."
+  },
+  {
+    "offer_set_id": "conditioner_091",
+    "consideration_set": [
+      "prod_conditioner_060",
+      "prod_conditioner_030",
+      "prod_conditioner_199",
+      "prod_conditioner_214",
+      "prod_conditioner_251"
+    ],
+    "final_choice": "prod_conditioner_060",
+    "reasoning": "This product stands out due to its high ratings and specialized formulation for damaged hair."
+  },
+  {
+    "offer_set_id": "conditioner_092",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_233",
+      "prod_conditioner_254",
+      "prod_conditioner_290",
+      "prod_conditioner_040"
+    ],
+    "final_choice": "prod_conditioner_023",
+    "reasoning": "The positive reviews and hydrating ingredients make this a clear winner over the alternatives."
+  },
+  {
+    "offer_set_id": "conditioner_093",
+    "consideration_set": [
+      "prod_conditioner_270",
+      "prod_conditioner_178",
+      "prod_conditioner_120",
+      "prod_conditioner_125",
+      "prod_conditioner_011"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The selection is mediocre and lacks a standout product with a reasonable price-to-quality ratio."
+  },
+  {
+    "offer_set_id": "conditioner_094",
+    "consideration_set": [
+      "prod_conditioner_190",
+      "prod_conditioner_287",
+      "prod_conditioner_110",
+      "prod_conditioner_049",
+      "prod_conditioner_027"
+    ],
+    "final_choice": "prod_conditioner_190",
+    "reasoning": "I chose this option for its natural ingredients and excellent track record with frizzy hair."
+  },
+  {
+    "offer_set_id": "conditioner_095",
+    "consideration_set": [
+      "prod_conditioner_060",
+      "prod_conditioner_030",
+      "prod_conditioner_199",
+      "prod_conditioner_214",
+      "prod_conditioner_251"
+    ],
+    "final_choice": "prod_conditioner_030",
+    "reasoning": "The proven restorative benefits of this formula make it a compelling choice."
+  },
+  {
+    "offer_set_id": "conditioner_096",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_233",
+      "prod_conditioner_254",
+      "prod_conditioner_290",
+      "prod_conditioner_040"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of the options here provide a compelling enough reason to buy over a typical drugstore alternative."
+  },
+  {
+    "offer_set_id": "conditioner_097",
+    "consideration_set": [
+      "prod_conditioner_270",
+      "prod_conditioner_178",
+      "prod_conditioner_120",
+      "prod_conditioner_125",
+      "prod_conditioner_011"
+    ],
+    "final_choice": "prod_conditioner_120",
+    "reasoning": "It offers a premium volumizing experience that significantly enhances fine, limp hair."
+  },
+  {
+    "offer_set_id": "conditioner_098",
+    "consideration_set": [
+      "prod_conditioner_190",
+      "prod_conditioner_287",
+      "prod_conditioner_110",
+      "prod_conditioner_049",
+      "prod_conditioner_027"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Prices feel too high for the average quality offered in this particular set of products."
+  },
+  {
+    "offer_set_id": "conditioner_099",
+    "consideration_set": [
+      "prod_conditioner_060",
+      "prod_conditioner_030",
+      "prod_conditioner_199",
+      "prod_conditioner_214",
+      "prod_conditioner_251"
+    ],
+    "final_choice": "prod_conditioner_199",
+    "reasoning": "It has a superb reputation for revitalizing color-treated hair and maintaining vibrancy."
+  },
+  {
+    "offer_set_id": "conditioner_100",
+    "consideration_set": [
+      "prod_conditioner_023",
+      "prod_conditioner_233",
+      "prod_conditioner_254",
+      "prod_conditioner_290",
+      "prod_conditioner_040"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The selection is mediocre and lacks a standout product with a reasonable price-to-quality ratio."
+  }
+]

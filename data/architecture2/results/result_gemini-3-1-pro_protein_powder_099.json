@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 49,
+    "timestamp": 1778715399,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_099.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_187",
+      "prod_protein_powder_167"
+    ],
+    "final_choice": "prod_protein_powder_187",
+    "reasoning": "Ancient Nutrition Collagen provides a reliable, easily mixable option for joint and gut health support alongside my standard whey regimen."
+  }
+}

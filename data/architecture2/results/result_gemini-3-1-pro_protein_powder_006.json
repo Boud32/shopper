@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 6,
+    "timestamp": 1778715398,
+    "source_batch": "data/offer_sets/protein_powder/protein_powder_006.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_protein_powder_165",
+      "prod_protein_powder_143",
+      "prod_protein_powder_188",
+      "prod_protein_powder_071",
+      "prod_protein_powder_162"
+    ],
+    "final_choice": "prod_protein_powder_165",
+    "reasoning": "This grass-fed whey isolate offers a clean, fast-absorbing protein source that fits perfectly with my high-protein dietary needs."
+  }
+}

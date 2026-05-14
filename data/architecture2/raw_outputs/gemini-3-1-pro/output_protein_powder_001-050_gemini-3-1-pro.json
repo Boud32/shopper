@@ -1,1 +1,602 @@
-[]
+[
+  {
+    "offer_set_id": "protein_powder_001",
+    "consideration_set": [
+      "prod_protein_powder_049",
+      "prod_protein_powder_151",
+      "prod_protein_powder_179",
+      "prod_protein_powder_148",
+      "prod_protein_powder_095"
+    ],
+    "final_choice": "prod_protein_powder_049",
+    "reasoning": "This unflavored, grass-fed whey is ideal for blending seamlessly into my daily smoothies without overpowering other ingredients."
+  },
+  {
+    "offer_set_id": "protein_powder_002",
+    "consideration_set": [
+      "prod_protein_powder_030",
+      "prod_protein_powder_058",
+      "prod_protein_powder_108",
+      "prod_protein_powder_134",
+      "prod_protein_powder_003"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of the options here offer the right combination of high protein density and clean ingredients necessary for my post-workout recovery."
+  },
+  {
+    "offer_set_id": "protein_powder_003",
+    "consideration_set": [
+      "prod_protein_powder_024",
+      "prod_protein_powder_158",
+      "prod_protein_powder_104",
+      "prod_protein_powder_021",
+      "prod_protein_powder_013"
+    ],
+    "final_choice": "prod_protein_powder_024",
+    "reasoning": "An unflavored casein option allows for flexible meal prep and provides slow-digesting protein to aid overnight recovery."
+  },
+  {
+    "offer_set_id": "protein_powder_004",
+    "consideration_set": [
+      "prod_protein_powder_172",
+      "prod_protein_powder_168",
+      "prod_protein_powder_109",
+      "prod_protein_powder_097",
+      "prod_protein_powder_174"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The available products are either too high in artificial sweeteners or lack the specific macro profile I need for my smoothies."
+  },
+  {
+    "offer_set_id": "protein_powder_005",
+    "consideration_set": [
+      "prod_protein_powder_008",
+      "prod_protein_powder_141",
+      "prod_protein_powder_167",
+      "prod_protein_powder_169",
+      "prod_protein_powder_001"
+    ],
+    "final_choice": "prod_protein_powder_008",
+    "reasoning": "A pure, unflavored whey is a versatile staple that easily mixes into my morning meal prep without adding unnecessary sugars."
+  },
+  {
+    "offer_set_id": "protein_powder_006",
+    "consideration_set": [
+      "prod_protein_powder_165",
+      "prod_protein_powder_143",
+      "prod_protein_powder_188",
+      "prod_protein_powder_071",
+      "prod_protein_powder_162"
+    ],
+    "final_choice": "prod_protein_powder_165",
+    "reasoning": "This grass-fed whey isolate offers a clean, fast-absorbing protein source that fits perfectly with my high-protein dietary needs."
+  },
+  {
+    "offer_set_id": "protein_powder_007",
+    "consideration_set": [
+      "prod_protein_powder_021",
+      "prod_protein_powder_095",
+      "prod_protein_powder_124",
+      "prod_protein_powder_037",
+      "prod_protein_powder_140"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Most of these options are heavily flavored or lack the purity I prefer for mixing into a clean, everyday smoothie."
+  },
+  {
+    "offer_set_id": "protein_powder_008",
+    "consideration_set": [
+      "prod_protein_powder_185",
+      "prod_protein_powder_190",
+      "prod_protein_powder_109",
+      "prod_protein_powder_141",
+      "prod_protein_powder_062"
+    ],
+    "final_choice": "prod_protein_powder_185",
+    "reasoning": "The organic, clean profile of this grass-fed whey ensures I'm getting high-quality macros for recovery without any unwanted additives."
+  },
+  {
+    "offer_set_id": "protein_powder_009",
+    "consideration_set": [
+      "prod_protein_powder_011",
+      "prod_protein_powder_132",
+      "prod_protein_powder_130",
+      "prod_protein_powder_171",
+      "prod_protein_powder_151"
+    ],
+    "final_choice": "prod_protein_powder_011",
+    "reasoning": "An unflavored isolate provides the highest protein yield with minimal carbs, making it an excellent addition to my post-workout recovery shakes."
+  },
+  {
+    "offer_set_id": "protein_powder_010",
+    "consideration_set": [
+      "prod_protein_powder_075",
+      "prod_protein_powder_076",
+      "prod_protein_powder_123",
+      "prod_protein_powder_003",
+      "prod_protein_powder_135"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "I couldn't find a standard, high-quality whey or plant isolate here that stood out as a better choice than typical unflavored options."
+  },
+  {
+    "offer_set_id": "protein_powder_011",
+    "consideration_set": [
+      "prod_protein_powder_127",
+      "prod_protein_powder_151",
+      "prod_protein_powder_179",
+      "prod_protein_powder_148",
+      "prod_protein_powder_095"
+    ],
+    "final_choice": "prod_protein_powder_127",
+    "reasoning": "This unflavored whey isolate dissolves easily and keeps my smoothie ingredient profile clean and macro-friendly."
+  },
+  {
+    "offer_set_id": "protein_powder_012",
+    "consideration_set": [
+      "prod_protein_powder_049",
+      "prod_protein_powder_058",
+      "prod_protein_powder_108",
+      "prod_protein_powder_134",
+      "prod_protein_powder_003"
+    ],
+    "final_choice": "prod_protein_powder_049",
+    "reasoning": "Choosing a simple, unflavored whey powder gives me the flexibility I need for consistent meal prep."
+  },
+  {
+    "offer_set_id": "protein_powder_013",
+    "consideration_set": [
+      "prod_protein_powder_024",
+      "prod_protein_powder_158",
+      "prod_protein_powder_104",
+      "prod_protein_powder_021",
+      "prod_protein_powder_013"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "These heavily flavored and sweetened powders don't align with my preference for clean, unflavored protein sources."
+  },
+  {
+    "offer_set_id": "protein_powder_014",
+    "consideration_set": [
+      "prod_protein_powder_008",
+      "prod_protein_powder_168",
+      "prod_protein_powder_109",
+      "prod_protein_powder_097",
+      "prod_protein_powder_174"
+    ],
+    "final_choice": "prod_protein_powder_008",
+    "reasoning": "This pure whey option is free of heavy flavorings, which makes it perfect for boosting the protein content of my homemade smoothies."
+  },
+  {
+    "offer_set_id": "protein_powder_015",
+    "consideration_set": [
+      "prod_protein_powder_165",
+      "prod_protein_powder_141",
+      "prod_protein_powder_167",
+      "prod_protein_powder_169",
+      "prod_protein_powder_001"
+    ],
+    "final_choice": "prod_protein_powder_165",
+    "reasoning": "A high-quality isolate with no added flavor profile provides the exact macro balance I look for when managing my diet."
+  },
+  {
+    "offer_set_id": "protein_powder_016",
+    "consideration_set": [
+      "prod_protein_powder_165",
+      "prod_protein_powder_143",
+      "prod_protein_powder_188",
+      "prod_protein_powder_071",
+      "prod_protein_powder_162"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top positions are dominated by options with unnecessary additives that don't fit my strict macro tracking."
+  },
+  {
+    "offer_set_id": "protein_powder_017",
+    "consideration_set": [
+      "prod_protein_powder_185",
+      "prod_protein_powder_095",
+      "prod_protein_powder_124",
+      "prod_protein_powder_037",
+      "prod_protein_powder_140"
+    ],
+    "final_choice": "prod_protein_powder_185",
+    "reasoning": "I trust this organic, grass-fed powder to deliver essential nutrients without the artificial aftertaste typical of other brands."
+  },
+  {
+    "offer_set_id": "protein_powder_018",
+    "consideration_set": [
+      "prod_protein_powder_011",
+      "prod_protein_powder_190",
+      "prod_protein_powder_109",
+      "prod_protein_powder_141",
+      "prod_protein_powder_062"
+    ],
+    "final_choice": "prod_protein_powder_011",
+    "reasoning": "This unflavored formula guarantees high amino acid delivery for muscle synthesis while maintaining a completely neutral taste."
+  },
+  {
+    "offer_set_id": "protein_powder_019",
+    "consideration_set": [
+      "prod_protein_powder_011",
+      "prod_protein_powder_132",
+      "prod_protein_powder_130",
+      "prod_protein_powder_171",
+      "prod_protein_powder_151"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Nothing in this set clearly stands out as a premium, clean isolate suitable for my daily meal prep routines."
+  },
+  {
+    "offer_set_id": "protein_powder_020",
+    "consideration_set": [
+      "prod_protein_powder_127",
+      "prod_protein_powder_076",
+      "prod_protein_powder_123",
+      "prod_protein_powder_003",
+      "prod_protein_powder_135"
+    ],
+    "final_choice": "prod_protein_powder_127",
+    "reasoning": "A clean isolate like this one is essential for keeping my protein intake high without adding unnecessary calories."
+  },
+  {
+    "offer_set_id": "protein_powder_021",
+    "consideration_set": [
+      "prod_protein_powder_052",
+      "prod_protein_powder_151",
+      "prod_protein_powder_179",
+      "prod_protein_powder_148",
+      "prod_protein_powder_095"
+    ],
+    "final_choice": "prod_protein_powder_052",
+    "reasoning": "This grass-fed whey offers superior bioavailability, making it a highly effective post-workout recovery tool."
+  },
+  {
+    "offer_set_id": "protein_powder_022",
+    "consideration_set": [
+      "prod_protein_powder_030",
+      "prod_protein_powder_058",
+      "prod_protein_powder_108",
+      "prod_protein_powder_134",
+      "prod_protein_powder_003"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "None of the options here offer the right combination of high protein density and clean ingredients necessary for my post-workout recovery."
+  },
+  {
+    "offer_set_id": "protein_powder_023",
+    "consideration_set": [
+      "prod_protein_powder_024",
+      "prod_protein_powder_158",
+      "prod_protein_powder_104",
+      "prod_protein_powder_021",
+      "prod_protein_powder_013"
+    ],
+    "final_choice": "prod_protein_powder_024",
+    "reasoning": "An unflavored casein option allows for flexible meal prep and provides slow-digesting protein to aid overnight recovery."
+  },
+  {
+    "offer_set_id": "protein_powder_024",
+    "consideration_set": [
+      "prod_protein_powder_049",
+      "prod_protein_powder_168",
+      "prod_protein_powder_109",
+      "prod_protein_powder_097",
+      "prod_protein_powder_174"
+    ],
+    "final_choice": "prod_protein_powder_049",
+    "reasoning": "This unflavored, grass-fed whey is ideal for blending seamlessly into my daily smoothies without overpowering other ingredients."
+  },
+  {
+    "offer_set_id": "protein_powder_025",
+    "consideration_set": [
+      "prod_protein_powder_008",
+      "prod_protein_powder_141",
+      "prod_protein_powder_167",
+      "prod_protein_powder_169",
+      "prod_protein_powder_001"
+    ],
+    "final_choice": "prod_protein_powder_008",
+    "reasoning": "A pure, unflavored whey is a versatile staple that easily mixes into my morning meal prep without adding unnecessary sugars."
+  },
+  {
+    "offer_set_id": "protein_powder_026",
+    "consideration_set": [
+      "prod_protein_powder_165",
+      "prod_protein_powder_143",
+      "prod_protein_powder_188",
+      "prod_protein_powder_071",
+      "prod_protein_powder_162"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Most of these options are heavily flavored or lack the purity I prefer for mixing into a clean, everyday smoothie."
+  },
+  {
+    "offer_set_id": "protein_powder_027",
+    "consideration_set": [
+      "prod_protein_powder_165",
+      "prod_protein_powder_095",
+      "prod_protein_powder_124",
+      "prod_protein_powder_037",
+      "prod_protein_powder_140"
+    ],
+    "final_choice": "prod_protein_powder_165",
+    "reasoning": "This grass-fed whey isolate offers a clean, fast-absorbing protein source that fits perfectly with my high-protein dietary needs."
+  },
+  {
+    "offer_set_id": "protein_powder_028",
+    "consideration_set": [
+      "prod_protein_powder_185",
+      "prod_protein_powder_190",
+      "prod_protein_powder_109",
+      "prod_protein_powder_141",
+      "prod_protein_powder_062"
+    ],
+    "final_choice": "prod_protein_powder_185",
+    "reasoning": "The organic, clean profile of this grass-fed whey ensures I'm getting high-quality macros for recovery without any unwanted additives."
+  },
+  {
+    "offer_set_id": "protein_powder_029",
+    "consideration_set": [
+      "prod_protein_powder_011",
+      "prod_protein_powder_132",
+      "prod_protein_powder_130",
+      "prod_protein_powder_171",
+      "prod_protein_powder_151"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "I couldn't find a standard, high-quality whey or plant isolate here that stood out as a better choice than typical unflavored options."
+  },
+  {
+    "offer_set_id": "protein_powder_030",
+    "consideration_set": [
+      "prod_protein_powder_011",
+      "prod_protein_powder_076",
+      "prod_protein_powder_123",
+      "prod_protein_powder_003",
+      "prod_protein_powder_135"
+    ],
+    "final_choice": "prod_protein_powder_011",
+    "reasoning": "An unflavored isolate provides the highest protein yield with minimal carbs, making it an excellent addition to my post-workout recovery shakes."
+  },
+  {
+    "offer_set_id": "protein_powder_031",
+    "consideration_set": [
+      "prod_protein_powder_127",
+      "prod_protein_powder_151",
+      "prod_protein_powder_179",
+      "prod_protein_powder_148",
+      "prod_protein_powder_095"
+    ],
+    "final_choice": "prod_protein_powder_127",
+    "reasoning": "This unflavored whey isolate dissolves easily and keeps my smoothie ingredient profile clean and macro-friendly."
+  },
+  {
+    "offer_set_id": "protein_powder_032",
+    "consideration_set": [
+      "prod_protein_powder_052",
+      "prod_protein_powder_058",
+      "prod_protein_powder_108",
+      "prod_protein_powder_134",
+      "prod_protein_powder_003"
+    ],
+    "final_choice": "prod_protein_powder_052",
+    "reasoning": "This grass-fed whey offers superior bioavailability, making it a highly effective post-workout recovery tool."
+  },
+  {
+    "offer_set_id": "protein_powder_033",
+    "consideration_set": [
+      "prod_protein_powder_024",
+      "prod_protein_powder_158",
+      "prod_protein_powder_104",
+      "prod_protein_powder_021",
+      "prod_protein_powder_013"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "These heavily flavored and sweetened powders don't align with my preference for clean, unflavored protein sources."
+  },
+  {
+    "offer_set_id": "protein_powder_034",
+    "consideration_set": [
+      "prod_protein_powder_024",
+      "prod_protein_powder_168",
+      "prod_protein_powder_109",
+      "prod_protein_powder_097",
+      "prod_protein_powder_174"
+    ],
+    "final_choice": "prod_protein_powder_024",
+    "reasoning": "An unflavored casein option allows for flexible meal prep and provides slow-digesting protein to aid overnight recovery."
+  },
+  {
+    "offer_set_id": "protein_powder_035",
+    "consideration_set": [
+      "prod_protein_powder_049",
+      "prod_protein_powder_141",
+      "prod_protein_powder_167",
+      "prod_protein_powder_169",
+      "prod_protein_powder_001"
+    ],
+    "final_choice": "prod_protein_powder_049",
+    "reasoning": "Choosing a simple, unflavored whey powder gives me the flexibility I need for consistent meal prep."
+  },
+  {
+    "offer_set_id": "protein_powder_036",
+    "consideration_set": [
+      "prod_protein_powder_165",
+      "prod_protein_powder_143",
+      "prod_protein_powder_188",
+      "prod_protein_powder_071",
+      "prod_protein_powder_162"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top positions are dominated by options with unnecessary additives that don't fit my strict macro tracking."
+  },
+  {
+    "offer_set_id": "protein_powder_037",
+    "consideration_set": [
+      "prod_protein_powder_008",
+      "prod_protein_powder_095",
+      "prod_protein_powder_124",
+      "prod_protein_powder_037",
+      "prod_protein_powder_140"
+    ],
+    "final_choice": "prod_protein_powder_008",
+    "reasoning": "This pure whey option is free of heavy flavorings, which makes it perfect for boosting the protein content of my homemade smoothies."
+  },
+  {
+    "offer_set_id": "protein_powder_038",
+    "consideration_set": [
+      "prod_protein_powder_165",
+      "prod_protein_powder_190",
+      "prod_protein_powder_109",
+      "prod_protein_powder_141",
+      "prod_protein_powder_062"
+    ],
+    "final_choice": "prod_protein_powder_165",
+    "reasoning": "A high-quality isolate with no added flavor profile provides the exact macro balance I look for when managing my diet."
+  },
+  {
+    "offer_set_id": "protein_powder_039",
+    "consideration_set": [
+      "prod_protein_powder_185",
+      "prod_protein_powder_132",
+      "prod_protein_powder_130",
+      "prod_protein_powder_171",
+      "prod_protein_powder_151"
+    ],
+    "final_choice": "prod_protein_powder_185",
+    "reasoning": "I trust this organic, grass-fed powder to deliver essential nutrients without the artificial aftertaste typical of other brands."
+  },
+  {
+    "offer_set_id": "protein_powder_040",
+    "consideration_set": [
+      "prod_protein_powder_011",
+      "prod_protein_powder_076",
+      "prod_protein_powder_123",
+      "prod_protein_powder_003",
+      "prod_protein_powder_135"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Nothing in this set clearly stands out as a premium, clean isolate suitable for my daily meal prep routines."
+  },
+  {
+    "offer_set_id": "protein_powder_041",
+    "consideration_set": [
+      "prod_protein_powder_011",
+      "prod_protein_powder_151",
+      "prod_protein_powder_179",
+      "prod_protein_powder_148",
+      "prod_protein_powder_095"
+    ],
+    "final_choice": "prod_protein_powder_011",
+    "reasoning": "This unflavored formula guarantees high amino acid delivery for muscle synthesis while maintaining a completely neutral taste."
+  },
+  {
+    "offer_set_id": "protein_powder_042",
+    "consideration_set": [
+      "prod_protein_powder_127",
+      "prod_protein_powder_058",
+      "prod_protein_powder_108",
+      "prod_protein_powder_134",
+      "prod_protein_powder_003"
+    ],
+    "final_choice": "prod_protein_powder_127",
+    "reasoning": "A clean isolate like this one is essential for keeping my protein intake high without adding unnecessary calories."
+  },
+  {
+    "offer_set_id": "protein_powder_043",
+    "consideration_set": [
+      "prod_protein_powder_052",
+      "prod_protein_powder_158",
+      "prod_protein_powder_104",
+      "prod_protein_powder_021",
+      "prod_protein_powder_013"
+    ],
+    "final_choice": "prod_protein_powder_052",
+    "reasoning": "This grass-fed whey offers superior bioavailability, making it a highly effective post-workout recovery tool."
+  },
+  {
+    "offer_set_id": "protein_powder_044",
+    "consideration_set": [
+      "prod_protein_powder_172",
+      "prod_protein_powder_168",
+      "prod_protein_powder_109",
+      "prod_protein_powder_097",
+      "prod_protein_powder_174"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The available products are either too high in artificial sweeteners or lack the specific macro profile I need for my smoothies."
+  },
+  {
+    "offer_set_id": "protein_powder_045",
+    "consideration_set": [
+      "prod_protein_powder_024",
+      "prod_protein_powder_141",
+      "prod_protein_powder_167",
+      "prod_protein_powder_169",
+      "prod_protein_powder_001"
+    ],
+    "final_choice": "prod_protein_powder_024",
+    "reasoning": "An unflavored casein option allows for flexible meal prep and provides slow-digesting protein to aid overnight recovery."
+  },
+  {
+    "offer_set_id": "protein_powder_046",
+    "consideration_set": [
+      "prod_protein_powder_049",
+      "prod_protein_powder_143",
+      "prod_protein_powder_188",
+      "prod_protein_powder_071",
+      "prod_protein_powder_162"
+    ],
+    "final_choice": "prod_protein_powder_049",
+    "reasoning": "Choosing a simple, unflavored whey powder gives me the flexibility I need for consistent meal prep."
+  },
+  {
+    "offer_set_id": "protein_powder_047",
+    "consideration_set": [
+      "prod_protein_powder_008",
+      "prod_protein_powder_095",
+      "prod_protein_powder_124",
+      "prod_protein_powder_037",
+      "prod_protein_powder_140"
+    ],
+    "final_choice": "prod_protein_powder_008",
+    "reasoning": "A pure, unflavored whey is a versatile staple that easily mixes into my morning meal prep without adding unnecessary sugars."
+  },
+  {
+    "offer_set_id": "protein_powder_048",
+    "consideration_set": [
+      "prod_protein_powder_185",
+      "prod_protein_powder_190",
+      "prod_protein_powder_109",
+      "prod_protein_powder_141",
+      "prod_protein_powder_062"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "Most of these options are heavily flavored or lack the purity I prefer for mixing into a clean, everyday smoothie."
+  },
+  {
+    "offer_set_id": "protein_powder_049",
+    "consideration_set": [
+      "prod_protein_powder_165",
+      "prod_protein_powder_132",
+      "prod_protein_powder_130",
+      "prod_protein_powder_171",
+      "prod_protein_powder_151"
+    ],
+    "final_choice": "prod_protein_powder_165",
+    "reasoning": "A high-quality isolate with no added flavor profile provides the exact macro balance I look for when managing my diet."
+  },
+  {
+    "offer_set_id": "protein_powder_050",
+    "consideration_set": [
+      "prod_protein_powder_185",
+      "prod_protein_powder_076",
+      "prod_protein_powder_123",
+      "prod_protein_powder_003",
+      "prod_protein_powder_135"
+    ],
+    "final_choice": "prod_protein_powder_185",
+    "reasoning": "The organic, clean profile of this grass-fed whey ensures I'm getting high-quality macros for recovery without any unwanted additives."
+  }
+]

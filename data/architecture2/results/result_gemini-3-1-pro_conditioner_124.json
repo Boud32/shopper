@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 24,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_124.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_287",
+      "prod_conditioner_058",
+      "prod_conditioner_060",
+      "prod_conditioner_066"
+    ],
+    "final_choice": "prod_conditioner_066",
+    "reasoning": "TRUSS Infusion Conditioner has strong reviews as a highly effective deep hydrating and anti-aging treatment for damaged hair."
+  }
+}

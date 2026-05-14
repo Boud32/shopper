@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 49,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_049.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_270",
+      "prod_conditioner_248",
+      "prod_conditioner_243",
+      "prod_conditioner_076",
+      "prod_conditioner_114"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top picks are either overly expensive, highly niche, or have mixed reviews regarding their moisturizing efficacy."
+  }
+}

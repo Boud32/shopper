@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 36,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_036.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_219"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The list of available conditioners seems very generic with no compelling specialty formulas or strong values standing out."
+  }
+}

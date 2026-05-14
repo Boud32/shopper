@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 6,
+    "timestamp": 1778715413,
+    "source_batch": "data/offer_sets/conditioner/conditioner_006.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_254",
+      "prod_conditioner_069",
+      "prod_conditioner_179",
+      "prod_conditioner_066",
+      "prod_conditioner_140"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The top-ranked products are mostly deep treatments or purple shampoos that do not fit a standard daily conditioning need."
+  }
+}

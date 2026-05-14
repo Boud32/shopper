@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "provider": "gemini-3-1-pro",
+    "model": "gemini-3.1-pro",
+    "architecture": "a2",
+    "session_position": 13,
+    "timestamp": 1778715417,
+    "source_batch": "data/offer_sets/conditioner/conditioner_113.json",
+    "variant": "full"
+  },
+  "decision": {
+    "consideration_set": [
+      "prod_conditioner_088",
+      "prod_conditioner_170",
+      "prod_conditioner_210",
+      "prod_conditioner_177",
+      "prod_conditioner_287"
+    ],
+    "final_choice": "no_purchase",
+    "reasoning": "The selection is largely specialized or filled with average-rated options, making it hard to commit to a specific purchase."
+  }
+}
